@@ -32,3 +32,9 @@ Female atheletes have spent years in the fight for equality with their male coun
 - My MVP is an evaluation of the addition of women's sports to the winter olympics over time in visual form. This will include at least three graphs: a graph of the increase in female sports over time as a percentage of total sports, a graph of the countries with the most total medals, with a breakdown of men's and women's medals, and a graph of the countries with the highest percent of female medals. 
 - My MVP+ would include compiling multiple HDI tables into one dataset and evaluating the provided statistics for a correlation with percentage of female medalists. 
 - My MVP++ is webscraping Wikipedia and developing a cleaning pipeline to create a dataset of all olympic medalists.
+
+## Timeline
+- Monday: Explore data, create % women's sports over time graph, determine which countries to graph for total medals and highest percent women's medals
+- Tuesday: complete medal graphs by country (try for interesting visuals with different colors for gold/silver/bronze or men/women)
+- Wednesday: import HDI datasets for graphed countries (or as many as possible), evaluate for correlations
+- Thursday: Wikipedia webscraping, recreate graphs to reflect all olympic games
