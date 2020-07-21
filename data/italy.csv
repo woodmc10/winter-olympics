@@ -1,0 +1,1216 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+ITA,Italy,21806,Refugees by country of origin (thousands),0.053,2017
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),79.5546301,2017
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",75.62564208,2017
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",82.96918,2017
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.9622,2017
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.3778,2017
+ITA,Italy,31706,Share of seats in parliament (% held by women),30.10526316,2017
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.1,2017
+ITA,Italy,43006,Vulnerable employment (% of total employment),17.7,2017
+ITA,Italy,44206,Total population (millions),59.3599,2017
+ITA,Italy,45106,Urban population (%),70.1,2017
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",39.5,2017
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",58.3,2017
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,2017
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.50699,2017
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",1.02533,2017
+ITA,Italy,63106,Population ages 15–64 (millions),37.671,2017
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",8,2017
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2017
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),17.5082838,2017
+ITA,Italy,68606,Gender Inequality Index (GII),0.086729797,2017
+ITA,Italy,69206,Life expectancy at birth (years),83.169,2017
+ITA,Italy,69706,Expected years of schooling (years),16.27219,2017
+ITA,Italy,71406,Inequality-adjusted education index,0.708000472,2017
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.943647677,2017
+ITA,Italy,71606,Inequality-adjusted income index,0.687135489,2017
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),12.31478067,2017
+ITA,Italy,101606,Inequality in education (%),10.45736,2017
+ITA,Italy,101706,Inequality in income (%),22.45924,2017
+ITA,Italy,101806,Inequality in life expectancy (%),2.9,2017
+ITA,Italy,103006,Mean years of schooling (years),10.1604,2017
+ITA,Italy,103206,Life expectancy index,0.971830769,2017
+ITA,Italy,103606,Income index,0.886160374,2017
+ITA,Italy,103706,Education index,0.790685278,2017
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",36.9,2017
+ITA,Italy,111306,Private capital flows (% of GDP),5.018706,2017
+ITA,Italy,120606,"Life expectancy at birth, female (years)",85.293,2017
+ITA,Italy,121106,"Life expectancy at birth, male (years)",80.932,2017
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.3,2017
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),36.276,2017
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.615,2017
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.9445,2017
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",25767.09606,2017
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",45326.1714,2017
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),166.1639782,2017
+ITA,Italy,132706,Population ages 65 and older (millions),13.665387,2017
+ITA,Italy,132806,Population under age 5 (millions),2.447617,2017
+ITA,Italy,133206,Exports and imports (% of GDP),59.5146,2017
+ITA,Italy,135006,Coefficient of human inequality,11.93886667,2017
+ITA,Italy,136706,GDP per capita (2011 PPP $),35220.08379,2017
+ITA,Italy,136906,"Human Development Index (HDI), female",0.863085886,2017
+ITA,Italy,137006,"Human Development Index (HDI), male",0.892631207,2017
+ITA,Italy,137506,Human Development Index (HDI),0.879769445,2017
+ITA,Italy,137906,Gender Development Index (GDI),0.966900865,2017
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.771427768,2017
+ITA,Italy,140606,"Unemployment, total (% of labour force)",11.3,2017
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),35299.24086,2017
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2132.625945,2017
+ITA,Italy,146206,HDI rank,28,2017
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48.6,2017
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),43.1,2017
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.9,2017
+ITA,Italy,150706,Employment in services (% of total employment),69.8,2017
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.19047619,2017
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.042372881,2017
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.1,2017
+ITA,Italy,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),91.62443542,2017
+ITA,Italy,178306,Gross capital formation (% of GDP),17.24967758,2017
+ITA,Italy,179406,Skilled labour force (% of labour force),67.5,2017
+ITA,Italy,181606,Red List Index (value),0.91668,2017
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),79.00645005,2016
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",74.98488604,2016
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",82.96918,2016
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.9622,2016
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.3778,2016
+ITA,Italy,31706,Share of seats in parliament (% held by women),30.07360673,2016
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.1,2016
+ITA,Italy,43006,Vulnerable employment (% of total employment),17.5,2016
+ITA,Italy,43606,"Internet users, total (% of population)",61.32425277,2016
+ITA,Italy,44206,Total population (millions),59.429938,2016
+ITA,Italy,45106,Urban population (%),69.9,2016
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),152.999,2016
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",39.6,2016
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",58.7,2016
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,2016
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.511688,2016
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",1.05604,2016
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",2.8,2016
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",3.3,2016
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2016
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.6731,2016
+ITA,Italy,63106,Population ages 15–64 (millions),37.8465,2016
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",11,2016
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2016
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),17.1378224,2016
+ITA,Italy,68606,Gender Inequality Index (GII),0.08743778,2016
+ITA,Italy,69206,Life expectancy at birth (years),82.99,2016
+ITA,Italy,69706,Expected years of schooling (years),16.27219,2016
+ITA,Italy,71406,Inequality-adjusted education index,0.699756471,2016
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.940789568,2016
+ITA,Italy,71606,Inequality-adjusted income index,0.685241866,2016
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),12.66214496,2016
+ITA,Italy,101606,Inequality in education (%),11.5,2016
+ITA,Italy,101706,Inequality in income (%),22.45924,2016
+ITA,Italy,101806,Inequality in life expectancy (%),2.919,2016
+ITA,Italy,103006,Mean years of schooling (years),10.1604,2016
+ITA,Italy,103206,Life expectancy index,0.969076923,2016
+ITA,Italy,103606,Income index,0.883718274,2016
+ITA,Italy,103706,Education index,0.790685278,2016
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",37.9,2016
+ITA,Italy,111106,International inbound tourists (thousands),52372,2016
+ITA,Italy,111306,Private capital flows (% of GDP),9.316566,2016
+ITA,Italy,120606,"Life expectancy at birth, female (years)",85.151,2016
+ITA,Italy,121106,"Life expectancy at birth, male (years)",80.707,2016
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.369,2016
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),35.66,2016
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.615,2016
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.9445,2016
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",25305.01417,2016
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",44663.79152,2016
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),170.6438765,2016
+ITA,Italy,132706,Population ages 65 and older (millions),13.49613,2016
+ITA,Italy,132806,Population under age 5 (millions),2.48163,2016
+ITA,Italy,133206,Exports and imports (% of GDP),56.351,2016
+ITA,Italy,135006,Coefficient of human inequality,12.29274667,2016
+ITA,Italy,136706,GDP per capita (2011 PPP $),34655.26276,2016
+ITA,Italy,136906,"Human Development Index (HDI), female",0.861496743,2016
+ITA,Italy,137006,"Human Development Index (HDI), male",0.890858665,2016
+ITA,Italy,137506,Human Development Index (HDI),0.878129526,2016
+ITA,Italy,137906,Gender Development Index (GDI),0.967040875,2016
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.766939492,2016
+ITA,Italy,140606,"Unemployment, total (% of labour force)",11.7,2016
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),34733.1504,2016
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2101.061874,2016
+ITA,Italy,146206,HDI rank,28,2016
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),19.8,2016
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48.9,2016
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),43.1,2016
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.9,2016
+ITA,Italy,150706,Employment in services (% of total employment),70,2016
+ITA,Italy,164406,Adjusted net savings (% of GNI),5.115763213,2016
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.174311927,2016
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.035519126,2016
+ITA,Italy,170006,Concentration index (exports) (value),0.051959679,2016
+ITA,Italy,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",15,2016
+ITA,Italy,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.1,2016
+ITA,Italy,175006,Female share of employment in senior and middle management (%),22,2016
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.04,2016
+ITA,Italy,178306,Gross capital formation (% of GDP),17.09497753,2016
+ITA,Italy,179406,Skilled labour force (% of labour force),67,2016
+ITA,Italy,181706,Rural population with access to electricity (%),100,2016
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",6.1,2016
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),78.45827,2015
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",74.34413,2015
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",82.96918,2015
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.9622,2015
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.3778,2015
+ITA,Italy,31706,Share of seats in parliament (% held by women),30.07360673,2015
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.2405,2015
+ITA,Italy,43006,Vulnerable employment (% of total employment),17.8,2015
+ITA,Italy,43606,"Internet users, total (% of population)",58.14173496,2015
+ITA,Italy,44206,Total population (millions),59.504212,2015
+ITA,Italy,45106,Urban population (%),69.6,2015
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),147.37,2015
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.02716,2015
+ITA,Italy,47906,Median age (years),45.908,2015
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",39,2015
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",58.4,2015
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,2015
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.33488,2015
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.524121,2015
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.725589,2015
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",2.9,2015
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",3.4,2015
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2015
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.7882,2015
+ITA,Italy,63106,Population ages 15–64 (millions),38.0294,2015
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.1794,2015
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",103.17702,2015
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",62.87291,2015
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",15,2015
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",3,2015
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),16.93081353,2015
+ITA,Italy,68606,Gender Inequality Index (GII),0.089761886,2015
+ITA,Italy,69206,Life expectancy at birth (years),82.809,2015
+ITA,Italy,69706,Expected years of schooling (years),16.27219,2015
+ITA,Italy,71406,Inequality-adjusted education index,0.712750672,2015
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.937224302,2015
+ITA,Italy,71606,Inequality-adjusted income index,0.698101139,2015
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),11.51499567,2015
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2015
+ITA,Italy,100806,Forest area (% of total land area),31.60739784,2015
+ITA,Italy,101606,Inequality in education (%),9.85659,2015
+ITA,Italy,101706,Inequality in income (%),20.76081,2015
+ITA,Italy,101806,Inequality in life expectancy (%),3.0082,2015
+ITA,Italy,103006,Mean years of schooling (years),10.1604,2015
+ITA,Italy,103206,Life expectancy index,0.966292308,2015
+ITA,Italy,103606,Income index,0.88100489,2015
+ITA,Italy,103706,Education index,0.790685278,2015
+ITA,Italy,110806,"Net migration rate (per 1,000 people)",0.886,2015
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",40.5,2015
+ITA,Italy,111106,International inbound tourists (thousands),50732,2015
+ITA,Italy,111306,Private capital flows (% of GDP),6.014581,2015
+ITA,Italy,112506,"Suicide rate, male (per 100,000 people)",8.7,2015
+ITA,Italy,112606,"Suicide rate, female (per 100,000 people)",2.2,2015
+ITA,Italy,120606,"Life expectancy at birth, female (years)",85.01,2015
+ITA,Italy,121106,"Life expectancy at birth, male (years)",80.476,2015
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.478,2015
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),34.991,2015
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.615,2015
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.9445,2015
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",24692.92519,2015
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",44050.99841,2015
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),169.6750673,2015
+ITA,Italy,132706,Population ages 65 and older (millions),13.30685,2015
+ITA,Italy,132806,Population under age 5 (millions),2.55368,2015
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",98.87876,2015
+ITA,Italy,133206,Exports and imports (% of GDP),56.9221,2015
+ITA,Italy,135006,Coefficient of human inequality,11.20853333,2015
+ITA,Italy,136706,GDP per capita (2011 PPP $),34302.0374,2015
+ITA,Italy,136906,"Human Development Index (HDI), female",0.85957836,2015
+ITA,Italy,137006,"Human Development Index (HDI), male",0.889100053,2015
+ITA,Italy,137506,Human Development Index (HDI),0.876388825,2015
+ITA,Italy,137906,Gender Development Index (GDI),0.966795983,2015
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.77547269,2015
+ITA,Italy,140606,"Unemployment, total (% of labour force)",11.9,2015
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),34114.81597,2015
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2083.182695,2015
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),1.66999,2015
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),21.33,2015
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48.4,2015
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),42.6,2015
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.8,2015
+ITA,Italy,150706,Employment in services (% of total employment),69.7,2015
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),16.51685058,2015
+ITA,Italy,164406,Adjusted net savings (% of GNI),3.949084114,2015
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.123893805,2015
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.038461538,2015
+ITA,Italy,170006,Concentration index (exports) (value),0.052335592,2015
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),79.15201583,2015
+ITA,Italy,175006,Female share of employment in senior and middle management (%),21.8,2015
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.93,2015
+ITA,Italy,176806,Programme for International Student Assessment (PISA) score in science,481,2015
+ITA,Italy,176906,Programme for International Student Assessment (PISA) score in reading,485,2015
+ITA,Italy,177006,Programme for International Student Assessment (PISA) score in mathematics,490,2015
+ITA,Italy,177106,Population using improved drinking-water sources (%),100,2015
+ITA,Italy,177206,Population using improved sanitation facilities (%),99.28144435,2015
+ITA,Italy,178306,Gross capital formation (% of GDP),17.30645895,2015
+ITA,Italy,179406,Skilled labour force (% of labour force),66.9,2015
+ITA,Italy,181706,Rural population with access to electricity (%),100,2015
+ITA,Italy,181806,Current health expenditure (% of GDP),8.99632,2015
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",6.7,2015
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),77.6244,2014
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",73.42711,2014
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",83.13468441,2014
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.8658,2014
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.3179,2014
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",5.270866786,2014
+ITA,Italy,31706,Share of seats in parliament (% held by women),30.62302006,2014
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.3211,2014
+ITA,Italy,43006,Vulnerable employment (% of total employment),18.1,2014
+ITA,Italy,43606,"Internet users, total (% of population)",55.63846022,2014
+ITA,Italy,44206,Total population (millions),59.585668,2014
+ITA,Italy,45106,Urban population (%),69.3,2014
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),150.9,2014
+ITA,Italy,46106,Primary school dropout rate (% of primary school cohort),0.82428,2014
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.06786,2014
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",39.4,2014
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",58.3,2014
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.37599,2014
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.469218,2014
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.791362,2014
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",3,2014
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",3.6,2014
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",37.236,2014
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",65.403,2014
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2014
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.7972,2014
+ITA,Italy,63106,Population ages 15–64 (millions),38.2629,2014
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.59541,2014
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",102.8035,2014
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",63.38033,2014
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",13,2014
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2014
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),16.74136431,2014
+ITA,Italy,68606,Gender Inequality Index (GII),0.089123733,2014
+ITA,Italy,69206,Life expectancy at birth (years),82.63,2014
+ITA,Italy,69706,Expected years of schooling (years),16.27844,2014
+ITA,Italy,71406,Inequality-adjusted education index,0.704673945,2014
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.930778154,2014
+ITA,Italy,71606,Inequality-adjusted income index,0.705966414,2014
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),11.52314615,2014
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2014
+ITA,Italy,100806,Forest area (% of total land area),31.42449174,2014
+ITA,Italy,101606,Inequality in education (%),10.6,2014
+ITA,Italy,101706,Inequality in income (%),19.8,2014
+ITA,Italy,101806,Inequality in life expectancy (%),3.4,2014
+ITA,Italy,103006,Mean years of schooling (years),10.08141,2014
+ITA,Italy,103206,Life expectancy index,0.963538462,2014
+ITA,Italy,103606,Income index,0.880257374,2014
+ITA,Italy,103706,Education index,0.788225889,2014
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",42.9,2014
+ITA,Italy,111106,International inbound tourists (thousands),48576,2014
+ITA,Italy,111306,Private capital flows (% of GDP),0.0824359,2014
+ITA,Italy,120606,"Life expectancy at birth, female (years)",84.874,2014
+ITA,Italy,121106,"Life expectancy at birth, male (years)",80.245,2014
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.49,2014
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),34.237,2014
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.6507,2014
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.922,2014
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",24766.99515,2014
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",43637.90164,2014
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),172.1090262,2014
+ITA,Italy,132706,Population ages 65 and older (millions),13.1002,2014
+ITA,Italy,132806,Population under age 5 (millions),2.60661,2014
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",99.08871,2014
+ITA,Italy,133206,Exports and imports (% of GDP),55.7598,2014
+ITA,Italy,135006,Coefficient of human inequality,11.26666667,2014
+ITA,Italy,136706,GDP per capita (2011 PPP $),33945.84388,2014
+ITA,Italy,136906,"Human Development Index (HDI), female",0.858307726,2014
+ITA,Italy,137006,"Human Development Index (HDI), male",0.886568935,2014
+ITA,Italy,137506,Human Development Index (HDI),0.874399312,2014
+ITA,Italy,137906,Gender Development Index (GDI),0.968122942,2014
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.773641002,2014
+ITA,Italy,140606,"Unemployment, total (% of labour force)",12.7,2014
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),33946.412,2014
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2063.538656,2014
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),1.81297,2014
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),22.04,2014
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48.5,2014
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),42.4,2014
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.075250149,2014
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.6,2014
+ITA,Italy,150706,Employment in services (% of total employment),69.5,2014
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),17.09035884,2014
+ITA,Italy,164406,Adjusted net savings (% of GNI),3.925729913,2014
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.159663866,2014
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.03373494,2014
+ITA,Italy,170006,Concentration index (exports) (value),0.053479414,2014
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),78.58642262,2014
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.155272816,2014
+ITA,Italy,175006,Female share of employment in senior and middle management (%),21.9,2014
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.06,2014
+ITA,Italy,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),83.15962982,2014
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),98.65145,2014
+ITA,Italy,178306,Gross capital formation (% of GDP),17.0330045,2014
+ITA,Italy,179406,Skilled labour force (% of labour force),66.4,2014
+ITA,Italy,179706,Ratio of education and health expenditure to military expenditure,8.918873392,2014
+ITA,Italy,181206,Proportion of births attended by skilled health personnel (%),99.9,2014
+ITA,Italy,181706,Rural population with access to electricity (%),100,2014
+ITA,Italy,181806,Current health expenditure (% of GDP),9.01144,2014
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",6.5,2014
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),79.00760673,2013
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",72.338065,2013
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",83.30018881,2013
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.7649,2013
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.2325,2013
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",5.732941879,2013
+ITA,Italy,31706,Share of seats in parliament (% held by women),30.59936909,2013
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.4017,2013
+ITA,Italy,43006,Vulnerable employment (% of total employment),17.9,2013
+ITA,Italy,43606,"Internet users, total (% of population)",58.4593,2013
+ITA,Italy,44206,Total population (millions),59.668,2013
+ITA,Italy,45106,Urban population (%),69,2013
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),162.337,2013
+ITA,Italy,46106,Primary school dropout rate (% of primary school cohort),0.58234,2013
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.03423,2013
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",39,2013
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",58.3,2013
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.31144,2013
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.442924,2013
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.916717,2013
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",3.1,2013
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",3.7,2013
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",38.396,2013
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",67.325,2013
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2013
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.8413,2013
+ITA,Italy,63106,Population ages 15–64 (millions),38.5128,2013
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.85187,2013
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",102.45711,2013
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",63.61694,2013
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",10,2013
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2013
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),17.24216348,2013
+ITA,Italy,68606,Gender Inequality Index (GII),0.091288944,2013
+ITA,Italy,69206,Life expectancy at birth (years),82.454,2013
+ITA,Italy,69706,Expected years of schooling (years),16.26934,2013
+ITA,Italy,71406,Inequality-adjusted education index,0.700773935,2013
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.928162523,2013
+ITA,Italy,71606,Inequality-adjusted income index,0.706730624,2013
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),11.88752519,2013
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2013
+ITA,Italy,100806,Forest area (% of total land area),31.24158564,2013
+ITA,Italy,101606,Inequality in education (%),11.7,2013
+ITA,Italy,101706,Inequality in income (%),19.8,2013
+ITA,Italy,101806,Inequality in life expectancy (%),3.4,2013
+ITA,Italy,103006,Mean years of schooling (years),10.25107064,2013
+ITA,Italy,103206,Life expectancy index,0.960830769,2013
+ITA,Italy,103606,Income index,0.881210254,2013
+ITA,Italy,103706,Education index,0.793628466,2013
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",40.3,2013
+ITA,Italy,111106,International inbound tourists (thousands),47704,2013
+ITA,Italy,111306,Private capital flows (% of GDP),-0.261811,2013
+ITA,Italy,120606,"Life expectancy at birth, female (years)",84.745,2013
+ITA,Italy,121106,"Life expectancy at birth, male (years)",80.016,2013
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.496,2013
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),33.434,2013
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.6665,2013
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.8885,2013
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",24776.89029,2013
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",44079.43469,2013
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),172.7144805,2013
+ITA,Italy,132706,Population ages 65 and older (millions),12.87637,2013
+ITA,Italy,132806,Population under age 5 (millions),2.6709,2013
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",99.87886,2013
+ITA,Italy,133206,Exports and imports (% of GDP),55.4666,2013
+ITA,Italy,135006,Coefficient of human inequality,11.63333333,2013
+ITA,Italy,136706,GDP per capita (2011 PPP $),34219.83278,2013
+ITA,Italy,136906,"Human Development Index (HDI), female",0.856678471,2013
+ITA,Italy,137006,"Human Development Index (HDI), male",0.884556504,2013
+ITA,Italy,137506,Human Development Index (HDI),0.875886623,2013
+ITA,Italy,137906,Gender Development Index (GDI),0.968483603,2013
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.77176538,2013
+ITA,Italy,140606,"Unemployment, total (% of labour force)",12.2,2013
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),34161.22738,2013
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2061.195628,2013
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),1.77653,2013
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),22.14,2013
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48.3,2013
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),42.5,2013
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.164720058,2013
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.6,2013
+ITA,Italy,150706,Employment in services (% of total employment),69.4,2013
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),16.32088504,2013
+ITA,Italy,164406,Adjusted net savings (% of GNI),2.838737636,2013
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.139130435,2013
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.025445293,2013
+ITA,Italy,170006,Concentration index (exports) (value),0.054568963,2013
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),79.96433459,2013
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.167532726,2013
+ITA,Italy,175006,Female share of employment in senior and middle management (%),22,2013
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.93,2013
+ITA,Italy,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",65.1,2013
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),98.7028,2013
+ITA,Italy,178306,Gross capital formation (% of GDP),16.95513228,2013
+ITA,Italy,179406,Skilled labour force (% of labour force),65.4,2013
+ITA,Italy,179706,Ratio of education and health expenditure to military expenditure,8.245518469,2013
+ITA,Italy,181206,Proportion of births attended by skilled health personnel (%),99.9,2013
+ITA,Italy,181706,Rural population with access to electricity (%),100,2013
+ITA,Italy,181806,Current health expenditure (% of GDP),8.95227,2013
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",5.8,2013
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),75.68227,2012
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",71.24902,2012
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",80.54098,2012
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.6639,2012
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.147,2012
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",6.205413858,2012
+ITA,Italy,31706,Share of seats in parliament (% held by women),20.60988433,2012
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.4823,2012
+ITA,Italy,43006,Vulnerable employment (% of total employment),18.4,2012
+ITA,Italy,43606,"Internet users, total (% of population)",55.82999799,2012
+ITA,Italy,44206,Total population (millions),59.733834,2012
+ITA,Italy,45106,Urban population (%),68.7,2012
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),162.703,2012
+ITA,Italy,46106,Primary school dropout rate (% of primary school cohort),1.05956,2012
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",39.2,2012
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",59,2012
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.27345,2012
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.442366,2012
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.001679,2012
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",3.2,2012
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",3.8,2012
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",39.571,2012
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",70.307,2012
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2012
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.8873,2012
+ITA,Italy,63106,Population ages 15–64 (millions),38.7566,2012
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",100.7362,2012
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",101.61975,2012
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",65.06171,2012
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",10,2012
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),18.35815567,2012
+ITA,Italy,68606,Gender Inequality Index (GII),0.115716077,2012
+ITA,Italy,69206,Life expectancy at birth (years),82.283,2012
+ITA,Italy,69706,Expected years of schooling (years),16.45276,2012
+ITA,Italy,71406,Inequality-adjusted education index,0.68375894,2012
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.9208302,2012
+ITA,Italy,71606,Inequality-adjusted income index,0.725340375,2012
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),11.8932824,2012
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2012
+ITA,Italy,100806,Forest area (% of total land area),31.05867954,2012
+ITA,Italy,101606,Inequality in education (%),13.1,2012
+ITA,Italy,101706,Inequality in income (%),18.1,2012
+ITA,Italy,101806,Inequality in life expectancy (%),3.9,2012
+ITA,Italy,103006,Mean years of schooling (years),9.894393362,2012
+ITA,Italy,103206,Life expectancy index,0.9582,2012
+ITA,Italy,103606,Income index,0.885641484,2012
+ITA,Italy,103706,Education index,0.786834223,2012
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",35.5,2012
+ITA,Italy,111106,International inbound tourists (thousands),46360,2012
+ITA,Italy,111306,Private capital flows (% of GDP),-0.6719885,2012
+ITA,Italy,120606,"Life expectancy at birth, female (years)",84.621,2012
+ITA,Italy,121106,"Life expectancy at birth, male (years)",79.791,2012
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.492,2012
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),32.634,2012
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.9303,2012
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.9975,2012
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",25941.37892,2012
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",44948.7593,2012
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),177.3916251,2012
+ITA,Italy,132706,Population ages 65 and older (millions),12.64772,2012
+ITA,Italy,132806,Population under age 5 (millions),2.73498,2012
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",100.30988,2012
+ITA,Italy,133206,Exports and imports (% of GDP),56.1849,2012
+ITA,Italy,135006,Coefficient of human inequality,11.7,2012
+ITA,Italy,136706,GDP per capita (2011 PPP $),35227.62483,2012
+ITA,Italy,136906,"Human Development Index (HDI), female",0.859915474,2012
+ITA,Italy,137006,"Human Development Index (HDI), male",0.884504641,2012
+ITA,Italy,137506,Human Development Index (HDI),0.874042303,2012
+ITA,Italy,137906,Gender Development Index (GDI),0.97220007,2012
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.770089984,2012
+ITA,Italy,140606,"Unemployment, total (% of labour force)",10.7,2012
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),35178.19266,2012
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2097.442813,2012
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),1.58931,2012
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),20.94,2012
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48.7,2012
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),43.5,2012
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.7,2012
+ITA,Italy,150706,Employment in services (% of total employment),68.7,2012
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),14.39164897,2012
+ITA,Italy,164406,Adjusted net savings (% of GNI),2.489409336,2012
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.214285714,2012
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.04719764,2012
+ITA,Italy,170006,Concentration index (exports) (value),0.05634232,2012
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),82.20135574,2012
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.176151923,2012
+ITA,Italy,175006,Female share of employment in senior and middle management (%),22.2,2012
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.6,2012
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),98.30923,2012
+ITA,Italy,178306,Gross capital formation (% of GDP),17.86162224,2012
+ITA,Italy,179406,Skilled labour force (% of labour force),64.7,2012
+ITA,Italy,181706,Rural population with access to electricity (%),100,2012
+ITA,Italy,181806,Current health expenditure (% of GDP),8.95606,2012
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",6,2012
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),74.77275,2011
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",70.23312,2011
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",79.75078,2011
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.5209,2011
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.0517,2011
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",6.702557614,2011
+ITA,Italy,31706,Share of seats in parliament (% held by women),20.58823529,2011
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.5629,2011
+ITA,Italy,43006,Vulnerable employment (% of total employment),18.4,2011
+ITA,Italy,43606,"Internet users, total (% of population)",54.3899983,2011
+ITA,Italy,44206,Total population (millions),59.759929,2011
+ITA,Italy,45106,Urban population (%),68.4,2011
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),160.711,2011
+ITA,Italy,46106,Primary school dropout rate (% of primary school cohort),0.66545,2011
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",37.9,2011
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",58.5,2011
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.20796,2011
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.383325,2011
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",1.51314,2011
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2011
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2011
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",40.424,2011
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",71.851,2011
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2011
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.9237,2011
+ITA,Italy,63106,Population ages 15–64 (millions),38.9638,2011
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.50183,2011
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",102.51177,2011
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",66.06877,2011
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",10,2011
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2011
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),19.65461935,2011
+ITA,Italy,68606,Gender Inequality Index (GII),0.118730057,2011
+ITA,Italy,69206,Life expectancy at birth (years),82.115,2011
+ITA,Italy,69706,Expected years of schooling (years),16.61731,2011
+ITA,Italy,71406,Inequality-adjusted education index,0.697631063,2011
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.918346385,2011
+ITA,Italy,71606,Inequality-adjusted income index,0.740630205,2011
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),10.85572062,2011
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2011
+ITA,Italy,100806,Forest area (% of total land area),30.87577344,2011
+ITA,Italy,101406,"Literacy rate, adult (% ages 15 and older)",98.84828,2011
+ITA,Italy,101606,Inequality in education (%),11.4,2011
+ITA,Italy,101706,Inequality in income (%),16.8,2011
+ITA,Italy,101806,Inequality in life expectancy (%),3.9,2011
+ITA,Italy,103006,Mean years of schooling (years),9.774060943,2011
+ITA,Italy,103206,Life expectancy index,0.955615385,2011
+ITA,Italy,103606,Income index,0.890180535,2011
+ITA,Italy,103706,Education index,0.787393976,2011
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",29.3,2011
+ITA,Italy,111106,International inbound tourists (thousands),46119,2011
+ITA,Italy,111306,Private capital flows (% of GDP),1.916646,2011
+ITA,Italy,120606,"Life expectancy at birth, female (years)",84.501,2011
+ITA,Italy,121106,"Life expectancy at birth, male (years)",79.57,2011
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.461,2011
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.912,2011
+ITA,Italy,123306,"Expected years of schooling, female (years)",17.107,2011
+ITA,Italy,123406,"Expected years of schooling, male (years)",16.1503,2011
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",26344.03612,2011
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",46736.46327,2011
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),164.1204818,2011
+ITA,Italy,132706,Population ages 65 and older (millions),12.43404,2011
+ITA,Italy,132806,Population under age 5 (millions),2.78199,2011
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",100.09993,2011
+ITA,Italy,133206,Exports and imports (% of GDP),55.583,2011
+ITA,Italy,135006,Coefficient of human inequality,10.7,2011
+ITA,Italy,136706,GDP per capita (2011 PPP $),36347.34248,2011
+ITA,Italy,136906,"Human Development Index (HDI), female",0.86020571,2011
+ITA,Italy,137006,"Human Development Index (HDI), male",0.885736192,2011
+ITA,Italy,137506,Human Development Index (HDI),0.874952423,2011
+ITA,Italy,137906,Gender Development Index (GDI),0.971175975,2011
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.779970032,2011
+ITA,Italy,140606,"Unemployment, total (% of labour force)",8.4,2011
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),36251.29897,2011
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2158.285169,2011
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),1.51324,2011
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),19.64,2011
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),47.9,2011
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),43.9,2011
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.144070148,2011
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.7,2011
+ITA,Italy,150706,Employment in services (% of total employment),68,2011
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),11.90494027,2011
+ITA,Italy,164406,Adjusted net savings (% of GNI),3.082787575,2011
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.28,2011
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.077205882,2011
+ITA,Italy,170006,Concentration index (exports) (value),0.05263017,2011
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),84.46479721,2011
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.184402962,2011
+ITA,Italy,175006,Female share of employment in senior and middle management (%),21.6,2011
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.02,2011
+ITA,Italy,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),64.34535217,2011
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),99.09506,2011
+ITA,Italy,178306,Gross capital formation (% of GDP),20.46225902,2011
+ITA,Italy,179406,Skilled labour force (% of labour force),64.1,2011
+ITA,Italy,179706,Ratio of education and health expenditure to military expenditure,7.748060941,2011
+ITA,Italy,181206,Proportion of births attended by skilled health personnel (%),99.9,2011
+ITA,Italy,181706,Rural population with access to electricity (%),100,2011
+ITA,Italy,181806,Current health expenditure (% of GDP),8.83464,2011
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",6.6,2011
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),73.82532,2010
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",69.12921,2010
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",78.98518,2010
+ITA,Italy,24106,"Mean years of schooling, female (years)",9.4244,2010
+ITA,Italy,24206,"Mean years of schooling, male (years)",10.0017,2010
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",6.83837457,2010
+ITA,Italy,31706,Share of seats in parliament (% held by women),20.27310924,2010
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.6435,2010
+ITA,Italy,43006,Vulnerable employment (% of total employment),18.6,2010
+ITA,Italy,43606,"Internet users, total (% of population)",53.68,2010
+ITA,Italy,44206,Total population (millions),59.729807,2010
+ITA,Italy,45106,Urban population (%),68.3,2010
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),156.816,2010
+ITA,Italy,46106,Primary school dropout rate (% of primary school cohort),0.48225,2010
+ITA,Italy,47906,Median age (years),43.821,2010
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",37.8,2010
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",59,2010
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,2010
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.22656,2010
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.37538,2010
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.467633,2010
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",3.4,2010
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",4,2010
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",40.159,2010
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",73.011,2010
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2010
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",0.8857,2010
+ITA,Italy,63106,Population ages 15–64 (millions),39.1177,2010
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.92473,2010
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",102.00317,2010
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",66.05718,2010
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",9,2010
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2010
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),19.94383348,2010
+ITA,Italy,68606,Gender Inequality Index (GII),0.121645782,2010
+ITA,Italy,69206,Life expectancy at birth (years),81.945,2010
+ITA,Italy,69706,Expected years of schooling (years),16.36274,2010
+ITA,Italy,71406,Inequality-adjusted education index,0.68606461,2010
+ITA,Italy,71506,Inequality-adjusted life expectancy index,0.912021,2010
+ITA,Italy,71606,Inequality-adjusted income index,0.717071456,2010
+ITA,Italy,73506,Overall loss in HDI due to inequality (%),12.04945772,2010
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2010
+ITA,Italy,100806,Forest area (% of total land area),30.69286734,2010
+ITA,Italy,101606,Inequality in education (%),11.8,2010
+ITA,Italy,101706,Inequality in income (%),19.4,2010
+ITA,Italy,101806,Inequality in life expectancy (%),4.3,2010
+ITA,Italy,103006,Mean years of schooling (years),9.699914299,2010
+ITA,Italy,103206,Life expectancy index,0.953,2010
+ITA,Italy,103606,Income index,0.889666818,2010
+ITA,Italy,103706,Education index,0.777851032,2010
+ITA,Italy,110806,"Net migration rate (per 1,000 people)",3.396,2010
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",28,2010
+ITA,Italy,111106,International inbound tourists (thousands),43626,2010
+ITA,Italy,111306,Private capital flows (% of GDP),3.965864,2010
+ITA,Italy,112506,"Suicide rate, male (per 100,000 people)",8,2010
+ITA,Italy,112606,"Suicide rate, female (per 100,000 people)",2.1,2010
+ITA,Italy,120606,"Life expectancy at birth, female (years)",84.381,2010
+ITA,Italy,121106,"Life expectancy at birth, male (years)",79.349,2010
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.393,2010
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.299,2010
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.8406,2010
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.9048,2010
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",26076.68502,2010
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",46767.24562,2010
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),160.4578207,2010
+ITA,Italy,132706,Population ages 65 and older (millions),12.24351,2010
+ITA,Italy,132806,Population under age 5 (millions),2.80071,2010
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",99.66838,2010
+ITA,Italy,133206,Exports and imports (% of GDP),52.3456,2010
+ITA,Italy,135006,Coefficient of human inequality,11.83333333,2010
+ITA,Italy,136706,GDP per capita (2011 PPP $),36201.16157,2010
+ITA,Italy,136906,"Human Development Index (HDI), female",0.855272291,2010
+ITA,Italy,137006,"Human Development Index (HDI), male",0.881510303,2010
+ITA,Italy,137506,Human Development Index (HDI),0.870440137,2010
+ITA,Italy,137906,Gender Development Index (GDI),0.970235161,2010
+ITA,Italy,138806,Inequality-adjusted HDI (IHDI),0.765556821,2010
+ITA,Italy,140606,"Unemployment, total (% of labour force)",8.4,2010
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),36128.2235,2010
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2145.91135,2010
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),1.4895,2010
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),18.97,2010
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),48,2010
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),44,2010
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.352389812,2010
+ITA,Italy,150606,Employment in agriculture (% of total employment),3.8,2010
+ITA,Italy,150706,Employment in services (% of total employment),67.6,2010
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),12.794093,2010
+ITA,Italy,164406,Adjusted net savings (% of GNI),3.187590419,2010
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.28,2010
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.037037037,2010
+ITA,Italy,170006,Concentration index (exports) (value),0.051987539,2010
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),84.62877402,2010
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.188899314,2010
+ITA,Italy,175006,Female share of employment in senior and middle management (%),21.2,2010
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",40.75,2010
+ITA,Italy,177106,Population using improved drinking-water sources (%),100,2010
+ITA,Italy,177206,Population using improved sanitation facilities (%),99.28080928,2010
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),98.99393,2010
+ITA,Italy,178306,Gross capital formation (% of GDP),20.53770159,2010
+ITA,Italy,179406,Skilled labour force (% of labour force),63.5,2010
+ITA,Italy,179706,Ratio of education and health expenditure to military expenditure,7.8474122,2010
+ITA,Italy,181206,Proportion of births attended by skilled health personnel (%),99.9,2010
+ITA,Italy,181706,Rural population with access to electricity (%),100,2010
+ITA,Italy,181806,Current health expenditure (% of GDP),8.95361,2010
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",8.7,2010
+ITA,Italy,69206,Life expectancy at birth (years),81.771,2009
+ITA,Italy,69706,Expected years of schooling (years),16.34289,2009
+ITA,Italy,103006,Mean years of schooling (years),9.611822905,2009
+ITA,Italy,103206,Life expectancy index,0.950323077,2009
+ITA,Italy,103606,Income index,0.887813022,2009
+ITA,Italy,103706,Education index,0.774363264,2009
+ITA,Italy,137506,Human Development Index (HDI),0.867719138,2009
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),35687.55779,2009
+ITA,Italy,69206,Life expectancy at birth (years),81.586,2008
+ITA,Italy,69706,Expected years of schooling (years),16.30999,2008
+ITA,Italy,103006,Mean years of schooling (years),9.531601773,2008
+ITA,Italy,103206,Life expectancy index,0.947476923,2008
+ITA,Italy,103606,Income index,0.895729192,2008
+ITA,Italy,103706,Education index,0.770775337,2008
+ITA,Italy,137506,Human Development Index (HDI),0.868075954,2008
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),37607.65919,2008
+ITA,Italy,69206,Life expectancy at birth (years),81.387,2007
+ITA,Italy,69706,Expected years of schooling (years),16.22543,2007
+ITA,Italy,103006,Mean years of schooling (years),9.418638119,2007
+ITA,Italy,103206,Life expectancy index,0.944415385,2007
+ITA,Italy,103606,Income index,0.899827297,2007
+ITA,Italy,103706,Education index,0.764660993,2007
+ITA,Italy,137506,Human Development Index (HDI),0.866157861,2007
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),38641.9119,2007
+ITA,Italy,69206,Life expectancy at birth (years),81.172,2006
+ITA,Italy,69706,Expected years of schooling (years),16.12056,2006
+ITA,Italy,103006,Mean years of schooling (years),9.281971239,2006
+ITA,Italy,103206,Life expectancy index,0.941107692,2006
+ITA,Italy,103606,Income index,0.898845788,2006
+ITA,Italy,103706,Education index,0.757192375,2006
+ITA,Italy,137506,Human Development Index (HDI),0.862005918,2006
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),38391.64385,2006
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),68.76,2005
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",63.46123,2005
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",74.56234,2005
+ITA,Italy,24106,"Mean years of schooling, female (years)",8.8182,2005
+ITA,Italy,24206,"Mean years of schooling, male (years)",9.5549,2005
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",8.166090128,2005
+ITA,Italy,31706,Share of seats in parliament (% held by women),10.35218783,2005
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.998,2005
+ITA,Italy,43006,Vulnerable employment (% of total employment),19.6,2005
+ITA,Italy,43606,"Internet users, total (% of population)",35,2005
+ITA,Italy,44206,Total population (millions),58.808483,2005
+ITA,Italy,45106,Urban population (%),67.7,2005
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),121.581,2005
+ITA,Italy,46106,Primary school dropout rate (% of primary school cohort),0.59914,2005
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.49472,2005
+ITA,Italy,47906,Median age (years),42.014,2005
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",37.9,2005
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",61,2005
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,2005
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.0469,2005
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.220953,2005
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",1.98513,2005
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",3.8,2005
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",4.5,2005
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",44.209,2005
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",84.301,2005
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2005
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",1.0373,2005
+ITA,Italy,63106,Population ages 15–64 (millions),39.0285,2005
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.30086,2005
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",98.13376,2005
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",63.96362,2005
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",13,2005
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2005
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),21.15781062,2005
+ITA,Italy,68606,Gender Inequality Index (GII),0.174837006,2005
+ITA,Italy,69206,Life expectancy at birth (years),80.937,2005
+ITA,Italy,69706,Expected years of schooling (years),15.93756,2005
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2005
+ITA,Italy,100806,Forest area (% of total land area),29.77833685,2005
+ITA,Italy,103006,Mean years of schooling (years),9.169781773,2005
+ITA,Italy,103206,Life expectancy index,0.937492308,2005
+ITA,Italy,103606,Income index,0.895942675,2005
+ITA,Italy,103706,Education index,0.748369392,2005
+ITA,Italy,110806,"Net migration rate (per 1,000 people)",5.596,2005
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",24.1,2005
+ITA,Italy,111106,International inbound tourists (thousands),36513,2005
+ITA,Italy,111306,Private capital flows (% of GDP),-0.6593465,2005
+ITA,Italy,112506,"Suicide rate, male (per 100,000 people)",8.2,2005
+ITA,Italy,112606,"Suicide rate, female (per 100,000 people)",2.4,2005
+ITA,Italy,120606,"Life expectancy at birth, female (years)",83.623,2005
+ITA,Italy,121106,"Life expectancy at birth, male (years)",78.091,2005
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.233,2005
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),29.448,2005
+ITA,Italy,123306,"Expected years of schooling, female (years)",16.3755,2005
+ITA,Italy,123406,"Expected years of schooling, male (years)",15.5195,2005
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",24462.12636,2005
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",51590.45325,2005
+ITA,Italy,127606,Domestic credit provided by financial sector (% of GDP),104.719695,2005
+ITA,Italy,132706,Population ages 65 and older (millions),11.49318,2005
+ITA,Italy,132806,Population under age 5 (millions),2.75875,2005
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",102.73801,2005
+ITA,Italy,133206,Exports and imports (% of GDP),49.4138,2005
+ITA,Italy,136706,GDP per capita (2011 PPP $),37604.36062,2005
+ITA,Italy,136906,"Human Development Index (HDI), female",0.836336356,2005
+ITA,Italy,137006,"Human Development Index (HDI), male",0.870331794,2005
+ITA,Italy,137506,Human Development Index (HDI),0.856619555,2005
+ITA,Italy,137906,Gender Development Index (GDI),0.960939681,2005
+ITA,Italy,140606,"Unemployment, total (% of labour force)",7.7,2005
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),37660.84667,2005
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2179.905382,2005
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),0.5194,2005
+ITA,Italy,147906,Youth not in school or employment (% ages 15-24),17.05,2005
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),49,2005
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),45.2,2005
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.249420166,2005
+ITA,Italy,150606,Employment in agriculture (% of total employment),4.2,2005
+ITA,Italy,150706,Employment in services (% of total employment),65.1,2005
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),6.702639079,2005
+ITA,Italy,164406,Adjusted net savings (% of GNI),7.997091212,2005
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.612903226,2005
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.115740741,2005
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),89.80144618,2005
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.217158063,2005
+ITA,Italy,175006,Female share of employment in senior and middle management (%),19.7,2005
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",39.41,2005
+ITA,Italy,177106,Population using improved drinking-water sources (%),100,2005
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),99.28796,2005
+ITA,Italy,178306,Gross capital formation (% of GDP),21.10345161,2005
+ITA,Italy,179406,Skilled labour force (% of labour force),58.6,2005
+ITA,Italy,179706,Ratio of education and health expenditure to military expenditure,6.968499324,2005
+ITA,Italy,181206,Proportion of births attended by skilled health personnel (%),99.8,2005
+ITA,Italy,181706,Rural population with access to electricity (%),100,2005
+ITA,Italy,181806,Current health expenditure (% of GDP),8.36121,2005
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",7.5,2005
+ITA,Italy,69206,Life expectancy at birth (years),80.684,2004
+ITA,Italy,69706,Expected years of schooling (years),15.77234,2004
+ITA,Italy,103006,Mean years of schooling (years),9.082463741,2004
+ITA,Italy,103206,Life expectancy index,0.9336,2004
+ITA,Italy,103606,Income index,0.894769979,2004
+ITA,Italy,103706,Education index,0.740869347,2004
+ITA,Italy,137506,Human Development Index (HDI),0.852192991,2004
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),37369.60496,2004
+ITA,Italy,69206,Life expectancy at birth (years),80.414,2003
+ITA,Italy,69706,Expected years of schooling (years),15.64232,2003
+ITA,Italy,103006,Mean years of schooling (years),8.948993683,2003
+ITA,Italy,103206,Life expectancy index,0.929446154,2003
+ITA,Italy,103606,Income index,0.892887066,2003
+ITA,Italy,103706,Education index,0.732808678,2003
+ITA,Italy,137506,Human Development Index (HDI),0.847234808,2003
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),36906.68323,2003
+ITA,Italy,69206,Life expectancy at birth (years),80.132,2002
+ITA,Italy,69706,Expected years of schooling (years),15.42578,2002
+ITA,Italy,103006,Mean years of schooling (years),8.815523624,2002
+ITA,Italy,103206,Life expectancy index,0.925107692,2002
+ITA,Italy,103606,Income index,0.893389663,2002
+ITA,Italy,103706,Education index,0.722344676,2002
+ITA,Italy,137506,Human Development Index (HDI),0.842026767,2002
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),37029.68453,2002
+ITA,Italy,69206,Life expectancy at birth (years),79.841,2001
+ITA,Italy,69706,Expected years of schooling (years),15.22739,2001
+ITA,Italy,103006,Mean years of schooling (years),8.682053566,2001
+ITA,Italy,103206,Life expectancy index,0.920630769,2001
+ITA,Italy,103606,Income index,0.893456884,2001
+ITA,Italy,103706,Education index,0.712384841,2001
+ITA,Italy,137506,Human Development Index (HDI),0.836805613,2001
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),37046.16671,2001
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),64.5,2000
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",59.3,2000
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",68.98878333,2000
+ITA,Italy,24106,"Mean years of schooling, female (years)",8.2,2000
+ITA,Italy,24206,"Mean years of schooling, male (years)",9,2000
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",7.912673166,2000
+ITA,Italy,31706,Share of seats in parliament (% held by women),10.041841,2000
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.428,2000
+ITA,Italy,43006,Vulnerable employment (% of total employment),15.3,2000
+ITA,Italy,43606,"Internet users, total (% of population)",23.11087424,2000
+ITA,Italy,44206,Total population (millions),57.293721,2000
+ITA,Italy,45106,Urban population (%),67.2,2000
+ITA,Italy,46006,Mobile phone subscriptions (per 100 people),73.7358,2000
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.95841,2000
+ITA,Italy,47906,Median age (years),40.389,2000
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",35.5,2000
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",61.2,2000
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,2000
+ITA,Italy,52306,Research and development expenditure (% of GDP),1.00486,2000
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.156738,2000
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",1.15404,2000
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",4.8,2000
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",5.6,2000
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",50.696,2000
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",101.384,2000
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2000
+ITA,Italy,61006,"Homicide rate (per 100,000 people)",1.337,2000
+ITA,Italy,63106,Population ages 15–64 (millions),38.6885,2000
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.70068,2000
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",92.3072,2000
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",49.24782,2000
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",26,2000
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",5,2000
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),20.43159731,2000
+ITA,Italy,68606,Gender Inequality Index (GII),0.177636468,2000
+ITA,Italy,69206,Life expectancy at birth (years),79.545,2000
+ITA,Italy,69706,Expected years of schooling (years),14.89404,2000
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",5,2000
+ITA,Italy,97106,Fresh water withdrawals (% of total renewable water resources),23.57,2000
+ITA,Italy,100806,Forest area (% of total land area),28.45533984,2000
+ITA,Italy,103006,Mean years of schooling (years),8.58,2000
+ITA,Italy,103206,Life expectancy index,0.916076923,2000
+ITA,Italy,103606,Income index,0.890773711,2000
+ITA,Italy,103706,Education index,0.699723333,2000
+ITA,Italy,110806,"Net migration rate (per 1,000 people)",0.782,2000
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",31.4,2000
+ITA,Italy,111106,International inbound tourists (thousands),41181,2000
+ITA,Italy,111306,Private capital flows (% of GDP),1.124917,2000
+ITA,Italy,112506,"Suicide rate, male (per 100,000 people)",8.7,2000
+ITA,Italy,112606,"Suicide rate, female (per 100,000 people)",2.8,2000
+ITA,Italy,120606,"Life expectancy at birth, female (years)",82.483,2000
+ITA,Italy,121106,"Life expectancy at birth, male (years)",76.46,2000
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.214,2000
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),26.875,2000
+ITA,Italy,123306,"Expected years of schooling, female (years)",15,2000
+ITA,Italy,123406,"Expected years of schooling, male (years)",14.7,2000
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",22593.00588,2000
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",51037.83307,2000
+ITA,Italy,132706,Population ages 65 and older (millions),10.3976,2000
+ITA,Italy,132806,Population under age 5 (millions),2.63714,2000
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",97.16187,2000
+ITA,Italy,133206,Exports and imports (% of GDP),50.4745,2000
+ITA,Italy,136706,GDP per capita (2011 PPP $),36535.81877,2000
+ITA,Italy,136906,"Human Development Index (HDI), female",0.804833712,2000
+ITA,Italy,137006,"Human Development Index (HDI), male",0.845840917,2000
+ITA,Italy,137506,Human Development Index (HDI),0.829612391,2000
+ITA,Italy,137906,Gender Development Index (GDI),0.95151901,2000
+ITA,Italy,140606,"Unemployment, total (% of labour force)",10.8,2000
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),36393.93289,2000
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2080.426538,2000
+ITA,Italy,147206,International student mobility (% of total tertiary enrolment),-0.96079,2000
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),47.8,2000
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),42.7,2000
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.298860073,2000
+ITA,Italy,150606,Employment in agriculture (% of total employment),5.2,2000
+ITA,Italy,150706,Employment in services (% of total employment),63,2000
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),5.119514798,2000
+ITA,Italy,164406,Adjusted net savings (% of GNI),9.427520777,2000
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.761904762,2000
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.105633803,2000
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),91.73009539,2000
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.216573035,2000
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",37.15,2000
+ITA,Italy,177106,Population using improved drinking-water sources (%),100,2000
+ITA,Italy,178306,Gross capital formation (% of GDP),20.71743579,2000
+ITA,Italy,179706,Ratio of education and health expenditure to military expenditure,6.051991359,2000
+ITA,Italy,181206,Proportion of births attended by skilled health personnel (%),99.8,2000
+ITA,Italy,181706,Rural population with access to electricity (%),100,2000
+ITA,Italy,181806,Current health expenditure (% of GDP),7.58037,2000
+ITA,Italy,182206,"Tuberculosis incidence (per 100,000 people)",7,2000
+ITA,Italy,69206,Life expectancy at birth (years),79.247,1999
+ITA,Italy,69706,Expected years of schooling (years),14.84087,1999
+ITA,Italy,103006,Mean years of schooling (years),8.45,1999
+ITA,Italy,103206,Life expectancy index,0.911492308,1999
+ITA,Italy,103606,Income index,0.885622441,1999
+ITA,Italy,103706,Education index,0.693913056,1999
+ITA,Italy,137506,Human Development Index (HDI),0.824332128,1999
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),35173.75834,1999
+ITA,Italy,69206,Life expectancy at birth (years),78.951,1998
+ITA,Italy,69706,Expected years of schooling (years),14.72787,1998
+ITA,Italy,103006,Mean years of schooling (years),8.32,1998
+ITA,Italy,103206,Life expectancy index,0.906938462,1998
+ITA,Italy,103606,Income index,0.882756909,1998
+ITA,Italy,103706,Education index,0.686440833,1998
+ITA,Italy,137506,Human Development Index (HDI),0.81910709,1998
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),34512.79994,1998
+ITA,Italy,31706,Share of seats in parliament (% held by women),10.041841,1997
+ITA,Italy,69206,Life expectancy at birth (years),78.66,1997
+ITA,Italy,69706,Expected years of schooling (years),14.56203,1997
+ITA,Italy,103006,Mean years of schooling (years),8.19,1997
+ITA,Italy,103206,Life expectancy index,0.902461538,1997
+ITA,Italy,103606,Income index,0.880526353,1997
+ITA,Italy,103706,Education index,0.677500833,1997
+ITA,Italy,137506,Human Development Index (HDI),0.813505134,1997
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),34006.91286,1997
+ITA,Italy,52306,Research and development expenditure (% of GDP),0.95124,1996
+ITA,Italy,69206,Life expectancy at birth (years),78.376,1996
+ITA,Italy,69706,Expected years of schooling (years),14.25373,1996
+ITA,Italy,103006,Mean years of schooling (years),8.06,1996
+ITA,Italy,103206,Life expectancy index,0.898092308,1996
+ITA,Italy,103606,Income index,0.87706693,1996
+ITA,Italy,103706,Education index,0.664603611,1996
+ITA,Italy,137506,Human Development Index (HDI),0.80594512,1996
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),33236.94948,1996
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),57.6,1995
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",52.17,1995
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",63.37,1995
+ITA,Italy,24106,"Mean years of schooling, female (years)",7.5,1995
+ITA,Italy,24206,"Mean years of schooling, male (years)",8.4,1995
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",7.573033273,1995
+ITA,Italy,31706,Share of seats in parliament (% held by women),10.041841,1995
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",7.743,1995
+ITA,Italy,43006,Vulnerable employment (% of total employment),16.4,1995
+ITA,Italy,44206,Total population (millions),57.255193,1995
+ITA,Italy,45106,Urban population (%),66.9,1995
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.96617,1995
+ITA,Italy,47906,Median age (years),38.672,1995
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",33.6,1995
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",62.2,1995
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,1995
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.194822,1995
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.413549,1995
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",6.4,1995
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",7.5,1995
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",57.518,1995
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",119.072,1995
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.2,1995
+ITA,Italy,63106,Population ages 15–64 (millions),39.1863,1995
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",97.99805,1995
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",88.63521,1995
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",41.47847,1995
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",50,1995
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1995
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),19.13042392,1995
+ITA,Italy,68606,Gender Inequality Index (GII),0.198357131,1995
+ITA,Italy,69206,Life expectancy at birth (years),78.106,1995
+ITA,Italy,69706,Expected years of schooling (years),14.09044,1995
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,1995
+ITA,Italy,100806,Forest area (% of total land area),27.13100541,1995
+ITA,Italy,103006,Mean years of schooling (years),7.93,1995
+ITA,Italy,103206,Life expectancy index,0.893938462,1995
+ITA,Italy,103606,Income index,0.874800855,1995
+ITA,Italy,103706,Education index,0.655734444,1995
+ITA,Italy,110806,"Net migration rate (per 1,000 people)",0.534,1995
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",33.4,1995
+ITA,Italy,111106,International inbound tourists (thousands),31052,1995
+ITA,Italy,111306,Private capital flows (% of GDP),-3.276519,1995
+ITA,Italy,120606,"Life expectancy at birth, female (years)",81.277,1995
+ITA,Italy,121106,"Life expectancy at birth, male (years)",74.828,1995
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.912,1995
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),24.198,1995
+ITA,Italy,123306,"Expected years of schooling, female (years)",14.2,1995
+ITA,Italy,123406,"Expected years of schooling, male (years)",14,1995
+ITA,Italy,123506,"Estimated gross national income per capita, female (2011 PPP $)",19371.5407,1995
+ITA,Italy,123606,"Estimated gross national income per capita, male (2011 PPP $)",46904.47883,1995
+ITA,Italy,132706,Population ages 65 and older (millions),9.482472,1995
+ITA,Italy,132806,Population under age 5 (millions),2.73,1995
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",94.9004,1995
+ITA,Italy,133206,Exports and imports (% of GDP),45.825,1995
+ITA,Italy,136706,GDP per capita (2011 PPP $),33152.04099,1995
+ITA,Italy,136906,"Human Development Index (HDI), female",0.773944692,1995
+ITA,Italy,137006,"Human Development Index (HDI), male",0.818382528,1995
+ITA,Italy,137506,Human Development Index (HDI),0.800414485,1995
+ITA,Italy,137906,Gender Development Index (GDI),0.94570041,1995
+ITA,Italy,140606,"Unemployment, total (% of labour force)",11.7,1995
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),32742.06386,1995
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1884.504663,1995
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),47.3,1995
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),41.8,1995
+ITA,Italy,149206,Government expenditure on education (% of GDP),4.332940102,1995
+ITA,Italy,150606,Employment in agriculture (% of total employment),6.6,1995
+ITA,Italy,150706,Employment in services (% of total employment),59.8,1995
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),4.462278337,1995
+ITA,Italy,164406,Adjusted net savings (% of GNI),11.19101777,1995
+ITA,Italy,169706,Total unemployment rate (female to male ratio),1.758241758,1995
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.120805369,1995
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),93.02465207,1995
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.228433395,1995
+ITA,Italy,175006,Female share of employment in senior and middle management (%),12.9,1995
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",35.09,1995
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),96.87082,1995
+ITA,Italy,178306,Gross capital formation (% of GDP),19.81326792,1995
+ITA,Italy,181706,Rural population with access to electricity (%),100,1995
+ITA,Italy,69206,Life expectancy at birth (years),77.851,1994
+ITA,Italy,69706,Expected years of schooling (years),13.94711,1994
+ITA,Italy,103006,Mean years of schooling (years),7.802,1994
+ITA,Italy,103206,Life expectancy index,0.890015385,1994
+ITA,Italy,103606,Income index,0.869996777,1994
+ITA,Italy,103706,Education index,0.647486389,1994
+ITA,Italy,137506,Human Development Index (HDI),0.79441713,1994
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),31717.14102,1994
+ITA,Italy,69206,Life expectancy at birth (years),77.61,1993
+ITA,Italy,69706,Expected years of schooling (years),13.49743,1993
+ITA,Italy,103006,Mean years of schooling (years),7.674,1993
+ITA,Italy,103206,Life expectancy index,0.886307692,1993
+ITA,Italy,103606,Income index,0.867046579,1993
+ITA,Italy,103706,Education index,0.630728611,1993
+ITA,Italy,137506,Human Development Index (HDI),0.785518637,1993
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),31103.69848,1993
+ITA,Italy,69206,Life expectancy at birth (years),77.381,1992
+ITA,Italy,69706,Expected years of schooling (years),13.25785,1992
+ITA,Italy,103006,Mean years of schooling (years),7.546,1992
+ITA,Italy,103206,Life expectancy index,0.882784615,1992
+ITA,Italy,103606,Income index,0.86806731,1992
+ITA,Italy,103706,Education index,0.619806944,1992
+ITA,Italy,137506,Human Development Index (HDI),0.780228,1992
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),31314.58764,1992
+ITA,Italy,43006,Vulnerable employment (% of total employment),27.5,1991
+ITA,Italy,69206,Life expectancy at birth (years),77.16,1991
+ITA,Italy,69706,Expected years of schooling (years),13.00691,1991
+ITA,Italy,103006,Mean years of schooling (years),7.418,1991
+ITA,Italy,103206,Life expectancy index,0.879384615,1991
+ITA,Italy,103606,Income index,0.867146662,1991
+ITA,Italy,103706,Education index,0.608569722,1991
+ITA,Italy,110906,"Unemployment, youth (% ages 15–24)",28.5,1991
+ITA,Italy,137506,Human Development Index (HDI),0.774213228,1991
+ITA,Italy,140606,"Unemployment, total (% of labour force)",10.1,1991
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),31124.31332,1991
+ITA,Italy,148306,Employment to population ratio (% ages 15 and older),45.5,1991
+ITA,Italy,150606,Employment in agriculture (% of total employment),8.5,1991
+ITA,Italy,150706,Employment in services (% of total employment),56.5,1991
+ITA,Italy,169706,Total unemployment rate (female to male ratio),2.323529412,1991
+ITA,Italy,169806,Youth unemployment rate (female to male ratio),1.17768595,1991
+ITA,Italy,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",34.18,1991
+ITA,Italy,23806,Population with at least some secondary education (% ages 25 and older),49.7,1990
+ITA,Italy,23906,"Population with at least some secondary education, female (% ages 25 and older)",44.07,1990
+ITA,Italy,24006,"Population with at least some secondary education, male (% ages 25 and older)",55.67,1990
+ITA,Italy,24106,"Mean years of schooling, female (years)",6.8,1990
+ITA,Italy,24206,"Mean years of schooling, male (years)",7.8,1990
+ITA,Italy,27706,"Carbon dioxide emissions, per capita (tonnes)",7.361704582,1990
+ITA,Italy,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.963,1990
+ITA,Italy,44206,Total population (millions),57.12712,1990
+ITA,Italy,45106,Urban population (%),66.7,1990
+ITA,Italy,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.17282,1990
+ITA,Italy,47906,Median age (years),37.027,1990
+ITA,Italy,48706,"Labour force participation rate (% ages 15 and older), female",35.3,1990
+ITA,Italy,48806,"Labour force participation rate (% ages 15 and older), male",66.9,1990
+ITA,Italy,49006,Sex ratio at birth (male to female births),1.06,1990
+ITA,Italy,52606,"Remittances, inflows (% of GDP)",0.43102,1990
+ITA,Italy,53506,"Foreign direct investment, net inflows (% of GDP)",0.544512,1990
+ITA,Italy,57206,"Mortality rate, infant (per 1,000 live births)",8.4,1990
+ITA,Italy,57506,"Mortality rate, under-five (per 1,000 live births)",9.7,1990
+ITA,Italy,57806,"Mortality rate, female adult (per 1,000 people)",61.122,1990
+ITA,Italy,57906,"Mortality rate, male adult (per 1,000 people)",130.505,1990
+ITA,Italy,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1990
+ITA,Italy,63106,Population ages 15–64 (millions),39.2331,1990
+ITA,Italy,63206,"Gross enrolment ratio, primary (% of primary school-age population)",98.23312,1990
+ITA,Italy,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",80.23511,1990
+ITA,Italy,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",29.50263,1990
+ITA,Italy,64306,"Infants lacking immunization, measles (% of one-year-olds)",57,1990
+ITA,Italy,64406,"Infants lacking immunization, DPT (% of one-year-olds)",6,1990
+ITA,Italy,65606,Gross fixed capital formation (% of GDP),22.01355053,1990
+ITA,Italy,69206,Life expectancy at birth (years),76.94,1990
+ITA,Italy,69706,Expected years of schooling (years),12.83004,1990
+ITA,Italy,89006,"Maternal mortality ratio (deaths per 100,000 live births)",8,1990
+ITA,Italy,100806,Forest area (% of total land area),25.80667097,1990
+ITA,Italy,103006,Mean years of schooling (years),7.29,1990
+ITA,Italy,103206,Life expectancy index,0.876,1990
+ITA,Italy,103606,Income index,0.865214772,1990
+ITA,Italy,103706,Education index,0.59939,1990
+ITA,Italy,110806,"Net migration rate (per 1,000 people)",-0.035,1990
+ITA,Italy,111306,Private capital flows (% of GDP),0.0920833,1990
+ITA,Italy,120606,"Life expectancy at birth, female (years)",80.189,1990
+ITA,Italy,121106,"Life expectancy at birth, male (years)",73.613,1990
+ITA,Italy,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.979,1990
+ITA,Italy,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),21.631,1990
+ITA,Italy,123306,"Expected years of schooling, female (years)",12.8,1990
+ITA,Italy,123406,"Expected years of schooling, male (years)",12.8,1990
+ITA,Italy,132706,Population ages 65 and older (millions),8.486399,1990
+ITA,Italy,132806,Population under age 5 (millions),2.8223,1990
+ITA,Italy,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",90.13753,1990
+ITA,Italy,133206,Exports and imports (% of GDP),36.4333,1990
+ITA,Italy,136706,GDP per capita (2011 PPP $),31141.90286,1990
+ITA,Italy,137506,Human Development Index (HDI),0.768739461,1990
+ITA,Italy,141706,Gross national income (GNI) per capita (2011 PPP $),30728.79122,1990
+ITA,Italy,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1766.345062,1990
+ITA,Italy,148206,Labour force participation rate (% ages 15 and older),50.5,1990
+ITA,Italy,163906,Renewable energy consumption (% of total final energy consumption),3.781463481,1990
+ITA,Italy,164406,Adjusted net savings (% of GNI),9.500767656,1990
+ITA,Italy,174306,Fossil fuel energy consumption (% of total energy consumption),93.43818883,1990
+ITA,Italy,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.236392253,1990
+ITA,Italy,177706,Survival rate to the last grade of lower secondary general education (%),93.87334,1990
+ITA,Italy,178306,Gross capital formation (% of GDP),22.30079181,1990
+ITA,Italy,181706,Rural population with access to electricity (%),100,1990

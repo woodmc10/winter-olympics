@@ -1,0 +1,1206 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+KOR,Korea (Republic of),21806,Refugees by country of origin (thousands),0.242,2017
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),95.56,2017
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",89.75212184,2017
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",95.5608701,2017
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",11.4068,2017
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.8529,2017
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),17,2017
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.643,2017
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),24.1,2017
+KOR,Korea (Republic of),44206,Total population (millions),50.982212,2017
+KOR,Korea (Republic of),45106,Urban population (%),81.5,2017
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",52.2,2017
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",73.2,2017
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.07,2017
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.406604,2017
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",1.11402,2017
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),37.019,2017
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2017
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2017
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),31.12095277,2017
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.063080914,2017
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),82.361,2017
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.49749,2017
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.702494245,2017
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.9286992,2017
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.708984704,2017
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),14.31431398,2017
+KOR,Korea (Republic of),101606,Inequality in education (%),18.51750253,2017
+KOR,Korea (Republic of),101706,Inequality in income (%),20.24,2017
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),3.2,2017
+KOR,Korea (Republic of),103006,Mean years of schooling (years),12.11633,2017
+KOR,Korea (Republic of),103206,Life expectancy index,0.9594,2017
+KOR,Korea (Republic of),103606,Income index,0.888897573,2017
+KOR,Korea (Republic of),103706,Education index,0.862141278,2017
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",10.7,2017
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),4.734303,2017
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",85.304,2017
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",79.21,2017
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),18.555,2017
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.162,2017
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.869,2017
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.0515,2017
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",22572.10657,2017
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",49297.12327,2017
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),170.0564685,2017
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),7.09373,2017
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.229763,2017
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),80.7792,2017
+KOR,Korea (Republic of),135006,Coefficient of human inequality,13.98583418,2017
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),35938.37422,2017
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.865973996,2017
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.929143983,2017
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.902561126,2017
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.932012704,2017
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.773365693,2017
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.8,2017
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),35944.70949,2017
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1849.611591,2017
+KOR,Korea (Republic of),146206,HDI rank,22,2017
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),62.6,2017
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),60.3,2017
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),4.9,2017
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),70.3,2017
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.2,2017
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.923076923,2017
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.972727273,2017
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.99,2017
+KOR,Korea (Republic of),175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),94.68531036,2017
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),31.07565107,2017
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),84.6,2017
+KOR,Korea (Republic of),181606,Red List Index (value),0.78151,2017
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),95.2,2016
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",89.29796816,2016
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",95.5608701,2016
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",11.4068,2016
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.8529,2016
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),17,2016
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.643,2016
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),24.1,2016
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",92.84302568,2016
+KOR,Korea (Republic of),44206,Total population (millions),50.791919,2016
+KOR,Korea (Republic of),45106,Urban population (%),81.6,2016
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),120.68,2016
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",52.2,2016
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",73.2,2016
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.07,2016
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.45971,2016
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.855546,2016
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",2.9,2016
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",3.4,2016
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",37.244,2016
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",86.102,2016
+KOR,Korea (Republic of),61006,"Homicide rate (per 100,000 people)",0.7011,2016
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),37.034,2016
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2016
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2016
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),29.67951974,2016
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.063330147,2016
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),82.15,2016
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.49749,2016
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.702498577,2016
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.925971894,2016
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.706193766,2016
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),14.30133407,2016
+KOR,Korea (Republic of),101606,Inequality in education (%),18.517,2016
+KOR,Korea (Republic of),101706,Inequality in income (%),20.24,2016
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),3.1566,2016
+KOR,Korea (Republic of),103006,Mean years of schooling (years),12.11633,2016
+KOR,Korea (Republic of),103206,Life expectancy index,0.956153846,2016
+KOR,Korea (Republic of),103606,Income index,0.885398403,2016
+KOR,Korea (Republic of),103706,Education index,0.862141278,2016
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",10.5,2016
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),17242,2016
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),5.995664,2016
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",85.136,2016
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",78.946,2016
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),18.722,2016
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.428,2016
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.869,2016
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.0515,2016
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",22071.41909,2016
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",48147.72099,2016
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),169.6303772,2016
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),6.82462,2016
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.22553,2016
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),77.7128,2016
+KOR,Korea (Republic of),135006,Coefficient of human inequality,13.9712,2016
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),35020.41151,2016
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.86400576,2016
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.926638869,2016
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.900357493,2016
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.932408287,2016
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.77159436,2016
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.7,2016
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),35121.62891,2016
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1794.645747,2016
+KOR,Korea (Republic of),146206,HDI rank,22,2016
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),62.6,2016
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),60.3,2016
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),4.9,2016
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),70.2,2016
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.2,2016
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),19.03304012,2016
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.947368421,2016
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.972222222,2016
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.144133405,2016
+KOR,Korea (Republic of),174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",20.5,2016
+KOR,Korea (Republic of),174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",1.8,2016
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42,2016
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),29.25238734,2016
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),84.3,2016
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2016
+KOR,Korea (Republic of),182106,"Malaria incidence (per 1,000 people at risk)",0.338,2016
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",77,2016
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),91.38773527,2015
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",88.84381448,2015
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",94.56363242,2015
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",11.4068,2015
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.8529,2015
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),16.33333333,2015
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.7045,2015
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),24.5,2015
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",89.64863086,2015
+KOR,Korea (Republic of),44206,Total population (millions),50.593662,2015
+KOR,Korea (Republic of),45106,Urban population (%),81.6,2015
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),116.487,2015
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.55424,2015
+KOR,Korea (Republic of),47906,Median age (years),40.781,2015
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",51.9,2015
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",73.1,2015
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.07,2015
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),4.22816,2015
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.466023,2015
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.296804,2015
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",3,2015
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",3.5,2015
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",37.943,2015
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",88.887,2015
+KOR,Korea (Republic of),61006,"Homicide rate (per 100,000 people)",0.7214,2015
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),36.9991,2015
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",97.58806,2015
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",100.1969,2015
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",93.26056,2015
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2015
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2015
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),29.30841348,2015
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.066856655,2015
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),81.924,2015
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.49749,2015
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.641967638,2015
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.917487896,2015
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.719173985,2015
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),16.36955421,2015
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",11,2015
+KOR,Korea (Republic of),100806,Forest area (% of total land area),63.43865408,2015
+KOR,Korea (Republic of),101606,Inequality in education (%),25.538,2015
+KOR,Korea (Republic of),101706,Inequality in income (%),18.435,2015
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),3.6937,2015
+KOR,Korea (Republic of),103006,Mean years of schooling (years),12.11633,2015
+KOR,Korea (Republic of),103206,Life expectancy index,0.952676923,2015
+KOR,Korea (Republic of),103606,Income index,0.881718856,2015
+KOR,Korea (Republic of),103706,Education index,0.862141278,2015
+KOR,Korea (Republic of),110806,"Net migration rate (per 1,000 people)",0.678,2015
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",10.4,2015
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),13232,2015
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),5.003464,2015
+KOR,Korea (Republic of),112506,"Suicide rate, male (per 100,000 people)",36.1,2015
+KOR,Korea (Republic of),112606,"Suicide rate, female (per 100,000 people)",13.4,2015
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",84.957,2015
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",78.665,2015
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.014,2015
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),17.729,2015
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.869,2015
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.0515,2015
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",21235.0918,2015
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",47289.12805,2015
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),165.9571398,2015
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),6.559704,2015
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.23239,2015
+KOR,Korea (Republic of),133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",94.7681,2015
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),83.7121,2015
+KOR,Korea (Republic of),135006,Coefficient of human inequality,15.8889,2015
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),34177.65447,2015
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.861117569,2015
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.92432489,2015
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.898017371,2015
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.931617852,2015
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.75101593,2015
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.6,2015
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),34276.44144,2015
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1743.571231,2015
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-1.6308,2015
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),62.5,2015
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),60.2,2015
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),5.065440178,2015
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),5.2,2015
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),69.7,2015
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.2,2015
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),2.707702804,2015
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),19.20736521,2015
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.945945946,2015
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.936936937,2015
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.147718834,2015
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),82.03533681,2015
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.82,2015
+KOR,Korea (Republic of),175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",79.6,2015
+KOR,Korea (Republic of),176806,Programme for International Student Assessment (PISA) score in science,516,2015
+KOR,Korea (Republic of),176906,Programme for International Student Assessment (PISA) score in reading,517,2015
+KOR,Korea (Republic of),177006,Programme for International Student Assessment (PISA) score in mathematics,524,2015
+KOR,Korea (Republic of),177106,Population using improved drinking-water sources (%),99.59492443,2015
+KOR,Korea (Republic of),177206,Population using improved sanitation facilities (%),99.88753714,2015
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),28.91811192,2015
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),83.5,2015
+KOR,Korea (Republic of),179706,Ratio of education and health expenditure to military expenditure,4.709681476,2015
+KOR,Korea (Republic of),181206,Proportion of births attended by skilled health personnel (%),100,2015
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2015
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),7.39053,2015
+KOR,Korea (Republic of),182106,"Malaria incidence (per 1,000 people at risk)",0.354,2015
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",79,2015
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),91.38773527,2014
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",88.84381448,2014
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",94.56363242,2014
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",11.2983,2014
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.7743,2014
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",11.57034541,2014
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),16.33333333,2014
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.7401,2014
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),25.4,2014
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",87.55682649,2014
+KOR,Korea (Republic of),44206,Total population (millions),50.38556,2014
+KOR,Korea (Republic of),45106,Urban population (%),81.7,2014
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),113.704,2014
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),0.53963,2014
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.50455,2014
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",51.4,2014
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",73.2,2014
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),4.27746,2014
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.464135,2014
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.65708,2014
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",3.1,2014
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",3.6,2014
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",38.642,2014
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",91.672,2014
+KOR,Korea (Republic of),61006,"Homicide rate (per 100,000 people)",0.7383,2014
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),36.9284,2014
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",97.04419,2014
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",100.51197,2014
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",93.42491,2014
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2014
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2014
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),29.1549381,2014
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.071088288,2014
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),81.678,2014
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.56164,2014
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.642420371,2014
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.911885508,2014
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.716783014,2014
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),16.40314489,2014
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",12,2014
+KOR,Korea (Republic of),100806,Forest area (% of total land area),63.51661879,2014
+KOR,Korea (Republic of),101606,Inequality in education (%),25.5,2014
+KOR,Korea (Republic of),101706,Inequality in income (%),18.4,2014
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),3.9,2014
+KOR,Korea (Republic of),103006,Mean years of schooling (years),12.06791,2014
+KOR,Korea (Republic of),103206,Life expectancy index,0.948892308,2014
+KOR,Korea (Republic of),103606,Income index,0.878410556,2014
+KOR,Korea (Republic of),103706,Education index,0.862309222,2014
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",10,2014
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),14202,2014
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),3.498428,2014
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",84.758,2014
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",78.367,2014
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.418,2014
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),17.023,2014
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.8657,2014
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.1762,2014
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",20895.8425,2014
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",46139.65551,2014
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),162.2943597,2014
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),6.286267,2014
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.24508,2014
+KOR,Korea (Republic of),133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",93.44242,2014
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),95.2972,2014
+KOR,Korea (Republic of),135006,Coefficient of human inequality,15.93333333,2014
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),33425.68959,2014
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.858043616,2014
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.921877932,2014
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.895761724,2014
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.930756216,2014
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.748828631,2014
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.5,2014
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),33533.90767,2014
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1696.242072,2014
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-1.73495,2014
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),62.3,2014
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),60.1,2014
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),5.05671978,2014
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),5.7,2014
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),69.7,2014
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.2,2014
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),2.838191508,2014
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),17.84817712,2014
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.944444444,2014
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.909090909,2014
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.147738933,2014
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),82.3950038,2014
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.346151285,2014
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.52,2014
+KOR,Korea (Republic of),175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),93.38002014,2014
+KOR,Korea (Republic of),177706,Survival rate to the last grade of lower secondary general education (%),99.25913,2014
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),29.27691005,2014
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),82.7,2014
+KOR,Korea (Republic of),179706,Ratio of education and health expenditure to military expenditure,4.578255865,2014
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2014
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),7.12495,2014
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",85,2014
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),89.26609395,2013
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",85.89551836,2013
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",93.20120432,2013
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",11.1899,2013
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.6957,2013
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",11.74920084,2013
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),15.66666667,2013
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.7757,2013
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),26,2013
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",84.77,2013
+KOR,Korea (Republic of),44206,Total population (millions),50.169242,2013
+KOR,Korea (Republic of),45106,Urban population (%),81.8,2013
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),108.993,2013
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),0.6475,2013
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.85167,2013
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",50.3,2013
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",72.4,2013
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),4.14692,2013
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.494437,2013
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.97783,2013
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",3.2,2013
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",3.7,2013
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",39.34,2013
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",94.457,2013
+KOR,Korea (Republic of),61006,"Homicide rate (per 100,000 people)",0.6817,2013
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),36.8018,2013
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",97.02128,2013
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",99.95905,2013
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",94.37483,2013
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2013
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),29.26229291,2013
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.076050872,2013
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),81.411,2013
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.58983,2013
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.619402753,2013
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.907938015,2013
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.713985751,2013
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),17.38717395,2013
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",12,2013
+KOR,Korea (Republic of),100806,Forest area (% of total land area),63.60371822,2013
+KOR,Korea (Republic of),101606,Inequality in education (%),28.1,2013
+KOR,Korea (Republic of),101706,Inequality in income (%),18.4,2013
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),3.9,2013
+KOR,Korea (Republic of),103006,Mean years of schooling (years),12.01948463,2013
+KOR,Korea (Republic of),103206,Life expectancy index,0.944784615,2013
+KOR,Korea (Republic of),103606,Income index,0.874982537,2013
+KOR,Korea (Republic of),103706,Education index,0.861478099,2013
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",9.2,2013
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),12176,2013
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),1.910049,2013
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",84.531,2013
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",78.054,2013
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.966,2013
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),16.357,2013
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.8363,2013
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.2568,2013
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",20480.76621,2013
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",45046.17973,2013
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),155.8033232,2013
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),6.019663,2013
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.27584,2013
+KOR,Korea (Republic of),133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",91.876,2013
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),102.771,2013
+KOR,Korea (Republic of),135006,Coefficient of human inequality,16.8,2013
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),32548.71552,2013
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.85437604,2013
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.918964676,2013
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.893015122,2013
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.929715866,2013
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.737745029,2013
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.1,2013
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),32781.46813,2013
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1641.395692,2013
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-1.75232,2013
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),61.3,2013
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),59.4,2013
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),4.930699825,2013
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),6.1,2013
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),69.5,2013
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.3,2013
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),1.922273654,2013
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),17.6967576,2013
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.848484848,2013
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.958333333,2013
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.148209331,2013
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),84.16471753,2013
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.360972796,2013
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.31,2013
+KOR,Korea (Republic of),177706,Survival rate to the last grade of lower secondary general education (%),99.20448,2013
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),29.10221685,2013
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),81.6,2013
+KOR,Korea (Republic of),179706,Ratio of education and health expenditure to military expenditure,4.526719182,2013
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2013
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),6.90493,2013
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",89,2013
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),87.14445264,2012
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",82.94722224,2012
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",91.83877621,2012
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",11.0814,2012
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.6171,2012
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",11.63282456,2012
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),15.66666667,2012
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.8113,2012
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),26.9,2012
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",84.07,2012
+KOR,Korea (Republic of),44206,Total population (millions),49.952244,2012
+KOR,Korea (Republic of),45106,Urban population (%),81.9,2012
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),107.351,2012
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),0.44063,2012
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",17.87581,2012
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",50,2012
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",72.4,2012
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),4.01812,2012
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.53737,2012
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.776566,2012
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",3.3,2012
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2012
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",40.039,2012
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",97.242,2012
+KOR,Korea (Republic of),61006,"Homicide rate (per 100,000 people)",0.8228,2012
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),36.6329,2012
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.66914,2012
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",98.09673,2012
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",96.63764,2012
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2012
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),29.56948846,2012
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.081122458,2012
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),81.119,2012
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.70104,2012
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.640887078,2012
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.899859738,2012
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.711393029,2012
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),16.51929211,2012
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",13,2012
+KOR,Korea (Republic of),100806,Forest area (% of total land area),63.75757576,2012
+KOR,Korea (Republic of),101606,Inequality in education (%),25.5,2012
+KOR,Korea (Republic of),101706,Inequality in income (%),18.4,2012
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),4.3,2012
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.89,2012
+KOR,Korea (Republic of),103206,Life expectancy index,0.940292308,2012
+KOR,Korea (Republic of),103606,Income index,0.871805183,2012
+KOR,Korea (Republic of),103706,Education index,0.860251111,2012
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",9,2012
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),11140,2012
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),1.176669,2012
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",84.272,2012
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",77.725,2012
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),20.627,2012
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),15.732,2012
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.8977,2012
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.4134,2012
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",20016.20036,2012
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",44142.01749,2012
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),155.8450252,2012
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),5.762925,2012
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.30728,2012
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),109.886,2012
+KOR,Korea (Republic of),135006,Coefficient of human inequality,16.06666667,2012
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),31776.89703,2012
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.85128927,2012
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.916866661,2012
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.890093967,2012
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.928476633,2012
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.743056745,2012
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.2,2012
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),32099.13367,2012
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1595.195559,2012
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-1.86419,2012
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),61.2,2012
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),59.2,2012
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),4.618229866,2012
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),6.2,2012
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),69.3,2012
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.3,2012
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),1.614257513,2012
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),17.55687356,2012
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.852941176,2012
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.9375,2012
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.14677907,2012
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),83.22136322,2012
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.366078052,2012
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.15,2012
+KOR,Korea (Republic of),175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",77.1,2012
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),31.00122857,2012
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),80.6,2012
+KOR,Korea (Republic of),179706,Ratio of education and health expenditure to military expenditure,4.342065307,2012
+KOR,Korea (Republic of),181206,Proportion of births attended by skilled health personnel (%),99.8,2012
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2012
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),6.72751,2012
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",94,2012
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),85.02281132,2011
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",79.99892612,2011
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",90.47634811,2011
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",10.9729,2011
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.5385,2011
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",11.80296873,2011
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),14.71571906,2011
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.8469,2011
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),26.9,2011
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",83.75912015,2011
+KOR,Korea (Republic of),44206,Total population (millions),49.744659,2011
+KOR,Korea (Republic of),45106,Urban population (%),81.9,2011
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),105.553,2011
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),0.77324,2011
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",19.04941,2011
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",49.7,2011
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",72.2,2011
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),3.75116,2011
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.547376,2011
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.812748,2011
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",3.4,2011
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",4,2011
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",41.432,2011
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",100.764,2011
+KOR,Korea (Republic of),61006,"Homicide rate (per 100,000 people)",0.8584,2011
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),36.4478,2011
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.44419,2011
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",96.90728,2011
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",100.45071,2011
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2011
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),30.24319398,2011
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.090096128,2011
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),80.802,2011
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.85169,2011
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.642497591,2011
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.895192523,2011
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.708727456,2011
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),16.51929211,2011
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",14,2011
+KOR,Korea (Republic of),100806,Forest area (% of total land area),63.9144297,2011
+KOR,Korea (Republic of),101606,Inequality in education (%),25.5,2011
+KOR,Korea (Republic of),101706,Inequality in income (%),18.4,2011
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),4.3,2011
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.8293112,2011
+KOR,Korea (Republic of),103206,Life expectancy index,0.935415385,2011
+KOR,Korea (Republic of),103606,Income index,0.86853855,2011
+KOR,Korea (Republic of),103706,Education index,0.862412873,2011
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",9.8,2011
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),9795,2011
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),0.5645908,2011
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",83.979,2011
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",77.38,2011
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.328,2011
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),15.154,2011
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",16.0098,2011
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.6026,2011
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",19394.50458,2011
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",43385.45535,2011
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),153.1653997,2011
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),5.523344,2011
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.31617,2011
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),110,2011
+KOR,Korea (Republic of),135006,Coefficient of human inequality,16.06666667,2011
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),31228.5107,2011
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.848075573,2011
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.915133149,2011
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.888184001,2011
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.926723695,2011
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.741462292,2011
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.4,2011
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),31412.43043,2011
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1559.446834,2011
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-1.97613,2011
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),60.9,2011
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),58.8,2011
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),6.4,2011
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),68.9,2011
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0,2011
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),1.347612055,2011
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),18.98053836,2011
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.810810811,2011
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.823529412,2011
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.152244726,2011
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),82.74552314,2011
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.377954903,2011
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41,2011
+KOR,Korea (Republic of),175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),93.1078186,2011
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),32.95883261,2011
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),80,2011
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2011
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),6.55844,2011
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",99,2011
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),82.90117,2010
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",77.05063,2010
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",89.11392,2010
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",10.8644,2010
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.4599,2010
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",11.43631663,2010
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),14.71571906,2010
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",1.8825,2010
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),27.4,2010
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",83.7,2010
+KOR,Korea (Republic of),44206,Total population (millions),49.552855,2010
+KOR,Korea (Republic of),45106,Urban population (%),81.9,2010
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),102.451,2010
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),0.96241,2010
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",20.91797,2010
+KOR,Korea (Republic of),47906,Median age (years),37.964,2010
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",49.5,2010
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",72.2,2010
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.07,2010
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),3.45314,2010
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.533184,2010
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.867739,2010
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",3.5,2010
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",4.1,2010
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",42.825,2010
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",104.285,2010
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),36.2694,2010
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.6999,2010
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",96.32878,2010
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",102.76127,2010
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2010
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",4,2010
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),30.50036829,2010
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.095211892,2010
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),80.456,2010
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.84376,2010
+KOR,Korea (Republic of),71406,Inequality-adjusted education index,0.640826378,2010
+KOR,Korea (Republic of),71506,Inequality-adjusted life expectancy index,0.885447877,2010
+KOR,Korea (Republic of),71606,Inequality-adjusted income index,0.704635881,2010
+KOR,Korea (Republic of),73506,Overall loss in HDI due to inequality (%),16.66493216,2010
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",15,2010
+KOR,Korea (Republic of),100806,Forest area (% of total land area),63.99259488,2010
+KOR,Korea (Republic of),101606,Inequality in education (%),25.5,2010
+KOR,Korea (Republic of),101706,Inequality in income (%),18.4,2010
+KOR,Korea (Republic of),101806,Inequality in life expectancy (%),4.8,2010
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.7686224,2010
+KOR,Korea (Republic of),103206,Life expectancy index,0.930092308,2010
+KOR,Korea (Republic of),103606,Income index,0.863524364,2010
+KOR,Korea (Republic of),103706,Education index,0.860169636,2010
+KOR,Korea (Republic of),110806,"Net migration rate (per 1,000 people)",-0.637,2010
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",9.9,2010
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),8798,2010
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),-2.15461,2010
+KOR,Korea (Republic of),112506,"Suicide rate, male (per 100,000 people)",39.3,2010
+KOR,Korea (Republic of),112606,"Suicide rate, female (per 100,000 people)",18.4,2010
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",83.65,2010
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",77.016,2010
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.999,2010
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),14.626,2010
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",16.0065,2010
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.5984,2010
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",18700.6409,2010
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",42024.005,2010
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),151.0408207,2010
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),5.304638,2010
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.28877,2010
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),95.6541,2010
+KOR,Korea (Republic of),135006,Coefficient of human inequality,16.23333333,2010
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),30352.10482,2010
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.843313743,2010
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.910756017,2010
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.884018971,2010
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.925949131,2010
+KOR,Korea (Republic of),138806,Inequality-adjusted HDI (IHDI),0.73669781,2010
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.7,2010
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),30386.83367,2010
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1504.071602,2010
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-2.0879,2010
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),60.8,2010
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),58.5,2010
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),6.6,2010
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),68.5,2010
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.3,2010
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),1.314953503,2010
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),19.4251961,2010
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.825,2010
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.891891892,2010
+KOR,Korea (Republic of),170006,Concentration index (exports) (value),0.154359653,2010
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),82.86953009,2010
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.376788256,2010
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.02,2010
+KOR,Korea (Republic of),177106,Population using improved drinking-water sources (%),99.00188523,2010
+KOR,Korea (Republic of),177206,Population using improved sanitation facilities (%),100,2010
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),32.02287506,2010
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),79.5,2010
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2010
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),6.50483,2010
+KOR,Korea (Republic of),182106,"Malaria incidence (per 1,000 people at risk)",0.731,2010
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",95,2010
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),80.08,2009
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.76533,2009
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.97739,2009
+KOR,Korea (Republic of),103206,Life expectancy index,0.924307692,2009
+KOR,Korea (Republic of),103606,Income index,0.854259708,2009
+KOR,Korea (Republic of),103706,Education index,0.831616611,2009
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.869180315,2009
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),28579.12943,2009
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),79.678,2008
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.7231,2008
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.60547543,2008
+KOR,Korea (Republic of),103206,Life expectancy index,0.918123077,2008
+KOR,Korea (Republic of),103606,Income index,0.854319079,2008
+KOR,Korea (Republic of),103706,Education index,0.851379737,2008
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.874073807,2008
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),28590.36434,2008
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),79.254,2007
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.64777,2007
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.52390194,2007
+KOR,Korea (Republic of),103206,Life expectancy index,0.9116,2007
+KOR,Korea (Republic of),103606,Income index,0.850798204,2007
+KOR,Korea (Republic of),103706,Education index,0.84656812,2007
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.869155729,2007
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),27931.67364,2007
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),78.811,2006
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.43778,2006
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.44232845,2006
+KOR,Korea (Republic of),103206,Life expectancy index,0.904784615,2006
+KOR,Korea (Republic of),103606,Income index,0.843419036,2006
+KOR,Korea (Republic of),103706,Education index,0.838015948,2006
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.861549623,2006
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),26599.98541,2006
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),80.48001,2005
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",74.07859,2005
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",87.49264,2005
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",10.493,2005
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",12.3113,2005
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",9.607269847,2005
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),13.37792642,2005
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",2.19,2005
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),32.2,2005
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",73.5,2005
+KOR,Korea (Republic of),44206,Total population (millions),48.708497,2005
+KOR,Korea (Republic of),45106,Urban population (%),81.3,2005
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),78.7179,2005
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),1.38479,2005
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",27.93159,2005
+KOR,Korea (Republic of),47906,Median age (years),34.798,2005
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",50.4,2005
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",74,2005
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.1,2005
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),2.62559,2005
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.576571,2005
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",1.51906,2005
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",4.7,2005
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",5.5,2005
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",50.283,2005
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",126.315,2005
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),35.22,2005
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.07377,2005
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",97.03713,2005
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",91.69628,2005
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2005
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2005
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),30.86101688,2005
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.106757828,2005
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),78.356,2005
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.29689,2005
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",14,2005
+KOR,Korea (Republic of),97106,Fresh water withdrawals (% of total renewable water resources),41.66,2005
+KOR,Korea (Republic of),100806,Forest area (% of total land area),64.58440888,2005
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.36075497,2005
+KOR,Korea (Republic of),103206,Life expectancy index,0.897784615,2005
+KOR,Korea (Republic of),103606,Income index,0.835941436,2005
+KOR,Korea (Republic of),103706,Education index,0.831383221,2005
+KOR,Korea (Republic of),110806,"Net migration rate (per 1,000 people)",0.338,2005
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",10.2,2005
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),6023,2005
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),-0.1998693,2005
+KOR,Korea (Republic of),112506,"Suicide rate, male (per 100,000 people)",34.7,2005
+KOR,Korea (Republic of),112606,"Suicide rate, female (per 100,000 people)",15.4,2005
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",81.647,2005
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",74.852,2005
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),26.041,2005
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),12.256,2005
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",15.4098,2005
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",17.1417,2005
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",17366.66689,2005
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",33211.52892,2005
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),125.4517576,2005
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),4.316711,2005
+KOR,Korea (Republic of),132806,Population under age 5 (millions),2.51468,2005
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),71.1843,2005
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),25516.82419,2005
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.820000625,2005
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.881932878,2005
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.854508569,2005
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.929776682,2005
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",3.7,2005
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),25315.28616,2005
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1229.516972,2005
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-2.67994,2005
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),62.1,2005
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),59.8,2005
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),3.901370049,2005
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),7.9,2005
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),65.2,2005
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.3,2005
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),0.87292338,2005
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),18.61952159,2005
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.825,2005
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.857142857,2005
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),80.61091994,2005
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.376507271,2005
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",40.67,2005
+KOR,Korea (Republic of),175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",80.2,2005
+KOR,Korea (Republic of),177106,Population using improved drinking-water sources (%),98.52745388,2005
+KOR,Korea (Republic of),177206,Population using improved sanitation facilities (%),100,2005
+KOR,Korea (Republic of),177706,Survival rate to the last grade of lower secondary general education (%),99.15318,2005
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),32.16306462,2005
+KOR,Korea (Republic of),179406,Skilled labour force (% of labour force),75.5,2005
+KOR,Korea (Republic of),179706,Ratio of education and health expenditure to military expenditure,3.641159529,2005
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2005
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),5.0824,2005
+KOR,Korea (Republic of),182106,"Malaria incidence (per 1,000 people at risk)",0.803,2005
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",94,2005
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),77.893,2004
+KOR,Korea (Republic of),69706,Expected years of schooling (years),16.09815,2004
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.20480397,2004
+KOR,Korea (Republic of),103206,Life expectancy index,0.890661538,2004
+KOR,Korea (Republic of),103606,Income index,0.831343256,2004
+KOR,Korea (Republic of),103706,Education index,0.820664299,2004
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.847005452,2004
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),24556.29223,2004
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),77.426,2003
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.9094,2003
+KOR,Korea (Republic of),103006,Mean years of schooling (years),11.04885298,2003
+KOR,Korea (Republic of),103206,Life expectancy index,0.883476923,2003
+KOR,Korea (Republic of),103606,Income index,0.824422241,2003
+KOR,Korea (Republic of),103706,Education index,0.810222877,2003
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.838783355,2003
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),23456.56697,2003
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),76.96,2002
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.72705,2002
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.89290199,2002
+KOR,Korea (Republic of),103206,Life expectancy index,0.876307692,2002
+KOR,Korea (Republic of),103606,Income index,0.820807738,2002
+KOR,Korea (Republic of),103706,Education index,0.799959233,2002
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.831742016,2002
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),22901.95373,2002
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),76.499,2001
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.68194,2001
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.73695099,2001
+KOR,Korea (Republic of),103206,Life expectancy index,0.869215385,2001
+KOR,Korea (Republic of),103606,Income index,0.810401645,2001
+KOR,Korea (Republic of),103706,Education index,0.793507811,2001
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.823745348,2001
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),21377.37504,2001
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),77.7,2000
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",69.55694,2000
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",84.86297,2000
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",9.6,2000
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",11.6,2000
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",9.52093176,2000
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),5.860805861,2000
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",2.926,2000
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),35.5,2000
+KOR,Korea (Republic of),43606,"Internet users, total (% of population)",44.7,2000
+KOR,Korea (Republic of),44206,Total population (millions),47.386312,2000
+KOR,Korea (Republic of),45106,Urban population (%),79.6,2000
+KOR,Korea (Republic of),46006,Mobile phone subscriptions (per 100 people),56.591,2000
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),1.18027,2000
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",32.12073,2000
+KOR,Korea (Republic of),47906,Median age (years),31.867,2000
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",48.8,2000
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",73.7,2000
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.1,2000
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),2.18087,2000
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.802392,2000
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",2.04927,2000
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",6.4,2000
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",7.5,2000
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",61.326,2000
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",159.723,2000
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),34.2127,2000
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",100.59254,2000
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",95.95772,2000
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",76.68274,2000
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",5,2000
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",3,2000
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),31.61682446,2000
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.191101472,2000
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),76.047,2000
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.62999,2000
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",16,2000
+KOR,Korea (Republic of),100806,Forest area (% of total land area),65.18764255,2000
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.581,2000
+KOR,Korea (Republic of),103206,Life expectancy index,0.862261538,2000
+KOR,Korea (Republic of),103606,Income index,0.804811639,2000
+KOR,Korea (Republic of),103706,Education index,0.786866389,2000
+KOR,Korea (Republic of),110806,"Net migration rate (per 1,000 people)",0.688,2000
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",10.8,2000
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),5322,2000
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),-3.355215,2000
+KOR,Korea (Republic of),112506,"Suicide rate, male (per 100,000 people)",20.8,2000
+KOR,Korea (Republic of),112606,"Suicide rate, female (per 100,000 people)",8.5,2000
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",79.668,2000
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",72.278,2000
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.556,2000
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),9.949,2000
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",14.7,2000
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",16.5,2000
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",13927.53186,2000
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",27227.54652,2000
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),70.93973941,2000
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),3.403681,2000
+KOR,Korea (Republic of),132806,Population under age 5 (millions),3.1727,2000
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),67.9472,2000
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),20756.7799,2000
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.781701008,2000
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.844891553,2000
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.817356309,2000
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.925208691,2000
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",4.4,2000
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),20600.73744,2000
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",975.7370134,2000
+KOR,Korea (Republic of),147206,International student mobility (% of total tertiary enrolment),-2.29226,2000
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),61.1,2000
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),58.4,2000
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),10.6,2000
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),61.3,2000
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),0.6,2000
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),0.700450814,2000
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),18.85258977,2000
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.7,2000
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.824427481,2000
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),83.96860009,2000
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.458690211,2000
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",40,2000
+KOR,Korea (Republic of),175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",79.3,2000
+KOR,Korea (Republic of),177206,Population using improved sanitation facilities (%),100,2000
+KOR,Korea (Republic of),177706,Survival rate to the last grade of lower secondary general education (%),98.76237,2000
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),32.9417149,2000
+KOR,Korea (Republic of),181206,Proportion of births attended by skilled health personnel (%),99.9,2000
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,2000
+KOR,Korea (Republic of),181806,Current health expenditure (% of GDP),3.99853,2000
+KOR,Korea (Republic of),182106,"Malaria incidence (per 1,000 people at risk)",2.522,2000
+KOR,Korea (Republic of),182206,"Tuberculosis incidence (per 100,000 people)",49,2000
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),75.608,1999
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.42915,1999
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.4704,1999
+KOR,Korea (Republic of),103206,Life expectancy index,0.855507692,1999
+KOR,Korea (Republic of),103606,Income index,0.7923823,1999
+KOR,Korea (Republic of),103706,Education index,0.777600833,1999
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.80780239,1999
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),18973.50891,1999
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),75.179,1998
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.20482,1998
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.3598,1998
+KOR,Korea (Republic of),103206,Life expectancy index,0.848907692,1998
+KOR,Korea (Republic of),103606,Income index,0.776859521,1998
+KOR,Korea (Republic of),103706,Education index,0.767682778,1998
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.797005992,1998
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),17120.58961,1998
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),3.010033445,1997
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),74.756,1997
+KOR,Korea (Republic of),69706,Expected years of schooling (years),15.50022,1997
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.2492,1997
+KOR,Korea (Republic of),103206,Life expectancy index,0.8424,1997
+KOR,Korea (Republic of),103606,Income index,0.787748292,1997
+KOR,Korea (Republic of),103706,Education index,0.772201667,1997
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.800225134,1997
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),18400.28715,1997
+KOR,Korea (Republic of),52306,Research and development expenditure (% of GDP),2.2429,1996
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),74.337,1996
+KOR,Korea (Republic of),69706,Expected years of schooling (years),14.88501,1996
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.1386,1996
+KOR,Korea (Republic of),103206,Life expectancy index,0.835953846,1996
+KOR,Korea (Republic of),103606,Income index,0.780798023,1996
+KOR,Korea (Republic of),103706,Education index,0.751425833,1996
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.788622279,1996
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),17572.84786,1996
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),73,1995
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",64.3,1995
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",82.08909,1995
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",8.9,1995
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",11.1,1995
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",8.311071381,1995
+KOR,Korea (Republic of),31706,Share of seats in parliament (% held by women),3.010033445,1995
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.111,1995
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),35.5,1995
+KOR,Korea (Republic of),44206,Total population (millions),45.298611,1995
+KOR,Korea (Republic of),45106,Urban population (%),78.2,1995
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",29.70537,1995
+KOR,Korea (Republic of),47906,Median age (years),29.322,1995
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",48.3,1995
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",75.3,1995
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.14,1995
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.589573,1995
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.319313,1995
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",9.1,1995
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",10.6,1995
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",77.888,1995
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",198.331,1995
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),32.16,1995
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.29865,1995
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",98.72327,1995
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",48.32468,1995
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",7,1995
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,1995
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),37.65015081,1995
+KOR,Korea (Republic of),68606,Gender Inequality Index (GII),0.276794847,1995
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),73.918,1995
+KOR,Korea (Republic of),69706,Expected years of schooling (years),14.50381,1995
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",19,1995
+KOR,Korea (Republic of),99106,Net official development assistance received (% of GNI),0.010295,1995
+KOR,Korea (Republic of),100806,Forest area (% of total land area),65.6126892,1995
+KOR,Korea (Republic of),103006,Mean years of schooling (years),10.028,1995
+KOR,Korea (Republic of),103206,Life expectancy index,0.829507692,1995
+KOR,Korea (Republic of),103606,Income index,0.771121364,1995
+KOR,Korea (Republic of),103706,Education index,0.737150278,1995
+KOR,Korea (Republic of),110806,"Net migration rate (per 1,000 people)",0.324,1995
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",6.1,1995
+KOR,Korea (Republic of),111106,International inbound tourists (thousands),3753,1995
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),-1.857584,1995
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",77.956,1995
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",69.783,1995
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),32.437,1995
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),8.417,1995
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",13.9,1995
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",15.1,1995
+KOR,Korea (Republic of),123506,"Estimated gross national income per capita, female (2011 PPP $)",10912.83323,1995
+KOR,Korea (Republic of),123606,"Estimated gross national income per capita, male (2011 PPP $)",22010.92122,1995
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),46.67324587,1995
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),2.706978,1995
+KOR,Korea (Republic of),132806,Population under age 5 (millions),3.49076,1995
+KOR,Korea (Republic of),133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",86.15979,1995
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),52.7851,1995
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),16566.4157,1995
+KOR,Korea (Republic of),136906,"Human Development Index (HDI), female",0.744650996,1995
+KOR,Korea (Republic of),137006,"Human Development Index (HDI), male",0.802802924,1995
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.778334705,1995
+KOR,Korea (Republic of),137906,Gender Development Index (GDI),0.927563881,1995
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",2.1,1995
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),16482.42708,1995
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",747.0292342,1995
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),61.7,1995
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),60.4,1995
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),2.990600109,1995
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),11.8,1995
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),54.8,1995
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),1.2,1995
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),0.443590287,1995
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),25.96528928,1995
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.666666667,1995
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.824324324,1995
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),87.08372533,1995
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.501681929,1995
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.78,1995
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),39.0032945,1995
+KOR,Korea (Republic of),181706,Rural population with access to electricity (%),100,1995
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),73.494,1994
+KOR,Korea (Republic of),69706,Expected years of schooling (years),14.24175,1994
+KOR,Korea (Republic of),103006,Mean years of schooling (years),9.812,1994
+KOR,Korea (Republic of),103206,Life expectancy index,0.822984615,1994
+KOR,Korea (Republic of),103606,Income index,0.759012651,1994
+KOR,Korea (Republic of),103706,Education index,0.722670833,1994
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.767114902,1994
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),15212.75499,1994
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),73.061,1993
+KOR,Korea (Republic of),69706,Expected years of schooling (years),13.93669,1993
+KOR,Korea (Republic of),103006,Mean years of schooling (years),9.596,1993
+KOR,Korea (Republic of),103206,Life expectancy index,0.816323077,1993
+KOR,Korea (Republic of),103606,Income index,0.74743968,1993
+KOR,Korea (Republic of),103706,Education index,0.706996944,1993
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.755588351,1993
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),14090.77472,1993
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),72.612,1992
+KOR,Korea (Republic of),69706,Expected years of schooling (years),13.71826,1992
+KOR,Korea (Republic of),103006,Mean years of schooling (years),9.38,1992
+KOR,Korea (Republic of),103206,Life expectancy index,0.809415385,1992
+KOR,Korea (Republic of),103606,Income index,0.739011377,1992
+KOR,Korea (Republic of),103706,Education index,0.693729444,1992
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.745883332,1992
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),13326.09743,1992
+KOR,Korea (Republic of),43006,Vulnerable employment (% of total employment),36.2,1991
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),72.146,1991
+KOR,Korea (Republic of),69706,Expected years of schooling (years),13.70925,1991
+KOR,Korea (Republic of),103006,Mean years of schooling (years),9.164,1991
+KOR,Korea (Republic of),103206,Life expectancy index,0.802246154,1991
+KOR,Korea (Republic of),103606,Income index,0.731590291,1991
+KOR,Korea (Republic of),103706,Education index,0.686279167,1991
+KOR,Korea (Republic of),110906,"Unemployment, youth (% ages 15–24)",7.1,1991
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.73851411,1991
+KOR,Korea (Republic of),140606,"Unemployment, total (% of labour force)",2.4,1991
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),12687.23276,1991
+KOR,Korea (Republic of),148306,Employment to population ratio (% ages 15 and older),58.9,1991
+KOR,Korea (Republic of),150606,Employment in agriculture (% of total employment),16.4,1991
+KOR,Korea (Republic of),150706,Employment in services (% of total employment),47.7,1991
+KOR,Korea (Republic of),153706,Working poor at PPP$3.10 a day (% of total employment),2.3,1991
+KOR,Korea (Republic of),169706,Total unemployment rate (female to male ratio),0.678571429,1991
+KOR,Korea (Republic of),169806,Youth unemployment rate (female to male ratio),0.788888889,1991
+KOR,Korea (Republic of),175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.54,1991
+KOR,Korea (Republic of),23806,Population with at least some secondary education (% ages 25 and older),61.5,1990
+KOR,Korea (Republic of),23906,"Population with at least some secondary education, female (% ages 25 and older)",57.57,1990
+KOR,Korea (Republic of),24006,"Population with at least some secondary education, male (% ages 25 and older)",77.28,1990
+KOR,Korea (Republic of),24106,"Mean years of schooling, female (years)",7.9,1990
+KOR,Korea (Republic of),24206,"Mean years of schooling, male (years)",10.4,1990
+KOR,Korea (Republic of),27706,"Carbon dioxide emissions, per capita (tonnes)",5.760374252,1990
+KOR,Korea (Republic of),36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.393,1990
+KOR,Korea (Republic of),44206,Total population (millions),42.923131,1990
+KOR,Korea (Republic of),45106,Urban population (%),73.8,1990
+KOR,Korea (Republic of),46106,Primary school dropout rate (% of primary school cohort),0.33532,1990
+KOR,Korea (Republic of),46206,"Pupil-teacher ratio, primary school (pupils per teacher)",36.2812,1990
+KOR,Korea (Republic of),47906,Median age (years),26.949,1990
+KOR,Korea (Republic of),48706,"Labour force participation rate (% ages 15 and older), female",47,1990
+KOR,Korea (Republic of),48806,"Labour force participation rate (% ages 15 and older), male",73.3,1990
+KOR,Korea (Republic of),49006,Sex ratio at birth (male to female births),1.14,1990
+KOR,Korea (Republic of),52606,"Remittances, inflows (% of GDP)",0.863793,1990
+KOR,Korea (Republic of),53506,"Foreign direct investment, net inflows (% of GDP)",0.282263,1990
+KOR,Korea (Republic of),57206,"Mortality rate, infant (per 1,000 live births)",13.5,1990
+KOR,Korea (Republic of),57506,"Mortality rate, under-five (per 1,000 live births)",15.7,1990
+KOR,Korea (Republic of),57806,"Mortality rate, female adult (per 1,000 people)",98.593,1990
+KOR,Korea (Republic of),57906,"Mortality rate, male adult (per 1,000 people)",233.233,1990
+KOR,Korea (Republic of),63106,Population ages 15–64 (millions),29.7616,1990
+KOR,Korea (Republic of),63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.33468,1990
+KOR,Korea (Republic of),63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",92.89786,1990
+KOR,Korea (Republic of),63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",36.50769,1990
+KOR,Korea (Republic of),64306,"Infants lacking immunization, measles (% of one-year-olds)",7,1990
+KOR,Korea (Republic of),64406,"Infants lacking immunization, DPT (% of one-year-olds)",10,1990
+KOR,Korea (Republic of),65606,Gross fixed capital formation (% of GDP),37.72840638,1990
+KOR,Korea (Republic of),69206,Life expectancy at birth (years),71.656,1990
+KOR,Korea (Republic of),69706,Expected years of schooling (years),13.58116,1990
+KOR,Korea (Republic of),89006,"Maternal mortality ratio (deaths per 100,000 live births)",21,1990
+KOR,Korea (Republic of),97106,Fresh water withdrawals (% of total renewable water resources),29.51,1990
+KOR,Korea (Republic of),99106,Net official development assistance received (% of GNI),0.018643,1990
+KOR,Korea (Republic of),100806,Forest area (% of total land area),66.03773585,1990
+KOR,Korea (Republic of),103006,Mean years of schooling (years),8.948,1990
+KOR,Korea (Republic of),103206,Life expectancy index,0.794707692,1990
+KOR,Korea (Republic of),103606,Income index,0.718236207,1990
+KOR,Korea (Republic of),103706,Education index,0.675521111,1990
+KOR,Korea (Republic of),110806,"Net migration rate (per 1,000 people)",0.815,1990
+KOR,Korea (Republic of),111306,Private capital flows (% of GDP),-0.0265617,1990
+KOR,Korea (Republic of),120606,"Life expectancy at birth, female (years)",75.869,1990
+KOR,Korea (Republic of),121106,"Life expectancy at birth, male (years)",67.4,1990
+KOR,Korea (Republic of),121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),36.678,1990
+KOR,Korea (Republic of),122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),7.545,1990
+KOR,Korea (Republic of),123306,"Expected years of schooling, female (years)",12.8,1990
+KOR,Korea (Republic of),123406,"Expected years of schooling, male (years)",14.3,1990
+KOR,Korea (Republic of),127606,Domestic credit provided by financial sector (% of GDP),49.00777544,1990
+KOR,Korea (Republic of),132706,Population ages 65 and older (millions),2.245599,1990
+KOR,Korea (Republic of),132806,Population under age 5 (millions),3.11886,1990
+KOR,Korea (Republic of),133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",55.46032,1990
+KOR,Korea (Republic of),133206,Exports and imports (% of GDP),51.261,1990
+KOR,Korea (Republic of),136706,GDP per capita (2011 PPP $),11632.59856,1990
+KOR,Korea (Republic of),137506,Human Development Index (HDI),0.727843284,1990
+KOR,Korea (Republic of),141706,Gross national income (GNI) per capita (2011 PPP $),11613.76668,1990
+KOR,Korea (Republic of),143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",498.6811595,1990
+KOR,Korea (Republic of),148206,Labour force participation rate (% ages 15 and older),60,1990
+KOR,Korea (Republic of),149206,Government expenditure on education (% of GDP),3.082449913,1990
+KOR,Korea (Republic of),163906,Renewable energy consumption (% of total final energy consumption),1.631946867,1990
+KOR,Korea (Republic of),164406,Adjusted net savings (% of GNI),28.90346364,1990
+KOR,Korea (Republic of),174306,Fossil fuel energy consumption (% of total energy consumption),83.78013157,1990
+KOR,Korea (Republic of),174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.495192388,1990
+KOR,Korea (Republic of),178306,Gross capital formation (% of GDP),39.61599759,1990

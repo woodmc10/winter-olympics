@@ -1,0 +1,1190 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+DEU,Germany,21806,Refugees by country of origin (thousands),0.075,2017
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.52632,2017
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.23937,2017
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.83103,2017
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.6317,2017
+DEU,Germany,24206,"Mean years of schooling, male (years)",14.4688,2017
+DEU,Germany,31706,Share of seats in parliament (% held by women),31.49100257,2017
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.535,2017
+DEU,Germany,43006,Vulnerable employment (% of total employment),6,2017
+DEU,Germany,44206,Total population (millions),82.114224,2017
+DEU,Germany,45106,Urban population (%),77.3,2017
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",55,2017
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.2,2017
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,2017
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.456212,2017
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",2.12059,2017
+DEU,Germany,63106,Population ages 15–64 (millions),53.762,2017
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2017
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2017
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),20.31847641,2017
+DEU,Germany,68606,Gender Inequality Index (GII),0.072057483,2017
+DEU,Germany,69206,Life expectancy at birth (years),81.178,2017
+DEU,Germany,69706,Expected years of schooling (years),16.95598,2017
+DEU,Germany,71406,Inequality-adjusted education index,0.914795837,2017
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.912964,2017
+DEU,Germany,71606,Inequality-adjusted income index,0.763004954,2017
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),8.06679475,2017
+DEU,Germany,101606,Inequality in education (%),2.7227,2017
+DEU,Germany,101706,Inequality in income (%),17.65562,2017
+DEU,Germany,101806,Inequality in life expectancy (%),3,2017
+DEU,Germany,103006,Mean years of schooling (years),14.08202,2017
+DEU,Germany,103206,Life expectancy index,0.9412,2017
+DEU,Germany,103606,Income index,0.926602343,2017
+DEU,Germany,103706,Education index,0.940400111,2017
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",6.4,2017
+DEU,Germany,111306,Private capital flows (% of GDP),7.483567,2017
+DEU,Germany,120606,"Life expectancy at birth, female (years)",83.498,2017
+DEU,Germany,121106,"Life expectancy at birth, male (years)",78.854,2017
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.97,2017
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),32.767,2017
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.8776,2017
+DEU,Germany,123406,"Expected years of schooling, male (years)",17.0334,2017
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",37688.88099,2017
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",54842.79671,2017
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),127.2696156,2017
+DEU,Germany,132706,Population ages 65 and older (millions),17.616147,2017
+DEU,Germany,132806,Population under age 5 (millions),3.595119,2017
+DEU,Germany,133206,Exports and imports (% of GDP),86.8977,2017
+DEU,Germany,135006,Coefficient of human inequality,7.792773333,2017
+DEU,Germany,136706,GDP per capita (2011 PPP $),45229.24529,2017
+DEU,Germany,136906,"Human Development Index (HDI), female",0.919064864,2017
+DEU,Germany,137006,"Human Development Index (HDI), male",0.950676555,2017
+DEU,Germany,137506,Human Development Index (HDI),0.93604342,2017
+DEU,Germany,137906,Gender Development Index (GDI),0.966748216,2017
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.860534719,2017
+DEU,Germany,140606,"Unemployment, total (% of labour force)",3.7,2017
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),46135.84754,2017
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3740.23244,2017
+DEU,Germany,146206,HDI rank,5,2017
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60.5,2017
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),58.2,2017
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.3,2017
+DEU,Germany,150706,Employment in services (% of total employment),71.5,2017
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.85,2017
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.901408451,2017
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.82,2017
+DEU,Germany,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),99.19924927,2017
+DEU,Germany,178306,Gross capital formation (% of GDP),19.78135965,2017
+DEU,Germany,179406,Skilled labour force (% of labour force),86.5,2017
+DEU,Germany,181606,Red List Index (value),0.98329,2017
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.52632,2016
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.23937,2016
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.83103,2016
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.6317,2016
+DEU,Germany,24206,"Mean years of schooling, male (years)",14.4688,2016
+DEU,Germany,31706,Share of seats in parliament (% held by women),36.85714286,2016
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.535,2016
+DEU,Germany,43006,Vulnerable employment (% of total employment),6,2016
+DEU,Germany,43606,"Internet users, total (% of population)",89.64710059,2016
+DEU,Germany,44206,Total population (millions),81.914672,2016
+DEU,Germany,45106,Urban population (%),77.2,2016
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),126.314,2016
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",55,2016
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.3,2016
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,2016
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.472919,2016
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",1.66936,2016
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.2,2016
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",3.8,2016
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",1.1762,2016
+DEU,Germany,63106,Population ages 15–64 (millions),53.7696,2016
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2016
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2016
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),20.03893068,2016
+DEU,Germany,68606,Gender Inequality Index (GII),0.064668671,2016
+DEU,Germany,69206,Life expectancy at birth (years),81.011,2016
+DEU,Germany,69706,Expected years of schooling (years),16.95598,2016
+DEU,Germany,71406,Inequality-adjusted education index,0.915949708,2016
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.910727154,2016
+DEU,Germany,71606,Inequality-adjusted income index,0.745434668,2016
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),8.629567822,2016
+DEU,Germany,101606,Inequality in education (%),2.6,2016
+DEU,Germany,101706,Inequality in income (%),19.28308,2016
+DEU,Germany,101806,Inequality in life expectancy (%),2.9728,2016
+DEU,Germany,103006,Mean years of schooling (years),14.08202,2016
+DEU,Germany,103206,Life expectancy index,0.938630769,2016
+DEU,Germany,103606,Income index,0.923517236,2016
+DEU,Germany,103706,Education index,0.940400111,2016
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",7,2016
+DEU,Germany,111106,International inbound tourists (thousands),35555,2016
+DEU,Germany,111306,Private capital flows (% of GDP),7.53383,2016
+DEU,Germany,120606,"Life expectancy at birth, female (years)",83.364,2016
+DEU,Germany,121106,"Life expectancy at birth, male (years)",78.648,2016
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.941,2016
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),32.403,2016
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.8776,2016
+DEU,Germany,123406,"Expected years of schooling, male (years)",17.0334,2016
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",36880.03495,2016
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",53792.27273,2016
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),133.7623447,2016
+DEU,Germany,132706,Population ages 65 and older (millions),17.42293,2016
+DEU,Germany,132806,Population under age 5 (millions),3.55669,2016
+DEU,Germany,133206,Exports and imports (% of GDP),84.2673,2016
+DEU,Germany,135006,Coefficient of human inequality,8.285293333,2016
+DEU,Germany,136706,GDP per capita (2011 PPP $),44431.82284,2016
+DEU,Germany,136906,"Human Development Index (HDI), female",0.917270401,2016
+DEU,Germany,137006,"Human Development Index (HDI), male",0.948639699,2016
+DEU,Germany,137506,Human Development Index (HDI),0.934151871,2016
+DEU,Germany,137906,Gender Development Index (GDI),0.966932337,2016
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.853538602,2016
+DEU,Germany,140606,"Unemployment, total (% of labour force)",4.1,2016
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),45203.14278,2016
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3658.901472,2016
+DEU,Germany,146206,HDI rank,4,2016
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),6.69,2016
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60.5,2016
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),58,2016
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.3,2016
+DEU,Germany,150706,Employment in services (% of total employment),71.3,2016
+DEU,Germany,164406,Adjusted net savings (% of GNI),13.64484285,2016
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.822222222,2016
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.897435897,2016
+DEU,Germany,170006,Concentration index (exports) (value),0.106374318,2016
+DEU,Germany,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",16,2016
+DEU,Germany,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.6,2016
+DEU,Germany,175006,Female share of employment in senior and middle management (%),28.1,2016
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.81,2016
+DEU,Germany,178306,Gross capital formation (% of GDP),19.19788171,2016
+DEU,Germany,179406,Skilled labour force (% of labour force),86.5,2016
+DEU,Germany,181706,Rural population with access to electricity (%),100,2016
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",8.1,2016
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.52632,2015
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.38145,2015
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.83103,2015
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.6317,2015
+DEU,Germany,24206,"Mean years of schooling, male (years)",14.4688,2015
+DEU,Germany,31706,Share of seats in parliament (% held by women),36.85714286,2015
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",7.299,2015
+DEU,Germany,43006,Vulnerable employment (% of total employment),6.1,2015
+DEU,Germany,43606,"Internet users, total (% of population)",87.5898,2015
+DEU,Germany,44206,Total population (millions),81.707789,2015
+DEU,Germany,45106,Urban population (%),77.2,2015
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),117.932,2015
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.22305,2015
+DEU,Germany,47906,Median age (years),45.894,2015
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",54.6,2015
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.2,2015
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,2015
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.87749,2015
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.468405,2015
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",1.6032,2015
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2015
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2015
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",50.173,2015
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",92.46,2015
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",0.8347,2015
+DEU,Germany,63106,Population ages 15–64 (millions),53.7341,2015
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.38905,2015
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",101.06085,2015
+DEU,Germany,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",66.27722,2015
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2015
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2015
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),19.85395824,2015
+DEU,Germany,68606,Gender Inequality Index (GII),0.070782334,2015
+DEU,Germany,69206,Life expectancy at birth (years),80.848,2015
+DEU,Germany,69706,Expected years of schooling (years),16.95598,2015
+DEU,Germany,71406,Inequality-adjusted education index,0.915690904,2015
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.901689662,2015
+DEU,Germany,71606,Inequality-adjusted income index,0.786041622,2015
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),7.170182709,2015
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",6,2015
+DEU,Germany,100806,Forest area (% of total land area),32.73242198,2015
+DEU,Germany,101606,Inequality in education (%),2.58042,2015
+DEU,Germany,101706,Inequality in income (%),14.75045,2015
+DEU,Germany,101806,Inequality in life expectancy (%),3.6783,2015
+DEU,Germany,103006,Mean years of schooling (years),14.06838,2015
+DEU,Germany,103206,Life expectancy index,0.936123077,2015
+DEU,Germany,103606,Income index,0.922047826,2015
+DEU,Germany,103706,Education index,0.939945444,2015
+DEU,Germany,110806,"Net migration rate (per 1,000 people)",4.372,2015
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",7.2,2015
+DEU,Germany,111106,International inbound tourists (thousands),34970,2015
+DEU,Germany,111306,Private capital flows (% of GDP),8.541192,2015
+DEU,Germany,112506,"Suicide rate, male (per 100,000 people)",13.9,2015
+DEU,Germany,112606,"Suicide rate, female (per 100,000 people)",4.5,2015
+DEU,Germany,120606,"Life expectancy at birth, female (years)",83.233,2015
+DEU,Germany,121106,"Life expectancy at birth, male (years)",78.445,2015
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.948,2015
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),32.111,2015
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.8776,2015
+DEU,Germany,123406,"Expected years of schooling, male (years)",17.0334,2015
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",36257.53984,2015
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",53555.97912,2015
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),134.3431078,2015
+DEU,Germany,132706,Population ages 65 and older (millions),17.25469,2015
+DEU,Germany,132806,Population under age 5 (millions),3.5178,2015
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",107.46605,2015
+DEU,Germany,133206,Exports and imports (% of GDP),85.7558,2015
+DEU,Germany,135006,Coefficient of human inequality,7.003056667,2015
+DEU,Germany,136706,GDP per capita (2011 PPP $),43937.94713,2015
+DEU,Germany,136906,"Human Development Index (HDI), female",0.915730967,2015
+DEU,Germany,137006,"Human Development Index (HDI), male",0.947367561,2015
+DEU,Germany,137506,Human Development Index (HDI),0.932673597,2015
+DEU,Germany,137906,Gender Development Index (GDI),0.966605787,2015
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.865799196,2015
+DEU,Germany,140606,"Unemployment, total (% of labour force)",4.6,2015
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),44765.5564,2015
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3589.141995,2015
+DEU,Germany,147206,International student mobility (% of total tertiary enrolment),3.78994,2015
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),6.17,2015
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60.3,2015
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),57.5,2015
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.4,2015
+DEU,Germany,150706,Employment in services (% of total employment),70.9,2015
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),14.2062527,2015
+DEU,Germany,164406,Adjusted net savings (% of GNI),13.66173494,2015
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.84,2015
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.911392405,2015
+DEU,Germany,170006,Concentration index (exports) (value),0.104691928,2015
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),79.8125644,2015
+DEU,Germany,175006,Female share of employment in senior and middle management (%),28.1,2015
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.73,2015
+DEU,Germany,176806,Programme for International Student Assessment (PISA) score in science,509,2015
+DEU,Germany,176906,Programme for International Student Assessment (PISA) score in reading,509,2015
+DEU,Germany,177006,Programme for International Student Assessment (PISA) score in mathematics,506,2015
+DEU,Germany,177106,Population using improved drinking-water sources (%),100,2015
+DEU,Germany,177206,Population using improved sanitation facilities (%),99.2191241,2015
+DEU,Germany,178306,Gross capital formation (% of GDP),19.14845662,2015
+DEU,Germany,179406,Skilled labour force (% of labour force),86.6,2015
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.7,2015
+DEU,Germany,181706,Rural population with access to electricity (%),100,2015
+DEU,Germany,181806,Current health expenditure (% of GDP),11.1516,2015
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",8,2015
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.66103,2014
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.38145,2014
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.95881,2014
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.4965,2014
+DEU,Germany,24206,"Mean years of schooling, male (years)",14.324,2014
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",8.889370395,2014
+DEU,Germany,31706,Share of seats in parliament (% held by women),35.57142857,2014
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",7.6226,2014
+DEU,Germany,43006,Vulnerable employment (% of total employment),6.4,2014
+DEU,Germany,43606,"Internet users, total (% of population)",86.19,2014
+DEU,Germany,44206,Total population (millions),81.48966,2014
+DEU,Germany,45106,Urban population (%),77.2,2014
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),122.138,2014
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.29942,2014
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",54.5,2014
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.5,2014
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.89227,2014
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.438713,2014
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",0.508362,2014
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2014
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2014
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",49.587,2014
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",91.118,2014
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",0.8786,2014
+DEU,Germany,63106,Population ages 15–64 (millions),53.6617,2014
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.45734,2014
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",101.08097,2014
+DEU,Germany,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",64.18444,2014
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2014
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2014
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),20.00208016,2014
+DEU,Germany,68606,Gender Inequality Index (GII),0.075178242,2014
+DEU,Germany,69206,Life expectancy at birth (years),80.691,2014
+DEU,Germany,69706,Expected years of schooling (years),16.85212,2014
+DEU,Germany,71406,Inequality-adjusted education index,0.91304518,2014
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.899160508,2014
+DEU,Germany,71606,Inequality-adjusted income index,0.791060332,2014
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),6.884262028,2014
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",6,2014
+DEU,Germany,100806,Forest area (% of total land area),32.72284322,2014
+DEU,Germany,101606,Inequality in education (%),2.4,2014
+DEU,Germany,101706,Inequality in income (%),14.1,2014
+DEU,Germany,101806,Inequality in life expectancy (%),3.7,2014
+DEU,Germany,103006,Mean years of schooling (years),14.02148,2014
+DEU,Germany,103206,Life expectancy index,0.933707692,2014
+DEU,Germany,103606,Income index,0.920908419,2014
+DEU,Germany,103706,Education index,0.935497111,2014
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",7.7,2014
+DEU,Germany,111106,International inbound tourists (thousands),32999,2014
+DEU,Germany,111306,Private capital flows (% of GDP),7.015882,2014
+DEU,Germany,120606,"Life expectancy at birth, female (years)",83.107,2014
+DEU,Germany,121106,"Life expectancy at birth, male (years)",78.248,2014
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),19.995,2014
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.863,2014
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.7296,2014
+DEU,Germany,123406,"Expected years of schooling, male (years)",16.9721,2014
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",35761.17031,2014
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",53395.96515,2014
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),139.7539617,2014
+DEU,Germany,132706,Population ages 65 and older (millions),17.09813,2014
+DEU,Germany,132806,Population under age 5 (millions),3.48027,2014
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",107.78586,2014
+DEU,Germany,133206,Exports and imports (% of GDP),84.4857,2014
+DEU,Germany,135006,Coefficient of human inequality,6.733333333,2014
+DEU,Germany,136706,GDP per capita (2011 PPP $),43560.61924,2014
+DEU,Germany,136906,"Human Development Index (HDI), female",0.911529185,2014
+DEU,Germany,137006,"Human Development Index (HDI), male",0.944035104,2014
+DEU,Germany,137506,Human Development Index (HDI),0.930014979,2014
+DEU,Germany,137906,Gender Development Index (GDI),0.965567044,2014
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.865990311,2014
+DEU,Germany,140606,"Unemployment, total (% of labour force)",5,2014
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),44429.16204,2014
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3527.647848,2014
+DEU,Germany,147206,International student mobility (% of total tertiary enrolment),3.1961,2014
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),6.36,2014
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60.4,2014
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),57.4,2014
+DEU,Germany,149206,Government expenditure on education (% of GDP),4.931129932,2014
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.4,2014
+DEU,Germany,150706,Employment in services (% of total employment),70.5,2014
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),13.37887823,2014
+DEU,Germany,164406,Adjusted net savings (% of GNI),12.95024168,2014
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.867924528,2014
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.927710843,2014
+DEU,Germany,170006,Concentration index (exports) (value),0.097203669,2014
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),79.71052694,2014
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.204068963,2014
+DEU,Germany,175006,Female share of employment in senior and middle management (%),27.8,2014
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.58,2014
+DEU,Germany,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),99.44180298,2014
+DEU,Germany,177706,Survival rate to the last grade of lower secondary general education (%),53.97398,2014
+DEU,Germany,178306,Gross capital formation (% of GDP),19.51719881,2014
+DEU,Germany,179406,Skilled labour force (% of labour force),86.7,2014
+DEU,Germany,179706,Ratio of education and health expenditure to military expenditure,13.48682181,2014
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.5,2014
+DEU,Germany,181706,Rural population with access to electricity (%),100,2014
+DEU,Germany,181806,Current health expenditure (% of GDP),11.0504,2014
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",6.1,2014
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.55942,2013
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.24054,2013
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.89616,2013
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.3612,2013
+DEU,Germany,24206,"Mean years of schooling, male (years)",14.1792,2013
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",9.39062342,2013
+DEU,Germany,31706,Share of seats in parliament (% held by women),35.57142857,2013
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",7.9462,2013
+DEU,Germany,43006,Vulnerable employment (% of total employment),6.5,2013
+DEU,Germany,43606,"Internet users, total (% of population)",84.17,2013
+DEU,Germany,44206,Total population (millions),81.265139,2013
+DEU,Germany,45106,Urban population (%),77.2,2013
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),123.096,2013
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.58027,2013
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",54.3,2013
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.6,2013
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.8173,2013
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.436979,2013
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",1.79633,2013
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2013
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",4,2013
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",51.723,2013
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",94.664,2013
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",0.8392,2013
+DEU,Germany,63106,Population ages 15–64 (millions),53.5373,2013
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.70173,2013
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",101.43066,2013
+DEU,Germany,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",60.45929,2013
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2013
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),19.69938859,2013
+DEU,Germany,68606,Gender Inequality Index (GII),0.077790688,2013
+DEU,Germany,69206,Life expectancy at birth (years),80.541,2013
+DEU,Germany,69706,Expected years of schooling (years),16.80899,2013
+DEU,Germany,71406,Inequality-adjusted education index,0.911073281,2013
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.8969382,2013
+DEU,Germany,71606,Inequality-adjusted income index,0.783038033,2013
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),7.137885916,2013
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",6,2013
+DEU,Germany,100806,Forest area (% of total land area),32.71898647,2013
+DEU,Germany,101606,Inequality in education (%),2.4,2013
+DEU,Germany,101706,Inequality in income (%),14.8,2013
+DEU,Germany,101806,Inequality in life expectancy (%),3.7,2013
+DEU,Germany,103006,Mean years of schooling (years),13.99681,2013
+DEU,Germany,103206,Life expectancy index,0.9314,2013
+DEU,Germany,103606,Income index,0.919058724,2013
+DEU,Germany,103706,Education index,0.933476722,2013
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",7.8,2013
+DEU,Germany,111106,International inbound tourists (thousands),31545,2013
+DEU,Germany,111306,Private capital flows (% of GDP),6.278254,2013
+DEU,Germany,120606,"Life expectancy at birth, female (years)",82.989,2013
+DEU,Germany,121106,"Life expectancy at birth, male (years)",78.056,2013
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),20.103,2013
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.689,2013
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.673,2013
+DEU,Germany,123406,"Expected years of schooling, male (years)",16.9423,2013
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",35234.76289,2013
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",52851.92557,2013
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),136.8863225,2013
+DEU,Germany,132706,Population ages 65 and older (millions),16.96543,2013
+DEU,Germany,132806,Population under age 5 (millions),3.44592,2013
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",107.38842,2013
+DEU,Germany,133206,Exports and imports (% of GDP),84.8364,2013
+DEU,Germany,135006,Coefficient of human inequality,6.966666667,2013
+DEU,Germany,136706,GDP per capita (2011 PPP $),42914.47611,2013
+DEU,Germany,136906,"Human Development Index (HDI), female",0.908148618,2013
+DEU,Germany,137006,"Human Development Index (HDI), male",0.940650754,2013
+DEU,Germany,137506,Human Development Index (HDI),0.927956595,2013
+DEU,Germany,137906,Gender Development Index (GDI),0.965447181,2013
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.861720112,2013
+DEU,Germany,140606,"Unemployment, total (% of labour force)",5.2,2013
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),43888.43922,2013
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3460.863889,2013
+DEU,Germany,147206,International student mobility (% of total tertiary enrolment),2.7715,2013
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),6.25,2013
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60.3,2013
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),57.2,2013
+DEU,Germany,149206,Government expenditure on education (% of GDP),4.934969902,2013
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.5,2013
+DEU,Germany,150706,Employment in services (% of total employment),70.8,2013
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),12.08907875,2013
+DEU,Germany,164406,Adjusted net savings (% of GNI),11.89130144,2013
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.890909091,2013
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.917647059,2013
+DEU,Germany,170006,Concentration index (exports) (value),0.092538268,2013
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),81.08826801,2013
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.218821812,2013
+DEU,Germany,175006,Female share of employment in senior and middle management (%),27.5,2013
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.48,2013
+DEU,Germany,177706,Survival rate to the last grade of lower secondary general education (%),52.6576,2013
+DEU,Germany,178306,Gross capital formation (% of GDP),19.51221411,2013
+DEU,Germany,179406,Skilled labour force (% of labour force),86.3,2013
+DEU,Germany,179706,Ratio of education and health expenditure to military expenditure,12.99268917,2013
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.5,2013
+DEU,Germany,181706,Rural population with access to electricity (%),100,2013
+DEU,Germany,181806,Current health expenditure (% of GDP),10.968,2013
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",5.9,2013
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.64598,2012
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.28518,2012
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",97.0282,2012
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.2259,2012
+DEU,Germany,24206,"Mean years of schooling, male (years)",14.0345,2012
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",9.199299757,2012
+DEU,Germany,31706,Share of seats in parliament (% held by women),32.36574746,2012
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",8.2698,2012
+DEU,Germany,43006,Vulnerable employment (% of total employment),6.9,2012
+DEU,Germany,43606,"Internet users, total (% of population)",82.34999847,2012
+DEU,Germany,44206,Total population (millions),81.066228,2012
+DEU,Germany,45106,Urban population (%),77.2,2012
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),113.981,2012
+DEU,Germany,46106,Primary school dropout rate (% of primary school cohort),3.51825,2012
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.71402,2012
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",53.7,2012
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.6,2012
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.86632,2012
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.413184,2012
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",1.84719,2012
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2012
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",4,2012
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",51.089,2012
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",95.528,2012
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",0.8129,2012
+DEU,Germany,63106,Population ages 15–64 (millions),53.3977,2012
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.14306,2012
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",102.27604,2012
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2012
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),20.11217217,2012
+DEU,Germany,68606,Gender Inequality Index (GII),0.085359555,2012
+DEU,Germany,69206,Life expectancy at birth (years),80.396,2012
+DEU,Germany,69706,Expected years of schooling (years),16.91199563,2012
+DEU,Germany,71406,Inequality-adjusted education index,0.91843022,2012
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.892002462,2012
+DEU,Germany,71606,Inequality-adjusted income index,0.78561352,2012
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),6.935736404,2012
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2012
+DEU,Germany,100806,Forest area (% of total land area),32.74516555,2012
+DEU,Germany,101606,Inequality in education (%),1.8,2012
+DEU,Germany,101706,Inequality in income (%),14.5,2012
+DEU,Germany,101806,Inequality in life expectancy (%),4,2012
+DEU,Germany,103006,Mean years of schooling (years),13.96462,2012
+DEU,Germany,103206,Life expectancy index,0.929169231,2012
+DEU,Germany,103606,Income index,0.918846222,2012
+DEU,Germany,103706,Education index,0.93526499,2012
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",8,2012
+DEU,Germany,111106,International inbound tourists (thousands),30411,2012
+DEU,Germany,111306,Private capital flows (% of GDP),2.835676,2012
+DEU,Germany,120606,"Life expectancy at birth, female (years)",82.877,2012
+DEU,Germany,121106,"Life expectancy at birth, male (years)",77.869,2012
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),20.26,2012
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.556,2012
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.7117,2012
+DEU,Germany,123406,"Expected years of schooling, male (years)",17.1073,2012
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",34664.55876,2012
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",53329.40011,2012
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),156.9249454,2012
+DEU,Germany,132706,Population ages 65 and older (millions),16.85034,2012
+DEU,Germany,132806,Population under age 5 (millions),3.41871,2012
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",114.61613,2012
+DEU,Germany,133206,Exports and imports (% of GDP),85.8748,2012
+DEU,Germany,135006,Coefficient of human inequality,6.766666667,2012
+DEU,Germany,136706,GDP per capita (2011 PPP $),42822.0994,2012
+DEU,Germany,136906,"Human Development Index (HDI), female",0.905601135,2012
+DEU,Germany,137006,"Human Development Index (HDI), male",0.940050825,2012
+DEU,Germany,137506,Human Development Index (HDI),0.927735361,2012
+DEU,Germany,137906,Gender Development Index (GDI),0.963353375,2012
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.863390082,2012
+DEU,Germany,140606,"Unemployment, total (% of labour force)",5.4,2012
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),43826.74122,2012
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3444.002587,2012
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),7.1,2012
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60,2012
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),56.8,2012
+DEU,Germany,149206,Government expenditure on education (% of GDP),4.933310032,2012
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.6,2012
+DEU,Germany,150706,Employment in services (% of total employment),70.3,2012
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),12.01513573,2012
+DEU,Germany,164406,Adjusted net savings (% of GNI),12.27948142,2012
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.928571429,2012
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.91954023,2012
+DEU,Germany,170006,Concentration index (exports) (value),0.092545809,2012
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),80.62522298,2012
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.214825987,2012
+DEU,Germany,175006,Female share of employment in senior and middle management (%),27.1,2012
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.21,2012
+DEU,Germany,178306,Gross capital formation (% of GDP),19.30677311,2012
+DEU,Germany,179406,Skilled labour force (% of labour force),86.2,2012
+DEU,Germany,179706,Ratio of education and health expenditure to military expenditure,12.00241955,2012
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.5,2012
+DEU,Germany,181706,Rural population with access to electricity (%),100,2012
+DEU,Germany,181806,Current health expenditure (% of GDP),10.805,2012
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",5.7,2012
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.61879,2011
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.25658,2011
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",97.00361,2011
+DEU,Germany,24106,"Mean years of schooling, female (years)",13.0907,2011
+DEU,Germany,24206,"Mean years of schooling, male (years)",13.8897,2011
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",9.12485921,2011
+DEU,Germany,31706,Share of seats in parliament (% held by women),32.36574746,2011
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",8.5934,2011
+DEU,Germany,43006,Vulnerable employment (% of total employment),6.9,2011
+DEU,Germany,43606,"Internet users, total (% of population)",81.26999954,2011
+DEU,Germany,44206,Total population (millions),80.93398,2011
+DEU,Germany,45106,Urban population (%),77.2,2011
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),112.314,2011
+DEU,Germany,46106,Primary school dropout rate (% of primary school cohort),3.75764,2011
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.82415,2011
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",53.7,2011
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.7,2011
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.79885,2011
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.407899,2011
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",2.59416,2011
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.4,2011
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",4.1,2011
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",52.93,2011
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",98.659,2011
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",0.9119,2011
+DEU,Germany,63106,Population ages 15–64 (millions),53.304,2011
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.41759,2011
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",103.66344,2011
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2011
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),20.26624789,2011
+DEU,Germany,68606,Gender Inequality Index (GII),0.087657733,2011
+DEU,Germany,69206,Life expectancy at birth (years),80.255,2011
+DEU,Germany,69706,Expected years of schooling (years),16.8536,2011
+DEU,Germany,71406,Inequality-adjusted education index,0.915284775,2011
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.88992,2011
+DEU,Germany,71606,Inequality-adjusted income index,0.785445793,2011
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),6.935736404,2011
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2011
+DEU,Germany,100806,Forest area (% of total land area),32.73754877,2011
+DEU,Germany,101606,Inequality in education (%),1.8,2011
+DEU,Germany,101706,Inequality in income (%),14.5,2011
+DEU,Germany,101806,Inequality in life expectancy (%),4,2011
+DEU,Germany,103006,Mean years of schooling (years),13.91719,2011
+DEU,Germany,103206,Life expectancy index,0.927,2011
+DEU,Germany,103606,Income index,0.918650051,2011
+DEU,Germany,103706,Education index,0.932061889,2011
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",8.5,2011
+DEU,Germany,111106,International inbound tourists (thousands),28374,2011
+DEU,Germany,111306,Private capital flows (% of GDP),-1.092827,2011
+DEU,Germany,120606,"Life expectancy at birth, female (years)",82.768,2011
+DEU,Germany,121106,"Life expectancy at birth, male (years)",77.684,2011
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),20.432,2011
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.403,2011
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.649,2011
+DEU,Germany,123406,"Expected years of schooling, male (years)",17.0528,2011
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",34631.58365,2011
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",53260.24228,2011
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),161.9667643,2011
+DEU,Germany,132706,Population ages 65 and older (millions),16.73911,2011
+DEU,Germany,132806,Population under age 5 (millions),3.39969,2011
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",114.34722,2011
+DEU,Germany,133206,Exports and imports (% of GDP),84.7477,2011
+DEU,Germany,135006,Coefficient of human inequality,6.766666667,2011
+DEU,Germany,136706,GDP per capita (2011 PPP $),42692.51976,2011
+DEU,Germany,136906,"Human Development Index (HDI), female",0.902919315,2011
+DEU,Germany,137006,"Human Development Index (HDI), male",0.936915588,2011
+DEU,Germany,137506,Human Development Index (HDI),0.925887447,2011
+DEU,Germany,137906,Gender Development Index (GDI),0.96371469,2011
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.861670334,2011
+DEU,Germany,140606,"Unemployment, total (% of labour force)",5.8,2011
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),43769.86181,2011
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3427.141298,2011
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),7.49,2011
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),60,2011
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),56.5,2011
+DEU,Germany,149206,Government expenditure on education (% of GDP),4.807799816,2011
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.7,2011
+DEU,Germany,150706,Employment in services (% of total employment),70.1,2011
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),11.39435591,2011
+DEU,Germany,164406,Adjusted net savings (% of GNI),13.28935391,2011
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.933333333,2011
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.923913043,2011
+DEU,Germany,170006,Concentration index (exports) (value),0.09192431,2011
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),80.37020876,2011
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.213734379,2011
+DEU,Germany,175006,Female share of employment in senior and middle management (%),27.9,2011
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.2,2011
+DEU,Germany,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",68.7,2011
+DEU,Germany,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),98.70453644,2011
+DEU,Germany,178306,Gross capital formation (% of GDP),21.07753263,2011
+DEU,Germany,179406,Skilled labour force (% of labour force),85.9,2011
+DEU,Germany,179706,Ratio of education and health expenditure to military expenditure,12.14179356,2011
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.3,2011
+DEU,Germany,181706,Rural population with access to electricity (%),100,2011
+DEU,Germany,181806,Current health expenditure (% of GDP),10.7472,2011
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",5.8,2011
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.38785,2010
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",95.97421,2010
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",96.82807,2010
+DEU,Germany,24106,"Mean years of schooling, female (years)",12.9554,2010
+DEU,Germany,24206,"Mean years of schooling, male (years)",13.7449,2010
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",9.279634012,2010
+DEU,Germany,31706,Share of seats in parliament (% held by women),31.69319826,2010
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",8.917,2010
+DEU,Germany,43006,Vulnerable employment (% of total employment),6.8,2010
+DEU,Germany,43606,"Internet users, total (% of population)",82,2010
+DEU,Germany,44206,Total population (millions),80.894785,2010
+DEU,Germany,45106,Urban population (%),77,2010
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),109.278,2010
+DEU,Germany,46106,Primary school dropout rate (% of primary school cohort),3.38377,2010
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.68383,2010
+DEU,Germany,47906,Median age (years),44.33,2010
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",52.8,2010
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.5,2010
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,2010
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.71373,2010
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.374342,2010
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",2.51833,2010
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.5,2010
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",4.2,2010
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",53.274,2010
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",101.932,2010
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",0.9803,2010
+DEU,Germany,63106,Population ages 15–64 (millions),53.3056,2010
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.93574,2010
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",103.85896,2010
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2010
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2010
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),19.43555576,2010
+DEU,Germany,68606,Gender Inequality Index (GII),0.091750132,2010
+DEU,Germany,69206,Life expectancy at birth (years),80.113,2010
+DEU,Germany,69706,Expected years of schooling (years),16.79521,2010
+DEU,Germany,71406,Inequality-adjusted education index,0.906461197,2010
+DEU,Germany,71506,Inequality-adjusted life expectancy index,0.884123508,2010
+DEU,Germany,71606,Inequality-adjusted income index,0.75773148,2010
+DEU,Germany,73506,Overall loss in HDI due to inequality (%),8.025842324,2010
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2010
+DEU,Germany,97106,Fresh water withdrawals (% of total renewable water resources),21.42,2010
+DEU,Germany,100806,Forest area (% of total land area),32.73087185,2010
+DEU,Germany,101606,Inequality in education (%),2.3,2010
+DEU,Germany,101706,Inequality in income (%),16.7,2010
+DEU,Germany,101806,Inequality in life expectancy (%),4.4,2010
+DEU,Germany,103006,Mean years of schooling (years),13.83801,2010
+DEU,Germany,103206,Life expectancy index,0.924815385,2010
+DEU,Germany,103606,Income index,0.909641632,2010
+DEU,Germany,103706,Education index,0.927800611,2010
+DEU,Germany,110806,"Net migration rate (per 1,000 people)",0.106,2010
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",9.8,2010
+DEU,Germany,111106,International inbound tourists (thousands),26875,2010
+DEU,Germany,111306,Private capital flows (% of GDP),6.284528,2010
+DEU,Germany,112506,"Suicide rate, male (per 100,000 people)",15.2,2010
+DEU,Germany,112606,"Suicide rate, female (per 100,000 people)",4.5,2010
+DEU,Germany,120606,"Life expectancy at birth, female (years)",82.66,2010
+DEU,Germany,121106,"Life expectancy at birth, male (years)",77.495,2010
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),20.583,2010
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.173,2010
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.5862,2010
+DEU,Germany,123406,"Expected years of schooling, male (years)",16.9982,2010
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",32529.33047,2010
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",50289.76544,2010
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),164.7975628,2010
+DEU,Germany,132706,Population ages 65 and older (millions),16.61709,2010
+DEU,Germany,132806,Population under age 5 (millions),3.39062,2010
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",113.09398,2010
+DEU,Germany,133206,Exports and imports (% of GDP),79.3031,2010
+DEU,Germany,135006,Coefficient of human inequality,7.8,2010
+DEU,Germany,136706,GDP per capita (2011 PPP $),40428.72103,2010
+DEU,Germany,136906,"Human Development Index (HDI), female",0.89705624,2010
+DEU,Germany,137006,"Human Development Index (HDI), male",0.930962034,2010
+DEU,Germany,137506,Human Development Index (HDI),0.92071809,2010
+DEU,Germany,137906,Gender Development Index (GDI),0.963579831,2010
+DEU,Germany,138806,Inequality-adjusted HDI (IHDI),0.846822708,2010
+DEU,Germany,140606,"Unemployment, total (% of labour force)",7,2010
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),41235.89462,2010
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3306.13669,2010
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),8.3,2010
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),59.4,2010
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),55.3,2010
+DEU,Germany,149206,Government expenditure on education (% of GDP),4.913680077,2010
+DEU,Germany,150606,Employment in agriculture (% of total employment),1.7,2010
+DEU,Germany,150706,Employment in services (% of total employment),70,2010
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),10.29351964,2010
+DEU,Germany,164406,Adjusted net savings (% of GNI),11.30100844,2010
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.878378378,2010
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.91588785,2010
+DEU,Germany,170006,Concentration index (exports) (value),0.09704184,2010
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),79.56035026,2010
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.229530734,2010
+DEU,Germany,175006,Female share of employment in senior and middle management (%),28.3,2010
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.03,2010
+DEU,Germany,177106,Population using improved drinking-water sources (%),100,2010
+DEU,Germany,177206,Population using improved sanitation facilities (%),99.21607686,2010
+DEU,Germany,178306,Gross capital formation (% of GDP),19.62539631,2010
+DEU,Germany,179406,Skilled labour force (% of labour force),85.2,2010
+DEU,Germany,179706,Ratio of education and health expenditure to military expenditure,11.78190223,2010
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.3,2010
+DEU,Germany,181706,Rural population with access to electricity (%),100,2010
+DEU,Germany,181806,Current health expenditure (% of GDP),11.0349,2010
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",5.8,2010
+DEU,Germany,69206,Life expectancy at birth (years),79.963,2009
+DEU,Germany,69706,Expected years of schooling (years),16.73681,2009
+DEU,Germany,103006,Mean years of schooling (years),13.76388,2009
+DEU,Germany,103206,Life expectancy index,0.922507692,2009
+DEU,Germany,103606,Income index,0.903806326,2009
+DEU,Germany,103706,Education index,0.923707389,2009
+DEU,Germany,137506,Human Development Index (HDI),0.916628304,2009
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),39673.32117,2009
+DEU,Germany,69206,Life expectancy at birth (years),79.803,2008
+DEU,Germany,69706,Expected years of schooling (years),16.67842,2008
+DEU,Germany,103006,Mean years of schooling (years),13.74107,2008
+DEU,Germany,103206,Life expectancy index,0.920046154,2008
+DEU,Germany,103606,Income index,0.910216081,2008
+DEU,Germany,103706,Education index,0.921325111,2008
+DEU,Germany,137506,Human Development Index (HDI),0.917182322,2008
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),41393.00886,2008
+DEU,Germany,69206,Life expectancy at birth (years),79.627,2007
+DEU,Germany,69706,Expected years of schooling (years),16.62002,2007
+DEU,Germany,103006,Mean years of schooling (years),13.6644,2007
+DEU,Germany,103206,Life expectancy index,0.917338462,2007
+DEU,Germany,103606,Income index,0.909068645,2007
+DEU,Germany,103706,Education index,0.917147222,2007
+DEU,Germany,137506,Human Development Index (HDI),0.914509972,2007
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),41079.7742,2007
+DEU,Germany,69206,Life expectancy at birth (years),79.434,2006
+DEU,Germany,69706,Expected years of schooling (years),16.56163,2006
+DEU,Germany,103006,Mean years of schooling (years),13.58708,2006
+DEU,Germany,103206,Life expectancy index,0.914369231,2006
+DEU,Germany,103606,Income index,0.904394535,2006
+DEU,Germany,103706,Education index,0.912947944,2006
+DEU,Germany,137506,Human Development Index (HDI),0.91055989,2006
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),39828.10977,2006
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),96.90086,2005
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",96.50746,2005
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",97.32513,2005
+DEU,Germany,24106,"Mean years of schooling, female (years)",12.2792,2005
+DEU,Germany,24206,"Mean years of schooling, male (years)",13.0209,2005
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",9.666372234,2005
+DEU,Germany,31706,Share of seats in parliament (% held by women),30.45387994,2005
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",12.37,2005
+DEU,Germany,43006,Vulnerable employment (% of total employment),7.5,2005
+DEU,Germany,43606,"Internet users, total (% of population)",68.71,2005
+DEU,Germany,44206,Total population (millions),81.671234,2005
+DEU,Germany,45106,Urban population (%),76,2005
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),97.0611,2005
+DEU,Germany,46106,Primary school dropout rate (% of primary school cohort),2.03025,2005
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",14.12233,2005
+DEU,Germany,47906,Median age (years),42.118,2005
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",50.7,2005
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",66.7,2005
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,2005
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.42344,2005
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.239944,2005
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",2.09183,2005
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",3.9,2005
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",4.7,2005
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",57.721,2005
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",111.847,2005
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",1.064,2005
+DEU,Germany,63106,Population ages 15–64 (millions),54.496,2005
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.01598,2005
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",102.09254,2005
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2005
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2005
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),19.06943491,2005
+DEU,Germany,68606,Gender Inequality Index (GII),0.116750158,2005
+DEU,Germany,69206,Life expectancy at birth (years),79.223,2005
+DEU,Germany,69706,Expected years of schooling (years),16.50324,2005
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2005
+DEU,Germany,100806,Forest area (% of total land area),32.64135795,2005
+DEU,Germany,103006,Mean years of schooling (years),13.30261,2005
+DEU,Germany,103206,Life expectancy index,0.911123077,2005
+DEU,Germany,103606,Income index,0.897498809,2005
+DEU,Germany,103706,Education index,0.901843667,2005
+DEU,Germany,110806,"Net migration rate (per 1,000 people)",1.973,2005
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",15.5,2005
+DEU,Germany,111106,International inbound tourists (thousands),21500,2005
+DEU,Germany,111306,Private capital flows (% of GDP),2.264422,2005
+DEU,Germany,112506,"Suicide rate, male (per 100,000 people)",15.8,2005
+DEU,Germany,112606,"Suicide rate, female (per 100,000 people)",4.7,2005
+DEU,Germany,120606,"Life expectancy at birth, female (years)",81.959,2005
+DEU,Germany,121106,"Life expectancy at birth, male (years)",76.337,2005
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.606,2005
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),28.26,2005
+DEU,Germany,123306,"Expected years of schooling, female (years)",16.2726,2005
+DEU,Germany,123406,"Expected years of schooling, male (years)",16.7252,2005
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",28085.03254,2005
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",48479.78869,2005
+DEU,Germany,127606,Domestic credit provided by financial sector (% of GDP),132.5983763,2005
+DEU,Germany,132706,Population ages 65 and older (millions),15.40078,2005
+DEU,Germany,132806,Population under age 5 (millions),3.59928,2005
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",96.11751,2005
+DEU,Germany,133206,Exports and imports (% of GDP),70.4212,2005
+DEU,Germany,136706,GDP per capita (2011 PPP $),37703.93294,2005
+DEU,Germany,136906,"Human Development Index (HDI), female",0.875466781,2005
+DEU,Germany,137006,"Human Development Index (HDI), male",0.912501373,2005
+DEU,Germany,137506,Human Development Index (HDI),0.903470679,2005
+DEU,Germany,137906,Gender Development Index (GDI),0.959414207,2005
+DEU,Germany,140606,"Unemployment, total (% of labour force)",11.2,2005
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),38050.82353,2005
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3109.421557,2005
+DEU,Germany,147906,Youth not in school or employment (% ages 15-24),11.28,2005
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),58.5,2005
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),51.9,2005
+DEU,Germany,150606,Employment in agriculture (% of total employment),2.4,2005
+DEU,Germany,150706,Employment in services (% of total employment),67.8,2005
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),6.764551009,2005
+DEU,Germany,164406,Adjusted net savings (% of GNI),9.693600464,2005
+DEU,Germany,169706,Total unemployment rate (female to male ratio),0.956140351,2005
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.922619048,2005
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),81.85567627,2005
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.256375701,2005
+DEU,Germany,175006,Female share of employment in senior and middle management (%),24.3,2005
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.13,2005
+DEU,Germany,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",66.2,2005
+DEU,Germany,177106,Population using improved drinking-water sources (%),100,2005
+DEU,Germany,177206,Population using improved sanitation facilities (%),99.21325287,2005
+DEU,Germany,178306,Gross capital formation (% of GDP),18.81453022,2005
+DEU,Germany,179406,Skilled labour force (% of labour force),82.2,2005
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.2,2005
+DEU,Germany,181706,Rural population with access to electricity (%),100,2005
+DEU,Germany,181806,Current health expenditure (% of GDP),10.2752,2005
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",8,2005
+DEU,Germany,69206,Life expectancy at birth (years),78.994,2004
+DEU,Germany,69706,Expected years of schooling (years),16.44484,2004
+DEU,Germany,103006,Mean years of schooling (years),12.88978,2004
+DEU,Germany,103206,Life expectancy index,0.9076,2004
+DEU,Germany,103606,Income index,0.896075453,2004
+DEU,Germany,103706,Education index,0.886460444,2004
+DEU,Germany,137506,Human Development Index (HDI),0.896670351,2004
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),37693.96508,2004
+DEU,Germany,69206,Life expectancy at birth (years),78.753,2003
+DEU,Germany,69706,Expected years of schooling (years),16.38645,2003
+DEU,Germany,103006,Mean years of schooling (years),12.5,2003
+DEU,Germany,103206,Life expectancy index,0.903892308,2003
+DEU,Germany,103606,Income index,0.891827078,2003
+DEU,Germany,103706,Education index,0.871845833,2003
+DEU,Germany,137506,Human Development Index (HDI),0.889089907,2003
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),36648.60805,2003
+DEU,Germany,69206,Life expectancy at birth (years),78.503,2002
+DEU,Germany,69706,Expected years of schooling (years),16.32805,2002
+DEU,Germany,103006,Mean years of schooling (years),12.1,2002
+DEU,Germany,103206,Life expectancy index,0.900046154,2002
+DEU,Germany,103606,Income index,0.892535207,2002
+DEU,Germany,103706,Education index,0.856890278,2002
+DEU,Germany,137506,Human Development Index (HDI),0.882954757,2002
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),36820.81534,2002
+DEU,Germany,69206,Life expectancy at birth (years),78.246,2001
+DEU,Germany,69706,Expected years of schooling (years),16.26966,2001
+DEU,Germany,103006,Mean years of schooling (years),11.7,2001
+DEU,Germany,103206,Life expectancy index,0.896092308,2001
+DEU,Germany,103606,Income index,0.893346154,2001
+DEU,Germany,103706,Education index,0.841935,2001
+DEU,Germany,137506,Human Development Index (HDI),0.87676599,2001
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),37019.02051,2001
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),73.4,2000
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",70.26245287,2000
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",81.900374,2000
+DEU,Germany,24106,"Mean years of schooling, female (years)",9.7,2000
+DEU,Germany,24206,"Mean years of schooling, male (years)",11.6,2000
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",10.09563988,2000
+DEU,Germany,31706,Share of seats in parliament (% held by women),30.35230352,2000
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",13.114,2000
+DEU,Germany,43006,Vulnerable employment (% of total employment),5.9,2000
+DEU,Germany,43606,"Internet users, total (% of population)",30.2163466,2000
+DEU,Germany,44206,Total population (millions),81.487757,2000
+DEU,Germany,45106,Urban population (%),75,2000
+DEU,Germany,46006,Mobile phone subscriptions (per 100 people),59.1524,2000
+DEU,Germany,46106,Primary school dropout rate (% of primary school cohort),0.99859,2000
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",15.28331,2000
+DEU,Germany,47906,Median age (years),40.054,2000
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",49.1,2000
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",67.7,2000
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,2000
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.38769,2000
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.184836,2000
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",12.7176,2000
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",4.4,2000
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",5.4,2000
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",63.374,2000
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",125.476,2000
+DEU,Germany,61006,"Homicide rate (per 100,000 people)",1.2456,2000
+DEU,Germany,63106,Population ages 15–64 (millions),55.285,2000
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.11767,2000
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",99.66775,2000
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",8,2000
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",4,2000
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),22.98798004,2000
+DEU,Germany,68606,Gender Inequality Index (GII),0.12977794,2000
+DEU,Germany,69206,Life expectancy at birth (years),77.983,2000
+DEU,Germany,69706,Expected years of schooling (years),16.21126,2000
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",8,2000
+DEU,Germany,100806,Forest area (% of total land area),32.53761284,2000
+DEU,Germany,103006,Mean years of schooling (years),11.2,2000
+DEU,Germany,103206,Life expectancy index,0.892046154,2000
+DEU,Germany,103606,Income index,0.891333019,2000
+DEU,Germany,103706,Education index,0.823646111,2000
+DEU,Germany,110806,"Net migration rate (per 1,000 people)",1.711,2000
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",8.6,2000
+DEU,Germany,111106,International inbound tourists (thousands),18983,2000
+DEU,Germany,111306,Private capital flows (% of GDP),0.0434186,2000
+DEU,Germany,112506,"Suicide rate, male (per 100,000 people)",17.9,2000
+DEU,Germany,112606,"Suicide rate, female (per 100,000 people)",5.2,2000
+DEU,Germany,120606,"Life expectancy at birth, female (years)",80.93,2000
+DEU,Germany,121106,"Life expectancy at birth, male (years)",74.811,2000
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.115,2000
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),24.28,2000
+DEU,Germany,123306,"Expected years of schooling, female (years)",16,2000
+DEU,Germany,123406,"Expected years of schooling, male (years)",16.5,2000
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",26238.13843,2000
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",47371.32253,2000
+DEU,Germany,132706,Population ages 65 and older (millions),13.42338,2000
+DEU,Germany,132806,Population under age 5 (millions),3.92039,2000
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",96.9191,2000
+DEU,Germany,133206,Exports and imports (% of GDP),61.39,2000
+DEU,Germany,136706,GDP per capita (2011 PPP $),36764.56293,2000
+DEU,Germany,136906,"Human Development Index (HDI), female",0.834279558,2000
+DEU,Germany,137006,"Human Development Index (HDI), male",0.88507601,2000
+DEU,Germany,137506,Human Development Index (HDI),0.868405684,2000
+DEU,Germany,137906,Gender Development Index (GDI),0.942607808,2000
+DEU,Germany,140606,"Unemployment, total (% of labour force)",7.9,2000
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),36528.93716,2000
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3022.470159,2000
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),58.1,2000
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),53.5,2000
+DEU,Germany,150606,Employment in agriculture (% of total employment),2.6,2000
+DEU,Germany,150706,Employment in services (% of total employment),63.8,2000
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),3.70043759,2000
+DEU,Germany,164406,Adjusted net savings (% of GNI),8.741273277,2000
+DEU,Germany,169706,Total unemployment rate (female to male ratio),1.077922078,2000
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.905263158,2000
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),83.62197514,2000
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.274602473,2000
+DEU,Germany,175006,Female share of employment in senior and middle management (%),21.9,2000
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.83,2000
+DEU,Germany,177106,Population using improved drinking-water sources (%),100,2000
+DEU,Germany,177206,Population using improved sanitation facilities (%),99.21238396,2000
+DEU,Germany,178306,Gross capital formation (% of GDP),23.92325937,2000
+DEU,Germany,181206,Proportion of births attended by skilled health personnel (%),98.6,2000
+DEU,Germany,181706,Rural population with access to electricity (%),100,2000
+DEU,Germany,181806,Current health expenditure (% of GDP),9.83969,2000
+DEU,Germany,182206,"Tuberculosis incidence (per 100,000 people)",13,2000
+DEU,Germany,69206,Life expectancy at birth (years),77.715,1999
+DEU,Germany,69706,Expected years of schooling (years),16.15287,1999
+DEU,Germany,103006,Mean years of schooling (years),10.34,1999
+DEU,Germany,103206,Life expectancy index,0.887923077,1999
+DEU,Germany,103606,Income index,0.886837223,1999
+DEU,Germany,103706,Education index,0.7933575,1999
+DEU,Germany,137506,Human Development Index (HDI),0.854862099,1999
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),35457.76408,1999
+DEU,Germany,69206,Life expectancy at birth (years),77.442,1998
+DEU,Germany,69706,Expected years of schooling (years),16.09447,1998
+DEU,Germany,103006,Mean years of schooling (years),10.17,1998
+DEU,Germany,103206,Life expectancy index,0.883723077,1998
+DEU,Germany,103606,Income index,0.884239669,1998
+DEU,Germany,103706,Education index,0.786068611,1998
+DEU,Germany,137506,Human Development Index (HDI),0.850058632,1998
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),34853.24499,1998
+DEU,Germany,31706,Share of seats in parliament (% held by women),25.50607287,1997
+DEU,Germany,69206,Life expectancy at birth (years),77.166,1997
+DEU,Germany,69706,Expected years of schooling (years),15.89473,1997
+DEU,Germany,103006,Mean years of schooling (years),10,1997
+DEU,Germany,103206,Life expectancy index,0.879476923,1997
+DEU,Germany,103606,Income index,0.881871864,1997
+DEU,Germany,103706,Education index,0.774853611,1997
+DEU,Germany,137506,Human Development Index (HDI),0.843884867,1997
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),34311.17858,1997
+DEU,Germany,52306,Research and development expenditure (% of GDP),2.13308,1996
+DEU,Germany,69206,Life expectancy at birth (years),76.891,1996
+DEU,Germany,69706,Expected years of schooling (years),15.81072,1996
+DEU,Germany,103006,Mean years of schooling (years),9.83,1996
+DEU,Germany,103206,Life expectancy index,0.875246154,1996
+DEU,Germany,103606,Income index,0.879637431,1996
+DEU,Germany,103706,Education index,0.766853333,1996
+DEU,Germany,137506,Human Development Index (HDI),0.83891007,1996
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),33807.37915,1996
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),62.8,1995
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",60.56593602,1995
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",68.086729,1995
+DEU,Germany,24106,"Mean years of schooling, female (years)",9,1995
+DEU,Germany,24206,"Mean years of schooling, male (years)",10.5,1995
+DEU,Germany,27706,"Carbon dioxide emissions, per capita (tonnes)",10.57946663,1995
+DEU,Germany,31706,Share of seats in parliament (% held by women),25.50607287,1995
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",15.908,1995
+DEU,Germany,43006,Vulnerable employment (% of total employment),5.7,1995
+DEU,Germany,44206,Total population (millions),81.240604,1995
+DEU,Germany,45106,Urban population (%),73.9,1995
+DEU,Germany,46106,Primary school dropout rate (% of primary school cohort),0.80503,1995
+DEU,Germany,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",17.45831,1995
+DEU,Germany,47906,Median age (years),38.407,1995
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",47.9,1995
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",69.4,1995
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,1995
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.173906,1995
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",0.462471,1995
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",5.3,1995
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",6.5,1995
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",70.345,1995
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",144.286,1995
+DEU,Germany,63106,Population ages 15–64 (millions),55.4541,1995
+DEU,Germany,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.08677,1995
+DEU,Germany,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",104.66,1995
+DEU,Germany,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",45.22718,1995
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",8,1995
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",8,1995
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),23.3619818,1995
+DEU,Germany,68606,Gender Inequality Index (GII),0.155516312,1995
+DEU,Germany,69206,Life expectancy at birth (years),76.623,1995
+DEU,Germany,69706,Expected years of schooling (years),15.72423,1995
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",9,1995
+DEU,Germany,97106,Fresh water withdrawals (% of total renewable water resources),29.35,1995
+DEU,Germany,100806,Forest area (% of total land area),32.44629046,1995
+DEU,Germany,103006,Mean years of schooling (years),9.66,1995
+DEU,Germany,103206,Life expectancy index,0.871123077,1995
+DEU,Germany,103606,Income index,0.878682348,1995
+DEU,Germany,103706,Education index,0.758784167,1995
+DEU,Germany,110806,"Net migration rate (per 1,000 people)",6.634,1995
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",8.5,1995
+DEU,Germany,111106,International inbound tourists (thousands),14847,1995
+DEU,Germany,111306,Private capital flows (% of GDP),-0.282554,1995
+DEU,Germany,120606,"Life expectancy at birth, female (years)",79.738,1995
+DEU,Germany,121106,"Life expectancy at birth, male (years)",73.234,1995
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.854,1995
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),22.647,1995
+DEU,Germany,123306,"Expected years of schooling, female (years)",15.4,1995
+DEU,Germany,123406,"Expected years of schooling, male (years)",16.1,1995
+DEU,Germany,123506,"Estimated gross national income per capita, female (2011 PPP $)",23446.11062,1995
+DEU,Germany,123606,"Estimated gross national income per capita, male (2011 PPP $)",44378.1307,1995
+DEU,Germany,132706,Population ages 65 and older (millions),12.55875,1995
+DEU,Germany,132806,Population under age 5 (millions),4.08239,1995
+DEU,Germany,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",83.00468,1995
+DEU,Germany,133206,Exports and imports (% of GDP),43.5447,1995
+DEU,Germany,136706,GDP per capita (2011 PPP $),33653.12964,1995
+DEU,Germany,136906,"Human Development Index (HDI), female",0.808403219,1995
+DEU,Germany,137006,"Human Development Index (HDI), male",0.856985761,1995
+DEU,Germany,137506,Human Development Index (HDI),0.834340311,1995
+DEU,Germany,137906,Gender Development Index (GDI),0.943309977,1995
+DEU,Germany,140606,"Unemployment, total (% of labour force)",8.2,1995
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),33594.29889,1995
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2748.722039,1995
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),58.2,1995
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),53.5,1995
+DEU,Germany,149206,Government expenditure on education (% of GDP),4.420790195,1995
+DEU,Germany,150606,Employment in agriculture (% of total employment),3.2,1995
+DEU,Germany,150706,Employment in services (% of total employment),60.8,1995
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),2.319748996,1995
+DEU,Germany,164406,Adjusted net savings (% of GNI),9.952137605,1995
+DEU,Germany,169706,Total unemployment rate (female to male ratio),1.352112676,1995
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),0.977011494,1995
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),85.81095471,1995
+DEU,Germany,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.314367987,1995
+DEU,Germany,175006,Female share of employment in senior and middle management (%),20.7,1995
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.19,1995
+DEU,Germany,177706,Survival rate to the last grade of lower secondary general education (%),75.28176,1995
+DEU,Germany,178306,Gross capital formation (% of GDP),23.74110002,1995
+DEU,Germany,69206,Life expectancy at birth (years),76.368,1994
+DEU,Germany,69706,Expected years of schooling (years),15.61386,1994
+DEU,Germany,103006,Mean years of schooling (years),9.482,1994
+DEU,Germany,103206,Life expectancy index,0.8672,1994
+DEU,Germany,103606,Income index,0.876878486,1994
+DEU,Germany,103706,Education index,0.749785,1994
+DEU,Germany,137506,Human Development Index (HDI),0.829211171,1994
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),33195.51179,1994
+DEU,Germany,69206,Life expectancy at birth (years),76.128,1993
+DEU,Germany,69706,Expected years of schooling (years),15.47065,1993
+DEU,Germany,103006,Mean years of schooling (years),9.304,1993
+DEU,Germany,103206,Life expectancy index,0.863507692,1993
+DEU,Germany,103606,Income index,0.874755587,1993
+DEU,Germany,103706,Education index,0.739873611,1993
+DEU,Germany,137506,Human Development Index (HDI),0.823702071,1993
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),32732.25324,1993
+DEU,Germany,69206,Life expectancy at birth (years),75.904,1992
+DEU,Germany,69706,Expected years of schooling (years),14.78132,1992
+DEU,Germany,103006,Mean years of schooling (years),9.126,1992
+DEU,Germany,103206,Life expectancy index,0.860061538,1992
+DEU,Germany,103606,Income index,0.87746488,1992
+DEU,Germany,103706,Education index,0.714792222,1992
+DEU,Germany,137506,Human Development Index (HDI),0.814041157,1992
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),33324.62618,1992
+DEU,Germany,43006,Vulnerable employment (% of total employment),5.2,1991
+DEU,Germany,69206,Life expectancy at birth (years),75.693,1991
+DEU,Germany,69706,Expected years of schooling (years),14.65761,1991
+DEU,Germany,103006,Mean years of schooling (years),8.948,1991
+DEU,Germany,103206,Life expectancy index,0.856815385,1991
+DEU,Germany,103606,Income index,0.875961972,1991
+DEU,Germany,103706,Education index,0.7054225,1991
+DEU,Germany,110906,"Unemployment, youth (% ages 15–24)",5.5,1991
+DEU,Germany,137506,Human Development Index (HDI),0.808985254,1991
+DEU,Germany,140606,"Unemployment, total (% of labour force)",5.3,1991
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),32994.71129,1991
+DEU,Germany,148306,Employment to population ratio (% ages 15 and older),56.5,1991
+DEU,Germany,150606,Employment in agriculture (% of total employment),4.1,1991
+DEU,Germany,150706,Employment in services (% of total employment),55,1991
+DEU,Germany,169706,Total unemployment rate (female to male ratio),1.477272727,1991
+DEU,Germany,169806,Youth unemployment rate (female to male ratio),1.057692308,1991
+DEU,Germany,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.54,1991
+DEU,Germany,23806,Population with at least some secondary education (% ages 25 and older),48.9,1990
+DEU,Germany,23906,"Population with at least some secondary education, female (% ages 25 and older)",47.69407629,1990
+DEU,Germany,24006,"Population with at least some secondary education, male (% ages 25 and older)",53.74,1990
+DEU,Germany,24106,"Mean years of schooling, female (years)",8.3,1990
+DEU,Germany,24206,"Mean years of schooling, male (years)",9.5,1990
+DEU,Germany,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",16.963,1990
+DEU,Germany,44206,Total population (millions),79.118326,1990
+DEU,Germany,45106,Urban population (%),73.1,1990
+DEU,Germany,47906,Median age (years),37.607,1990
+DEU,Germany,48706,"Labour force participation rate (% ages 15 and older), female",45.2,1990
+DEU,Germany,48806,"Labour force participation rate (% ages 15 and older), male",72.6,1990
+DEU,Germany,49006,Sex ratio at birth (male to female births),1.06,1990
+DEU,Germany,52606,"Remittances, inflows (% of GDP)",0.276269,1990
+DEU,Germany,53506,"Foreign direct investment, net inflows (% of GDP)",0.170197,1990
+DEU,Germany,57206,"Mortality rate, infant (per 1,000 live births)",7,1990
+DEU,Germany,57506,"Mortality rate, under-five (per 1,000 live births)",8.5,1990
+DEU,Germany,57806,"Mortality rate, female adult (per 1,000 people)",77.102,1990
+DEU,Germany,57906,"Mortality rate, male adult (per 1,000 people)",158.123,1990
+DEU,Germany,63106,Population ages 15–64 (millions),54.6956,1990
+DEU,Germany,64306,"Infants lacking immunization, measles (% of one-year-olds)",25,1990
+DEU,Germany,64406,"Infants lacking immunization, DPT (% of one-year-olds)",7,1990
+DEU,Germany,65606,Gross fixed capital formation (% of GDP),24.38798501,1990
+DEU,Germany,69206,Life expectancy at birth (years),75.489,1990
+DEU,Germany,69706,Expected years of schooling (years),14.38115,1990
+DEU,Germany,89006,"Maternal mortality ratio (deaths per 100,000 live births)",11,1990
+DEU,Germany,100806,Forest area (% of total land area),32.36616733,1990
+DEU,Germany,103006,Mean years of schooling (years),8.77,1990
+DEU,Germany,103206,Life expectancy index,0.853676923,1990
+DEU,Germany,103606,Income index,0.870359645,1990
+DEU,Germany,103706,Education index,0.691809722,1990
+DEU,Germany,110806,"Net migration rate (per 1,000 people)",4.373,1990
+DEU,Germany,111306,Private capital flows (% of GDP),1.313359,1990
+DEU,Germany,120606,"Life expectancy at birth, female (years)",78.556,1990
+DEU,Germany,121106,"Life expectancy at birth, male (years)",72.058,1990
+DEU,Germany,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.104,1990
+DEU,Germany,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),21.548,1990
+DEU,Germany,123306,"Expected years of schooling, female (years)",14,1990
+DEU,Germany,123406,"Expected years of schooling, male (years)",14.7,1990
+DEU,Germany,132706,Population ages 65 and older (millions),11.78566,1990
+DEU,Germany,132806,Population under age 5 (millions),4.35838,1990
+DEU,Germany,133206,Exports and imports (% of GDP),46.0142,1990
+DEU,Germany,136706,GDP per capita (2011 PPP $),31287.06981,1990
+DEU,Germany,137506,Human Development Index (HDI),0.801050046,1990
+DEU,Germany,141706,Gross national income (GNI) per capita (2011 PPP $),31793.4238,1990
+DEU,Germany,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2485.226724,1990
+DEU,Germany,148206,Labour force participation rate (% ages 15 and older),58.3,1990
+DEU,Germany,163906,Renewable energy consumption (% of total final energy consumption),2.098033775,1990
+DEU,Germany,174306,Fossil fuel energy consumption (% of total energy consumption),86.83788464,1990
+DEU,Germany,178306,Gross capital formation (% of GDP),24.65069994,1990
+DEU,Germany,181706,Rural population with access to electricity (%),100,1990

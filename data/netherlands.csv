@@ -1,0 +1,1200 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+NLD,Netherlands,21806,Refugees by country of origin (thousands),0.045,2017
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.33686,2017
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.37798,2017
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.37665,2017
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.9054,2017
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.4861,2017
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),35.55555556,2017
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",3.993,2017
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),12.7,2017
+NLD,Netherlands,44206,Total population (millions),17.035938,2017
+NLD,Netherlands,45106,Urban population (%),91.1,2017
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58,2017
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",69.2,2017
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.05,2017
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.175958,2017
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",38.1193,2017
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.041,2017
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",7,2017
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2017
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),20.30312289,2017
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.043647527,2017
+NLD,Netherlands,69206,Life expectancy at birth (years),82.005,2017
+NLD,Netherlands,69706,Expected years of schooling (years),18.04483,2017
+NLD,Netherlands,71406,Inequality-adjusted education index,0.858248315,2017
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.925305385,2017
+NLD,Netherlands,71606,Inequality-adjusted income index,0.792224677,2017
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),7.926550666,2017
+NLD,Netherlands,101606,Inequality in education (%),5.30548,2017
+NLD,Netherlands,101706,Inequality in income (%),15.02197,2017
+NLD,Netherlands,101806,Inequality in life expectancy (%),3,2017
+NLD,Netherlands,103006,Mean years of schooling (years),12.19001,2017
+NLD,Netherlands,103206,Life expectancy index,0.953923077,2017
+NLD,Netherlands,103606,Income index,0.932269996,2017
+NLD,Netherlands,103706,Education index,0.906333667,2017
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",8.8,2017
+NLD,Netherlands,111306,Private capital flows (% of GDP),5.672084,2017
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",83.724,2017
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",80.253,2017
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.326,2017
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),28.976,2017
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",18.3201,2017
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.7783,2017
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",38766.63045,2017
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",57122.75785,2017
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),191.9111309,2017
+NLD,Netherlands,132706,Population ages 65 and older (millions),3.199108,2017
+NLD,Netherlands,132806,Population under age 5 (millions),0.896712,2017
+NLD,Netherlands,133206,Exports and imports (% of GDP),161.247,2017
+NLD,Netherlands,135006,Coefficient of human inequality,7.775816667,2017
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),48472.54454,2017
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.91279557,2017
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.944454851,2017
+NLD,Netherlands,137506,Human Development Index (HDI),0.930638593,2017
+NLD,Netherlands,137906,Gender Development Index (GDI),0.966478777,2017
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.856871053,2017
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",4.9,2017
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),47899.76157,2017
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",830.4730286,2017
+NLD,Netherlands,146206,HDI rank,10,2017
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),63.5,2017
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),60.4,2017
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.2,2017
+NLD,Netherlands,150706,Employment in services (% of total employment),81.3,2017
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.177777778,2017
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),0.956521739,2017
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.33,2017
+NLD,Netherlands,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),99.83270264,2017
+NLD,Netherlands,178306,Gross capital formation (% of GDP),20.15840844,2017
+NLD,Netherlands,179406,Skilled labour force (% of labour force),77.4,2017
+NLD,Netherlands,181606,Red List Index (value),0.94311,2017
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.33686,2016
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.37798,2016
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.37665,2016
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.9054,2016
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.4861,2016
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),36.44444444,2016
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",3.993,2016
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),12.9,2016
+NLD,Netherlands,43606,"Internet users, total (% of population)",90.4109589,2016
+NLD,Netherlands,44206,Total population (millions),16.98733,2016
+NLD,Netherlands,45106,Urban population (%),90.6,2016
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),122.974,2016
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.72995,2016
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58,2016
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",69.5,2016
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.05,2016
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.171743,2016
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",23.8995,2016
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.2,2016
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",3.8,2016
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2016
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.5534,2016
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.0486,2016
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.28676,2016
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",132.69165,2016
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",80.36484,2016
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",6,2016
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2016
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),19.93180017,2016
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.042771603,2016
+NLD,Netherlands,69206,Life expectancy at birth (years),81.859,2016
+NLD,Netherlands,69706,Expected years of schooling (years),18.04483,2016
+NLD,Netherlands,71406,Inequality-adjusted education index,0.862801924,2016
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.922693602,2016
+NLD,Netherlands,71606,Inequality-adjusted income index,0.797345378,2016
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),7.398555871,2016
+NLD,Netherlands,101606,Inequality in education (%),4.6307,2016
+NLD,Netherlands,101706,Inequality in income (%),14.12303,2016
+NLD,Netherlands,101806,Inequality in life expectancy (%),3.0455,2016
+NLD,Netherlands,103006,Mean years of schooling (years),12.14087,2016
+NLD,Netherlands,103206,Life expectancy index,0.951676923,2016
+NLD,Netherlands,103606,Income index,0.928474046,2016
+NLD,Netherlands,103706,Education index,0.904695667,2016
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",10.8,2016
+NLD,Netherlands,111106,International inbound tourists (thousands),15828,2016
+NLD,Netherlands,111306,Private capital flows (% of GDP),9.129831,2016
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",83.605,2016
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",80.066,2016
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.509,2016
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),28.242,2016
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",18.3201,2016
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.7783,2016
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",37723.57318,2016
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",55795.61631,2016
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),208.903978,2016
+NLD,Netherlands,132706,Population ages 65 and older (millions),3.120296,2016
+NLD,Netherlands,132806,Population under age 5 (millions),0.893674,2016
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",95.10752,2016
+NLD,Netherlands,133206,Exports and imports (% of GDP),153.889,2016
+NLD,Netherlands,135006,Coefficient of human inequality,7.26641,2016
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),47269.63295,2016
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.910810196,2016
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.942349654,2016
+NLD,Netherlands,137506,Human Development Index (HDI),0.928083971,2016
+NLD,Netherlands,137906,Gender Development Index (GDI),0.966531045,2016
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.85941916,2016
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",6,2016
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),46711.06436,2016
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",805.0166918,2016
+NLD,Netherlands,146206,HDI rank,10,2016
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),8.88731,2016
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),4.57,2016
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),63.7,2016
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),59.9,2016
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.3,2016
+NLD,Netherlands,150706,Employment in services (% of total employment),81.3,2016
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),16.4644017,2016
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.160714286,2016
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),0.947368421,2016
+NLD,Netherlands,170006,Concentration index (exports) (value),0.072116189,2016
+NLD,Netherlands,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",13.7,2016
+NLD,Netherlands,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.2,2016
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),24.5,2016
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.23,2016
+NLD,Netherlands,178306,Gross capital formation (% of GDP),20.05561873,2016
+NLD,Netherlands,179406,Skilled labour force (% of labour force),76.5,2016
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2016
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",5.9,2016
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.18831,2015
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.17873,2015
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.27729,2015
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.8248,2015
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.4698,2015
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),36.44444444,2015
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.2205,2015
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),13.1,2015
+NLD,Netherlands,43606,"Internet users, total (% of population)",91.72413793,2015
+NLD,Netherlands,44206,Total population (millions),16.938499,2015
+NLD,Netherlands,45106,Urban population (%),90.2,2015
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),122.851,2015
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.62356,2015
+NLD,Netherlands,47906,Median age (years),42.07,2015
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58.2,2015
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70.1,2015
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.06,2015
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),2.01329,2015
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.173039,2015
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",19.4272,2015
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2015
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2015
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2015
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.614,2015
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.0649,2015
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.69498,2015
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",133.54232,2015
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",80.56791,2015
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",5,2015
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2015
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),19.38146804,2015
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.045402047,2015
+NLD,Netherlands,69206,Life expectancy at birth (years),81.71,2015
+NLD,Netherlands,69706,Expected years of schooling (years),18.07963,2015
+NLD,Netherlands,71406,Inequality-adjusted education index,0.864939625,2015
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.913946936,2015
+NLD,Netherlands,71606,Inequality-adjusted income index,0.811992417,2015
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),6.880158364,2015
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2015
+NLD,Netherlands,100806,Forest area (% of total land area),11.16058178,2015
+NLD,Netherlands,101606,Inequality in education (%),4.248,2015
+NLD,Netherlands,101706,Inequality in income (%),12.40082,2015
+NLD,Netherlands,101806,Inequality in life expectancy (%),3.7327,2015
+NLD,Netherlands,103006,Mean years of schooling (years),12.09937,2015
+NLD,Netherlands,103206,Life expectancy index,0.949384615,2015
+NLD,Netherlands,103606,Income index,0.926940659,2015
+NLD,Netherlands,103706,Education index,0.903312333,2015
+NLD,Netherlands,110806,"Net migration rate (per 1,000 people)",0.746,2015
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",11.3,2015
+NLD,Netherlands,111106,International inbound tourists (thousands),15007,2015
+NLD,Netherlands,111306,Private capital flows (% of GDP),3.969788,2015
+NLD,Netherlands,112506,"Suicide rate, male (per 100,000 people)",12.9,2015
+NLD,Netherlands,112606,"Suicide rate, female (per 100,000 people)",6,2015
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",83.481,2015
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",79.875,2015
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.65,2015
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),27.433,2015
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",18.3757,2015
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.7931,2015
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",37247.48133,2015
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",55335.45359,2015
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),206.3875269,2015
+NLD,Netherlands,132706,Population ages 65 and older (millions),3.035411,2015
+NLD,Netherlands,132806,Population under age 5 (millions),0.890689,2015
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",94.37003,2015
+NLD,Netherlands,133206,Exports and imports (% of GDP),156.297,2015
+NLD,Netherlands,135006,Coefficient of human inequality,6.79384,2015
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),46494.36426,2015
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.908634569,2015
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.940933086,2015
+NLD,Netherlands,137506,Human Development Index (HDI),0.926354795,2015
+NLD,Netherlands,137906,Gender Development Index (GDI),0.965673949,2015
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.862620118,2015
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",6.9,2015
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),46239.29279,2015
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",787.6109505,2015
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),8.43056,2015
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),4.67,2015
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64.1,2015
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),59.7,2015
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.3,2015
+NLD,Netherlands,150706,Employment in services (% of total employment),81.3,2015
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),5.889463079,2015
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),15.89947576,2015
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.123076923,2015
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),1,2015
+NLD,Netherlands,170006,Concentration index (exports) (value),0.081470098,2015
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),91.36127122,2015
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),24.8,2015
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.17,2015
+NLD,Netherlands,176806,Programme for International Student Assessment (PISA) score in science,509,2015
+NLD,Netherlands,176906,Programme for International Student Assessment (PISA) score in reading,503,2015
+NLD,Netherlands,177006,Programme for International Student Assessment (PISA) score in mathematics,512,2015
+NLD,Netherlands,177106,Population using improved drinking-water sources (%),100,2015
+NLD,Netherlands,177206,Population using improved sanitation facilities (%),97.72696627,2015
+NLD,Netherlands,178306,Gross capital formation (% of GDP),19.92444294,2015
+NLD,Netherlands,179406,Skilled labour force (% of labour force),76.3,2015
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2015
+NLD,Netherlands,181806,Current health expenditure (% of GDP),10.6903,2015
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",5.8,2015
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.18831,2014
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.17873,2014
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.27729,2014
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.768,2014
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.4437,2014
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",9.920138075,2014
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),37.77777778,2014
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.3506,2014
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),12.7,2014
+NLD,Netherlands,43606,"Internet users, total (% of population)",91.666666,2014
+NLD,Netherlands,44206,Total population (millions),16.889356,2014
+NLD,Netherlands,45106,Urban population (%),89.7,2014
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),115.824,2014
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.66686,2014
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",57.8,2014
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70.4,2014
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),2.00119,2014
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.168504,2014
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",13.3675,2014
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.4,2014
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",4,2014
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",50.474,2014
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",67.33,2014
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2014
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.7283,2014
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.0845,2014
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.42479,2014
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",130.66724,2014
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2014
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2014
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),18.02844008,2014
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.045695638,2014
+NLD,Netherlands,69206,Life expectancy at birth (years),81.555,2014
+NLD,Netherlands,69706,Expected years of schooling (years),17.99567333,2014
+NLD,Netherlands,71406,Inequality-adjusted education index,0.865285703,2014
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.910067,2014
+NLD,Netherlands,71606,Inequality-adjusted income index,0.817430008,2014
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),6.603323991,2014
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2014
+NLD,Netherlands,100806,Forest area (% of total land area),11.14277234,2014
+NLD,Netherlands,101606,Inequality in education (%),4.1,2014
+NLD,Netherlands,101706,Inequality in income (%),11.6,2014
+NLD,Netherlands,101806,Inequality in life expectancy (%),3.9,2014
+NLD,Netherlands,103006,Mean years of schooling (years),12.07198,2014
+NLD,Netherlands,103206,Life expectancy index,0.947,2014
+NLD,Netherlands,103606,Income index,0.924694579,2014
+NLD,Netherlands,103706,Education index,0.902279148,2014
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",12.7,2014
+NLD,Netherlands,111106,International inbound tourists (thousands),13925,2014
+NLD,Netherlands,111306,Private capital flows (% of GDP),6.85884,2014
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",83.351,2014
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",79.677,2014
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.787,2014
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),26.581,2014
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",18.2211,2014
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.778,2014
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",36475.92259,2014
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",54748.69851,2014
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),218.3480441,2014
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.946392,2014
+NLD,Netherlands,132806,Population under age 5 (millions),0.890886,2014
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",93.56545,2014
+NLD,Netherlands,133206,Exports and imports (% of GDP),154.288,2014
+NLD,Netherlands,135006,Coefficient of human inequality,6.533333333,2014
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),45668.44147,2014
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.906276474,2014
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.938963348,2014
+NLD,Netherlands,137506,Human Development Index (HDI),0.924477624,2014
+NLD,Netherlands,137906,Gender Development Index (GDI),0.965188339,2014
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.863431371,2014
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",7.4,2014
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),45556.83719,2014
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",770.1986308,2014
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),5.53,2014
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64,2014
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),59.3,2014
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.529310226,2014
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.3,2014
+NLD,Netherlands,150706,Employment in services (% of total employment),81.5,2014
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),5.659627737,2014
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),14.27964635,2014
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.098591549,2014
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),1.024193548,2014
+NLD,Netherlands,170006,Concentration index (exports) (value),0.09802333,2014
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),90.94545754,2014
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.217220859,2014
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),24.1,2014
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.99,2014
+NLD,Netherlands,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),99.17636108,2014
+NLD,Netherlands,178306,Gross capital formation (% of GDP),18.46961123,2014
+NLD,Netherlands,179406,Skilled labour force (% of labour force),76,2014
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,13.95127026,2014
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2014
+NLD,Netherlands,181806,Current health expenditure (% of GDP),10.8585,2014
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",5.5,2014
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),87.75597,2013
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.02547,2013
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",89.55146,2013
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.7288,2013
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.4286,2013
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",10.31006279,2013
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),37.77777778,2013
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.4807,2013
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),12.2,2013
+NLD,Netherlands,43606,"Internet users, total (% of population)",93.9564,2013
+NLD,Netherlands,44206,Total population (millions),16.839699,2013
+NLD,Netherlands,45106,Urban population (%),89.2,2013
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),115.602,2013
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.65611,2013
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58.5,2013
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70.6,2013
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.95192,2013
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.186766,2013
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",37.9245,2013
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.5,2013
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",4.1,2013
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",51.215,2013
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",70.382,2013
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2013
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.7423,2013
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.1157,2013
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",104.20265,2013
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",130.68948,2013
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2013
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),17.94061414,2013
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.046394792,2013
+NLD,Netherlands,69206,Life expectancy at birth (years),81.389,2013
+NLD,Netherlands,69706,Expected years of schooling (years),17.91171667,2013
+NLD,Netherlands,71406,Inequality-adjusted education index,0.862351151,2013
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.907612754,2013
+NLD,Netherlands,71606,Inequality-adjusted income index,0.816359915,2013
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),6.673812075,2013
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2013
+NLD,Netherlands,100806,Forest area (% of total land area),11.1249629,2013
+NLD,Netherlands,101606,Inequality in education (%),4.1,2013
+NLD,Netherlands,101706,Inequality in income (%),11.8,2013
+NLD,Netherlands,101806,Inequality in life expectancy (%),3.9,2013
+NLD,Netherlands,103006,Mean years of schooling (years),12.0501435,2013
+NLD,Netherlands,103206,Life expectancy index,0.944446154,2013
+NLD,Netherlands,103606,Income index,0.925578135,2013
+NLD,Netherlands,103706,Education index,0.899219135,2013
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",13.2,2013
+NLD,Netherlands,111106,International inbound tourists (thousands),12783,2013
+NLD,Netherlands,111306,Private capital flows (% of GDP),10.67426,2013
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",83.212,2013
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",79.468,2013
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.849,2013
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),25.646,2013
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",18.0665,2013
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.763,2013
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",36884.96601,2013
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",54876.43015,2013
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),209.3489371,2013
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.85077,2013
+NLD,Netherlands,132806,Population under age 5 (millions),0.889584,2013
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",92.82779,2013
+NLD,Netherlands,133206,Exports and imports (% of GDP),153.324,2013
+NLD,Netherlands,135006,Coefficient of human inequality,6.6,2013
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),45191.48625,2013
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.905713604,2013
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.937708932,2013
+NLD,Netherlands,137506,Human Development Index (HDI),0.922894256,2013
+NLD,Netherlands,137906,Gender Development Index (GDI),0.965879255,2013
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.861302028,2013
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",7.2,2013
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),45824.08913,2013
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",759.4172577,2013
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),5.65,2013
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64.5,2013
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),59.8,2013
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.591879845,2013
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.1,2013
+NLD,Netherlands,150706,Employment in services (% of total employment),81.4,2013
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),5.024976324,2013
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),14.67994794,2013
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.013888889,2013
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),0.977777778,2013
+NLD,Netherlands,170006,Concentration index (exports) (value),0.112451152,2013
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),91.50369617,2013
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.228141706,2013
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),23.1,2013
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.34,2013
+NLD,Netherlands,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",73,2013
+NLD,Netherlands,178306,Gross capital formation (% of GDP),18.23475522,2013
+NLD,Netherlands,179406,Skilled labour force (% of labour force),74.9,2013
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,13.9747396,2013
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2013
+NLD,Netherlands,181806,Current health expenditure (% of GDP),10.8974,2013
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",5.7,2013
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),89.04594,2012
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",87.68165,2012
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.46614,2012
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.7607,2012
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.3523,2012
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",10.16475883,2012
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),37.77777778,2012
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.6108,2012
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),11.6,2012
+NLD,Netherlands,43606,"Internet users, total (% of population)",92.85999236,2012
+NLD,Netherlands,44206,Total population (millions),16.789095,2012
+NLD,Netherlands,45106,Urban population (%),88.6,2012
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),117.439,2012
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.50226,2012
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58.6,2012
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70.7,2012
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.93994,2012
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.197929,2012
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",28.9228,2012
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.5,2012
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",4.2,2012
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",53.789,2012
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",71.918,2012
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2012
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.8637,2012
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.151,2012
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.8344,2012
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",128.99775,2012
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",76.60992,2012
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2012
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),18.89876063,2012
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.047420922,2012
+NLD,Netherlands,69206,Life expectancy at birth (years),81.21,2012
+NLD,Netherlands,69706,Expected years of schooling (years),17.82776,2012
+NLD,Netherlands,71406,Inequality-adjusted education index,0.859844289,2012
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.901199538,2012
+NLD,Netherlands,71606,Inequality-adjusted income index,0.81322784,2012
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),6.915299388,2012
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",7,2012
+NLD,Netherlands,97106,Fresh water withdrawals (% of total renewable water resources),11.78,2012
+NLD,Netherlands,100806,Forest area (% of total land area),11.09727165,2012
+NLD,Netherlands,101606,Inequality in education (%),3.9,2012
+NLD,Netherlands,101706,Inequality in income (%),12.3,2012
+NLD,Netherlands,101806,Inequality in life expectancy (%),4.3,2012
+NLD,Netherlands,103006,Mean years of schooling (years),11.98570677,2012
+NLD,Netherlands,103206,Life expectancy index,0.941692308,2012
+NLD,Netherlands,103606,Income index,0.92728374,2012
+NLD,Netherlands,103706,Education index,0.894739115,2012
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",11.7,2012
+NLD,Netherlands,111106,International inbound tourists (thousands),11680,2012
+NLD,Netherlands,111306,Private capital flows (% of GDP),8.761537,2012
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",83.061,2012
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",79.245,2012
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.875,2012
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),24.686,2012
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",17.9119,2012
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.748,2012
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",37315.32774,2012
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",55491.02498,2012
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),234.1734815,2012
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.752757,2012
+NLD,Netherlands,132806,Population under age 5 (millions),0.891659,2012
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",90.47161,2012
+NLD,Netherlands,133206,Exports and imports (% of GDP),154.271,2012
+NLD,Netherlands,135006,Coefficient of human inequality,6.833333333,2012
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),45411.35235,2012
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.905084663,2012
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.936113903,2012
+NLD,Netherlands,137506,Human Development Index (HDI),0.921027711,2012
+NLD,Netherlands,137906,Gender Development Index (GDI),0.966853136,2012
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.857335887,2012
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",5.8,2012
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),46344.43179,2012
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",760.8654829,2012
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),5.36288,2012
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),4.85,2012
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64.6,2012
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),60.8,2012
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.475649834,2012
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.7,2012
+NLD,Netherlands,150706,Employment in services (% of total employment),80.1,2012
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),4.962298743,2012
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),16.36024109,2012
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.127272727,2012
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),0.991525424,2012
+NLD,Netherlands,170006,Concentration index (exports) (value),0.117537322,2012
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),91.27075604,2012
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.223837395,2012
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),28.2,2012
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.32,2012
+NLD,Netherlands,178306,Gross capital formation (% of GDP),19.15590455,2012
+NLD,Netherlands,179406,Skilled labour force (% of labour force),73.9,2012
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,13.09982503,2012
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2012
+NLD,Netherlands,181806,Current health expenditure (% of GDP),10.9037,2012
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",6.3,2012
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.70056,2011
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",87.24456,2011
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.21835,2011
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.6945,2011
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.2898,2011
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",10.4335386,2011
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),39.11111111,2011
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.7409,2011
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),11.3,2011
+NLD,Netherlands,43606,"Internet users, total (% of population)",91.41999576,2011
+NLD,Netherlands,44206,Total population (millions),16.737002,2011
+NLD,Netherlands,45106,Urban population (%),87.9,2011
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),118.476,2011
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.55832,2011
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58.1,2011
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70.3,2011
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.90285,2011
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.20001,2011
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",37.1285,2011
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.6,2011
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",4.3,2011
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",55.697,2011
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",72.058,2011
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2011
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.8544,2011
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.1768,2011
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.49659,2011
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",128.17912,2011
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",75.87855,2011
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2011
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),20.28248842,2011
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.047414837,2011
+NLD,Netherlands,69206,Life expectancy at birth (years),81.014,2011
+NLD,Netherlands,69706,Expected years of schooling (years),17.85778,2011
+NLD,Netherlands,71406,Inequality-adjusted education index,0.861474249,2011
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.898313815,2011
+NLD,Netherlands,71606,Inequality-adjusted income index,0.812974045,2011
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),6.986113185,2011
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",8,2011
+NLD,Netherlands,100806,Forest area (% of total land area),11.07947805,2011
+NLD,Netherlands,101606,Inequality in education (%),3.9,2011
+NLD,Netherlands,101706,Inequality in income (%),12.5,2011
+NLD,Netherlands,101806,Inequality in life expectancy (%),4.3,2011
+NLD,Netherlands,103006,Mean years of schooling (years),12.01157334,2011
+NLD,Netherlands,103206,Life expectancy index,0.938676923,2011
+NLD,Netherlands,103606,Income index,0.929113195,2011
+NLD,Netherlands,103706,Education index,0.896435222,2011
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",10,2011
+NLD,Netherlands,111106,International inbound tourists (thousands),11300,2011
+NLD,Netherlands,111306,Private capital flows (% of GDP),4.252327,2011
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",82.897,2011
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",79.006,2011
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),25.954,2011
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),23.794,2011
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",17.973,2011
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.7474,2011
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",37691.248,2011
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",56250.15203,2011
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),223.9798618,2011
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.659415,2011
+NLD,Netherlands,132806,Population under age 5 (millions),0.903769,2011
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",89.8003,2011
+NLD,Netherlands,133206,Exports and imports (% of GDP),146.173,2011
+NLD,Netherlands,135006,Coefficient of human inequality,6.9,2011
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),46066.65241,2011
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.90460409,2011
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.934849738,2011
+NLD,Netherlands,137506,Human Development Index (HDI),0.921229621,2011
+NLD,Netherlands,137906,Gender Development Index (GDI),0.967646514,2011
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.856871477,2011
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",5,2011
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),46909.12755,2011
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",768.9940375,2011
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),3.18353,2011
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),4.31,2011
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64.1,2011
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),60.9,2011
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.526169777,2011
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),2.8,2011
+NLD,Netherlands,150706,Employment in services (% of total employment),80.1,2011
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),4.696714057,2011
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),16.33502298,2011
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.173913043,2011
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),0.952380952,2011
+NLD,Netherlands,170006,Concentration index (exports) (value),0.10405141,2011
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),92.16215805,2011
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.226487884,2011
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),27.9,2011
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.24,2011
+NLD,Netherlands,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),98.39974213,2011
+NLD,Netherlands,178306,Gross capital formation (% of GDP),20.51983967,2011
+NLD,Netherlands,179406,Skilled labour force (% of labour force),73.2,2011
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,12.31276925,2011
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2011
+NLD,Netherlands,181806,Current health expenditure (% of GDP),10.5205,2011
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",6.7,2011
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.83453,2010
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",87.13821,2010
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.60103,2010
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.6792,2010
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.3582,2010
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",11.01707086,2010
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),38.66666667,2010
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",4.871,2010
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),11.1,2010
+NLD,Netherlands,43606,"Internet users, total (% of population)",90.72,2010
+NLD,Netherlands,44206,Total population (millions),16.682917,2010
+NLD,Netherlands,45106,Urban population (%),87.1,2010
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),114.962,2010
+NLD,Netherlands,47906,Median age (years),40.797,2010
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",58.3,2010
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",71.3,2010
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.06,2010
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.72342,2010
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.205698,2010
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",13.8368,2010
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",3.8,2010
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",4.5,2010
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",54.901,2010
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",74.177,2010
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2010
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",0.8632,2010
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.1843,2010
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",108.27581,2010
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",122.07881,2010
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",63.71589,2010
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2010
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2010
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),19.73818391,2010
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.049773651,2010
+NLD,Netherlands,69206,Life expectancy at birth (years),80.797,2010
+NLD,Netherlands,69706,Expected years of schooling (years),16.99102,2010
+NLD,Netherlands,71406,Inequality-adjusted education index,0.83600952,2010
+NLD,Netherlands,71506,Inequality-adjusted life expectancy index,0.892312892,2010
+NLD,Netherlands,71606,Inequality-adjusted income index,0.784173436,2010
+NLD,Netherlands,73506,Overall loss in HDI due to inequality (%),8.11717501,2010
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",8,2010
+NLD,Netherlands,100806,Forest area (% of total land area),11.05840498,2010
+NLD,Netherlands,101606,Inequality in education (%),4,2010
+NLD,Netherlands,101706,Inequality in income (%),15.3,2010
+NLD,Netherlands,101806,Inequality in life expectancy (%),4.6,2010
+NLD,Netherlands,103006,Mean years of schooling (years),11.96611416,2010
+NLD,Netherlands,103206,Life expectancy index,0.935338462,2010
+NLD,Netherlands,103606,Income index,0.9258246,2010
+NLD,Netherlands,103706,Education index,0.87084325,2010
+NLD,Netherlands,110806,"Net migration rate (per 1,000 people)",0.795,2010
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",8.7,2010
+NLD,Netherlands,111106,International inbound tourists (thousands),10883,2010
+NLD,Netherlands,111306,Private capital flows (% of GDP),2.893687,2010
+NLD,Netherlands,112506,"Suicide rate, male (per 100,000 people)",11.5,2010
+NLD,Netherlands,112606,"Suicide rate, female (per 100,000 people)",4.7,2010
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",82.714,2010
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",78.744,2010
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),26.137,2010
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),23.027,2010
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",17.063,2010
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",16.9224,2010
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",36642.24019,2010
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",55283.10699,2010
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),218.2675864,2010
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.575421,2010
+NLD,Netherlands,132806,Population under age 5 (millions),0.929003,2010
+NLD,Netherlands,133206,Exports and imports (% of GDP),135.545,2010
+NLD,Netherlands,135006,Coefficient of human inequality,7.966666667,2010
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),45524.66214,2010
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.893444757,2010
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.925504945,2010
+NLD,Netherlands,137506,Human Development Index (HDI),0.910218866,2010
+NLD,Netherlands,137906,Gender Development Index (GDI),0.965359247,2010
+NLD,Netherlands,138806,Inequality-adjusted HDI (IHDI),0.836334808,2010
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",4.5,2010
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),45898.91748,2010
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",756.4101982,2010
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),2.35411,2010
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),4.28,2010
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64.7,2010
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),61.8,2010
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.555799961,2010
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),3.1,2010
+NLD,Netherlands,150706,Employment in services (% of total employment),79.3,2010
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),3.873162742,2010
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),15.03339499,2010
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.022727273,2010
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),0.988636364,2010
+NLD,Netherlands,170006,Concentration index (exports) (value),0.119726854,2010
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),93.69967218,2010
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.242002254,2010
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),27.1,2010
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.2,2010
+NLD,Netherlands,177106,Population using improved drinking-water sources (%),100,2010
+NLD,Netherlands,177206,Population using improved sanitation facilities (%),97.80950942,2010
+NLD,Netherlands,178306,Gross capital formation (% of GDP),20.42035622,2010
+NLD,Netherlands,179406,Skilled labour force (% of labour force),73.3,2010
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,11.89578675,2010
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2010
+NLD,Netherlands,181806,Current health expenditure (% of GDP),10.4029,2010
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",7.1,2010
+NLD,Netherlands,69206,Life expectancy at birth (years),80.554,2009
+NLD,Netherlands,69706,Expected years of schooling (years),16.80493,2009
+NLD,Netherlands,103006,Mean years of schooling (years),11.93500846,2009
+NLD,Netherlands,103206,Life expectancy index,0.9316,2009
+NLD,Netherlands,103606,Income index,0.923412398,2009
+NLD,Netherlands,103706,Education index,0.864637226,2009
+NLD,Netherlands,137506,Human Development Index (HDI),0.90605182,2009
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),45171.7813,2009
+NLD,Netherlands,69206,Life expectancy at birth (years),80.287,2008
+NLD,Netherlands,69706,Expected years of schooling (years),16.7523,2008
+NLD,Netherlands,103006,Mean years of schooling (years),12.01656667,2008
+NLD,Netherlands,103206,Life expectancy index,0.927492308,2008
+NLD,Netherlands,103606,Income index,0.92700721,2008
+NLD,Netherlands,103706,Education index,0.865893889,2008
+NLD,Netherlands,137506,Human Development Index (HDI),0.90632933,2008
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),46259.66894,2008
+NLD,Netherlands,69206,Life expectancy at birth (years),80.001,2007
+NLD,Netherlands,69706,Expected years of schooling (years),16.63892,2007
+NLD,Netherlands,103006,Mean years of schooling (years),11.98884,2007
+NLD,Netherlands,103206,Life expectancy index,0.923092308,2007
+NLD,Netherlands,103606,Income index,0.929243753,2007
+NLD,Netherlands,103706,Education index,0.861820222,2007
+NLD,Netherlands,137506,Human Development Index (HDI),0.90419858,2007
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),46949.68874,2007
+NLD,Netherlands,69206,Life expectancy at birth (years),79.702,2006
+NLD,Netherlands,69706,Expected years of schooling (years),16.51479,2006
+NLD,Netherlands,103006,Mean years of schooling (years),11.758008,2006
+NLD,Netherlands,103206,Life expectancy index,0.918492308,2006
+NLD,Netherlands,103606,Income index,0.925081403,2006
+NLD,Netherlands,103706,Education index,0.850677767,2006
+NLD,Netherlands,137506,Human Development Index (HDI),0.897442954,2006
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),45673.64878,2006
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),88.37481,2005
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.41867,2005
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",90.41095,2005
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",11.3631,2005
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",12.2225,2005
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",11.12017757,2005
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),34.22222222,2005
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",7.136,2005
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),8.7,2005
+NLD,Netherlands,43606,"Internet users, total (% of population)",81,2005
+NLD,Netherlands,44206,Total population (millions),16.367158,2005
+NLD,Netherlands,45106,Urban population (%),82.6,2005
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),96.7425,2005
+NLD,Netherlands,47906,Median age (years),39.046,2005
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",56.6,2005
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",72.3,2005
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.06,2005
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.78974,2005
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.185597,2005
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",30.9463,2005
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",4.5,2005
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",5.4,2005
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",61.292,2005
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",82.693,2005
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2005
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",1.0631,2005
+NLD,Netherlands,63106,Population ages 15–64 (millions),11.0554,2005
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",106.73933,2005
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",118.37361,2005
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",58.68984,2005
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",5,2005
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2005
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),20.59570132,2005
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.082544491,2005
+NLD,Netherlands,69206,Life expectancy at birth (years),79.401,2005
+NLD,Netherlands,69706,Expected years of schooling (years),16.4158,2005
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",11,2005
+NLD,Netherlands,100806,Forest area (% of total land area),10.81161137,2005
+NLD,Netherlands,103006,Mean years of schooling (years),11.64272404,2005
+NLD,Netherlands,103206,Life expectancy index,0.913861538,2005
+NLD,Netherlands,103606,Income index,0.916776222,2005
+NLD,Netherlands,103706,Education index,0.844085246,2005
+NLD,Netherlands,110806,"Net migration rate (per 1,000 people)",1.809,2005
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",8.2,2005
+NLD,Netherlands,111106,International inbound tourists (thousands),10012,2005
+NLD,Netherlands,111306,Private capital flows (% of GDP),0.5871862,2005
+NLD,Netherlands,112506,"Suicide rate, male (per 100,000 people)",11.6,2005
+NLD,Netherlands,112606,"Suicide rate, female (per 100,000 people)",5.1,2005
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",81.544,2005
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",77.111,2005
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),27.123,2005
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),20.925,2005
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",16.345,2005
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",16.4848,2005
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",34309.98079,2005
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",52298.91041,2005
+NLD,Netherlands,127606,Domestic credit provided by financial sector (% of GDP),166.2124342,2005
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.313279,2005
+NLD,Netherlands,132806,Population under age 5 (millions),1.0037,2005
+NLD,Netherlands,133206,Exports and imports (% of GDP),124.554,2005
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),43507.30043,2005
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.873779036,2005
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.908709186,2005
+NLD,Netherlands,137506,Human Development Index (HDI),0.890929521,2005
+NLD,Netherlands,137906,Gender Development Index (GDI),0.961560695,2005
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",4.7,2005
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),43230.25556,2005
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",710.0334001,2005
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),2.85761,2005
+NLD,Netherlands,147906,Youth not in school or employment (% ages 15-24),5.26,2005
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),64.4,2005
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),61.3,2005
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.158790112,2005
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),3.3,2005
+NLD,Netherlands,150706,Employment in services (% of total employment),76.1,2005
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),2.771630523,2005
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),14.40004941,2005
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.159090909,2005
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),1.012345679,2005
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),93.09847546,2005
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.255593371,2005
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),22.8,2005
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.08,2005
+NLD,Netherlands,177106,Population using improved drinking-water sources (%),100,2005
+NLD,Netherlands,177206,Population using improved sanitation facilities (%),97.91618848,2005
+NLD,Netherlands,178306,Gross capital formation (% of GDP),20.90691319,2005
+NLD,Netherlands,179406,Skilled labour force (% of labour force),72.6,2005
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,10.23369724,2005
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2005
+NLD,Netherlands,181806,Current health expenditure (% of GDP),9.27056,2005
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",7.9,2005
+NLD,Netherlands,69206,Life expectancy at birth (years),79.11,2004
+NLD,Netherlands,69706,Expected years of schooling (years),16.29527,2004
+NLD,Netherlands,103006,Mean years of schooling (years),11.47625923,2004
+NLD,Netherlands,103206,Life expectancy index,0.909384615,2004
+NLD,Netherlands,103606,Income index,0.916697124,2004
+NLD,Netherlands,103706,Education index,0.835188363,2004
+NLD,Netherlands,137506,Human Development Index (HDI),0.886310652,2004
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),43207.62453,2004
+NLD,Netherlands,69206,Life expectancy at birth (years),78.837,2003
+NLD,Netherlands,69706,Expected years of schooling (years),16.38995,2003
+NLD,Netherlands,103006,Mean years of schooling (years),11.30979442,2003
+NLD,Netherlands,103206,Life expectancy index,0.905184615,2003
+NLD,Netherlands,103606,Income index,0.913719679,2003
+NLD,Netherlands,103706,Education index,0.832269536,2003
+NLD,Netherlands,137506,Human Development Index (HDI),0.882953936,2003
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),42364.30181,2003
+NLD,Netherlands,69206,Life expectancy at birth (years),78.59,2002
+NLD,Netherlands,69706,Expected years of schooling (years),16.3093,2002
+NLD,Netherlands,103006,Mean years of schooling (years),11.14332961,2002
+NLD,Netherlands,103206,Life expectancy index,0.901384615,2002
+NLD,Netherlands,103606,Income index,0.911980359,2002
+NLD,Netherlands,103706,Education index,0.824480431,2002
+NLD,Netherlands,137506,Human Development Index (HDI),0.878399324,2002
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),41879.29892,2002
+NLD,Netherlands,69206,Life expectancy at birth (years),78.373,2001
+NLD,Netherlands,69706,Expected years of schooling (years),16.67224,2001
+NLD,Netherlands,103006,Mean years of schooling (years),10.97686481,2001
+NLD,Netherlands,103206,Life expectancy index,0.898046154,2001
+NLD,Netherlands,103606,Income index,0.912450103,2001
+NLD,Netherlands,103706,Education index,0.829013271,2001
+NLD,Netherlands,137506,Human Development Index (HDI),0.879069249,2001
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),42009.73527,2001
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),84.9,2000
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",81.82,2000
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",88.28733333,2000
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",10.6,2000
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",11.4,2000
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",10.89472628,2000
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),32.88888889,2000
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.172,2000
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),8,2000
+NLD,Netherlands,43606,"Internet users, total (% of population)",43.98435137,2000
+NLD,Netherlands,44206,Total population (millions),15.926188,2000
+NLD,Netherlands,45106,Urban population (%),76.8,2000
+NLD,Netherlands,46006,Mobile phone subscriptions (per 100 people),67.5303,2000
+NLD,Netherlands,47906,Median age (years),37.526,2000
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",53.2,2000
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",72.8,2000
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.06,2000
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.8058,2000
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.103152,2000
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",15.2901,2000
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",5.1,2000
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",6.2,2000
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",67.212,2000
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",100.127,2000
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2000
+NLD,Netherlands,61006,"Homicide rate (per 100,000 people)",1.1302,2000
+NLD,Netherlands,63106,Population ages 15–64 (millions),10.8219,2000
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.98899,2000
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",122.41854,2000
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",52.28482,2000
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2000
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2000
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),22.92277168,2000
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.095599689,2000
+NLD,Netherlands,69206,Life expectancy at birth (years),78.187,2000
+NLD,Netherlands,69706,Expected years of schooling (years),16.56546,2000
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",14,2000
+NLD,Netherlands,100806,Forest area (% of total land area),10.66350711,2000
+NLD,Netherlands,103006,Mean years of schooling (years),10.8104,2000
+NLD,Netherlands,103206,Life expectancy index,0.895184615,2000
+NLD,Netherlands,103606,Income index,0.913827584,2000
+NLD,Netherlands,103706,Education index,0.820498333,2000
+NLD,Netherlands,110806,"Net migration rate (per 1,000 people)",2.275,2000
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",5.3,2000
+NLD,Netherlands,111106,International inbound tourists (thousands),10003,2000
+NLD,Netherlands,111306,Private capital flows (% of GDP),5.277086,2000
+NLD,Netherlands,112506,"Suicide rate, male (per 100,000 people)",11.3,2000
+NLD,Netherlands,112606,"Suicide rate, female (per 100,000 people)",5.2,2000
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",80.654,2000
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",75.585,2000
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),27.179,2000
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.988,2000
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",16.4,2000
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",16.8,2000
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",31542.96405,2000
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",53450.74644,2000
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.163108,2000
+NLD,Netherlands,132806,Population under age 5 (millions),0.971264,2000
+NLD,Netherlands,133206,Exports and imports (% of GDP),126.452,2000
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),41721.69405,2000
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.856812456,2000
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.895401191,2000
+NLD,Netherlands,137506,Human Development Index (HDI),0.875557875,2000
+NLD,Netherlands,137906,Gender Development Index (GDI),0.956903413,2000
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",2.7,2000
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),42394.5752,2000
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",664.4393809,2000
+NLD,Netherlands,147206,International student mobility (% of total tertiary enrolment),0.37219,2000
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),62.8,2000
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),61.1,2000
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),4.625500202,2000
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),3.3,2000
+NLD,Netherlands,150706,Employment in services (% of total employment),75.1,2000
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),1.751963262,2000
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),16.83568753,2000
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.590909091,2000
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),1.127659574,2000
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),93.90126592,2000
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.261128569,2000
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),21.5,2000
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.13,2000
+NLD,Netherlands,177106,Population using improved drinking-water sources (%),100,2000
+NLD,Netherlands,177206,Population using improved sanitation facilities (%),98.05689677,2000
+NLD,Netherlands,178306,Gross capital formation (% of GDP),23.04038959,2000
+NLD,Netherlands,179706,Ratio of education and health expenditure to military expenditure,8.075238923,2000
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,2000
+NLD,Netherlands,181806,Current health expenditure (% of GDP),7.05641,2000
+NLD,Netherlands,182206,"Tuberculosis incidence (per 100,000 people)",9,2000
+NLD,Netherlands,69206,Life expectancy at birth (years),78.028,1999
+NLD,Netherlands,69706,Expected years of schooling (years),16.38547,1999
+NLD,Netherlands,103006,Mean years of schooling (years),10.75006,1999
+NLD,Netherlands,103206,Life expectancy index,0.892738462,1999
+NLD,Netherlands,103606,Income index,0.907984537,1999
+NLD,Netherlands,103706,Education index,0.813487278,1999
+NLD,Netherlands,137506,Human Development Index (HDI),0.870397873,1999
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),40786.00507,1999
+NLD,Netherlands,69206,Life expectancy at birth (years),77.889,1998
+NLD,Netherlands,69706,Expected years of schooling (years),16.52049,1998
+NLD,Netherlands,103006,Mean years of schooling (years),10.68972,1998
+NLD,Netherlands,103206,Life expectancy index,0.8906,1998
+NLD,Netherlands,103606,Income index,0.89896547,1998
+NLD,Netherlands,103706,Education index,0.8152265,1998
+NLD,Netherlands,137506,Human Development Index (HDI),0.86743045,1998
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),38422.07359,1998
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),28.44444444,1997
+NLD,Netherlands,69206,Life expectancy at birth (years),77.762,1997
+NLD,Netherlands,69706,Expected years of schooling (years),16.55894,1997
+NLD,Netherlands,103006,Mean years of schooling (years),10.62938,1997
+NLD,Netherlands,103206,Life expectancy index,0.888646154,1997
+NLD,Netherlands,103606,Income index,0.895127437,1997
+NLD,Netherlands,103706,Education index,0.814283222,1997
+NLD,Netherlands,137506,Human Development Index (HDI),0.865226356,1997
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),37458.14094,1997
+NLD,Netherlands,52306,Research and development expenditure (% of GDP),1.8605,1996
+NLD,Netherlands,69206,Life expectancy at birth (years),77.642,1996
+NLD,Netherlands,69706,Expected years of schooling (years),16.8991,1996
+NLD,Netherlands,103006,Mean years of schooling (years),10.56904,1996
+NLD,Netherlands,103206,Life expectancy index,0.8868,1996
+NLD,Netherlands,103606,Income index,0.890572436,1996
+NLD,Netherlands,103706,Education index,0.821720778,1996
+NLD,Netherlands,137506,Human Development Index (HDI),0.865777711,1996
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),36345.47193,1996
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),83,1995
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",78.64,1995
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",85.89,1995
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",10.2,1995
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",11.1,1995
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",11.55535084,1995
+NLD,Netherlands,31706,Share of seats in parliament (% held by women),28.44444444,1995
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",7.111,1995
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),8.7,1995
+NLD,Netherlands,44206,Total population (millions),15.467851,1995
+NLD,Netherlands,45106,Urban population (%),72.8,1995
+NLD,Netherlands,47906,Median age (years),36.008,1995
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",47.3,1995
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70,1995
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.06,1995
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.14891,1995
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",2.73357,1995
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",5.7,1995
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",6.9,1995
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",67.153,1995
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",106.134,1995
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1995
+NLD,Netherlands,63106,Population ages 15–64 (millions),10.5952,1995
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.2268,1995
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",139.69827,1995
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",47.4652,1995
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",6,1995
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1995
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),21.5576887,1995
+NLD,Netherlands,68606,Gender Inequality Index (GII),0.113981733,1995
+NLD,Netherlands,69206,Life expectancy at birth (years),77.528,1995
+NLD,Netherlands,69706,Expected years of schooling (years),16.72776,1995
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",13,1995
+NLD,Netherlands,100806,Forest area (% of total land area),10.44135071,1995
+NLD,Netherlands,103006,Mean years of schooling (years),10.5087,1995
+NLD,Netherlands,103206,Life expectancy index,0.885046154,1995
+NLD,Netherlands,103606,Income index,0.885779884,1995
+NLD,Netherlands,103706,Education index,0.81495,1995
+NLD,Netherlands,110806,"Net migration rate (per 1,000 people)",2.45,1995
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",12.1,1995
+NLD,Netherlands,111106,International inbound tourists (thousands),6574,1995
+NLD,Netherlands,111306,Private capital flows (% of GDP),4.111053,1995
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",80.323,1995
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",74.611,1995
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),26.823,1995
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.166,1995
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",16.4,1995
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",17.1,1995
+NLD,Netherlands,123506,"Estimated gross national income per capita, female (2011 PPP $)",24004.56515,1995
+NLD,Netherlands,123606,"Estimated gross national income per capita, male (2011 PPP $)",46631.10798,1995
+NLD,Netherlands,132706,Population ages 65 and older (millions),2.0307,1995
+NLD,Netherlands,132806,Population under age 5 (millions),0.983169,1995
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",99.79135,1995
+NLD,Netherlands,133206,Exports and imports (% of GDP),108.376,1995
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),34762.86937,1995
+NLD,Netherlands,136906,"Human Development Index (HDI), female",0.836784735,1995
+NLD,Netherlands,137006,"Human Development Index (HDI), male",0.883291274,1995
+NLD,Netherlands,137506,Human Development Index (HDI),0.861273131,1995
+NLD,Netherlands,137906,Gender Development Index (GDI),0.94734858,1995
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",7.2,1995
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),35210.43845,1995
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",537.3994062,1995
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),58.4,1995
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),54.3,1995
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),4.638070107,1995
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),3.8,1995
+NLD,Netherlands,150706,Employment in services (% of total employment),72.8,1995
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),1.277067851,1995
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),16.14989667,1995
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.426229508,1995
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),1.052173913,1995
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),95.55395532,1995
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.332404978,1995
+NLD,Netherlands,175006,Female share of employment in senior and middle management (%),14.7,1995
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.15,1995
+NLD,Netherlands,178306,Gross capital formation (% of GDP),21.85276372,1995
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,1995
+NLD,Netherlands,69206,Life expectancy at birth (years),77.416,1994
+NLD,Netherlands,69706,Expected years of schooling (years),17.31243,1994
+NLD,Netherlands,103006,Mean years of schooling (years),10.4398,1994
+NLD,Netherlands,103206,Life expectancy index,0.883323077,1994
+NLD,Netherlands,103606,Income index,0.881008483,1994
+NLD,Netherlands,103706,Education index,0.828894167,1994
+NLD,Netherlands,137506,Human Development Index (HDI),0.864038147,1994
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),34115.62746,1994
+NLD,Netherlands,69206,Life expectancy at birth (years),77.308,1993
+NLD,Netherlands,69706,Expected years of schooling (years),15.07599,1993
+NLD,Netherlands,103006,Mean years of schooling (years),10.3709,1993
+NLD,Netherlands,103206,Life expectancy index,0.881661538,1993
+NLD,Netherlands,103606,Income index,0.876769502,1993
+NLD,Netherlands,103706,Education index,0.764474167,1993
+NLD,Netherlands,137506,Human Development Index (HDI),0.839170191,1993
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),33171.57046,1993
+NLD,Netherlands,69206,Life expectancy at birth (years),77.202,1992
+NLD,Netherlands,69706,Expected years of schooling (years),14.83885,1992
+NLD,Netherlands,103006,Mean years of schooling (years),10.302,1992
+NLD,Netherlands,103206,Life expectancy index,0.880030769,1992
+NLD,Netherlands,103606,Income index,0.875135615,1992
+NLD,Netherlands,103706,Education index,0.755590278,1992
+NLD,Netherlands,137506,Human Development Index (HDI),0.834871929,1992
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),32814.70512,1992
+NLD,Netherlands,43006,Vulnerable employment (% of total employment),8.2,1991
+NLD,Netherlands,69206,Life expectancy at birth (years),77.098,1991
+NLD,Netherlands,69706,Expected years of schooling (years),14.92513,1991
+NLD,Netherlands,103006,Mean years of schooling (years),10.2331,1991
+NLD,Netherlands,103206,Life expectancy index,0.878430769,1991
+NLD,Netherlands,103606,Income index,0.874149157,1991
+NLD,Netherlands,103706,Education index,0.755690278,1991
+NLD,Netherlands,110906,"Unemployment, youth (% ages 15–24)",11.1,1991
+NLD,Netherlands,137506,Human Development Index (HDI),0.834088831,1991
+NLD,Netherlands,140606,"Unemployment, total (% of labour force)",7.3,1991
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),32601.10951,1991
+NLD,Netherlands,148306,Employment to population ratio (% ages 15 and older),52.8,1991
+NLD,Netherlands,150606,Employment in agriculture (% of total employment),4.4,1991
+NLD,Netherlands,150706,Employment in services (% of total employment),70.7,1991
+NLD,Netherlands,169706,Total unemployment rate (female to male ratio),1.767857143,1991
+NLD,Netherlands,169806,Youth unemployment rate (female to male ratio),1.088235294,1991
+NLD,Netherlands,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.63,1991
+NLD,Netherlands,23806,Population with at least some secondary education (% ages 25 and older),80,1990
+NLD,Netherlands,23906,"Population with at least some secondary education, female (% ages 25 and older)",74.68,1990
+NLD,Netherlands,24006,"Population with at least some secondary education, male (% ages 25 and older)",83.64,1990
+NLD,Netherlands,24106,"Mean years of schooling, female (years)",9.8,1990
+NLD,Netherlands,24206,"Mean years of schooling, male (years)",10.9,1990
+NLD,Netherlands,27706,"Carbon dioxide emissions, per capita (tonnes)",10.59447501,1990
+NLD,Netherlands,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.899,1990
+NLD,Netherlands,44206,Total population (millions),14.965448,1990
+NLD,Netherlands,45106,Urban population (%),68.7,1990
+NLD,Netherlands,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",17.36358,1990
+NLD,Netherlands,47906,Median age (years),34.564,1990
+NLD,Netherlands,48706,"Labour force participation rate (% ages 15 and older), female",43.1,1990
+NLD,Netherlands,48806,"Labour force participation rate (% ages 15 and older), male",70.5,1990
+NLD,Netherlands,49006,Sex ratio at birth (male to female births),1.06,1990
+NLD,Netherlands,52606,"Remittances, inflows (% of GDP)",0.225585,1990
+NLD,Netherlands,53506,"Foreign direct investment, net inflows (% of GDP)",3.39699,1990
+NLD,Netherlands,57206,"Mortality rate, infant (per 1,000 live births)",6.8,1990
+NLD,Netherlands,57506,"Mortality rate, under-five (per 1,000 live births)",8.3,1990
+NLD,Netherlands,57806,"Mortality rate, female adult (per 1,000 people)",67.138,1990
+NLD,Netherlands,57906,"Mortality rate, male adult (per 1,000 people)",116.492,1990
+NLD,Netherlands,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1990
+NLD,Netherlands,63106,Population ages 15–64 (millions),10.3361,1990
+NLD,Netherlands,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.92741,1990
+NLD,Netherlands,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",118.26592,1990
+NLD,Netherlands,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",35.63979,1990
+NLD,Netherlands,64306,"Infants lacking immunization, measles (% of one-year-olds)",6,1990
+NLD,Netherlands,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1990
+NLD,Netherlands,65606,Gross fixed capital formation (% of GDP),23.53286397,1990
+NLD,Netherlands,69206,Life expectancy at birth (years),76.993,1990
+NLD,Netherlands,69706,Expected years of schooling (years),14.67445,1990
+NLD,Netherlands,89006,"Maternal mortality ratio (deaths per 100,000 live births)",12,1990
+NLD,Netherlands,100806,Forest area (% of total land area),10.21919431,1990
+NLD,Netherlands,103006,Mean years of schooling (years),10.1642,1990
+NLD,Netherlands,103206,Life expectancy index,0.876815385,1990
+NLD,Netherlands,103606,Income index,0.871231333,1990
+NLD,Netherlands,103706,Education index,0.746430278,1990
+NLD,Netherlands,110806,"Net migration rate (per 1,000 people)",1.896,1990
+NLD,Netherlands,111306,Private capital flows (% of GDP),2.531531,1990
+NLD,Netherlands,120606,"Life expectancy at birth, female (years)",80.069,1990
+NLD,Netherlands,121106,"Life expectancy at birth, male (years)",73.824,1990
+NLD,Netherlands,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),26.359,1990
+NLD,Netherlands,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.429,1990
+NLD,Netherlands,123306,"Expected years of schooling, female (years)",14.4,1990
+NLD,Netherlands,123406,"Expected years of schooling, male (years)",15,1990
+NLD,Netherlands,132706,Population ages 65 and older (millions),1.904823,1990
+NLD,Netherlands,132806,Population under age 5 (millions),0.933606,1990
+NLD,Netherlands,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",97.12553,1990
+NLD,Netherlands,133206,Exports and imports (% of GDP),104.568,1990
+NLD,Netherlands,136706,GDP per capita (2011 PPP $),32090.21105,1990
+NLD,Netherlands,137506,Human Development Index (HDI),0.829233741,1990
+NLD,Netherlands,141706,Gross national income (GNI) per capita (2011 PPP $),31977.42271,1990
+NLD,Netherlands,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",479.7971114,1990
+NLD,Netherlands,148206,Labour force participation rate (% ages 15 and older),56.5,1990
+NLD,Netherlands,149206,Government expenditure on education (% of GDP),5.296380043,1990
+NLD,Netherlands,163906,Renewable energy consumption (% of total final energy consumption),1.201611136,1990
+NLD,Netherlands,164406,Adjusted net savings (% of GNI),15.18454628,1990
+NLD,Netherlands,174306,Fossil fuel energy consumption (% of total energy consumption),95.90266744,1990
+NLD,Netherlands,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.330146629,1990
+NLD,Netherlands,177706,Survival rate to the last grade of lower secondary general education (%),88.31745,1990
+NLD,Netherlands,178306,Gross capital formation (% of GDP),24.3817012,1990
+NLD,Netherlands,181706,Rural population with access to electricity (%),100,1990

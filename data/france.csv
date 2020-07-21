@@ -1,0 +1,1223 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+FRA,France,21806,Refugees by country of origin (thousands),0.056,2017
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),83.20343,2017
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",80.55189,2017
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",85.64227,2017
+FRA,France,24106,"Mean years of schooling, female (years)",11.2943,2017
+FRA,France,24206,"Mean years of schooling, male (years)",11.7516,2017
+FRA,France,31706,Share of seats in parliament (% held by women),35.35135135,2017
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",8.643,2017
+FRA,France,43006,Vulnerable employment (% of total employment),7.6,2017
+FRA,France,44206,Total population (millions),64.979548,2017
+FRA,France,45106,Urban population (%),80.2,2017
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.6,2017
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",60.1,2017
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,2017
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.965188,2017
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.97281,2017
+FRA,France,63106,Population ages 15–64 (millions),40.416,2017
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",10,2017
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2017
+FRA,France,65606,Gross fixed capital formation (% of GDP),22.51253979,2017
+FRA,France,68606,Gender Inequality Index (GII),0.082857387,2017
+FRA,France,69206,Life expectancy at birth (years),82.716,2017
+FRA,France,69706,Expected years of schooling (years),16.41595,2017
+FRA,France,71406,Inequality-adjusted education index,0.767506588,2017
+FRA,France,71506,Inequality-adjusted life expectancy index,0.930126523,2017
+FRA,France,71606,Inequality-adjusted income index,0.73862741,2017
+FRA,France,73506,Overall loss in HDI due to inequality (%),10.31489935,2017
+FRA,France,101606,Inequality in education (%),8.59672,2017
+FRA,France,101706,Inequality in income (%),18.13051,2017
+FRA,France,101806,Inequality in life expectancy (%),3.6,2017
+FRA,France,103006,Mean years of schooling (years),11.51082,2017
+FRA,France,103206,Life expectancy index,0.964861538,2017
+FRA,France,103606,Income index,0.902201064,2017
+FRA,France,103706,Education index,0.839692611,2017
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",23.6,2017
+FRA,France,111306,Private capital flows (% of GDP),0.3579289,2017
+FRA,France,120606,"Life expectancy at birth, female (years)",85.61,2017
+FRA,France,121106,"Life expectancy at birth, male (years)",79.801,2017
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),29.074,2017
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),31.702,2017
+FRA,France,123306,"Expected years of schooling, female (years)",16.8108,2017
+FRA,France,123406,"Expected years of schooling, male (years)",16.0365,2017
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",32518.39273,2017
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",46217.64411,2017
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),157.6715153,2017
+FRA,France,132706,Population ages 65 and older (millions),12.812774,2017
+FRA,France,132806,Population under age 5 (millions),3.824185,2017
+FRA,France,133206,Exports and imports (% of GDP),62.866,2017
+FRA,France,135006,Coefficient of human inequality,10.10907667,2017
+FRA,France,136706,GDP per capita (2011 PPP $),38605.6709,2017
+FRA,France,136906,"Human Development Index (HDI), female",0.894427602,2017
+FRA,France,137006,"Human Development Index (HDI), male",0.906023529,2017
+FRA,France,137506,Human Development Index (HDI),0.90080244,2017
+FRA,France,137906,Gender Development Index (GDI),0.987201296,2017
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.807885575,2017
+FRA,France,140606,"Unemployment, total (% of labour force)",9.7,2017
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),39253.94701,2017
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2591.160436,2017
+FRA,France,146206,HDI rank,24,2017
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.2,2017
+FRA,France,148306,Employment to population ratio (% ages 15 and older),49.9,2017
+FRA,France,150606,Employment in agriculture (% of total employment),2.9,2017
+FRA,France,150706,Employment in services (% of total employment),76.8,2017
+FRA,France,169706,Total unemployment rate (female to male ratio),0.95959596,2017
+FRA,France,169806,Youth unemployment rate (female to male ratio),0.987447699,2017
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.73,2017
+FRA,France,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),91.28713226,2017
+FRA,France,178306,Gross capital formation (% of GDP),23.45930214,2017
+FRA,France,179406,Skilled labour force (% of labour force),82.6,2017
+FRA,France,181606,Red List Index (value),0.87455,2017
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),83.20343,2016
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",80.55189,2016
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",85.64227,2016
+FRA,France,24106,"Mean years of schooling, female (years)",11.2943,2016
+FRA,France,24206,"Mean years of schooling, male (years)",11.7516,2016
+FRA,France,31706,Share of seats in parliament (% held by women),25.72972973,2016
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",8.643,2016
+FRA,France,43006,Vulnerable employment (% of total employment),7.6,2016
+FRA,France,43606,"Internet users, total (% of population)",85.62219995,2016
+FRA,France,44206,Total population (millions),64.72069,2016
+FRA,France,45106,Urban population (%),79.9,2016
+FRA,France,46006,Mobile phone subscriptions (per 100 people),104.404,2016
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.7,2016
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",60.4,2016
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,2016
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.988712,2016
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.43634,2016
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.2,2016
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2016
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2016
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.3522,2016
+FRA,France,63106,Population ages 15–64 (millions),40.4372,2016
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",10,2016
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2016
+FRA,France,65606,Gross fixed capital formation (% of GDP),21.89782856,2016
+FRA,France,68606,Gender Inequality Index (GII),0.100131798,2016
+FRA,France,69206,Life expectancy at birth (years),82.546,2016
+FRA,France,69706,Expected years of schooling (years),16.41595,2016
+FRA,France,71406,Inequality-adjusted education index,0.767479047,2016
+FRA,France,71506,Inequality-adjusted life expectancy index,0.927364731,2016
+FRA,France,71606,Inequality-adjusted income index,0.683497486,2016
+FRA,France,73506,Overall loss in HDI due to inequality (%),12.54355492,2016
+FRA,France,101606,Inequality in education (%),8.6,2016
+FRA,France,101706,Inequality in income (%),24.061,2016
+FRA,France,101806,Inequality in life expectancy (%),3.625,2016
+FRA,France,103006,Mean years of schooling (years),11.51082,2016
+FRA,France,103206,Life expectancy index,0.962246154,2016
+FRA,France,103606,Income index,0.900061214,2016
+FRA,France,103706,Education index,0.839692611,2016
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",24.5,2016
+FRA,France,111106,International inbound tourists (thousands),82570,2016
+FRA,France,111306,Private capital flows (% of GDP),0.9587955,2016
+FRA,France,120606,"Life expectancy at birth, female (years)",85.472,2016
+FRA,France,121106,"Life expectancy at birth, male (years)",79.598,2016
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),29.088,2016
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),30.964,2016
+FRA,France,123306,"Expected years of schooling, female (years)",16.8108,2016
+FRA,France,123406,"Expected years of schooling, male (years)",16.0365,2016
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",32006.77852,2016
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",45627.76967,2016
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),155.2004247,2016
+FRA,France,132706,Population ages 65 and older (millions),12.52099,2016
+FRA,France,132806,Population under age 5 (millions),3.84189,2016
+FRA,France,133206,Exports and imports (% of GDP),61.1289,2016
+FRA,France,135006,Coefficient of human inequality,12.09533333,2016
+FRA,France,136706,GDP per capita (2011 PPP $),38062.63973,2016
+FRA,France,136906,"Human Development Index (HDI), female",0.892957669,2016
+FRA,France,137006,"Human Development Index (HDI), male",0.904406421,2016
+FRA,France,137506,Human Development Index (HDI),0.899275692,2016
+FRA,France,137906,Gender Development Index (GDI),0.987341143,2016
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.786474552,2016
+FRA,France,140606,"Unemployment, total (% of labour force)",10.1,2016
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),38701.79712,2016
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2544.859262,2016
+FRA,France,146206,HDI rank,23,2016
+FRA,France,147906,Youth not in school or employment (% ages 15-24),11.82,2016
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.4,2016
+FRA,France,148306,Employment to population ratio (% ages 15 and older),49.9,2016
+FRA,France,150606,Employment in agriculture (% of total employment),2.9,2016
+FRA,France,150706,Employment in services (% of total employment),76.8,2016
+FRA,France,164406,Adjusted net savings (% of GNI),7.102218421,2016
+FRA,France,169706,Total unemployment rate (female to male ratio),0.970588235,2016
+FRA,France,169806,Youth unemployment rate (female to male ratio),0.983935743,2016
+FRA,France,170006,Concentration index (exports) (value),0.098454845,2016
+FRA,France,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",9.7,2016
+FRA,France,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.3,2016
+FRA,France,175006,Female share of employment in senior and middle management (%),31.1,2016
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.68,2016
+FRA,France,178306,Gross capital formation (% of GDP),22.68577849,2016
+FRA,France,179406,Skilled labour force (% of labour force),82.6,2016
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),97.4,2016
+FRA,France,181706,Rural population with access to electricity (%),100,2016
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",7.7,2016
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),82.46647,2015
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",79.71747,2015
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",85.64227,2015
+FRA,France,24106,"Mean years of schooling, female (years)",11.2943,2015
+FRA,France,24206,"Mean years of schooling, male (years)",11.7516,2015
+FRA,France,31706,Share of seats in parliament (% held by women),25.72972973,2015
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.041,2015
+FRA,France,43006,Vulnerable employment (% of total employment),7.4,2015
+FRA,France,43606,"Internet users, total (% of population)",84.6945,2015
+FRA,France,44206,Total population (millions),64.457201,2015
+FRA,France,45106,Urban population (%),79.7,2015
+FRA,France,46006,Mobile phone subscriptions (per 100 people),103.45,2015
+FRA,France,47906,Median age (years),41.195,2015
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.7,2015
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",60.7,2015
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,2015
+FRA,France,52306,Research and development expenditure (% of GDP),2.23135,2015
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.97472,2015
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.80146,2015
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.2,2015
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",3.9,2015
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",49.314,2015
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",101.261,2015
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2015
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.5778,2015
+FRA,France,63106,Population ages 15–64 (millions),40.4768,2015
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.36142,2015
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",111.06704,2015
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",65.26391,2015
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",9,2015
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2015
+FRA,France,65606,Gross fixed capital formation (% of GDP),21.49927767,2015
+FRA,France,68606,Gender Inequality Index (GII),0.103532149,2015
+FRA,France,69206,Life expectancy at birth (years),82.369,2015
+FRA,France,69706,Expected years of schooling (years),16.41595,2015
+FRA,France,71406,Inequality-adjusted education index,0.776642528,2015
+FRA,France,71506,Inequality-adjusted life expectancy index,0.920730518,2015
+FRA,France,71606,Inequality-adjusted income index,0.75245965,2015
+FRA,France,73506,Overall loss in HDI due to inequality (%),9.425195629,2015
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",8,2015
+FRA,France,100806,Forest area (% of total land area),31.02690679,2015
+FRA,France,101606,Inequality in education (%),7.50871,2015
+FRA,France,101706,Inequality in income (%),16.2771,2015
+FRA,France,101806,Inequality in life expectancy (%),4.0429,2015
+FRA,France,103006,Mean years of schooling (years),11.51082,2015
+FRA,France,103206,Life expectancy index,0.959523077,2015
+FRA,France,103606,Income index,0.898750103,2015
+FRA,France,103706,Education index,0.839692611,2015
+FRA,France,110806,"Net migration rate (per 1,000 people)",1.135,2015
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",24.6,2015
+FRA,France,111106,International inbound tourists (thousands),84452,2015
+FRA,France,111306,Private capital flows (% of GDP),1.998582,2015
+FRA,France,112506,"Suicide rate, male (per 100,000 people)",19,2015
+FRA,France,112606,"Suicide rate, female (per 100,000 people)",5.9,2015
+FRA,France,120606,"Life expectancy at birth, female (years)",85.334,2015
+FRA,France,121106,"Life expectancy at birth, male (years)",79.378,2015
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),29.086,2015
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),30.158,2015
+FRA,France,123306,"Expected years of schooling, female (years)",16.8108,2015
+FRA,France,123406,"Expected years of schooling, male (years)",16.0365,2015
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",31676.8159,2015
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",45292.68055,2015
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),147.4144754,2015
+FRA,France,132706,Population ages 65 and older (millions),12.20719,2015
+FRA,France,132806,Population under age 5 (millions),3.87355,2015
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",109.29655,2015
+FRA,France,133206,Exports and imports (% of GDP),61.7517,2015
+FRA,France,135006,Coefficient of human inequality,9.276236667,2015
+FRA,France,136706,GDP per capita (2011 PPP $),37766.37411,2015
+FRA,France,136906,"Human Development Index (HDI), female",0.891770266,2015
+FRA,France,137006,"Human Development Index (HDI), male",0.902974488,2015
+FRA,France,137506,Human Development Index (HDI),0.897990143,2015
+FRA,France,137906,Gender Development Index (GDI),0.987591872,2015
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.813352815,2015
+FRA,France,140606,"Unemployment, total (% of labour force)",10.4,2015
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),38367.33248,2015
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2514.989974,2015
+FRA,France,147206,International student mobility (% of total tertiary enrolment),6.3184,2015
+FRA,France,147906,Youth not in school or employment (% ages 15-24),11.89,2015
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.6,2015
+FRA,France,148306,Employment to population ratio (% ages 15 and older),49.8,2015
+FRA,France,150606,Employment in agriculture (% of total employment),2.8,2015
+FRA,France,150706,Employment in services (% of total employment),76.9,2015
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),13.49926232,2015
+FRA,France,164406,Adjusted net savings (% of GNI),7.364565014,2015
+FRA,France,169706,Total unemployment rate (female to male ratio),0.916666667,2015
+FRA,France,169806,Youth unemployment rate (female to male ratio),0.957198444,2015
+FRA,France,170006,Concentration index (exports) (value),0.097704055,2015
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),46.62928331,2015
+FRA,France,175006,Female share of employment in senior and middle management (%),30.9,2015
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.69,2015
+FRA,France,176806,Programme for International Student Assessment (PISA) score in science,495,2015
+FRA,France,176906,Programme for International Student Assessment (PISA) score in reading,499,2015
+FRA,France,177006,Programme for International Student Assessment (PISA) score in mathematics,493,2015
+FRA,France,177106,Population using improved drinking-water sources (%),100,2015
+FRA,France,177206,Population using improved sanitation facilities (%),98.65200403,2015
+FRA,France,178306,Gross capital formation (% of GDP),22.71232406,2015
+FRA,France,179406,Skilled labour force (% of labour force),81.9,2015
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),97.7,2015
+FRA,France,181706,Rural population with access to electricity (%),100,2015
+FRA,France,181806,Current health expenditure (% of GDP),11.0664,2015
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",8.1,2015
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),82.46647,2014
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",79.71747,2014
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",85.51405,2014
+FRA,France,24106,"Mean years of schooling, female (years)",11.1375,2014
+FRA,France,24206,"Mean years of schooling, male (years)",11.6689,2014
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",4.573182147,2014
+FRA,France,31706,Share of seats in parliament (% held by women),25.72972973,2014
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.1795,2014
+FRA,France,43006,Vulnerable employment (% of total employment),7.4,2014
+FRA,France,43606,"Internet users, total (% of population)",83.75,2014
+FRA,France,44206,Total population (millions),64.190638,2014
+FRA,France,45106,Urban population (%),79.4,2014
+FRA,France,46006,Mobile phone subscriptions (per 100 people),101.923,2014
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.9,2014
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",61,2014
+FRA,France,52306,Research and development expenditure (% of GDP),2.23919,2014
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.888839,2014
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",0.20369,2014
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.3,2014
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",4,2014
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",49.279,2014
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",100.359,2014
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2014
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.2338,2014
+FRA,France,63106,Population ages 15–64 (millions),40.5648,2014
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",106.1346,2014
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",111.24369,2014
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",64.09508,2014
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",9,2014
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2014
+FRA,France,65606,Gross fixed capital formation (% of GDP),21.81973378,2014
+FRA,France,68606,Gender Inequality Index (GII),0.104435196,2014
+FRA,France,69206,Life expectancy at birth (years),82.185,2014
+FRA,France,69706,Expected years of schooling (years),16.32874,2014
+FRA,France,71406,Inequality-adjusted education index,0.766565876,2014
+FRA,France,71506,Inequality-adjusted life expectancy index,0.918424615,2014
+FRA,France,71606,Inequality-adjusted income index,0.772864009,2014
+FRA,France,73506,Overall loss in HDI due to inequality (%),8.724531535,2014
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",9,2014
+FRA,France,100806,Forest area (% of total land area),30.82053558,2014
+FRA,France,101606,Inequality in education (%),8,2014
+FRA,France,101706,Inequality in income (%),13.9,2014
+FRA,France,101806,Inequality in life expectancy (%),4,2014
+FRA,France,103006,Mean years of schooling (years),11.38943,2014
+FRA,France,103206,Life expectancy index,0.956692308,2014
+FRA,France,103606,Income index,0.897635319,2014
+FRA,France,103706,Education index,0.833223778,2014
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",24.2,2014
+FRA,France,111106,International inbound tourists (thousands),83701,2014
+FRA,France,111306,Private capital flows (% of GDP),0.7187243,2014
+FRA,France,120606,"Life expectancy at birth, female (years)",85.199,2014
+FRA,France,121106,"Life expectancy at birth, male (years)",79.144,2014
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.99,2014
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),29.252,2014
+FRA,France,123306,"Expected years of schooling, female (years)",16.7443,2014
+FRA,France,123406,"Expected years of schooling, male (years)",15.9309,2014
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",31427.99885,2014
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",44979.94534,2014
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),146.7735776,2014
+FRA,France,132706,Population ages 65 and older (millions),11.86604,2014
+FRA,France,132806,Population under age 5 (millions),3.89375,2014
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",108.60537,2014
+FRA,France,133206,Exports and imports (% of GDP),60.4788,2014
+FRA,France,135006,Coefficient of human inequality,8.633333333,2014
+FRA,France,136706,GDP per capita (2011 PPP $),37523.72758,2014
+FRA,France,136906,"Human Development Index (HDI), female",0.888227018,2014
+FRA,France,137006,"Human Development Index (HDI), male",0.899447087,2014
+FRA,France,137506,Human Development Index (HDI),0.894426428,2014
+FRA,France,137906,Gender Development Index (GDI),0.987525593,2014
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.816391912,2014
+FRA,France,140606,"Unemployment, total (% of labour force)",10.3,2014
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),38085.2257,2014
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2488.42697,2014
+FRA,France,147206,International student mobility (% of total tertiary enrolment),6.42741,2014
+FRA,France,147906,Youth not in school or employment (% ages 15-24),11.37,2014
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.8,2014
+FRA,France,148306,Employment to population ratio (% ages 15 and older),50,2014
+FRA,France,149206,Government expenditure on education (% of GDP),5.51760006,2014
+FRA,France,150606,Employment in agriculture (% of total employment),2.9,2014
+FRA,France,150706,Employment in services (% of total employment),76.6,2014
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),13.34702464,2014
+FRA,France,164406,Adjusted net savings (% of GNI),6.459257654,2014
+FRA,France,169706,Total unemployment rate (female to male ratio),0.952380952,2014
+FRA,France,169806,Youth unemployment rate (female to male ratio),0.964143426,2014
+FRA,France,170006,Concentration index (exports) (value),0.09203501,2014
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),46.20891197,2014
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.12187441,2014
+FRA,France,175006,Female share of employment in senior and middle management (%),32,2014
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.61,2014
+FRA,France,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),95.46658325,2014
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),99.48471,2014
+FRA,France,178306,Gross capital formation (% of GDP),22.70983107,2014
+FRA,France,179406,Skilled labour force (% of labour force),81.1,2014
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,7.450680424,2014
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),98.3,2014
+FRA,France,181706,Rural population with access to electricity (%),100,2014
+FRA,France,181806,Current health expenditure (% of GDP),11.1001,2014
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",8.2,2014
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),81.44047,2013
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",78.71216,2013
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",84.46536,2013
+FRA,France,24106,"Mean years of schooling, female (years)",10.9999,2013
+FRA,France,24206,"Mean years of schooling, male (years)",11.3939,2013
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",5.062174035,2013
+FRA,France,31706,Share of seats in parliament (% held by women),25.10822511,2013
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.318,2013
+FRA,France,43006,Vulnerable employment (% of total employment),7,2013
+FRA,France,43606,"Internet users, total (% of population)",81.9198,2013
+FRA,France,44206,Total population (millions),63.919917,2013
+FRA,France,45106,Urban population (%),79.1,2013
+FRA,France,46006,Mobile phone subscriptions (per 100 people),99.0677,2013
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",18.1766,2013
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",51.1,2013
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",61.4,2013
+FRA,France,52306,Research and development expenditure (% of GDP),2.23406,2013
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.868457,2013
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.12374,2013
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.4,2013
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",4.1,2013
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",50.487,2013
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",105.291,2013
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2013
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.2156,2013
+FRA,France,63106,Population ages 15–64 (millions),40.6761,2013
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",106.31112,2013
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",111.43068,2013
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",62.26126,2013
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",10,2013
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+FRA,France,65606,Gross fixed capital formation (% of GDP),22.04186778,2013
+FRA,France,68606,Gender Inequality Index (GII),0.106922717,2013
+FRA,France,69206,Life expectancy at birth (years),81.996,2013
+FRA,France,69706,Expected years of schooling (years),16.16042,2013
+FRA,France,71406,Inequality-adjusted education index,0.751118437,2013
+FRA,France,71506,Inequality-adjusted life expectancy index,0.915633231,2013
+FRA,France,71606,Inequality-adjusted income index,0.769511541,2013
+FRA,France,73506,Overall loss in HDI due to inequality (%),9.029292526,2013
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",9,2013
+FRA,France,100806,Forest area (% of total land area),30.61416437,2013
+FRA,France,101606,Inequality in education (%),8.6,2013
+FRA,France,101706,Inequality in income (%),14.2,2013
+FRA,France,101806,Inequality in life expectancy (%),4,2013
+FRA,France,103006,Mean years of schooling (years),11.18676134,2013
+FRA,France,103206,Life expectancy index,0.953784615,2013
+FRA,France,103606,Income index,0.896866598,2013
+FRA,France,103706,Education index,0.8217926,2013
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",24,2013
+FRA,France,111106,International inbound tourists (thousands),83634,2013
+FRA,France,111306,Private capital flows (% of GDP),-3.335801,2013
+FRA,France,120606,"Life expectancy at birth, female (years)",85.066,2013
+FRA,France,121106,"Life expectancy at birth, male (years)",78.896,2013
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.861,2013
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),28.283,2013
+FRA,France,123306,"Expected years of schooling, female (years)",16.6124,2013
+FRA,France,123406,"Expected years of schooling, male (years)",15.8566,2013
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",31562.12082,2013
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",44450.94302,2013
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),143.813566,2013
+FRA,France,132706,Population ages 65 and older (millions),11.50433,2013
+FRA,France,132806,Population under age 5 (millions),3.91467,2013
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",107.68767,2013
+FRA,France,133206,Exports and imports (% of GDP),59.7641,2013
+FRA,France,135006,Coefficient of human inequality,8.933333333,2013
+FRA,France,136706,GDP per capita (2011 PPP $),37350.27827,2013
+FRA,France,136906,"Human Development Index (HDI), female",0.88488857,2013
+FRA,France,137006,"Human Development Index (HDI), male",0.893599283,2013
+FRA,France,137506,Human Development Index (HDI),0.889160435,2013
+FRA,France,137906,Gender Development Index (GDI),0.990252104,2013
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.808875538,2013
+FRA,France,140606,"Unemployment, total (% of labour force)",9.9,2013
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),37891.9027,2013
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2465.068316,2013
+FRA,France,147206,International student mobility (% of total tertiary enrolment),6.51879,2013
+FRA,France,147906,Youth not in school or employment (% ages 15-24),11.23,2013
+FRA,France,148206,Labour force participation rate (% ages 15 and older),56.1,2013
+FRA,France,148306,Employment to population ratio (% ages 15 and older),50.6,2013
+FRA,France,149206,Government expenditure on education (% of GDP),5.505310059,2013
+FRA,France,150606,Employment in agriculture (% of total employment),3.1,2013
+FRA,France,150706,Employment in services (% of total employment),75.6,2013
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),13.47737443,2013
+FRA,France,164406,Adjusted net savings (% of GNI),6.21541444,2013
+FRA,France,169706,Total unemployment rate (female to male ratio),0.98,2013
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.012658228,2013
+FRA,France,170006,Concentration index (exports) (value),0.091256047,2013
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),48.47715541,2013
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.135532432,2013
+FRA,France,175006,Female share of employment in senior and middle management (%),35.6,2013
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.47,2013
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),99.43511,2013
+FRA,France,178306,Gross capital formation (% of GDP),22.28719307,2013
+FRA,France,179406,Skilled labour force (% of labour force),79.6,2013
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,7.401654038,2013
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),98.3,2013
+FRA,France,181706,Rural population with access to electricity (%),100,2013
+FRA,France,181806,Current health expenditure (% of GDP),10.9293,2013
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",8.6,2013
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),80.47476,2012
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",78.01226,2012
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",83.20758,2012
+FRA,France,24106,"Mean years of schooling, female (years)",10.8607,2012
+FRA,France,24206,"Mean years of schooling, male (years)",11.2311,2012
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",5.075063887,2012
+FRA,France,31706,Share of seats in parliament (% held by women),25.10822511,2012
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.4565,2012
+FRA,France,43006,Vulnerable employment (% of total employment),7.2,2012
+FRA,France,43606,"Internet users, total (% of population)",81.44,2012
+FRA,France,44206,Total population (millions),63.639873,2012
+FRA,France,45106,Urban population (%),78.9,2012
+FRA,France,46006,Mobile phone subscriptions (per 100 people),97.8317,2012
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",17.81514,2012
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.9,2012
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",61.7,2012
+FRA,France,52306,Research and development expenditure (% of GDP),2.22579,2012
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.844855,2012
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.22774,2012
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.4,2012
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",4.1,2012
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",51.572,2012
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",109.076,2012
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2012
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.2319,2012
+FRA,France,63106,Population ages 15–64 (millions),40.7816,2012
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",106.67212,2012
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",112.30831,2012
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",60.46921,2012
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",9,2012
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+FRA,France,65606,Gross fixed capital formation (% of GDP),22.45811479,2012
+FRA,France,68606,Gender Inequality Index (GII),0.108070558,2012
+FRA,France,69206,Life expectancy at birth (years),81.8,2012
+FRA,France,69706,Expected years of schooling (years),16.15757,2012
+FRA,France,71406,Inequality-adjusted education index,0.73992676,2012
+FRA,France,71506,Inequality-adjusted life expectancy index,0.910836923,2012
+FRA,France,71606,Inequality-adjusted income index,0.777529651,2012
+FRA,France,73506,Overall loss in HDI due to inequality (%),9.042691361,2012
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",9,2012
+FRA,France,97106,Fresh water withdrawals (% of total renewable water resources),14.13,2012
+FRA,France,100806,Forest area (% of total land area),30.40779316,2012
+FRA,France,101606,Inequality in education (%),9.4,2012
+FRA,France,101706,Inequality in income (%),13.3,2012
+FRA,France,101806,Inequality in life expectancy (%),4.2,2012
+FRA,France,103006,Mean years of schooling (years),11.03624441,2012
+FRA,France,103206,Life expectancy index,0.950769231,2012
+FRA,France,103606,Income index,0.896804673,2012
+FRA,France,103706,Education index,0.816696203,2012
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",23.6,2012
+FRA,France,111106,International inbound tourists (thousands),81980,2012
+FRA,France,111306,Private capital flows (% of GDP),-1.249551,2012
+FRA,France,120606,"Life expectancy at birth, female (years)",84.936,2012
+FRA,France,121106,"Life expectancy at birth, male (years)",78.637,2012
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.71,2012
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),27.34,2012
+FRA,France,123306,"Expected years of schooling, female (years)",16.6325,2012
+FRA,France,123406,"Expected years of schooling, male (years)",15.8611,2012
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",31399.45156,2012
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",44591.09904,2012
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),147.6736927,2012
+FRA,France,132706,Population ages 65 and older (millions),11.14971,2012
+FRA,France,132806,Population under age 5 (millions),3.93269,2012
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",108.10929,2012
+FRA,France,133206,Exports and imports (% of GDP),59.7021,2012
+FRA,France,135006,Coefficient of human inequality,8.966666667,2012
+FRA,France,136706,GDP per capita (2011 PPP $),37327.9444,2012
+FRA,France,136906,"Human Development Index (HDI), female",0.882555738,2012
+FRA,France,137006,"Human Development Index (HDI), male",0.890567502,2012
+FRA,France,137506,Human Development Index (HDI),0.886362089,2012
+FRA,France,137906,Gender Development Index (GDI),0.991003754,2012
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.806211101,2012
+FRA,France,140606,"Unemployment, total (% of labour force)",9.4,2012
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),37876.37219,2012
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2450.944953,2012
+FRA,France,147206,International student mobility (% of total tertiary enrolment),9.03133,2012
+FRA,France,147906,Youth not in school or employment (% ages 15-24),12.5,2012
+FRA,France,148206,Labour force participation rate (% ages 15 and older),56.2,2012
+FRA,France,148306,Employment to population ratio (% ages 15 and older),50.9,2012
+FRA,France,149206,Government expenditure on education (% of GDP),5.461319923,2012
+FRA,France,150606,Employment in agriculture (% of total employment),2.9,2012
+FRA,France,150706,Employment in services (% of total employment),75.3,2012
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),12.37295876,2012
+FRA,France,164406,Adjusted net savings (% of GNI),6.400619421,2012
+FRA,France,169706,Total unemployment rate (female to male ratio),1,2012
+FRA,France,169806,Youth unemployment rate (female to male ratio),0.983333333,2012
+FRA,France,170006,Concentration index (exports) (value),0.090793943,2012
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),48.82998211,2012
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.135958836,2012
+FRA,France,175006,Female share of employment in senior and middle management (%),39.2,2012
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.19,2012
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),99.35076,2012
+FRA,France,178306,Gross capital formation (% of GDP),22.62663227,2012
+FRA,France,179406,Skilled labour force (% of labour force),77.2,2012
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,7.281876934,2012
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),97.1,2012
+FRA,France,181706,Rural population with access to electricity (%),100,2012
+FRA,France,181806,Current health expenditure (% of GDP),10.8277,2012
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",8.6,2012
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),79.81317,2011
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",77.1974,2011
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",82.72078,2011
+FRA,France,24106,"Mean years of schooling, female (years)",10.7598,2011
+FRA,France,24206,"Mean years of schooling, male (years)",11.1602,2011
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",5.077911491,2011
+FRA,France,31706,Share of seats in parliament (% held by women),20.12987013,2011
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.595,2011
+FRA,France,43006,Vulnerable employment (% of total employment),7.2,2011
+FRA,France,43606,"Internet users, total (% of population)",77.81999899,2011
+FRA,France,44206,Total population (millions),63.343577,2011
+FRA,France,45106,Urban population (%),78.6,2011
+FRA,France,46006,Mobile phone subscriptions (per 100 people),94.431,2011
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",17.5183,2011
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.8,2011
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",61.5,2011
+FRA,France,52306,Research and development expenditure (% of GDP),2.18988,2011
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.801259,2011
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.54441,2011
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.5,2011
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",4.2,2011
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",52.543,2011
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",112.561,2011
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2011
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.3514,2011
+FRA,France,63106,Population ages 15–64 (millions),40.839,2011
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.94623,2011
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",112.27836,2011
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",58.74293,2011
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",11,2011
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+FRA,France,65606,Gross fixed capital formation (% of GDP),22.42387055,2011
+FRA,France,68606,Gender Inequality Index (GII),0.122379577,2011
+FRA,France,69206,Life expectancy at birth (years),81.598,2011
+FRA,France,69706,Expected years of schooling (years),16.10866,2011
+FRA,France,71406,Inequality-adjusted education index,0.738511061,2011
+FRA,France,71506,Inequality-adjusted life expectancy index,0.907859754,2011
+FRA,France,71606,Inequality-adjusted income index,0.77366265,2011
+FRA,France,73506,Overall loss in HDI due to inequality (%),9.152946125,2011
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",9,2011
+FRA,France,100806,Forest area (% of total land area),30.20142195,2011
+FRA,France,101606,Inequality in education (%),9.1,2011
+FRA,France,101706,Inequality in income (%),13.9,2011
+FRA,France,101806,Inequality in life expectancy (%),4.2,2011
+FRA,France,103006,Mean years of schooling (years),10.94941902,2011
+FRA,France,103206,Life expectancy index,0.947661538,2011
+FRA,France,103606,Income index,0.898562892,2011
+FRA,France,103706,Education index,0.812443412,2011
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",21.8,2011
+FRA,France,111106,International inbound tourists (thousands),80499,2011
+FRA,France,111306,Private capital flows (% of GDP),-10.99724,2011
+FRA,France,120606,"Life expectancy at birth, female (years)",84.804,2011
+FRA,France,121106,"Life expectancy at birth, male (years)",78.368,2011
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.558,2011
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),26.548,2011
+FRA,France,123306,"Expected years of schooling, female (years)",16.6026,2011
+FRA,France,123406,"Expected years of schooling, male (years)",15.8445,2011
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",31425.22019,2011
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",45470.52302,2011
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),145.8791402,2011
+FRA,France,132706,Population ages 65 and older (millions),10.84191,2011
+FRA,France,132806,Population under age 5 (millions),3.94189,2011
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",108.35918,2011
+FRA,France,133206,Exports and imports (% of GDP),58.7906,2011
+FRA,France,135006,Coefficient of human inequality,9.066666667,2011
+FRA,France,136706,GDP per capita (2011 PPP $),37440.64149,2011
+FRA,France,136906,"Human Development Index (HDI), female",0.880476487,2011
+FRA,France,137006,"Human Development Index (HDI), male",0.889177823,2011
+FRA,France,137506,Human Development Index (HDI),0.884433027,2011
+FRA,France,137906,Gender Development Index (GDI),0.990214178,2011
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.803481348,2011
+FRA,France,140606,"Unemployment, total (% of labour force)",8.8,2011
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),38319.81135,2011
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2446.475413,2011
+FRA,France,147206,International student mobility (% of total tertiary enrolment),9.20043,2011
+FRA,France,147906,Youth not in school or employment (% ages 15-24),12.28,2011
+FRA,France,148206,Labour force participation rate (% ages 15 and older),56,2011
+FRA,France,148306,Employment to population ratio (% ages 15 and older),51.1,2011
+FRA,France,149206,Government expenditure on education (% of GDP),5.515840054,2011
+FRA,France,150606,Employment in agriculture (% of total employment),2.9,2011
+FRA,France,150706,Employment in services (% of total employment),74.9,2011
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),10.91369044,2011
+FRA,France,164406,Adjusted net savings (% of GNI),7.834654738,2011
+FRA,France,169706,Total unemployment rate (female to male ratio),1.058139535,2011
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.023474178,2011
+FRA,France,170006,Concentration index (exports) (value),0.083408149,2011
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),48.49498839,2011
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.135625654,2011
+FRA,France,175006,Female share of employment in senior and middle management (%),39.1,2011
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.98,2011
+FRA,France,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",78.4,2011
+FRA,France,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),96.57256317,2011
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),99.18789,2011
+FRA,France,178306,Gross capital formation (% of GDP),23.22090937,2011
+FRA,France,179406,Skilled labour force (% of labour force),76.4,2011
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,7.194055268,2011
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),96.2,2011
+FRA,France,181706,Rural population with access to electricity (%),100,2011
+FRA,France,181806,Current health expenditure (% of GDP),10.7259,2011
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",8.7,2011
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),79.21292,2010
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",76.40499,2010
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",82.33791,2010
+FRA,France,24106,"Mean years of schooling, female (years)",10.6683,2010
+FRA,France,24206,"Mean years of schooling, male (years)",11.1023,2010
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",5.428980862,2010
+FRA,France,31706,Share of seats in parliament (% held by women),20,2010
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.7335,2010
+FRA,France,43006,Vulnerable employment (% of total employment),7.1,2010
+FRA,France,43606,"Internet users, total (% of population)",77.28,2010
+FRA,France,44206,Total population (millions),63.02674,2010
+FRA,France,45106,Urban population (%),78.4,2010
+FRA,France,46006,Mobile phone subscriptions (per 100 people),91.6833,2010
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",17.76643,2010
+FRA,France,47906,Median age (years),40.019,2010
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.9,2010
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",62,2010
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,2010
+FRA,France,52306,Research and development expenditure (% of GDP),2.17344,2010
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.753163,2010
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.47203,2010
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.5,2010
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",4.2,2010
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",53.63,2010
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",115.614,2010
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2010
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.263,2010
+FRA,France,63106,Population ages 15–64 (millions),40.8244,2010
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",108.39049,2010
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",112.39694,2010
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",57.85316,2010
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",11,2010
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2010
+FRA,France,65606,Gross fixed capital formation (% of GDP),22.10541932,2010
+FRA,France,68606,Gender Inequality Index (GII),0.124326721,2010
+FRA,France,69206,Life expectancy at birth (years),81.387,2010
+FRA,France,69706,Expected years of schooling (years),16.10263,2010
+FRA,France,71406,Inequality-adjusted education index,0.736067972,2010
+FRA,France,71506,Inequality-adjusted life expectancy index,0.901916692,2010
+FRA,France,71606,Inequality-adjusted income index,0.771305916,2010
+FRA,France,73506,Overall loss in HDI due to inequality (%),9.247875195,2010
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",9,2010
+FRA,France,100806,Forest area (% of total land area),29.99505074,2010
+FRA,France,101606,Inequality in education (%),9.1,2010
+FRA,France,101706,Inequality in income (%),13.9,2010
+FRA,France,101806,Inequality in life expectancy (%),4.5,2010
+FRA,France,103006,Mean years of schooling (years),10.87381401,2010
+FRA,France,103206,Life expectancy index,0.944415385,2010
+FRA,France,103606,Income index,0.895825687,2010
+FRA,France,103706,Education index,0.809755745,2010
+FRA,France,110806,"Net migration rate (per 1,000 people)",1.727,2010
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",22.4,2010
+FRA,France,111106,International inbound tourists (thousands),76647,2010
+FRA,France,111306,Private capital flows (% of GDP),-4.538979,2010
+FRA,France,112506,"Suicide rate, male (per 100,000 people)",21.3,2010
+FRA,France,112606,"Suicide rate, female (per 100,000 people)",7.2,2010
+FRA,France,120606,"Life expectancy at birth, female (years)",84.664,2010
+FRA,France,121106,"Life expectancy at birth, male (years)",78.088,2010
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.422,2010
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),25.963,2010
+FRA,France,123306,"Expected years of schooling, female (years)",16.5766,2010
+FRA,France,123406,"Expected years of schooling, male (years)",15.845,2010
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",30863.0274,2010
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",44654.20559,2010
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),143.8481343,2010
+FRA,France,132706,Population ages 65 and older (millions),10.59929,2010
+FRA,France,132806,Population under age 5 (millions),3.93977,2010
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",108.52167,2010
+FRA,France,133206,Exports and imports (% of GDP),54.8678,2010
+FRA,France,135006,Coefficient of human inequality,9.166666667,2010
+FRA,France,136706,GDP per capita (2011 PPP $),36855.84468,2010
+FRA,France,136906,"Human Development Index (HDI), female",0.877544807,2010
+FRA,France,137006,"Human Development Index (HDI), male",0.886237285,2010
+FRA,France,137506,Human Development Index (HDI),0.881549833,2010
+FRA,France,137906,Gender Development Index (GDI),0.990191704,2010
+FRA,France,138806,Inequality-adjusted HDI (IHDI),0.800025204,2010
+FRA,France,140606,"Unemployment, total (% of labour force)",8.9,2010
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),37631.69073,2010
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2396.643698,2010
+FRA,France,147206,International student mobility (% of total tertiary enrolment),9.02197,2010
+FRA,France,147906,Youth not in school or employment (% ages 15-24),12.65,2010
+FRA,France,148206,Labour force participation rate (% ages 15 and older),56.3,2010
+FRA,France,148306,Employment to population ratio (% ages 15 and older),51.3,2010
+FRA,France,149206,Government expenditure on education (% of GDP),5.683420181,2010
+FRA,France,150606,Employment in agriculture (% of total employment),2.9,2010
+FRA,France,150706,Employment in services (% of total employment),74.8,2010
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),11.8458733,2010
+FRA,France,164406,Adjusted net savings (% of GNI),7.147765727,2010
+FRA,France,169706,Total unemployment rate (female to male ratio),1.045977011,2010
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.013574661,2010
+FRA,France,170006,Concentration index (exports) (value),0.088372096,2010
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),49.83637832,2010
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.147303119,2010
+FRA,France,175006,Female share of employment in senior and middle management (%),38.5,2010
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",47.01,2010
+FRA,France,177106,Population using improved drinking-water sources (%),99.98425091,2010
+FRA,France,177206,Population using improved sanitation facilities (%),98.65555388,2010
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),98.8135,2010
+FRA,France,178306,Gross capital formation (% of GDP),21.9462945,2010
+FRA,France,179406,Skilled labour force (% of labour force),75.8,2010
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,7.01329035,2010
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),97.5,2010
+FRA,France,181706,Rural population with access to electricity (%),100,2010
+FRA,France,181806,Current health expenditure (% of GDP),10.713,2010
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",8.8,2010
+FRA,France,69206,Life expectancy at birth (years),81.162,2009
+FRA,France,69706,Expected years of schooling (years),16.0123,2009
+FRA,France,103006,Mean years of schooling (years),10.82355651,2009
+FRA,France,103206,Life expectancy index,0.940953846,2009
+FRA,France,103606,Income index,0.893263236,2009
+FRA,France,103706,Education index,0.805571328,2009
+FRA,France,137506,Human Development Index (HDI),0.878113379,2009
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),36998.70529,2009
+FRA,France,69206,Life expectancy at birth (years),80.922,2008
+FRA,France,69706,Expected years of schooling (years),16.04947,2008
+FRA,France,103006,Mean years of schooling (years),10.74378625,2008
+FRA,France,103206,Life expectancy index,0.937261538,2008
+FRA,France,103606,Income index,0.899049021,2008
+FRA,France,103706,Education index,0.803944819,2008
+FRA,France,137506,Human Development Index (HDI),0.878260741,2008
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),38443.33132,2008
+FRA,France,69206,Life expectancy at birth (years),80.668,2007
+FRA,France,69706,Expected years of schooling (years),16.08091,2007
+FRA,France,103006,Mean years of schooling (years),10.65745889,2007
+FRA,France,103206,Life expectancy index,0.933353846,2007
+FRA,France,103606,Income index,0.899526107,2007
+FRA,France,103706,Education index,0.801940574,2007
+FRA,France,137506,Human Development Index (HDI),0.876464022,2007
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),38564.94042,2007
+FRA,France,69206,Life expectancy at birth (years),80.403,2006
+FRA,France,69706,Expected years of schooling (years),16.10363,2006
+FRA,France,103006,Mean years of schooling (years),10.58032227,2006
+FRA,France,103206,Life expectancy index,0.929276923,2006
+FRA,France,103606,Income index,0.896822939,2006
+FRA,France,103706,Education index,0.800000465,2006
+FRA,France,137506,Human Development Index (HDI),0.873602832,2006
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),37880.95264,2006
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),74.14,2005
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",71.34105,2005
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",78.41685,2005
+FRA,France,24106,"Mean years of schooling, female (years)",10.1486,2005
+FRA,France,24206,"Mean years of schooling, male (years)",10.6725,2005
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",6.099598855,2005
+FRA,France,31706,Share of seats in parliament (% held by women),13.92265193,2005
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",10.771,2005
+FRA,France,43006,Vulnerable employment (% of total employment),6.6,2005
+FRA,France,43606,"Internet users, total (% of population)",42.87,2005
+FRA,France,44206,Total population (millions),61.2339,2005
+FRA,France,45106,Urban population (%),77.1,2005
+FRA,France,46006,Mobile phone subscriptions (per 100 people),78.5317,2005
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",18.55493,2005
+FRA,France,47906,Median age (years),38.879,2005
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",50.1,2005
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",62.6,2005
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,2005
+FRA,France,52306,Research and development expenditure (% of GDP),2.04676,2005
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.64715,2005
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",3.87861,2005
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",3.8,2005
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",4.6,2005
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",56.774,2005
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",126.63,2005
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2005
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.5939,2005
+FRA,France,63106,Population ages 15–64 (millions),39.8797,2005
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",108.90099,2005
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",113.87071,2005
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",55.28468,2005
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",13,2005
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2005
+FRA,France,65606,Gross fixed capital formation (% of GDP),21.79743531,2005
+FRA,France,68606,Gender Inequality Index (GII),0.156872848,2005
+FRA,France,69206,Life expectancy at birth (years),80.13,2005
+FRA,France,69706,Expected years of schooling (years),16.10518,2005
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",10,2005
+FRA,France,100806,Forest area (% of total land area),28.96684729,2005
+FRA,France,103006,Mean years of schooling (years),10.39742372,2005
+FRA,France,103206,Life expectancy index,0.925076923,2005
+FRA,France,103606,Income index,0.893950939,2005
+FRA,France,103706,Education index,0.793946902,2005
+FRA,France,110806,"Net migration rate (per 1,000 people)",1.632,2005
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",20.2,2005
+FRA,France,111106,International inbound tourists (thousands),74988,2005
+FRA,France,111306,Private capital flows (% of GDP),2.371025,2005
+FRA,France,112506,"Suicide rate, male (per 100,000 people)",22.4,2005
+FRA,France,112606,"Suicide rate, female (per 100,000 people)",7.9,2005
+FRA,France,120606,"Life expectancy at birth, female (years)",83.714,2005
+FRA,France,121106,"Life expectancy at birth, male (years)",76.563,2005
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.279,2005
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),25.267,2005
+FRA,France,123306,"Expected years of schooling, female (years)",16.5405,2005
+FRA,France,123406,"Expected years of schooling, male (years)",15.8481,2005
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",28386.25342,2005
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",46286.10057,2005
+FRA,France,127606,Domestic credit provided by financial sector (% of GDP),106.0600089,2005
+FRA,France,132706,Population ages 65 and older (millions),10.07648,2005
+FRA,France,132806,Population under age 5 (millions),3.84548,2005
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",115.71556,2005
+FRA,France,133206,Exports and imports (% of GDP),53.9807,2005
+FRA,France,136706,GDP per capita (2011 PPP $),36505.84873,2005
+FRA,France,136906,"Human Development Index (HDI), female",0.862231114,2005
+FRA,France,137006,"Human Development Index (HDI), male",0.875269313,2005
+FRA,France,137506,Human Development Index (HDI),0.869149191,2005
+FRA,France,137906,Gender Development Index (GDI),0.985103786,2005
+FRA,France,140606,"Unemployment, total (% of labour force)",8.5,2005
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),37167.53132,2005
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2306.415831,2005
+FRA,France,147206,International student mobility (% of total tertiary enrolment),8.55607,2005
+FRA,France,147906,Youth not in school or employment (% ages 15-24),11.19,2005
+FRA,France,148206,Labour force participation rate (% ages 15 and older),56.2,2005
+FRA,France,148306,Employment to population ratio (% ages 15 and older),51.4,2005
+FRA,France,149206,Government expenditure on education (% of GDP),5.499810219,2005
+FRA,France,150606,Employment in agriculture (% of total employment),3.6,2005
+FRA,France,150706,Employment in services (% of total employment),72.6,2005
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),8.596912157,2005
+FRA,France,164406,Adjusted net savings (% of GNI),10.23462299,2005
+FRA,France,169706,Total unemployment rate (female to male ratio),1.192307692,2005
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.041237113,2005
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),52.29710794,2005
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.167085524,2005
+FRA,France,175006,Female share of employment in senior and middle management (%),36.3,2005
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",46.17,2005
+FRA,France,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",76.6,2005
+FRA,France,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",1.7,2005
+FRA,France,177106,Population using improved drinking-water sources (%),99.94178545,2005
+FRA,France,177206,Population using improved sanitation facilities (%),98.65922457,2005
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),100,2005
+FRA,France,178306,Gross capital formation (% of GDP),22.45262344,2005
+FRA,France,179406,Skilled labour force (% of labour force),71.9,2005
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,6.508097797,2005
+FRA,France,181206,Proportion of births attended by skilled health personnel (%),97.9,2005
+FRA,France,181706,Rural population with access to electricity (%),100,2005
+FRA,France,181806,Current health expenditure (% of GDP),10.1798,2005
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",9.5,2005
+FRA,France,69206,Life expectancy at birth (years),79.856,2004
+FRA,France,69706,Expected years of schooling (years),15.49184,2004
+FRA,France,103006,Mean years of schooling (years),10.31509886,2004
+FRA,France,103206,Life expectancy index,0.920861538,2004
+FRA,France,103606,Income index,0.892248608,2004
+FRA,France,103706,Education index,0.774165518,2004
+FRA,France,137506,Human Development Index (HDI),0.860012332,2004
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),36751.02116,2004
+FRA,France,69206,Life expectancy at birth (years),79.586,2003
+FRA,France,69706,Expected years of schooling (years),15.51256,2003
+FRA,France,103006,Mean years of schooling (years),10.21794321,2003
+FRA,France,103206,Life expectancy index,0.916707692,2003
+FRA,France,103606,Income index,0.88890831,2003
+FRA,France,103706,Education index,0.771502551,2003
+FRA,France,137506,Human Development Index (HDI),0.85665983,2003
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),35947.26464,2003
+FRA,France,69206,Life expectancy at birth (years),79.324,2002
+FRA,France,69706,Expected years of schooling (years),15.40656,2002
+FRA,France,103006,Mean years of schooling (years),10.08790687,2002
+FRA,France,103206,Life expectancy index,0.912676923,2002
+FRA,France,103606,Income index,0.888392519,2002
+FRA,France,103706,Education index,0.764223562,2002
+FRA,France,137506,Human Development Index (HDI),0.852538751,2002
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),35824.72926,2002
+FRA,France,69206,Life expectancy at birth (years),79.073,2001
+FRA,France,69706,Expected years of schooling (years),15.52687,2001
+FRA,France,103006,Mean years of schooling (years),9.957870528,2001
+FRA,France,103206,Life expectancy index,0.908815385,2001
+FRA,France,103606,Income index,0.888975658,2001
+FRA,France,103706,Education index,0.763230962,2001
+FRA,France,137506,Human Development Index (HDI),0.851152096,2001
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),35963.29518,2001
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),70.6,2000
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",67.6,2000
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",71.541628,2000
+FRA,France,24106,"Mean years of schooling, female (years)",9.7,2000
+FRA,France,24206,"Mean years of schooling, male (years)",10.1,2000
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",5.946665463,2000
+FRA,France,31706,Share of seats in parliament (% held by women),9.131403118,2000
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.808,2000
+FRA,France,43006,Vulnerable employment (% of total employment),7.2,2000
+FRA,France,43606,"Internet users, total (% of population)",14.30792394,2000
+FRA,France,44206,Total population (millions),59.608201,2000
+FRA,France,45106,Urban population (%),75.9,2000
+FRA,France,46006,Mobile phone subscriptions (per 100 people),48.7389,2000
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",18.74643,2000
+FRA,France,47906,Median age (years),37.68,2000
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",48.6,2000
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",62.9,2000
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,2000
+FRA,France,52306,Research and development expenditure (% of GDP),2.07742,2000
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.651104,2000
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",3.03779,2000
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",4.4,2000
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",5.4,2000
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",60.836,2000
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",138.397,2000
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2000
+FRA,France,61006,"Homicide rate (per 100,000 people)",1.7632,2000
+FRA,France,63106,Population ages 15–64 (millions),38.8721,2000
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",104.37052,2000
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",108.62761,2000
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",53.56039,2000
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",16,2000
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2000
+FRA,France,65606,Gross fixed capital formation (% of GDP),21.51435325,2000
+FRA,France,68606,Gender Inequality Index (GII),0.191749944,2000
+FRA,France,69206,Life expectancy at birth (years),78.835,2000
+FRA,France,69706,Expected years of schooling (years),15.62223,2000
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",12,2000
+FRA,France,100806,Forest area (% of total land area),27.92169725,2000
+FRA,France,103006,Mean years of schooling (years),9.827834188,2000
+FRA,France,103206,Life expectancy index,0.905153846,2000
+FRA,France,103606,Income index,0.887257539,2000
+FRA,France,103706,Education index,0.761545306,2000
+FRA,France,110806,"Net migration rate (per 1,000 people)",1.298,2000
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",20.5,2000
+FRA,France,111106,International inbound tourists (thousands),77190,2000
+FRA,France,111306,Private capital flows (% of GDP),7.140872,2000
+FRA,France,112506,"Suicide rate, male (per 100,000 people)",23.9,2000
+FRA,France,112606,"Suicide rate, female (per 100,000 people)",8.3,2000
+FRA,France,120606,"Life expectancy at birth, female (years)",82.66,2000
+FRA,France,121106,"Life expectancy at birth, male (years)",75.074,2000
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.799,2000
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),24.545,2000
+FRA,France,123306,"Expected years of schooling, female (years)",15.8,2000
+FRA,France,123406,"Expected years of schooling, male (years)",15.3,2000
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",26240.27715,2000
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",45242.85656,2000
+FRA,France,132706,Population ages 65 and older (millions),9.541302,2000
+FRA,France,132806,Population under age 5 (millions),3.69847,2000
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",111.48002,2000
+FRA,France,133206,Exports and imports (% of GDP),55.8612,2000
+FRA,France,136706,GDP per capita (2011 PPP $),34880.88182,2000
+FRA,France,136906,"Human Development Index (HDI), female",0.840400671,2000
+FRA,France,137006,"Human Development Index (HDI), male",0.854138818,2000
+FRA,France,137506,Human Development Index (HDI),0.848833703,2000
+FRA,France,137906,Gender Development Index (GDI),0.983915792,2000
+FRA,France,140606,"Unemployment, total (% of labour force)",10.2,2000
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),35556.56363,2000
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",2124.681714,2000
+FRA,France,147206,International student mobility (% of total tertiary enrolment),4.28453,2000
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.6,2000
+FRA,France,148306,Employment to population ratio (% ages 15 and older),49.9,2000
+FRA,France,149206,Government expenditure on education (% of GDP),5.516729832,2000
+FRA,France,150606,Employment in agriculture (% of total employment),4.1,2000
+FRA,France,150706,Employment in services (% of total employment),69.6,2000
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),9.256000137,2000
+FRA,France,164406,Adjusted net savings (% of GNI),12.8519346,2000
+FRA,France,169706,Total unemployment rate (female to male ratio),1.418604651,2000
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.084656085,2000
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),52.80593885,2000
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.170484952,2000
+FRA,France,175006,Female share of employment in senior and middle management (%),31.7,2000
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.67,2000
+FRA,France,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",81.8,2000
+FRA,France,177106,Population using improved drinking-water sources (%),99.89470982,2000
+FRA,France,177206,Population using improved sanitation facilities (%),98.6630282,2000
+FRA,France,178306,Gross capital formation (% of GDP),22.48805446,2000
+FRA,France,179706,Ratio of education and health expenditure to military expenditure,6.066243169,2000
+FRA,France,181706,Rural population with access to electricity (%),100,2000
+FRA,France,181806,Current health expenditure (% of GDP),9.54113,2000
+FRA,France,182206,"Tuberculosis incidence (per 100,000 people)",12,2000
+FRA,France,69206,Life expectancy at birth (years),78.609,1999
+FRA,France,69706,Expected years of schooling (years),15.70277,1999
+FRA,France,103006,Mean years of schooling (years),9.615784405,1999
+FRA,France,103206,Life expectancy index,0.901676923,1999
+FRA,France,103606,Income index,0.882825668,1999
+FRA,France,103706,Education index,0.756714202,1999
+FRA,France,137506,Human Development Index (HDI),0.844538133,1999
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),34528.51339,1999
+FRA,France,69206,Life expectancy at birth (years),78.39,1998
+FRA,France,69706,Expected years of schooling (years),15.66535,1998
+FRA,France,103006,Mean years of schooling (years),9.403734621,1998
+FRA,France,103206,Life expectancy index,0.898307692,1998
+FRA,France,103606,Income index,0.877482729,1998
+FRA,France,103706,Education index,0.748606432,1998
+FRA,France,137506,Human Development Index (HDI),0.83876265,1998
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),33328.56415,1998
+FRA,France,31706,Share of seats in parliament (% held by women),9.020044543,1997
+FRA,France,69206,Life expectancy at birth (years),78.175,1997
+FRA,France,69706,Expected years of schooling (years),15.73642,1997
+FRA,France,103006,Mean years of schooling (years),9.191684837,1997
+FRA,France,103206,Life expectancy index,0.895,1997
+FRA,France,103606,Income index,0.872667249,1997
+FRA,France,103706,Education index,0.743512272,1997
+FRA,France,137506,Human Development Index (HDI),0.834295596,1997
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),32282.84514,1997
+FRA,France,52306,Research and development expenditure (% of GDP),2.20916,1996
+FRA,France,69206,Life expectancy at birth (years),77.962,1996
+FRA,France,69706,Expected years of schooling (years),15.77777,1996
+FRA,France,103006,Mean years of schooling (years),8.979635053,1996
+FRA,France,103206,Life expectancy index,0.891723077,1996
+FRA,France,103606,Income index,0.869199926,1996
+FRA,France,103706,Education index,0.737592557,1996
+FRA,France,137506,Human Development Index (HDI),0.82995664,1996
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),31550.26681,1996
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),60.5,1995
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",57.09,1995
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",63.556938,1995
+FRA,France,24106,"Mean years of schooling, female (years)",8.3,1995
+FRA,France,24206,"Mean years of schooling, male (years)",8.9,1995
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",5.864118291,1995
+FRA,France,31706,Share of seats in parliament (% held by women),9.020044543,1995
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",10.989,1995
+FRA,France,43006,Vulnerable employment (% of total employment),9,1995
+FRA,France,44206,Total population (millions),58.241791,1995
+FRA,France,45106,Urban population (%),74.9,1995
+FRA,France,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",18.76642,1995
+FRA,France,47906,Median age (years),36.374,1995
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",47.7,1995
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",63.1,1995
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,1995
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.276954,1995
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.4825,1995
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",5.4,1995
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",6.5,1995
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",65.901,1995
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",156.329,1995
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.3,1995
+FRA,France,63106,Population ages 15–64 (millions),38.1156,1995
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.12841,1995
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",113.90701,1995
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",50.29366,1995
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",17,1995
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1995
+FRA,France,65606,Gross fixed capital formation (% of GDP),20.07415415,1995
+FRA,France,68606,Gender Inequality Index (GII),0.219999286,1995
+FRA,France,69206,Life expectancy at birth (years),77.747,1995
+FRA,France,69706,Expected years of schooling (years),15.70588,1995
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",15,1995
+FRA,France,100806,Forest area (% of total land area),27.14284671,1995
+FRA,France,103006,Mean years of schooling (years),8.767585269,1995
+FRA,France,103206,Life expectancy index,0.888415385,1995
+FRA,France,103606,Income index,0.866931666,1995
+FRA,France,103706,Education index,0.728527287,1995
+FRA,France,110806,"Net migration rate (per 1,000 people)",1.054,1995
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",26.7,1995
+FRA,France,111106,International inbound tourists (thousands),60033,1995
+FRA,France,111306,Private capital flows (% of GDP),-0.8478755,1995
+FRA,France,120606,"Life expectancy at birth, female (years)",81.839,1995
+FRA,France,121106,"Life expectancy at birth, male (years)",73.753,1995
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),29.722,1995
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),23.081,1995
+FRA,France,123306,"Expected years of schooling, female (years)",15.9,1995
+FRA,France,123406,"Expected years of schooling, male (years)",15.5,1995
+FRA,France,123506,"Estimated gross national income per capita, female (2011 PPP $)",22916.88788,1995
+FRA,France,123606,"Estimated gross national income per capita, male (2011 PPP $)",39574.24972,1995
+FRA,France,132706,Population ages 65 and older (millions),8.797477,1995
+FRA,France,132806,Population under age 5 (millions),3.62835,1995
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",112.70489,1995
+FRA,France,133206,Exports and imports (% of GDP),43.6461,1995
+FRA,France,136706,GDP per capita (2011 PPP $),30918.06796,1995
+FRA,France,136906,"Human Development Index (HDI), female",0.813483613,1995
+FRA,France,137006,"Human Development Index (HDI), male",0.828446453,1995
+FRA,France,137506,Human Development Index (HDI),0.824800508,1995
+FRA,France,137906,Gender Development Index (GDI),0.981938676,1995
+FRA,France,140606,"Unemployment, total (% of labour force)",11.8,1995
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),31080.04593,1995
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1840.92048,1995
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.2,1995
+FRA,France,148306,Employment to population ratio (% ages 15 and older),48.7,1995
+FRA,France,149206,Government expenditure on education (% of GDP),5.759079933,1995
+FRA,France,150606,Employment in agriculture (% of total employment),4.9,1995
+FRA,France,150706,Employment in services (% of total employment),68.2,1995
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),10.70140869,1995
+FRA,France,164406,Adjusted net savings (% of GNI),11.50409518,1995
+FRA,France,169706,Total unemployment rate (female to male ratio),1.386138614,1995
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.136170213,1995
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),53.57382198,1995
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.189666389,1995
+FRA,France,175006,Female share of employment in senior and middle management (%),29.9,1995
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.99,1995
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),83.858,1995
+FRA,France,178306,Gross capital formation (% of GDP),20.51313622,1995
+FRA,France,181706,Rural population with access to electricity (%),100,1995
+FRA,France,69206,Life expectancy at birth (years),77.527,1994
+FRA,France,69706,Expected years of schooling (years),15.61357,1994
+FRA,France,103006,Mean years of schooling (years),8.442548215,1994
+FRA,France,103206,Life expectancy index,0.885030769,1994
+FRA,France,103606,Income index,0.8644115,1994
+FRA,France,103706,Education index,0.715128552,1994
+FRA,France,137506,Human Development Index (HDI),0.817876396,1994
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),30565.8177,1994
+FRA,France,69206,Life expectancy at birth (years),77.302,1993
+FRA,France,69706,Expected years of schooling (years),14.8419,1993
+FRA,France,103006,Mean years of schooling (years),8.117511162,1993
+FRA,France,103206,Life expectancy index,0.881569231,1993
+FRA,France,103606,Income index,0.861783104,1993
+FRA,France,103706,Education index,0.682858705,1993
+FRA,France,137506,Human Development Index (HDI),0.803517025,1993
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),30038.56757,1993
+FRA,France,69206,Life expectancy at birth (years),77.07,1992
+FRA,France,69706,Expected years of schooling (years),14.76767,1992
+FRA,France,103006,Mean years of schooling (years),7.792474108,1992
+FRA,France,103206,Life expectancy index,0.878,1992
+FRA,France,103606,Income index,0.863203152,1992
+FRA,France,103706,Education index,0.669962192,1992
+FRA,France,137506,Human Development Index (HDI),0.79778514,1992
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),30322.28628,1992
+FRA,France,43006,Vulnerable employment (% of total employment),10.5,1991
+FRA,France,69206,Life expectancy at birth (years),76.831,1991
+FRA,France,69706,Expected years of schooling (years),14.44189,1991
+FRA,France,103006,Mean years of schooling (years),7.467437054,1991
+FRA,France,103206,Life expectancy index,0.874323077,1991
+FRA,France,103606,Income index,0.86126004,1991
+FRA,France,103706,Education index,0.65007818,1991
+FRA,France,110906,"Unemployment, youth (% ages 15–24)",19.4,1991
+FRA,France,137506,Human Development Index (HDI),0.788116843,1991
+FRA,France,140606,"Unemployment, total (% of labour force)",9.1,1991
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),29934.73222,1991
+FRA,France,148306,Employment to population ratio (% ages 15 and older),50.2,1991
+FRA,France,150606,Employment in agriculture (% of total employment),5.3,1991
+FRA,France,150706,Employment in services (% of total employment),65.5,1991
+FRA,France,169706,Total unemployment rate (female to male ratio),1.589041096,1991
+FRA,France,169806,Youth unemployment rate (female to male ratio),1.147928994,1991
+FRA,France,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.58,1991
+FRA,France,23806,Population with at least some secondary education (% ages 25 and older),48.3,1990
+FRA,France,23906,"Population with at least some secondary education, female (% ages 25 and older)",44.44,1990
+FRA,France,24006,"Population with at least some secondary education, male (% ages 25 and older)",53.04,1990
+FRA,France,24106,"Mean years of schooling, female (years)",7,1990
+FRA,France,24206,"Mean years of schooling, male (years)",7.8,1990
+FRA,France,27706,"Carbon dioxide emissions, per capita (tonnes)",6.420670907,1990
+FRA,France,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",13.653,1990
+FRA,France,44206,Total population (millions),56.960835,1990
+FRA,France,45106,Urban population (%),74.1,1990
+FRA,France,46106,Primary school dropout rate (% of primary school cohort),3.39995,1990
+FRA,France,47906,Median age (years),34.988,1990
+FRA,France,48706,"Labour force participation rate (% ages 15 and older), female",46.3,1990
+FRA,France,48806,"Labour force participation rate (% ages 15 and older), male",65.7,1990
+FRA,France,49006,Sex ratio at birth (male to female births),1.05,1990
+FRA,France,52606,"Remittances, inflows (% of GDP)",0.317903,1990
+FRA,France,53506,"Foreign direct investment, net inflows (% of GDP)",1.03872,1990
+FRA,France,57206,"Mortality rate, infant (per 1,000 live births)",7.4,1990
+FRA,France,57506,"Mortality rate, under-five (per 1,000 live births)",9,1990
+FRA,France,57806,"Mortality rate, female adult (per 1,000 people)",69.001,1990
+FRA,France,57906,"Mortality rate, male adult (per 1,000 people)",167.612,1990
+FRA,France,58006,"HIV prevalence, adult (% ages 15-49)",0.3,1990
+FRA,France,63106,Population ages 15–64 (millions),37.6499,1990
+FRA,France,63206,"Gross enrolment ratio, primary (% of primary school-age population)",112.02345,1990
+FRA,France,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",96.65596,1990
+FRA,France,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",36.96632,1990
+FRA,France,64306,"Infants lacking immunization, measles (% of one-year-olds)",29,1990
+FRA,France,64406,"Infants lacking immunization, DPT (% of one-year-olds)",3,1990
+FRA,France,65606,Gross fixed capital formation (% of GDP),23.38265249,1990
+FRA,France,69206,Life expectancy at birth (years),76.584,1990
+FRA,France,69706,Expected years of schooling (years),14.18949,1990
+FRA,France,89006,"Maternal mortality ratio (deaths per 100,000 live births)",15,1990
+FRA,France,100806,Forest area (% of total land area),26.36394517,1990
+FRA,France,103006,Mean years of schooling (years),7.1424,1990
+FRA,France,103206,Life expectancy index,0.870523077,1990
+FRA,France,103606,Income index,0.859872791,1990
+FRA,France,103706,Education index,0.6322325,1990
+FRA,France,110806,"Net migration rate (per 1,000 people)",1.715,1990
+FRA,France,111306,Private capital flows (% of GDP),-1.037725,1990
+FRA,France,120606,"Life expectancy at birth, female (years)",80.78,1990
+FRA,France,121106,"Life expectancy at birth, male (years)",72.508,1990
+FRA,France,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),30.083,1990
+FRA,France,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),21.208,1990
+FRA,France,123306,"Expected years of schooling, female (years)",14.5,1990
+FRA,France,123406,"Expected years of schooling, male (years)",13.9,1990
+FRA,France,132706,Population ages 65 and older (millions),7.98478,1990
+FRA,France,132806,Population under age 5 (millions),3.78567,1990
+FRA,France,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",108.41135,1990
+FRA,France,133206,Exports and imports (% of GDP),42.7361,1990
+FRA,France,136706,GDP per capita (2011 PPP $),29514.85381,1990
+FRA,France,137506,Human Development Index (HDI),0.779286413,1990
+FRA,France,141706,Gross national income (GNI) per capita (2011 PPP $),29661.07949,1990
+FRA,France,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1726.996974,1990
+FRA,France,148206,Labour force participation rate (% ages 15 and older),55.7,1990
+FRA,France,149206,Government expenditure on education (% of GDP),4.492280006,1990
+FRA,France,163906,Renewable energy consumption (% of total final energy consumption),10.40801913,1990
+FRA,France,164406,Adjusted net savings (% of GNI),12.11465857,1990
+FRA,France,174306,Fossil fuel energy consumption (% of total energy consumption),58.15395849,1990
+FRA,France,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.217540326,1990
+FRA,France,177706,Survival rate to the last grade of lower secondary general education (%),91.31396,1990
+FRA,France,178306,Gross capital formation (% of GDP),24.40966033,1990
+FRA,France,181706,Rural population with access to electricity (%),100,1990

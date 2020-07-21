@@ -43,7 +43,41 @@ _showing first five rows_
 
 These dataframes were used to create the following plots, which show the increase in the percent of events for women over time, the comparison of men's and women's events over time and the medals for men's and women's events for the countries with at least 50 medals.
 
-**Update plots here, still need to determine which ones to use (mixed events included or not)**
+## Winter Olympics Gender Equality Plots
 ![img](images/no-mix-year-plot.png)
+
+The largest spike in the percent of events including women occurred in 1960 with a 12% increase. The 1960 Winter Olympics were held in Squaw Valley, CA and the 1960s were the peak of the feminism movement in the United States. Unfortunately, it is likely that this correlation is just coincidental. The 1960 olympics added biathlon to the men's events and four distances of speed skating to the women's events. In order to save money the Olympic Committee decided not to build a bobsled run, causing the men to loose three medal events. This reduction in the men's events, along with the addition of the women's events, is what caused the large spike. 
+
 ![img](images/no-mix-count-year-plot.png)
+
+Women's events are slowly catching up to men's events in the Winter Olympics. The steepest increases occured in the 1960s and the 1980s. There is a gap in the 1940s when the Olympics were not constested due to the second world war. The switch to Summer and Winter olympics occuring on separate four-year cycles occurred in 1994, as can be seen on the plot.
+
 ![img](images/no-mix-country-plot.png)
+
+This plot was abbreviated to only include countries with at least 50 medals since 1924. The dominace of Norway in men's events is clearly evident. It is also interesting to note the Germans are the only competitors to produce more women's event medals than men's events. 
+
+## Human Development Index Correlation
+
+"The Human Development Index (HDI) was created to emphasize that expanding human choices should be the ultimate criteria for assessing development results. Economic growth is a means to that process but is not an end in itself." - hdr.undp.org
+
+HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected and reduced to only include the indices with the words 'female' or 'woman' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 18 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. A random number generator was used to determine what correlation was better than random, and thus worth investigating.
+
+|                 |   %_womens_medals |
+|:----------------|------------------:|
+| #date+year      |      nan          |
+| 23906           |       -0.00219968 |
+| 24106           |        0.175806   |
+| 48706           |       -0.108715   |
+| 120606          |       -0.173652   |
+| 123306          |       -0.0889399  |
+| **123506**          |       **-0.438787**   |
+| 136906          |       -0.14169    |
+| **169706**          |       **-0.247335**   |
+| 169806          |       -0.129153   |
+| 175106          |       -0.0650042  |
+| 31706           |        0.143553   |
+| 36806           |        0.11536    |
+| %_womens_medals |        1          |
+| **rand**            |        **0.20735**    |
+
+There were two indices that had a correlation above the random. 123506: Estimated gross national income per capita, female and 169706: Total unemployment rate (female to male ratio). 
