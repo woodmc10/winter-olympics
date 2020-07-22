@@ -11,6 +11,7 @@ class CleanDataFrame(object):
         self.files = file_list
         self.codes = codes_list
         self.years = years_list
+        self.indicator_dict = None
         self.df = self.compile()
 
     def create_country_df(self, file):
@@ -20,6 +21,8 @@ class CleanDataFrame(object):
                                 index=['#country+name', '#date+year'], 
                                 columns='#indicator+code', 
                                 aggfunc=np.sum)
+        if self.indicator_dict == None:
+            self.create_dict(df)
         women_df = table[self.codes]
         women_years_df = women_df.loc[(country, self.years),]
         women_years_df.reset_index(inplace=True)
@@ -35,6 +38,8 @@ class CleanDataFrame(object):
                 self.df = multi_df.append(new_df, ignore_index=True)
         return self.df
 
+    def create_dict(self, df):
+        self.indicator_dict = df.set_index('#indicator+code').to_dict()['#indicator+name']
 
 if __name__ == '__main__':
     female_indicator_codes = [23906, 24106, 48706, 49006, 120606, 

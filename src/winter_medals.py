@@ -69,21 +69,24 @@ if __name__ == '__main__':
     '''
     Plots - add more to functions, less repetative here
     ---------------------------------------------------
+    
 
     year = df_gender_by_year_no_mixed.index
     y = df_gender_by_year_no_mixed['%_womens_events']
     ax = percent_plot(year, y, color='tab:red', label='Excluding Mixed Events')
-    plt.savefig('../images/no-mix-year-plot.png')
+    # plt.savefig('../images/no-mix-year-plot.png')
 
     y2 = df_gender_by_year_with_mixed['%_womens_events']
     ax2 = percent_plot(year, y2, color='tab:red', label='Including Mixed Events')
-    plt.savefig('../images/mix-year-plot.png')
-
-    y3_a = df_gender_by_year_no_mixed['mens_events'] 
-    y3_b = df_gender_by_year_no_mixed['womens_events']
+    # plt.savefig('../images/mix-year-plot.png')
+  
+    year = winter_dataframes.annual_medals_df.index
+    y3_a = winter_dataframes.annual_medals_df['mens_events'] 
+    y3_b = winter_dataframes.annual_medals_df['womens_events']
     ax3 = gender_counts_plot(year, y3_a, color='tab:blue', label='Mens Events')
     ax3 = gender_counts_plot(year+1, y3_b, ax3, color='tab:red', label='Womens Events')
-    plt.savefig('../images/no-mix-count-year-plot.png')
+    plt.tight_layout()
+    # plt.savefig('../images/no-mix-count-year-plot.png')
 
     fig4, ax4 = plt.subplots(1, figsize=(12,6))
     y4_a = df_gender_by_year_with_mixed['mens_events'] 
@@ -91,7 +94,7 @@ if __name__ == '__main__':
     y4_c = df_gender_by_year_with_mixed['mixed_events']
     ax3 = gender_counts_plot(year-0.7, y4_a, ax4, color='tab:blue', label='Mens Events', width=0.7)
     ax3 = gender_counts_plot(year, y4_b, ax4, color='tab:red', label='Womens Events', width=0.7)
-    ax3 = gender_counts_plot(year+0.7, y4_c, ax4 color='tab:purple', label='Mixed Events', width=0.7)
+    ax3 = gender_counts_plot(year+0.7, y4_c, ax4, color='tab:purple', label='Mixed Events', width=0.7)
     plt.savefig('../images/mix-count-year-plot.png')
     
     fig5, ax5 = plt.subplots(1, figsize=(12,6))
@@ -104,7 +107,7 @@ if __name__ == '__main__':
     ax5.set_xticks(x)
     ax5.set_xticklabels(country)
     plt.xticks(rotation=45, ha='right')
-    plt.savefig('../images/no-mix-country-plot-1993.png')
+    # plt.savefig('../images/no-mix-country-plot-1993.png')
     
     fig6, ax6 = plt.subplots(1)
     country = df_medals_50_with_mixed.index
@@ -118,7 +121,7 @@ if __name__ == '__main__':
     ax6.set_xticks(x)
     ax6.set_xticklabels(country)
     plt.xticks(rotation=45, ha='right')
-    plt.savefig('../images/mix-country-plot.png')
+    # plt.savefig('../images/mix-country-plot.png')
 
     '''
 
@@ -129,14 +132,46 @@ if __name__ == '__main__':
     files = ['usa', 'germany', 'canada', 'austria', 'norway', 'russia',
             'netherlands', 'switzerland', 'italy', 'france', 'sweden']
     years = [2014, 2016]
-    multi_country_hdi_df = CleanDataFrame(files, female_indicator_codes, years).df
-    multi_2014_hdi_df = multi_country_hdi_df[multi_country_hdi_df['#date+year'] == 2014]
-    corr_df = pd.merge(multi_2014_hdi_df, 
+    multi_country_hdi = CleanDataFrame(files, female_indicator_codes, years)
+    multi_2014_hdi_df = multi_country_hdi.df[multi_country_hdi.df['#date+year'] == 2014]
+    merge_df = pd.merge(multi_2014_hdi_df, 
                         winter_dataframes.country_medals_df['%_womens_medals'], 
                                                             left_on='#country+name', 
                                                             right_index=True)
-    corr_df.drop(49006, inplace=True, axis=1)
-    corr_df['rand'] = np.random.rand(len(corr_df.index))
+    merge_df.drop(49006, inplace=True, axis=1)
+    # merge_df['rand'] = np.random.rand(len(merge_df.index))
+    corr_df = merge_df.corr()['%_womens_medals']
+    abrev_corr_df = corr_df.iloc[[1,2,6,7,11]]
+    sorted_df = abrev_corr_df.abs().sort_values(ascending = False)
+    y = abrev_corr_df[sorted_df.index]
+    x = np.arange(len(y))
+    labels_num = sorted_df.index
+    labels_txt = ['Female Gross\nNational Income', 'Mean Female\nSchooling', 'Women in\nParlament',
+                 'Female HDI', ' % Females with\nSecondary Ed']
     
-    print(corr_df.corr()['%_womens_medals'].to_markdown())
+    fig, ax = plt.subplots(1, figsize=(12,6))
+    ax.bar(x,y, color='tab:red')
+    ax.set_xticklabels(labels_txt, fontsize=16)
+    ax.set_xticks(x)
+    ax.axhline(y=0)
+    ax.set_xlabel('Human Development Indices', fontsize=18)
+    ax.set_ylabel('Correlation with Womens Medals', fontsize=18)
+    ax.set_title('Correlation between Womens Winter Olympic Medals\nand\
+ Human Development Index', fontsize=20)
+    plt.tight_layout()
+    plt.savefig('../images/HDI_correlations.png')
+    
+
+    fig, ax = plt.subplots(1)
+    x = merge_df['%_womens_medals']
+    y = merge_df[labels_num[0]]
+    ax.scatter(x,y, color='tab:red')
+    trendline = np.polyfit(x, y, 1)
+    trendline_formula = np.poly1d(trendline)
+    ax.set_ylabel('GNI (Female)', fontsize=18)
+    ax.set_xlabel('% Winter Olympic Medals', fontsize=18)
+    ax.set_title('Correlation Between Female Medals and \n Estimated Gross National Income', fontsize=20)
+    ax.plot(x, trendline_formula(x), 'r-')
+    plt.tight_layout()
+    # plt.savefig('../images/GNI_scatter.png')
     

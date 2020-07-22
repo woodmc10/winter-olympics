@@ -60,24 +60,14 @@ This plot was abbreviated to only include countries with at least 50 medals sinc
 
 "The Human Development Index (HDI) was created to emphasize that expanding human choices should be the ultimate criteria for assessing development results. Economic growth is a means to that process but is not an end in itself." - hdr.undp.org
 
-HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected and reduced to only include the indices with the words 'female' or 'woman' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 18 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. A random number generator was used to determine what correlation was better than random, and thus worth investigating.
+HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected and reduced to only include the indices with the words 'female' or 'woman' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 18 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. 
 
-|                 |   %_womens_medals |
-|:----------------|------------------:|
-| #date+year      |      nan          |
-| 23906           |       -0.00219968 |
-| 24106           |        0.175806   |
-| 48706           |       -0.108715   |
-| 120606          |       -0.173652   |
-| 123306          |       -0.0889399  |
-| **123506**          |       **-0.438787**   |
-| 136906          |       -0.14169    |
-| **169706**          |       **-0.247335**   |
-| 169806          |       -0.129153   |
-| 175106          |       -0.0650042  |
-| 31706           |        0.143553   |
-| 36806           |        0.11536    |
-| %_womens_medals |        1          |
-| **rand**            |        **0.20735**    |
 
-There were two indices that had a correlation above the random. 123506: Estimated gross national income per capita, female and 169706: Total unemployment rate (female to male ratio). 
+![img](images/HDI_correlations.png)
+
+Most of the HDI indices showed little to no correlation with percent of winter olympic medals won by females. The HDI with the highest correlation was the Estimated Gross National Income per capita, female and this was, surprisingly, a negative correlation. The GNI and percent women's medals can be seen in the plot below. 
+
+![img](images/GNI_scatter.png)
+
+## Further Analysis
+The resluts of the correlations with HDI indices was surprising. I would like to continue investigating these correlations by including Summer Olympics in the analysis as well as creating evaluations for female atheletes instead of only female medalists. 
