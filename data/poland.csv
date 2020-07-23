@@ -1,0 +1,1215 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+POL,Poland,21806,Refugees by country of origin (thousands),1.122,2017
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),86.17493687,2017
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",81.08059,2017
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",86.94408,2017
+POL,Poland,24106,"Mean years of schooling, female (years)",12.3212,2017
+POL,Poland,24206,"Mean years of schooling, male (years)",12.2637,2017
+POL,Poland,31706,Share of seats in parliament (% held by women),25.53571429,2017
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",12.706,2017
+POL,Poland,43006,Vulnerable employment (% of total employment),17,2017
+POL,Poland,44206,Total population (millions),38.170712,2017
+POL,Poland,45106,Urban population (%),60.1,2017
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",48.8,2017
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",65.1,2017
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,2017
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.30922,2017
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",1.19502,2017
+POL,Poland,63106,Population ages 15–64 (millions),26.116,2017
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2017
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2017
+POL,Poland,65606,Gross fixed capital formation (% of GDP),18.01830116,2017
+POL,Poland,68606,Gender Inequality Index (GII),0.132132453,2017
+POL,Poland,69206,Life expectancy at birth (years),77.77,2017
+POL,Poland,69706,Expected years of schooling (years),16.4332,2017
+POL,Poland,71406,Inequality-adjusted education index,0.825436217,2017
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.846997077,2017
+POL,Poland,71606,Inequality-adjusted income index,0.696806772,2017
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.042436959,2017
+POL,Poland,101606,Inequality in education (%),4.71453,2017
+POL,Poland,101706,Inequality in income (%),17.13009,2017
+POL,Poland,101806,Inequality in life expectancy (%),4.7,2017
+POL,Poland,103006,Mean years of schooling (years),12.29398,2017
+POL,Poland,103206,Life expectancy index,0.888769231,2017
+POL,Poland,103606,Income index,0.840844128,2017
+POL,Poland,103706,Education index,0.866277111,2017
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",14.7,2017
+POL,Poland,111306,Private capital flows (% of GDP),-1.299881,2017
+POL,Poland,120606,"Life expectancy at birth, female (years)",81.609,2017
+POL,Poland,121106,"Life expectancy at birth, male (years)",73.856,2017
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.657,2017
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),24.5,2017
+POL,Poland,123306,"Expected years of schooling, female (years)",17.2645,2017
+POL,Poland,123406,"Expected years of schooling, male (years)",15.6379,2017
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",20366.6801,2017
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",32342.97255,2017
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),73.69996857,2017
+POL,Poland,132706,Population ages 65 and older (millions),6.398456,2017
+POL,Poland,132806,Population under age 5 (millions),1.774073,2017
+POL,Poland,133206,Exports and imports (% of GDP),102.79,2017
+POL,Poland,135006,Coefficient of human inequality,8.848206667,2017
+POL,Poland,136706,GDP per capita (2011 PPP $),27216.44488,2017
+POL,Poland,136906,"Human Development Index (HDI), female",0.866314535,2017
+POL,Poland,137006,"Human Development Index (HDI), male",0.860949898,2017
+POL,Poland,137506,Human Development Index (HDI),0.865075041,2017
+POL,Poland,137906,Gender Development Index (GDI),1.006231068,2017
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.786851176,2017
+POL,Poland,140606,"Unemployment, total (% of labour force)",5,2017
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),26150.40263,2017
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1033.567383,2017
+POL,Poland,146206,HDI rank,33,2017
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.6,2017
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),53.8,2017
+POL,Poland,150606,Employment in agriculture (% of total employment),10.6,2017
+POL,Poland,150706,Employment in services (% of total employment),58.1,2017
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.020408163,2017
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.020833333,2017
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.63,2017
+POL,Poland,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),87.96221924,2017
+POL,Poland,178306,Gross capital formation (% of GDP),19.95344752,2017
+POL,Poland,179406,Skilled labour force (% of labour force),94.5,2017
+POL,Poland,181606,Red List Index (value),0.9696,2017
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),85.82,2016
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",81.08059,2016
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",86.94408,2016
+POL,Poland,24106,"Mean years of schooling, female (years)",12.3212,2016
+POL,Poland,24206,"Mean years of schooling, male (years)",12.2637,2016
+POL,Poland,31706,Share of seats in parliament (% held by women),24.82142857,2016
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",12.706,2016
+POL,Poland,43006,Vulnerable employment (% of total employment),16.8,2016
+POL,Poland,43606,"Internet users, total (% of population)",73.3007,2016
+POL,Poland,44206,Total population (millions),38.22441,2016
+POL,Poland,45106,Urban population (%),60.2,2016
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),138.66,2016
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",49,2016
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",65.4,2016
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,2016
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.42384,2016
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",3.55494,2016
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",4,2016
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",4.7,2016
+POL,Poland,61006,"Homicide rate (per 100,000 people)",0.6701,2016
+POL,Poland,63106,Population ages 15–64 (millions),26.3781,2016
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",110.10469,2016
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",107.07582,2016
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",66.556,2016
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2016
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2016
+POL,Poland,65606,Gross fixed capital formation (% of GDP),18.06694906,2016
+POL,Poland,68606,Gender Inequality Index (GII),0.13387761,2016
+POL,Poland,69206,Life expectancy at birth (years),77.614,2016
+POL,Poland,69706,Expected years of schooling (years),16.4332,2016
+POL,Poland,71406,Inequality-adjusted education index,0.815210244,2016
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.844374829,2016
+POL,Poland,71606,Inequality-adjusted income index,0.686832988,2016
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.459767794,2016
+POL,Poland,101606,Inequality in education (%),5.4,2016
+POL,Poland,101706,Inequality in income (%),17.64062,2016
+POL,Poland,101806,Inequality in life expectancy (%),4.7378,2016
+POL,Poland,103006,Mean years of schooling (years),12.158,2016
+POL,Poland,103206,Life expectancy index,0.886369231,2016
+POL,Poland,103606,Income index,0.833946282,2016
+POL,Poland,103706,Education index,0.861744444,2016
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",17.6,2016
+POL,Poland,111106,International inbound tourists (thousands),17471,2016
+POL,Poland,111306,Private capital flows (% of GDP),-2.012939,2016
+POL,Poland,120606,"Life expectancy at birth, female (years)",81.483,2016
+POL,Poland,121106,"Life expectancy at birth, male (years)",73.668,2016
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.453,2016
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),23.456,2016
+POL,Poland,123306,"Expected years of schooling, female (years)",17.2645,2016
+POL,Poland,123406,"Expected years of schooling, male (years)",15.6379,2016
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",19454.81237,2016
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",30900.99449,2016
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),75.68863635,2016
+POL,Poland,132706,Population ages 65 and older (millions),6.187371,2016
+POL,Poland,132806,Population under age 5 (millions),1.8186,2016
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",69.57126,2016
+POL,Poland,133206,Exports and imports (% of GDP),100.472,2016
+POL,Poland,135006,Coefficient of human inequality,9.259473333,2016
+POL,Poland,136706,GDP per capita (2011 PPP $),26035.8379,2016
+POL,Poland,136906,"Human Development Index (HDI), female",0.863205133,2016
+POL,Poland,137006,"Human Development Index (HDI), male",0.857723111,2016
+POL,Poland,137506,Human Development Index (HDI),0.860419835,2016
+POL,Poland,137906,Gender Development Index (GDI),1.006391365,2016
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.779026117,2016
+POL,Poland,140606,"Unemployment, total (% of labour force)",6.2,2016
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),24983.11873,2016
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",988.5830303,2016
+POL,Poland,146206,HDI rank,34,2016
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),1.91219,2016
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),10.52,2016
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.9,2016
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),53.4,2016
+POL,Poland,150606,Employment in agriculture (% of total employment),10.6,2016
+POL,Poland,150706,Employment in services (% of total employment),58,2016
+POL,Poland,164406,Adjusted net savings (% of GNI),10.51413827,2016
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.016393443,2016
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.011494253,2016
+POL,Poland,170006,Concentration index (exports) (value),0.067337018,2016
+POL,Poland,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",37.9,2016
+POL,Poland,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.1,2016
+POL,Poland,175006,Female share of employment in senior and middle management (%),38.1,2016
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.59,2016
+POL,Poland,178306,Gross capital formation (% of GDP),19.59704881,2016
+POL,Poland,179406,Skilled labour force (% of labour force),94.1,2016
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2016
+POL,Poland,181706,Rural population with access to electricity (%),100,2016
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",18,2016
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),83.85263,2015
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",81.08059,2015
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",86.94408,2015
+POL,Poland,24106,"Mean years of schooling, female (years)",12.2214,2015
+POL,Poland,24206,"Mean years of schooling, male (years)",12.2117,2015
+POL,Poland,31706,Share of seats in parliament (% held by women),24.82142857,2015
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",13.5195,2015
+POL,Poland,43006,Vulnerable employment (% of total employment),17.3,2015
+POL,Poland,43606,"Internet users, total (% of population)",67.997,2015
+POL,Poland,44206,Total population (millions),38.265226,2015
+POL,Poland,45106,Urban population (%),60.3,2015
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),142.524,2015
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),1.99558,2015
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.49058,2015
+POL,Poland,47906,Median age (years),39.697,2015
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",49,2015
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",65.1,2015
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,2015
+POL,Poland,52306,Research and development expenditure (% of GDP),1.00337,2015
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.42095,2015
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",3.15593,2015
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",4.2,2015
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",4.9,2015
+POL,Poland,61006,"Homicide rate (per 100,000 people)",0.75,2015
+POL,Poland,63106,Population ages 15–64 (millions),26.5961,2015
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",104.97503,2015
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",106.61047,2015
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",66.67103,2015
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,2015
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2015
+POL,Poland,65606,Gross fixed capital formation (% of GDP),20.05388487,2015
+POL,Poland,68606,Gender Inequality Index (GII),0.13763354,2015
+POL,Poland,69206,Life expectancy at birth (years),77.449,2015
+POL,Poland,69706,Expected years of schooling (years),16.1426,2015
+POL,Poland,71406,Inequality-adjusted education index,0.806716059,2015
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.83806778,2015
+POL,Poland,71606,Inequality-adjusted income index,0.686138472,2015
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.503672874,2015
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",3,2015
+POL,Poland,100806,Forest area (% of total land area),30.81420033,2015
+POL,Poland,101606,Inequality in education (%),5.39706,2015
+POL,Poland,101706,Inequality in income (%),17.38133,2015
+POL,Poland,101806,Inequality in life expectancy (%),5.1778,2015
+POL,Poland,103006,Mean years of schooling (years),12.13,2015
+POL,Poland,103206,Life expectancy index,0.883830769,2015
+POL,Poland,103606,Income index,0.830488402,2015
+POL,Poland,103706,Education index,0.852738889,2015
+POL,Poland,110806,"Net migration rate (per 1,000 people)",-0.386,2015
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",20.7,2015
+POL,Poland,111106,International inbound tourists (thousands),16728,2015
+POL,Poland,111306,Private capital flows (% of GDP),-1.461384,2015
+POL,Poland,112506,"Suicide rate, male (per 100,000 people)",32.7,2015
+POL,Poland,112606,"Suicide rate, female (per 100,000 people)",4.9,2015
+POL,Poland,120606,"Life expectancy at birth, female (years)",81.35,2015
+POL,Poland,121106,"Life expectancy at birth, male (years)",73.47,2015
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.414,2015
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),22.461,2015
+POL,Poland,123306,"Expected years of schooling, female (years)",16.9636,2015
+POL,Poland,123406,"Expected years of schooling, male (years)",15.3566,2015
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",19067.25143,2015
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",30143.82465,2015
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),73.1510977,2015
+POL,Poland,132706,Population ages 65 and older (millions),5.973828,2015
+POL,Poland,132806,Population under age 5 (millions),1.90263,2015
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",75.41893,2015
+POL,Poland,133206,Exports and imports (% of GDP),95.9473,2015
+POL,Poland,135006,Coefficient of human inequality,9.31873,2015
+POL,Poland,136706,GDP per capita (2011 PPP $),25299.97435,2015
+POL,Poland,136906,"Human Development Index (HDI), female",0.857671233,2015
+POL,Poland,137006,"Human Development Index (HDI), male",0.85223551,2015
+POL,Poland,137506,Human Development Index (HDI),0.855407235,2015
+POL,Poland,137906,Gender Development Index (GDI),1.006378194,2015
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.77411213,2015
+POL,Poland,140606,"Unemployment, total (% of labour force)",7.5,2015
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),24417.71573,2015
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",961.0552492,2015
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),1.20639,2015
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),10.99,2015
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.7,2015
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),52.4,2015
+POL,Poland,150606,Employment in agriculture (% of total employment),11.5,2015
+POL,Poland,150706,Employment in services (% of total employment),57.9,2015
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),11.91148821,2015
+POL,Poland,164406,Adjusted net savings (% of GNI),11.15650599,2015
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.054794521,2015
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.004854369,2015
+POL,Poland,170006,Concentration index (exports) (value),0.065250468,2015
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),89.86415387,2015
+POL,Poland,175006,Female share of employment in senior and middle management (%),37.4,2015
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.64,2015
+POL,Poland,176806,Programme for International Student Assessment (PISA) score in science,501,2015
+POL,Poland,176906,Programme for International Student Assessment (PISA) score in reading,506,2015
+POL,Poland,177006,Programme for International Student Assessment (PISA) score in mathematics,504,2015
+POL,Poland,177106,Population using improved drinking-water sources (%),97.8885955,2015
+POL,Poland,177206,Population using improved sanitation facilities (%),98.13271295,2015
+POL,Poland,177706,Survival rate to the last grade of lower secondary general education (%),97.94475,2015
+POL,Poland,178306,Gross capital formation (% of GDP),20.46969198,2015
+POL,Poland,179406,Skilled labour force (% of labour force),93.6,2015
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2015
+POL,Poland,181706,Rural population with access to electricity (%),100,2015
+POL,Poland,181806,Current health expenditure (% of GDP),6.34723,2015
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",19,2015
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),83.85263,2014
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",81.08059,2014
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",86.94408,2014
+POL,Poland,24106,"Mean years of schooling, female (years)",12.1215,2014
+POL,Poland,24206,"Mean years of schooling, male (years)",12.1597,2014
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",7.517151585,2014
+POL,Poland,31706,Share of seats in parliament (% held by women),22.32142857,2014
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",13.843,2014
+POL,Poland,43006,Vulnerable employment (% of total employment),17.2,2014
+POL,Poland,43606,"Internet users, total (% of population)",66.6,2014
+POL,Poland,44206,Total population (millions),38.29306,2014
+POL,Poland,45106,Urban population (%),60.4,2014
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),148.605,2014
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),2.05254,2014
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.19245,2014
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",49.2,2014
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",65.2,2014
+POL,Poland,52306,Research and development expenditure (% of GDP),0.94001,2014
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.359,2014
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",3.62743,2014
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",4.3,2014
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",5,2014
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",64.372,2014
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",162.884,2014
+POL,Poland,61006,"Homicide rate (per 100,000 people)",0.7364,2014
+POL,Poland,63106,Population ages 15–64 (millions),26.8099,2014
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.33656,2014
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",106.14881,2014
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",68.31303,2014
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2014
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2014
+POL,Poland,65606,Gross fixed capital formation (% of GDP),19.734569,2014
+POL,Poland,68606,Gender Inequality Index (GII),0.145532944,2014
+POL,Poland,69206,Life expectancy at birth (years),77.264,2014
+POL,Poland,69706,Expected years of schooling (years),15.99303,2014
+POL,Poland,71406,Inequality-adjusted education index,0.775573565,2014
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.830768492,2014
+POL,Poland,71606,Inequality-adjusted income index,0.68045417,2014
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.777980247,2014
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",3,2014
+POL,Poland,100806,Forest area (% of total land area),30.74496228,2014
+POL,Poland,101606,Inequality in education (%),5.6,2014
+POL,Poland,101706,Inequality in income (%),17.5,2014
+POL,Poland,101806,Inequality in life expectancy (%),5.7,2014
+POL,Poland,103006,Mean years of schooling (years),11.31994,2014
+POL,Poland,103206,Life expectancy index,0.880984615,2014
+POL,Poland,103606,Income index,0.824792934,2014
+POL,Poland,103706,Education index,0.821582167,2014
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",23.8,2014
+POL,Poland,111106,International inbound tourists (thousands),16000,2014
+POL,Poland,111306,Private capital flows (% of GDP),-1.967609,2014
+POL,Poland,120606,"Life expectancy at birth, female (years)",81.201,2014
+POL,Poland,121106,"Life expectancy at birth, male (years)",73.25,2014
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.266,2014
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),21.566,2014
+POL,Poland,123306,"Expected years of schooling, female (years)",16.8451,2014
+POL,Poland,123406,"Expected years of schooling, male (years)",15.1813,2014
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",18373.12475,2014
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",29014.62985,2014
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),71.07221958,2014
+POL,Poland,132706,Population ages 65 and older (millions),5.781846,2014
+POL,Poland,132806,Population under age 5 (millions),1.95071,2014
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",79.67146,2014
+POL,Poland,133206,Exports and imports (% of GDP),93.7329,2014
+POL,Poland,135006,Coefficient of human inequality,9.6,2014
+POL,Poland,136706,GDP per capita (2011 PPP $),24347.07366,2014
+POL,Poland,136906,"Human Development Index (HDI), female",0.852771371,2014
+POL,Poland,137006,"Human Development Index (HDI), male",0.846967679,2014
+POL,Poland,137506,Human Development Index (HDI),0.842018086,2014
+POL,Poland,137906,Gender Development Index (GDI),1.006852319,2014
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.759685724,2014
+POL,Poland,140606,"Unemployment, total (% of labour force)",9,2014
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),23514.20031,2014
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",925.4745119,2014
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),0.61489,2014
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),11.98,2014
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.8,2014
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),51.7,2014
+POL,Poland,149206,Government expenditure on education (% of GDP),4.912409782,2014
+POL,Poland,150606,Employment in agriculture (% of total employment),11.5,2014
+POL,Poland,150706,Employment in services (% of total employment),58,2014
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),11.56931553,2014
+POL,Poland,164406,Adjusted net savings (% of GNI),9.690955457,2014
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.129411765,2014
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.053097345,2014
+POL,Poland,170006,Concentration index (exports) (value),0.064925972,2014
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),90.0879643,2014
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.308749696,2014
+POL,Poland,175006,Female share of employment in senior and middle management (%),36.4,2014
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.48,2014
+POL,Poland,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),72.95792389,2014
+POL,Poland,177706,Survival rate to the last grade of lower secondary general education (%),98.015,2014
+POL,Poland,178306,Gross capital formation (% of GDP),20.36645619,2014
+POL,Poland,179406,Skilled labour force (% of labour force),93.4,2014
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,5.881682296,2014
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2014
+POL,Poland,181706,Rural population with access to electricity (%),100,2014
+POL,Poland,181806,Current health expenditure (% of GDP),6.24863,2014
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",20,2014
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),83.14236,2013
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",80.36418,2013
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",86.24192,2013
+POL,Poland,24106,"Mean years of schooling, female (years)",12.0217,2013
+POL,Poland,24206,"Mean years of schooling, male (years)",12.1077,2013
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",7.946282506,2013
+POL,Poland,31706,Share of seats in parliament (% held by women),21.78571429,2013
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",14.1665,2013
+POL,Poland,43006,Vulnerable employment (% of total employment),17.6,2013
+POL,Poland,43606,"Internet users, total (% of population)",62.8492,2013
+POL,Poland,44206,Total population (millions),38.309451,2013
+POL,Poland,45106,Urban population (%),60.5,2013
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),148.717,2013
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),2.17893,2013
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.22951,2013
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",48.8,2013
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",64.9,2013
+POL,Poland,52306,Research and development expenditure (% of GDP),0.8689,2013
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.41158,2013
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",0.15165,2013
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",4.5,2013
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",5.2,2013
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",66.783,2013
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",172.379,2013
+POL,Poland,61006,"Homicide rate (per 100,000 people)",0.7727,2013
+POL,Poland,63106,Population ages 15–64 (millions),26.9851,2013
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.77679,2013
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",106.92444,2013
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",71.82938,2013
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2013
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+POL,Poland,65606,Gross fixed capital formation (% of GDP),18.81199473,2013
+POL,Poland,68606,Gender Inequality Index (GII),0.148877439,2013
+POL,Poland,69206,Life expectancy at birth (years),77.053,2013
+POL,Poland,69706,Expected years of schooling (years),16.25013,2013
+POL,Poland,71406,Inequality-adjusted education index,0.80567604,2013
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.827707369,2013
+POL,Poland,71606,Inequality-adjusted income index,0.673575826,2013
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.924029907,2013
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",3,2013
+POL,Poland,100806,Forest area (% of total land area),30.67372065,2013
+POL,Poland,101606,Inequality in education (%),5.6,2013
+POL,Poland,101706,Inequality in income (%),17.9,2013
+POL,Poland,101806,Inequality in life expectancy (%),5.7,2013
+POL,Poland,103006,Mean years of schooling (years),12.06233643,2013
+POL,Poland,103206,Life expectancy index,0.877738462,2013
+POL,Poland,103606,Income index,0.820433405,2013
+POL,Poland,103706,Education index,0.853470381,2013
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",27.2,2013
+POL,Poland,111106,International inbound tourists (thousands),15800,2013
+POL,Poland,111306,Private capital flows (% of GDP),-0.8475218,2013
+POL,Poland,120606,"Life expectancy at birth, female (years)",81.032,2013
+POL,Poland,121106,"Life expectancy at birth, male (years)",73,2013
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.238,2013
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),20.728,2013
+POL,Poland,123306,"Expected years of schooling, female (years)",17.1578,2013
+POL,Poland,123406,"Expected years of schooling, male (years)",15.3768,2013
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",17823.26251,2013
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",28216.50803,2013
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),67.22568419,2013
+POL,Poland,132706,Population ages 65 and older (millions),5.593377,2013
+POL,Poland,132806,Population under age 5 (millions),2.01321,2013
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",77.4764,2013
+POL,Poland,133206,Exports and imports (% of GDP),90.6919,2013
+POL,Poland,135006,Coefficient of human inequality,9.733333333,2013
+POL,Poland,136706,GDP per capita (2011 PPP $),23555.49621,2013
+POL,Poland,136906,"Human Development Index (HDI), female",0.85203242,2013
+POL,Poland,137006,"Human Development Index (HDI), male",0.845567092,2013
+POL,Poland,137506,Human Development Index (HDI),0.850221937,2013
+POL,Poland,137906,Gender Development Index (GDI),1.007646144,2013
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.765845657,2013
+POL,Poland,140606,"Unemployment, total (% of labour force)",10.3,2013
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),22845.2704,2013
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",896.0556929,2013
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),0.23377,2013
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),12.21,2013
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.5,2013
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),50.6,2013
+POL,Poland,149206,Government expenditure on education (% of GDP),4.940110207,2013
+POL,Poland,150606,Employment in agriculture (% of total employment),12,2013
+POL,Poland,150706,Employment in services (% of total employment),57.5,2013
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),11.41337981,2013
+POL,Poland,164406,Adjusted net savings (% of GNI),9.172508063,2013
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.144329897,2013
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.075098814,2013
+POL,Poland,170006,Concentration index (exports) (value),0.063588082,2013
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),91.14640642,2013
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.337343032,2013
+POL,Poland,175006,Female share of employment in senior and middle management (%),35.5,2013
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.23,2013
+POL,Poland,177706,Survival rate to the last grade of lower secondary general education (%),97.77749,2013
+POL,Poland,178306,Gross capital formation (% of GDP),18.98116658,2013
+POL,Poland,179406,Skilled labour force (% of labour force),92.9,2013
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,6.395297193,2013
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2013
+POL,Poland,181706,Rural population with access to electricity (%),100,2013
+POL,Poland,181806,Current health expenditure (% of GDP),6.37569,2013
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",21,2013
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),82.29742,2012
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",79.41643,2012
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",85.51348,2012
+POL,Poland,24106,"Mean years of schooling, female (years)",11.6611,2012
+POL,Poland,24206,"Mean years of schooling, male (years)",11.8414,2012
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",7.879830064,2012
+POL,Poland,31706,Share of seats in parliament (% held by women),21.78571429,2012
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",14.49,2012
+POL,Poland,43006,Vulnerable employment (% of total employment),18.2,2012
+POL,Poland,43606,"Internet users, total (% of population)",62.30999727,2012
+POL,Poland,44206,Total population (millions),38.317404,2012
+POL,Poland,45106,Urban population (%),60.7,2012
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),141.153,2012
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),2.24279,2012
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.18568,2012
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",48.8,2012
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",64.7,2012
+POL,Poland,52306,Research and development expenditure (% of GDP),0.88055,2012
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.39679,2012
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",1.47054,2012
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",4.6,2012
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",5.4,2012
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",69.057,2012
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",179.578,2012
+POL,Poland,61006,"Homicide rate (per 100,000 people)",0.9839,2012
+POL,Poland,63106,Population ages 15–64 (millions),27.1223,2012
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.71701,2012
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",96.07224,2012
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",73.98845,2012
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2012
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+POL,Poland,65606,Gross fixed capital formation (% of GDP),19.78931218,2012
+POL,Poland,68606,Gender Inequality Index (GII),0.150335682,2012
+POL,Poland,69206,Life expectancy at birth (years),76.817,2012
+POL,Poland,69706,Expected years of schooling (years),15.31772,2012
+POL,Poland,71406,Inequality-adjusted education index,0.765562858,2012
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.823409446,2012
+POL,Poland,71606,Inequality-adjusted income index,0.678216375,2012
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.888197955,2012
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",3,2012
+POL,Poland,97106,Fresh water withdrawals (% of total renewable water resources),18.96,2012
+POL,Poland,100806,Forest area (% of total land area),30.60348769,2012
+POL,Poland,101606,Inequality in education (%),6.3,2012
+POL,Poland,101706,Inequality in income (%),17.1,2012
+POL,Poland,101806,Inequality in life expectancy (%),5.8,2012
+POL,Poland,103006,Mean years of schooling (years),11.74631736,2012
+POL,Poland,103206,Life expectancy index,0.874107692,2012
+POL,Poland,103606,Income index,0.818113842,2012
+POL,Poland,103706,Education index,0.817036134,2012
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",26.4,2012
+POL,Poland,111106,International inbound tourists (thousands),14840,2012
+POL,Poland,111306,Private capital flows (% of GDP),-5.133496,2012
+POL,Poland,120606,"Life expectancy at birth, female (years)",80.844,2012
+POL,Poland,121106,"Life expectancy at birth, male (years)",72.722,2012
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.301,2012
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.976,2012
+POL,Poland,123306,"Expected years of schooling, female (years)",16.1652,2012
+POL,Poland,123406,"Expected years of schooling, male (years)",14.5103,2012
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",17913.38682,2012
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",27397.82826,2012
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),64.06689476,2012
+POL,Poland,132706,Population ages 65 and older (millions),5.417909,2012
+POL,Poland,132806,Population under age 5 (millions),2.06514,2012
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",76.98276,2012
+POL,Poland,133206,Exports and imports (% of GDP),89.3275,2012
+POL,Poland,135006,Coefficient of human inequality,9.733333333,2012
+POL,Poland,136706,GDP per capita (2011 PPP $),23218.1113,2012
+POL,Poland,136906,"Human Development Index (HDI), female",0.838390284,2012
+POL,Poland,137006,"Human Development Index (HDI), male",0.831391306,2012
+POL,Poland,137506,Human Development Index (HDI),0.836000715,2012
+POL,Poland,137906,Gender Development Index (GDI),1.008418392,2012
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.75333531,2012
+POL,Poland,140606,"Unemployment, total (% of labour force)",10.1,2012
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),22497.14547,2012
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",883.754778,2012
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),-0.18304,2012
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),11.82,2012
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.4,2012
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),50.7,2012
+POL,Poland,149206,Government expenditure on education (% of GDP),4.811810017,2012
+POL,Poland,150606,Employment in agriculture (% of total employment),12.6,2012
+POL,Poland,150706,Employment in services (% of total employment),57,2012
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),10.91514325,2012
+POL,Poland,164406,Adjusted net savings (% of GNI),9.080876417,2012
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.159574468,2012
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.1,2012
+POL,Poland,170006,Concentration index (exports) (value),0.064630291,2012
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),90.97851871,2012
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.339382905,2012
+POL,Poland,175006,Female share of employment in senior and middle management (%),35,2012
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.16,2012
+POL,Poland,178306,Gross capital formation (% of GDP),20.9909017,2012
+POL,Poland,179406,Skilled labour force (% of labour force),92.4,2012
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,6.131634408,2012
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2012
+POL,Poland,181706,Rural population with access to electricity (%),100,2012
+POL,Poland,181806,Current health expenditure (% of GDP),6.20118,2012
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",21,2012
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),81.68293,2011
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",78.77568,2011
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",84.96725,2011
+POL,Poland,24106,"Mean years of schooling, female (years)",12.2846,2011
+POL,Poland,24206,"Mean years of schooling, male (years)",12.3488,2011
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",8.328175875,2011
+POL,Poland,31706,Share of seats in parliament (% held by women),21.78571429,2011
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",14.8135,2011
+POL,Poland,43006,Vulnerable employment (% of total employment),18.6,2011
+POL,Poland,43606,"Internet users, total (% of population)",61.94999897,2011
+POL,Poland,44206,Total population (millions),38.320947,2011
+POL,Poland,45106,Urban population (%),60.8,2011
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),130.895,2011
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),1.53057,2011
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.15536,2011
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",48.4,2011
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",64.5,2011
+POL,Poland,52306,Research and development expenditure (% of GDP),0.74438,2011
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.45831,2011
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",3.49544,2011
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",4.9,2011
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",5.7,2011
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",69.826,2011
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",183.342,2011
+POL,Poland,61006,"Homicide rate (per 100,000 people)",1.1717,2011
+POL,Poland,63106,Population ages 15–64 (millions),27.2331,2011
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",97.49824,2011
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",95.91671,2011
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",74.67247,2011
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2011
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+POL,Poland,65606,Gross fixed capital formation (% of GDP),20.68356114,2011
+POL,Poland,68606,Gender Inequality Index (GII),0.152273406,2011
+POL,Poland,69206,Life expectancy at birth (years),76.558,2011
+POL,Poland,69706,Expected years of schooling (years),15.22721,2011
+POL,Poland,71406,Inequality-adjusted education index,0.778460249,2011
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.819655938,2011
+POL,Poland,71606,Inequality-adjusted income index,0.682555767,2011
+POL,Poland,73506,Overall loss in HDI due to inequality (%),9.695842401,2011
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",3,2011
+POL,Poland,100806,Forest area (% of total land area),30.53325931,2011
+POL,Poland,101606,Inequality in education (%),6.6,2011
+POL,Poland,101706,Inequality in income (%),16.3,2011
+POL,Poland,101806,Inequality in life expectancy (%),5.8,2011
+POL,Poland,103006,Mean years of schooling (years),12.31473485,2011
+POL,Poland,103206,Life expectancy index,0.870123077,2011
+POL,Poland,103606,Income index,0.815478814,2011
+POL,Poland,103706,Education index,0.833469217,2011
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",25.7,2011
+POL,Poland,111106,International inbound tourists (thousands),13350,2011
+POL,Poland,111306,Private capital flows (% of GDP),-5.872184,2011
+POL,Poland,120606,"Life expectancy at birth, female (years)",80.636,2011
+POL,Poland,121106,"Life expectancy at birth, male (years)",72.42,2011
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.358,2011
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.356,2011
+POL,Poland,123306,"Expected years of schooling, female (years)",16.0663,2011
+POL,Poland,123406,"Expected years of schooling, male (years)",14.4273,2011
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",17556.79253,2011
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",26972.16589,2011
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),65.91327424,2011
+POL,Poland,132706,Population ages 65 and older (millions),5.271337,2011
+POL,Poland,132806,Population under age 5 (millions),2.07062,2011
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",72.66762,2011
+POL,Poland,133206,Exports and imports (% of GDP),87.0827,2011
+POL,Poland,135006,Coefficient of human inequality,9.566666667,2011
+POL,Poland,136706,GDP per capita (2011 PPP $),22850.63885,2011
+POL,Poland,136906,"Human Development Index (HDI), female",0.84226881,2011
+POL,Poland,137006,"Human Development Index (HDI), male",0.834130423,2011
+POL,Poland,137506,Human Development Index (HDI),0.839384563,2011
+POL,Poland,137906,Gender Development Index (GDI),1.009756732,2011
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.757999159,2011
+POL,Poland,140606,"Unemployment, total (% of labour force)",9.6,2011
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),22108.10655,2011
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",869.7696933,2011
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),-0.40152,2011
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),11.5,2011
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.1,2011
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),50.7,2011
+POL,Poland,149206,Government expenditure on education (% of GDP),4.820119858,2011
+POL,Poland,150606,Employment in agriculture (% of total employment),12.9,2011
+POL,Poland,150706,Employment in services (% of total employment),56.4,2011
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),10.43787918,2011
+POL,Poland,164406,Adjusted net savings (% of GNI),9.346585492,2011
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.155555556,2011
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.088983051,2011
+POL,Poland,170006,Concentration index (exports) (value),0.071514673,2011
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),92.11514123,2011
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.364461402,2011
+POL,Poland,175006,Female share of employment in senior and middle management (%),35.9,2011
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.98,2011
+POL,Poland,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",50.6,2011
+POL,Poland,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),68.28720093,2011
+POL,Poland,178306,Gross capital formation (% of GDP),22.43978903,2011
+POL,Poland,179406,Skilled labour force (% of labour force),91.9,2011
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,6.182285303,2011
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2011
+POL,Poland,181706,Rural population with access to electricity (%),100,2011
+POL,Poland,181806,Current health expenditure (% of GDP),6.23388,2011
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",24,2011
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),80.90155,2010
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",77.88516,2010
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",84.32086,2010
+POL,Poland,24106,"Mean years of schooling, female (years)",12.1536,2010
+POL,Poland,24206,"Mean years of schooling, male (years)",12.2755,2010
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",8.313376825,2010
+POL,Poland,31706,Share of seats in parliament (% held by women),17.85714286,2010
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",15.137,2010
+POL,Poland,43006,Vulnerable employment (% of total employment),18.8,2010
+POL,Poland,43606,"Internet users, total (% of population)",62.32,2010
+POL,Poland,44206,Total population (millions),38.323402,2010
+POL,Poland,45106,Urban population (%),60.9,2010
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),122.516,2010
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),1.46771,2010
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",9.31659,2010
+POL,Poland,47906,Median age (years),38.057,2010
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",48.3,2010
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",64.3,2010
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,2010
+POL,Poland,52306,Research and development expenditure (% of GDP),0.71836,2010
+POL,Poland,52606,"Remittances, inflows (% of GDP)",1.59788,2010
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",3.83772,2010
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",5.2,2010
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",6,2010
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",71.01,2010
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",187.605,2010
+POL,Poland,61006,"Homicide rate (per 100,000 people)",1.1377,2010
+POL,Poland,63106,Population ages 15–64 (millions),27.3286,2010
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",96.59071,2010
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",96.00643,2010
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",74.80387,2010
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2010
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2010
+POL,Poland,65606,Gross fixed capital formation (% of GDP),20.28425972,2010
+POL,Poland,68606,Gender Inequality Index (GII),0.166540126,2010
+POL,Poland,69206,Life expectancy at birth (years),76.287,2010
+POL,Poland,69706,Expected years of schooling (years),15.31459,2010
+POL,Poland,71406,Inequality-adjusted education index,0.7733271,2010
+POL,Poland,71506,Inequality-adjusted life expectancy index,0.8105328,2010
+POL,Poland,71606,Inequality-adjusted income index,0.659420725,2010
+POL,Poland,73506,Overall loss in HDI due to inequality (%),10.8077252,2010
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",4,2010
+POL,Poland,100806,Forest area (% of total land area),30.45905707,2010
+POL,Poland,101606,Inequality in education (%),7.1,2010
+POL,Poland,101706,Inequality in income (%),18.4,2010
+POL,Poland,101806,Inequality in life expectancy (%),6.4,2010
+POL,Poland,103006,Mean years of schooling (years),12.21072972,2010
+POL,Poland,103206,Life expectancy index,0.865953846,2010
+POL,Poland,103606,Income index,0.808113634,2010
+POL,Poland,103706,Education index,0.832429602,2010
+POL,Poland,110806,"Net migration rate (per 1,000 people)",-0.931,2010
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",23.7,2010
+POL,Poland,111106,International inbound tourists (thousands),12470,2010
+POL,Poland,111306,Private capital flows (% of GDP),-7.915773,2010
+POL,Poland,112506,"Suicide rate, male (per 100,000 people)",34.6,2010
+POL,Poland,112606,"Suicide rate, female (per 100,000 people)",4.8,2010
+POL,Poland,120606,"Life expectancy at birth, female (years)",80.414,2010
+POL,Poland,121106,"Life expectancy at birth, male (years)",72.107,2010
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),21.339,2010
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.893,2010
+POL,Poland,123306,"Expected years of schooling, female (years)",16.1148,2010
+POL,Poland,123406,"Expected years of schooling, male (years)",14.5528,2010
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",16732.62019,2010
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",25674.57706,2010
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),63.23000516,2010
+POL,Poland,132706,Population ages 65 and older (millions),5.163079,2010
+POL,Poland,132806,Population under age 5 (millions),2.00733,2010
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",69.14213,2010
+POL,Poland,133206,Exports and imports (% of GDP),82.1083,2010
+POL,Poland,135006,Coefficient of human inequality,10.63333333,2010
+POL,Poland,136706,GDP per capita (2011 PPP $),21770.64444,2010
+POL,Poland,136906,"Human Development Index (HDI), female",0.837591094,2010
+POL,Poland,137006,"Human Development Index (HDI), male",0.830446121,2010
+POL,Poland,137506,Human Development Index (HDI),0.835163614,2010
+POL,Poland,137906,Gender Development Index (GDI),1.008603777,2010
+POL,Poland,138806,Inequality-adjusted HDI (IHDI),0.744901426,2010
+POL,Poland,140606,"Unemployment, total (% of labour force)",9.6,2010
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),21056.01614,2010
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",828.2161415,2010
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),-0.59874,2010
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),10.77,2010
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),55.9,2010
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),50.5,2010
+POL,Poland,149206,Government expenditure on education (% of GDP),5.068429947,2010
+POL,Poland,150606,Employment in agriculture (% of total employment),13.1,2010
+POL,Poland,150706,Employment in services (% of total employment),56.6,2010
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),9.488623858,2010
+POL,Poland,164406,Adjusted net savings (% of GNI),7.635709091,2010
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.075268817,2010
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.058035714,2010
+POL,Poland,170006,Concentration index (exports) (value),0.077376469,2010
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),92.45120757,2010
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.38186177,2010
+POL,Poland,175006,Female share of employment in senior and middle management (%),37.5,2010
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.05,2010
+POL,Poland,177106,Population using improved drinking-water sources (%),97.900774,2010
+POL,Poland,177206,Population using improved sanitation facilities (%),94.37691901,2010
+POL,Poland,178306,Gross capital formation (% of GDP),21.31325166,2010
+POL,Poland,179406,Skilled labour force (% of labour force),91.7,2010
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,6.264048555,2010
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.8,2010
+POL,Poland,181706,Rural population with access to electricity (%),100,2010
+POL,Poland,181806,Current health expenditure (% of GDP),6.41907,2010
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",21,2010
+POL,Poland,69206,Life expectancy at birth (years),76.018,2009
+POL,Poland,69706,Expected years of schooling (years),15.06502,2009
+POL,Poland,103006,Mean years of schooling (years),12.09676667,2009
+POL,Poland,103206,Life expectancy index,0.861815385,2009
+POL,Poland,103606,Income index,0.802997684,2009
+POL,Poland,103706,Education index,0.821698333,2009
+POL,Poland,137506,Human Development Index (HDI),0.828476728,2009
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),20354.83262,2009
+POL,Poland,69206,Life expectancy at birth (years),75.765,2008
+POL,Poland,69706,Expected years of schooling (years),15.01326,2008
+POL,Poland,103006,Mean years of schooling (years),11.93750096,2008
+POL,Poland,103206,Life expectancy index,0.857923077,2008
+POL,Poland,103606,Income index,0.800381864,2008
+POL,Poland,103706,Education index,0.814951699,2008
+POL,Poland,137506,Human Development Index (HDI),0.824060605,2008
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),20005.3841,2008
+POL,Poland,69206,Life expectancy at birth (years),75.533,2007
+POL,Poland,69706,Expected years of schooling (years),14.99151,2007
+POL,Poland,103006,Mean years of schooling (years),11.84116384,2007
+POL,Poland,103206,Life expectancy index,0.854353846,2007
+POL,Poland,103606,Income index,0.792329875,2007
+POL,Poland,103706,Education index,0.811136295,2007
+POL,Poland,137506,Human Development Index (HDI),0.818865451,2007
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),18966.92515,2007
+POL,Poland,69206,Life expectancy at birth (years),75.319,2006
+POL,Poland,69706,Expected years of schooling (years),14.97758,2006
+POL,Poland,103006,Mean years of schooling (years),11.74482672,2006
+POL,Poland,103206,Life expectancy index,0.851061538,2006
+POL,Poland,103606,Income index,0.783480665,2006
+POL,Poland,103706,Education index,0.807538113,2006
+POL,Poland,137506,Human Development Index (HDI),0.813549705,2006
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),17887.71684,2006
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),77.9,2005
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",71.13422,2005
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",78.614885,2005
+POL,Poland,24106,"Mean years of schooling, female (years)",10.9339,2005
+POL,Poland,24206,"Mean years of schooling, male (years)",11.3152,2005
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",7.927026686,2005
+POL,Poland,31706,Share of seats in parliament (% held by women),19.10714286,2005
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",15.49,2005
+POL,Poland,43006,Vulnerable employment (% of total employment),21.9,2005
+POL,Poland,43606,"Internet users, total (% of population)",38.81,2005
+POL,Poland,44206,Total population (millions),38.362666,2005
+POL,Poland,45106,Urban population (%),61.5,2005
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),76.0281,2005
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),1.55025,2005
+POL,Poland,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.54338,2005
+POL,Poland,47906,Median age (years),36.559,2005
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",47.8,2005
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",63,2005
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,2005
+POL,Poland,52306,Research and development expenditure (% of GDP),0.56308,2005
+POL,Poland,52606,"Remittances, inflows (% of GDP)",2.11384,2005
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",3.60669,2005
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",6.5,2005
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",7.5,2005
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",79.412,2005
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",205.088,2005
+POL,Poland,61006,"Homicide rate (per 100,000 people)",1.4467,2005
+POL,Poland,63106,Population ages 15–64 (millions),26.9736,2005
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",94.5408,2005
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",99.59421,2005
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",63.60012,2005
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2005
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2005
+POL,Poland,65606,Gross fixed capital formation (% of GDP),18.89419951,2005
+POL,Poland,68606,Gender Inequality Index (GII),0.164082808,2005
+POL,Poland,69206,Life expectancy at birth (years),75.112,2005
+POL,Poland,69706,Expected years of schooling (years),14.97545,2005
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",6,2005
+POL,Poland,100806,Forest area (% of total land area),30.03297098,2005
+POL,Poland,103006,Mean years of schooling (years),11.6484896,2005
+POL,Poland,103206,Life expectancy index,0.847876923,2005
+POL,Poland,103606,Income index,0.774936172,2005
+POL,Poland,103706,Education index,0.804267709,2005
+POL,Poland,110806,"Net migration rate (per 1,000 people)",-0.954,2005
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",36.6,2005
+POL,Poland,111106,International inbound tourists (thousands),15200,2005
+POL,Poland,111306,Private capital flows (% of GDP),-6.366676,2005
+POL,Poland,112506,"Suicide rate, male (per 100,000 people)",34.3,2005
+POL,Poland,112606,"Suicide rate, female (per 100,000 people)",5,2005
+POL,Poland,120606,"Life expectancy at birth, female (years)",79.326,2005
+POL,Poland,121106,"Life expectancy at birth, male (years)",70.861,2005
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.624,2005
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.599,2005
+POL,Poland,123306,"Expected years of schooling, female (years)",15.5508,2005
+POL,Poland,123406,"Expected years of schooling, male (years)",14.4216,2005
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",12543.19367,2005
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",21549.91669,2005
+POL,Poland,127606,Domestic credit provided by financial sector (% of GDP),38.42375523,2005
+POL,Poland,132706,Population ages 65 and older (millions),5.016804,2005
+POL,Poland,132806,Population under age 5 (millions),1.78755,2005
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",54.24008,2005
+POL,Poland,133206,Exports and imports (% of GDP),70.275,2005
+POL,Poland,136706,GDP per capita (2011 PPP $),17193.52373,2005
+POL,Poland,136906,"Human Development Index (HDI), female",0.798009508,2005
+POL,Poland,137006,"Human Development Index (HDI), male",0.803226589,2005
+POL,Poland,137506,Human Development Index (HDI),0.808474749,2005
+POL,Poland,137906,Gender Development Index (GDI),0.993504846,2005
+POL,Poland,140606,"Unemployment, total (% of labour force)",17.8,2005
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),16903.97996,2005
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",656.1984843,2005
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),-0.94029,2005
+POL,Poland,147906,Youth not in school or employment (% ages 15-24),13.91,2005
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),55.1,2005
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),45.3,2005
+POL,Poland,149206,Government expenditure on education (% of GDP),5.426089764,2005
+POL,Poland,150606,Employment in agriculture (% of total employment),17.4,2005
+POL,Poland,150706,Employment in services (% of total employment),53.4,2005
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),7.21471645,2005
+POL,Poland,164406,Adjusted net savings (% of GNI),6.411219772,2005
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.15060241,2005
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.030985915,2005
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),95.99393989,2005
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.461047241,2005
+POL,Poland,175006,Female share of employment in senior and middle management (%),34.1,2005
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.91,2005
+POL,Poland,177106,Population using improved drinking-water sources (%),97.920094,2005
+POL,Poland,177206,Population using improved sanitation facilities (%),90.687708,2005
+POL,Poland,178306,Gross capital formation (% of GDP),19.90503479,2005
+POL,Poland,179406,Skilled labour force (% of labour force),88.3,2005
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,5.832088448,2005
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.3,2005
+POL,Poland,181706,Rural population with access to electricity (%),100,2005
+POL,Poland,181806,Current health expenditure (% of GDP),5.80727,2005
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",25,2005
+POL,Poland,69206,Life expectancy at birth (years),74.895,2004
+POL,Poland,69706,Expected years of schooling (years),14.80084,2004
+POL,Poland,103006,Mean years of schooling (years),11.55215248,2004
+POL,Poland,103206,Life expectancy index,0.844538462,2004
+POL,Poland,103606,Income index,0.767421147,2004
+POL,Poland,103706,Education index,0.796206194,2004
+POL,Poland,137506,Human Development Index (HDI),0.802095812,2004
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),16083.58325,2004
+POL,Poland,69206,Life expectancy at birth (years),74.652,2003
+POL,Poland,69706,Expected years of schooling (years),15.46396,2003
+POL,Poland,103006,Mean years of schooling (years),11.45581536,2003
+POL,Poland,103206,Life expectancy index,0.8408,2003
+POL,Poland,103606,Income index,0.76310797,2003
+POL,Poland,103706,Education index,0.811414956,2003
+POL,Poland,137506,Human Development Index (HDI),0.804465148,2003
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),15630.83445,2003
+POL,Poland,69206,Life expectancy at birth (years),74.372,2002
+POL,Poland,69706,Expected years of schooling (years),15.33007,2002
+POL,Poland,103006,Mean years of schooling (years),11.35947824,2002
+POL,Poland,103206,Life expectancy index,0.836492308,2002
+POL,Poland,103606,Income index,0.758599377,2002
+POL,Poland,103706,Education index,0.804484552,2002
+POL,Poland,137506,Human Development Index (HDI),0.799215775,2002
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),15171.19128,2002
+POL,Poland,69206,Life expectancy at birth (years),74.054,2001
+POL,Poland,69706,Expected years of schooling (years),15.00333,2001
+POL,Poland,103006,Mean years of schooling (years),11.09794227,2001
+POL,Poland,103206,Life expectancy index,0.8316,2001
+POL,Poland,103606,Income index,0.755415279,2001
+POL,Poland,103706,Education index,0.786690576,2001
+POL,Poland,137506,Human Development Index (HDI),0.790620488,2001
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),14854.74515,2001
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),74.2,2000
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",64.93987857,2000
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",73.60175333,2000
+POL,Poland,24106,"Mean years of schooling, female (years)",10.2,2000
+POL,Poland,24206,"Mean years of schooling, male (years)",10.8,2000
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",7.822798329,2000
+POL,Poland,31706,Share of seats in parliament (% held by women),12.67857143,2000
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",19.034,2000
+POL,Poland,43006,Vulnerable employment (% of total employment),23.6,2000
+POL,Poland,43606,"Internet users, total (% of population)",7.28542871,2000
+POL,Poland,44206,Total population (millions),38.550495,2000
+POL,Poland,45106,Urban population (%),61.7,2000
+POL,Poland,46006,Mobile phone subscriptions (per 100 people),17.5017,2000
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),0.78559,2000
+POL,Poland,47906,Median age (years),34.999,2000
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",49.6,2000
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",63.6,2000
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,2000
+POL,Poland,52306,Research and development expenditure (% of GDP),0.64205,2000
+POL,Poland,52606,"Remittances, inflows (% of GDP)",0.870346,2000
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",5.43094,2000
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",8.1,2000
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",9.3,2000
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",86.932,2000
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",218.944,2000
+POL,Poland,61006,"Homicide rate (per 100,000 people)",2.2179,2000
+POL,Poland,63106,Population ages 15–64 (millions),26.3754,2000
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",98.57536,2000
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",100.11797,2000
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",49.68165,2000
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",3,2000
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2000
+POL,Poland,65606,Gross fixed capital formation (% of GDP),23.73900984,2000
+POL,Poland,68606,Gender Inequality Index (GII),0.20506788,2000
+POL,Poland,69206,Life expectancy at birth (years),73.7,2000
+POL,Poland,69706,Expected years of schooling (years),14.7207,2000
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",8,2000
+POL,Poland,100806,Forest area (% of total land area),29.5765451,2000
+POL,Poland,103006,Mean years of schooling (years),11.0549405,2000
+POL,Poland,103206,Life expectancy index,0.826153846,2000
+POL,Poland,103606,Income index,0.753282472,2000
+POL,Poland,103706,Education index,0.77740635,2000
+POL,Poland,110806,"Net migration rate (per 1,000 people)",-0.443,2000
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",35.1,2000
+POL,Poland,111106,International inbound tourists (thousands),17400,2000
+POL,Poland,111306,Private capital flows (% of GDP),-7.368855,2000
+POL,Poland,112506,"Suicide rate, male (per 100,000 people)",32.6,2000
+POL,Poland,112606,"Suicide rate, female (per 100,000 people)",5.5,2000
+POL,Poland,120606,"Life expectancy at birth, female (years)",77.946,2000
+POL,Poland,121106,"Life expectancy at birth, male (years)",69.451,2000
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),28.585,2000
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),17.576,2000
+POL,Poland,123306,"Expected years of schooling, female (years)",15.1,2000
+POL,Poland,123406,"Expected years of schooling, male (years)",14.3,2000
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",11072.39893,2000
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",18434.42624,2000
+POL,Poland,132706,Population ages 65 and older (millions),4.635635,2000
+POL,Poland,132806,Population under age 5 (millions),2.05672,2000
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",47.24527,2000
+POL,Poland,133206,Exports and imports (% of GDP),60.7907,2000
+POL,Poland,136706,GDP per capita (2011 PPP $),14732.482,2000
+POL,Poland,136906,"Human Development Index (HDI), female",0.772288094,2000
+POL,Poland,137006,"Human Development Index (HDI), male",0.781295349,2000
+POL,Poland,137506,Human Development Index (HDI),0.785034889,2000
+POL,Poland,137906,Gender Development Index (GDI),0.988471382,2000
+POL,Poland,140606,"Unemployment, total (% of labour force)",16.3,2000
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),14646.47971,2000
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",563.644563,2000
+POL,Poland,147206,International student mobility (% of total tertiary enrolment),-1.16266,2000
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),56.3,2000
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),47.1,2000
+POL,Poland,149206,Government expenditure on education (% of GDP),4.993619919,2000
+POL,Poland,150606,Employment in agriculture (% of total employment),18.7,2000
+POL,Poland,150706,Employment in services (% of total employment),50.3,2000
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),6.926653185,2000
+POL,Poland,164406,Adjusted net savings (% of GNI),6.360611779,2000
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.238095238,2000
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.038461538,2000
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),96.21984177,2000
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.530989845,2000
+POL,Poland,175006,Female share of employment in senior and middle management (%),31.4,2000
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",45.04,2000
+POL,Poland,177206,Population using improved sanitation facilities (%),87.01241371,2000
+POL,Poland,178306,Gross capital formation (% of GDP),24.63187655,2000
+POL,Poland,179706,Ratio of education and health expenditure to military expenditure,5.62289472,2000
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.4,2000
+POL,Poland,181706,Rural population with access to electricity (%),100,2000
+POL,Poland,181806,Current health expenditure (% of GDP),5.29817,2000
+POL,Poland,182206,"Tuberculosis incidence (per 100,000 people)",33,2000
+POL,Poland,69206,Life expectancy at birth (years),73.318,1999
+POL,Poland,69706,Expected years of schooling (years),14.58642,1999
+POL,Poland,103006,Mean years of schooling (years),10.94801719,1999
+POL,Poland,103206,Life expectancy index,0.820276923,1999
+POL,Poland,103606,Income index,0.744972899,1999
+POL,Poland,103706,Education index,0.77011224,1999
+POL,Poland,137506,Human Development Index (HDI),0.777830552,1999
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),13862.53716,1999
+POL,Poland,69206,Life expectancy at birth (years),72.923,1998
+POL,Poland,69706,Expected years of schooling (years),14.21027,1998
+POL,Poland,103006,Mean years of schooling (years),10.84109388,1998
+POL,Poland,103206,Life expectancy index,0.8142,1998
+POL,Poland,103606,Income index,0.737927297,1998
+POL,Poland,103706,Education index,0.756099518,1998
+POL,Poland,137506,Human Development Index (HDI),0.768731266,1998
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),13230.8025,1998
+POL,Poland,31706,Share of seats in parliament (% held by women),12.67857143,1997
+POL,Poland,69206,Life expectancy at birth (years),72.535,1997
+POL,Poland,69706,Expected years of schooling (years),13.7816,1997
+POL,Poland,103006,Mean years of schooling (years),10.73417057,1997
+POL,Poland,103206,Life expectancy index,0.808230769,1997
+POL,Poland,103606,Income index,0.731075917,1997
+POL,Poland,103706,Education index,0.740627908,1997
+POL,Poland,137506,Human Development Index (HDI),0.759217092,1997
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),12644.10369,1997
+POL,Poland,52306,Research and development expenditure (% of GDP),0.6407,1996
+POL,Poland,69206,Life expectancy at birth (years),72.164,1996
+POL,Poland,69706,Expected years of schooling (years),13.26556,1996
+POL,Poland,103006,Mean years of schooling (years),10.62724726,1996
+POL,Poland,103206,Life expectancy index,0.802523077,1996
+POL,Poland,103606,Income index,0.721813586,1996
+POL,Poland,103706,Education index,0.722729353,1996
+POL,Poland,137506,Human Development Index (HDI),0.748088121,1996
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),11892.09256,1996
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),65,1995
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",60.56,1995
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",70.13,1995
+POL,Poland,24106,"Mean years of schooling, female (years)",9.5,1995
+POL,Poland,24206,"Mean years of schooling, male (years)",10.1,1995
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",8.918615723,1995
+POL,Poland,31706,Share of seats in parliament (% held by women),12.67857143,1995
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",29.363,1995
+POL,Poland,43006,Vulnerable employment (% of total employment),28.6,1995
+POL,Poland,44206,Total population (millions),38.452632,1995
+POL,Poland,45106,Urban population (%),61.5,1995
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),2.34839,1995
+POL,Poland,47906,Median age (years),33.649,1995
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",51.2,1995
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",66.6,1995
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,1995
+POL,Poland,52606,"Remittances, inflows (% of GDP)",0.509367,1995
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",2.57427,1995
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",12.7,1995
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",14.6,1995
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",93.872,1995
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",250.176,1995
+POL,Poland,63106,Population ages 15–64 (millions),25.3812,1995
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",97.63238,1995
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",93.99037,1995
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",31.18402,1995
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",4,1995
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1995
+POL,Poland,65606,Gross fixed capital formation (% of GDP),17.43544068,1995
+POL,Poland,68606,Gender Inequality Index (GII),0.257740025,1995
+POL,Poland,69206,Life expectancy at birth (years),71.827,1995
+POL,Poland,69706,Expected years of schooling (years),13.05657,1995
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",13,1995
+POL,Poland,100806,Forest area (% of total land area),29.28597081,1995
+POL,Poland,103006,Mean years of schooling (years),10.52032395,1995
+POL,Poland,103206,Life expectancy index,0.797338462,1995
+POL,Poland,103606,Income index,0.711892756,1995
+POL,Poland,103706,Education index,0.713359965,1995
+POL,Poland,110806,"Net migration rate (per 1,000 people)",-0.838,1995
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",30.6,1995
+POL,Poland,111106,International inbound tourists (thousands),19215,1995
+POL,Poland,111306,Private capital flows (% of GDP),-3.372795,1995
+POL,Poland,120606,"Life expectancy at birth, female (years)",76.29,1995
+POL,Poland,121106,"Life expectancy at birth, male (years)",67.455,1995
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),34.915,1995
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),16.586,1995
+POL,Poland,123306,"Expected years of schooling, female (years)",13.3,1995
+POL,Poland,123406,"Expected years of schooling, male (years)",12.8,1995
+POL,Poland,123506,"Estimated gross national income per capita, female (2011 PPP $)",8358.962154,1995
+POL,Poland,123606,"Estimated gross national income per capita, male (2011 PPP $)",14068.8269,1995
+POL,Poland,132706,Population ages 65 and older (millions),4.209654,1995
+POL,Poland,132806,Population under age 5 (millions),2.56335,1995
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",44.6744,1995
+POL,Poland,133206,Exports and imports (% of GDP),43.6784,1995
+POL,Poland,136706,GDP per capita (2011 PPP $),11300.27108,1995
+POL,Poland,136906,"Human Development Index (HDI), female",0.724059821,1995
+POL,Poland,137006,"Human Development Index (HDI), male",0.735275596,1995
+POL,Poland,137506,Human Development Index (HDI),0.739813082,1995
+POL,Poland,137906,Gender Development Index (GDI),0.984746162,1995
+POL,Poland,140606,"Unemployment, total (% of labour force)",13.3,1995
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),11136.1555,1995
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",436.1339398,1995
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),58.6,1995
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),50.7,1995
+POL,Poland,149206,Government expenditure on education (% of GDP),4.335000038,1995
+POL,Poland,150606,Employment in agriculture (% of total employment),22.6,1995
+POL,Poland,150706,Employment in services (% of total employment),45.4,1995
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),6.332528762,1995
+POL,Poland,164406,Adjusted net savings (% of GNI),5.807620136,1995
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.18699187,1995
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.073684211,1995
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),95.45551646,1995
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.789239095,1995
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.97,1995
+POL,Poland,177706,Survival rate to the last grade of lower secondary general education (%),98.93408,1995
+POL,Poland,178306,Gross capital formation (% of GDP),19.67866126,1995
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),99.6,1995
+POL,Poland,181706,Rural population with access to electricity (%),100,1995
+POL,Poland,69206,Life expectancy at birth (years),71.533,1994
+POL,Poland,69706,Expected years of schooling (years),13.10496,1994
+POL,Poland,103006,Mean years of schooling (years),10.36621492,1994
+POL,Poland,103206,Life expectancy index,0.792815385,1994
+POL,Poland,103606,Income index,0.702730608,1994
+POL,Poland,103706,Education index,0.709567164,1994
+POL,Poland,137506,Human Development Index (HDI),0.733924664,1994
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),10480.77866,1994
+POL,Poland,69206,Life expectancy at birth (years),71.285,1993
+POL,Poland,69706,Expected years of schooling (years),12.88965,1993
+POL,Poland,103006,Mean years of schooling (years),10.21210589,1993
+POL,Poland,103206,Life expectancy index,0.789,1993
+POL,Poland,103606,Income index,0.690969874,1993
+POL,Poland,103706,Education index,0.698449363,1993
+POL,Poland,137506,Human Development Index (HDI),0.724809172,1993
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),9695.734597,1993
+POL,Poland,69206,Life expectancy at birth (years),71.084,1992
+POL,Poland,69706,Expected years of schooling (years),12.25314,1992
+POL,Poland,103006,Mean years of schooling (years),10.05799686,1992
+POL,Poland,103206,Life expectancy index,0.785907692,1992
+POL,Poland,103606,Income index,0.684948255,1992
+POL,Poland,103706,Education index,0.675631562,1992
+POL,Poland,137506,Human Development Index (HDI),0.71380526,1992
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),9316.830501,1992
+POL,Poland,43006,Vulnerable employment (% of total employment),24.6,1991
+POL,Poland,69206,Life expectancy at birth (years),70.93,1991
+POL,Poland,69706,Expected years of schooling (years),12.27395,1991
+POL,Poland,103006,Mean years of schooling (years),9.903887826,1991
+POL,Poland,103206,Life expectancy index,0.783538462,1991
+POL,Poland,103606,Income index,0.683179328,1991
+POL,Poland,103706,Education index,0.67107265,1991
+POL,Poland,110906,"Unemployment, youth (% ages 15–24)",25.3,1991
+POL,Poland,137506,Human Development Index (HDI),0.710866735,1991
+POL,Poland,140606,"Unemployment, total (% of labour force)",13,1991
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),9208.362824,1991
+POL,Poland,148306,Employment to population ratio (% ages 15 and older),53.7,1991
+POL,Poland,150606,Employment in agriculture (% of total employment),23.5,1991
+POL,Poland,150706,Employment in services (% of total employment),39.1,1991
+POL,Poland,169706,Total unemployment rate (female to male ratio),1.201680672,1991
+POL,Poland,169806,Youth unemployment rate (female to male ratio),1.06302521,1991
+POL,Poland,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.76,1991
+POL,Poland,23806,Population with at least some secondary education (% ages 25 and older),50.5,1990
+POL,Poland,23906,"Population with at least some secondary education, female (% ages 25 and older)",55.7,1990
+POL,Poland,24006,"Population with at least some secondary education, male (% ages 25 and older)",61.29,1990
+POL,Poland,24106,"Mean years of schooling, female (years)",9.3,1990
+POL,Poland,24206,"Mean years of schooling, male (years)",9.6,1990
+POL,Poland,27706,"Carbon dioxide emissions, per capita (tonnes)",9.66717214,1990
+POL,Poland,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",32.453,1990
+POL,Poland,44206,Total population (millions),37.954553,1990
+POL,Poland,45106,Urban population (%),61.3,1990
+POL,Poland,46106,Primary school dropout rate (% of primary school cohort),5.21694,1990
+POL,Poland,47906,Median age (years),32.212,1990
+POL,Poland,48706,"Labour force participation rate (% ages 15 and older), female",53.9,1990
+POL,Poland,48806,"Labour force participation rate (% ages 15 and older), male",70.3,1990
+POL,Poland,49006,Sex ratio at birth (male to female births),1.06,1990
+POL,Poland,53506,"Foreign direct investment, net inflows (% of GDP)",0.134894,1990
+POL,Poland,57206,"Mortality rate, infant (per 1,000 live births)",15.2,1990
+POL,Poland,57506,"Mortality rate, under-five (per 1,000 live births)",17.4,1990
+POL,Poland,57806,"Mortality rate, female adult (per 1,000 people)",101.62,1990
+POL,Poland,57906,"Mortality rate, male adult (per 1,000 people)",263.088,1990
+POL,Poland,63106,Population ages 15–64 (millions),24.6434,1990
+POL,Poland,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.20912,1990
+POL,Poland,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",87.93342,1990
+POL,Poland,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",20.1717,1990
+POL,Poland,64306,"Infants lacking immunization, measles (% of one-year-olds)",5,1990
+POL,Poland,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1990
+POL,Poland,65606,Gross fixed capital formation (% of GDP),19.64430359,1990
+POL,Poland,69206,Life expectancy at birth (years),70.823,1990
+POL,Poland,69706,Expected years of schooling (years),12.23714,1990
+POL,Poland,89006,"Maternal mortality ratio (deaths per 100,000 live births)",17,1990
+POL,Poland,100806,Forest area (% of total land area),28.99539652,1990
+POL,Poland,103006,Mean years of schooling (years),9.749778794,1990
+POL,Poland,103206,Life expectancy index,0.781892308,1990
+POL,Poland,103606,Income index,0.694654242,1990
+POL,Poland,103706,Education index,0.664913182,1990
+POL,Poland,110806,"Net migration rate (per 1,000 people)",-1.625,1990
+POL,Poland,120606,"Life expectancy at birth, female (years)",75.256,1990
+POL,Poland,121106,"Life expectancy at birth, male (years)",66.494,1990
+POL,Poland,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),38.689,1990
+POL,Poland,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),15.326,1990
+POL,Poland,123306,"Expected years of schooling, female (years)",12.5,1990
+POL,Poland,123406,"Expected years of schooling, male (years)",12,1990
+POL,Poland,132706,Population ages 65 and older (millions),3.776954,1990
+POL,Poland,132806,Population under age 5 (millions),2.946,1990
+POL,Poland,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",49.34203,1990
+POL,Poland,133206,Exports and imports (% of GDP),45.2797,1990
+POL,Poland,136706,GDP per capita (2011 PPP $),10276.57333,1990
+POL,Poland,137506,Human Development Index (HDI),0.712131492,1990
+POL,Poland,141706,Gross national income (GNI) per capita (2011 PPP $),9935.128835,1990
+POL,Poland,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",391.6482459,1990
+POL,Poland,148206,Labour force participation rate (% ages 15 and older),61.8,1990
+POL,Poland,163906,Renewable energy consumption (% of total final energy consumption),2.501484839,1990
+POL,Poland,174306,Fossil fuel energy consumption (% of total energy consumption),97.80680713,1990
+POL,Poland,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.940699962,1990
+POL,Poland,177706,Survival rate to the last grade of lower secondary general education (%),99.9926,1990
+POL,Poland,178306,Gross capital formation (% of GDP),25.58373572,1990
+POL,Poland,181206,Proportion of births attended by skilled health personnel (%),97.8,1990
+POL,Poland,181706,Rural population with access to electricity (%),100,1990

@@ -1,0 +1,1075 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+CUB,Cuba,21806,Refugees by country of origin (thousands),5.338,2017
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),86.9,2017
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.74,2017
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",88.93730023,2017
+CUB,Cuba,24106,"Mean years of schooling, female (years)",11.5985,2017
+CUB,Cuba,24206,"Mean years of schooling, male (years)",12.0609,2017
+CUB,Cuba,31706,Share of seats in parliament (% held by women),48.85620915,2017
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",43.647,2017
+CUB,Cuba,43006,Vulnerable employment (% of total employment),10.3,2017
+CUB,Cuba,44206,Total population (millions),11.484636,2017
+CUB,Cuba,45106,Urban population (%),77,2017
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",41.5,2017
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",67.3,2017
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,2017
+CUB,Cuba,63106,Population ages 15–64 (millions),7.951,2017
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2017
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2017
+CUB,Cuba,68606,Gender Inequality Index (GII),0.301128452,2017
+CUB,Cuba,69206,Life expectancy at birth (years),79.921,2017
+CUB,Cuba,69706,Expected years of schooling (years),13.99565,2017
+CUB,Cuba,71406,Inequality-adjusted education index,0.69512663,2017
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.873002877,2017
+CUB,Cuba,101606,Inequality in education (%),10.93381,2017
+CUB,Cuba,101806,Inequality in life expectancy (%),5.3,2017
+CUB,Cuba,103006,Mean years of schooling (years),11.75078,2017
+CUB,Cuba,103206,Life expectancy index,0.921861538,2017
+CUB,Cuba,103606,Income index,0.652671962,2017
+CUB,Cuba,103706,Education index,0.780460722,2017
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",5.5,2017
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.934,2017
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.953,2017
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.161,2017
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),21.289,2017
+CUB,Cuba,123306,"Expected years of schooling, female (years)",14.3178,2017
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.6976,2017
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",5001.230467,2017
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",10045.41959,2017
+CUB,Cuba,132706,Population ages 65 and older (millions),1.692572,2017
+CUB,Cuba,132806,Population under age 5 (millions),0.632595,2017
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.751154719,2017
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.797265783,2017
+CUB,Cuba,137506,Human Development Index (HDI),0.777267606,2017
+CUB,Cuba,137906,Gender Development Index (GDI),0.942163498,2017
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",2.6,2017
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),7524.4,2017
+CUB,Cuba,146206,HDI rank,73,2017
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),54.3,2017
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53,2017
+CUB,Cuba,150606,Employment in agriculture (% of total employment),18.6,2017
+CUB,Cuba,150706,Employment in services (% of total employment),64.9,2017
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),2.7,2017
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.304347826,2017
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1,2017
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.21,2017
+CUB,Cuba,181606,Red List Index (value),0.65098,2017
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),84.826,2016
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",86.2,2016
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",88.93730023,2016
+CUB,Cuba,24106,"Mean years of schooling, female (years)",11.5985,2016
+CUB,Cuba,24206,"Mean years of schooling, male (years)",12.0609,2016
+CUB,Cuba,31706,Share of seats in parliament (% held by women),48.85620915,2016
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",43.647,2016
+CUB,Cuba,43006,Vulnerable employment (% of total employment),10.3,2016
+CUB,Cuba,43606,"Internet users, total (% of population)",38.76586728,2016
+CUB,Cuba,44206,Total population (millions),11.475982,2016
+CUB,Cuba,45106,Urban population (%),76.9,2016
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),34.75,2016
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",41.6,2016
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",67.4,2016
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,2016
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.2,2016
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",5.5,2016
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",70.092,2016
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",105.727,2016
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.4,2016
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",4.9877,2016
+CUB,Cuba,63106,Population ages 15–64 (millions),7.97957,2016
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",34.05936,2016
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2016
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2016
+CUB,Cuba,68606,Gender Inequality Index (GII),0.301231122,2016
+CUB,Cuba,69206,Life expectancy at birth (years),79.742,2016
+CUB,Cuba,69706,Expected years of schooling (years),13.99565,2016
+CUB,Cuba,71406,Inequality-adjusted education index,0.689721796,2016
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.87020381,2016
+CUB,Cuba,101606,Inequality in education (%),10.93381,2016
+CUB,Cuba,101806,Inequality in life expectancy (%),5.3208,2016
+CUB,Cuba,103006,Mean years of schooling (years),11.56873,2016
+CUB,Cuba,103206,Life expectancy index,0.919107692,2016
+CUB,Cuba,103606,Income index,0.65191725,2016
+CUB,Cuba,103706,Education index,0.774392389,2016
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",5.2,2016
+CUB,Cuba,111106,International inbound tourists (thousands),3968,2016
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.782,2016
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.748,2016
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.264,2016
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),20.553,2016
+CUB,Cuba,123306,"Expected years of schooling, female (years)",14.1982,2016
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.4583,2016
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",4982.744441,2016
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",9988.103194,2016
+CUB,Cuba,132706,Population ages 65 and older (millions),1.640041,2016
+CUB,Cuba,132806,Population under age 5 (millions),0.63635,2016
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.749216128,2016
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.7937735,2016
+CUB,Cuba,137506,Human Development Index (HDI),0.774176498,2016
+CUB,Cuba,137906,Gender Development Index (GDI),0.94386639,2016
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",2.4,2016
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),7486.9,2016
+CUB,Cuba,146206,HDI rank,72,2016
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),54.4,2016
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53.1,2016
+CUB,Cuba,150606,Employment in agriculture (% of total employment),18.3,2016
+CUB,Cuba,150706,Employment in services (% of total employment),65.2,2016
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),2.5,2016
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.272727273,2016
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1,2016
+CUB,Cuba,170006,Concentration index (exports) (value),0.248501951,2016
+CUB,Cuba,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",49.5,2016
+CUB,Cuba,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",1,2016
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.1,2016
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2016
+CUB,Cuba,181706,Rural population with access to electricity (%),100,2016
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",6.9,2016
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),84.826,2015
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",85.05276604,2015
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",88.45152527,2015
+CUB,Cuba,24106,"Mean years of schooling, female (years)",11.54,2015
+CUB,Cuba,24206,"Mean years of schooling, male (years)",12,2015
+CUB,Cuba,31706,Share of seats in parliament (% held by women),48.85620915,2015
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",47.099,2015
+CUB,Cuba,43006,Vulnerable employment (% of total employment),10.2,2015
+CUB,Cuba,43606,"Internet users, total (% of population)",37.30509742,2015
+CUB,Cuba,44206,Total population (millions),11.461432,2015
+CUB,Cuba,45106,Urban population (%),76.9,2015
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2015
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),29.1006,2015
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",8.89917,2015
+CUB,Cuba,47906,Median age (years),41.08,2015
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",41.9,2015
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",67.6,2015
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,2015
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.42854,2015
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.3,2015
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",5.6,2015
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",70.921,2015
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",107.558,2015
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2015
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",5.4007,2015
+CUB,Cuba,63106,Population ages 15–64 (millions),8.00083,2015
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",100.94415,2015
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",100.39022,2015
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",35.85376,2015
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2015
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2015
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),8.643243417,2015
+CUB,Cuba,68606,Gender Inequality Index (GII),0.307009088,2015
+CUB,Cuba,69206,Life expectancy at birth (years),79.57,2015
+CUB,Cuba,69706,Expected years of schooling (years),13.99565,2015
+CUB,Cuba,71406,Inequality-adjusted education index,0.684316666,2015
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.86617621,2015
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",39,2015
+CUB,Cuba,100806,Forest area (% of total land area),30.76331475,2015
+CUB,Cuba,101606,Inequality in education (%),10.93381,2015
+CUB,Cuba,101806,Inequality in life expectancy (%),5.4869,2015
+CUB,Cuba,103006,Mean years of schooling (years),11.38667,2015
+CUB,Cuba,103206,Life expectancy index,0.916461538,2015
+CUB,Cuba,103606,Income index,0.653416928,2015
+CUB,Cuba,103706,Education index,0.768323722,2015
+CUB,Cuba,110806,"Net migration rate (per 1,000 people)",-1.286,2015
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",5.1,2015
+CUB,Cuba,111106,International inbound tourists (thousands),3491,2015
+CUB,Cuba,112506,"Suicide rate, male (per 100,000 people)",17,2015
+CUB,Cuba,112606,"Suicide rate, female (per 100,000 people)",4.2,2015
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.635,2015
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.552,2015
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.333,2015
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.92,2015
+CUB,Cuba,123306,"Expected years of schooling, female (years)",14.1982,2015
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.5403,2015
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",5053.303233,2015
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",10065.99383,2015
+CUB,Cuba,132706,Population ages 65 and older (millions),1.593751,2015
+CUB,Cuba,132806,Population under age 5 (millions),0.629366,2015
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",101.51403,2015
+CUB,Cuba,133206,Exports and imports (% of GDP),31.598,2015
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.748868688,2015
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.793441934,2015
+CUB,Cuba,137506,Human Development Index (HDI),0.771998203,2015
+CUB,Cuba,137906,Gender Development Index (GDI),0.943822927,2015
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",2.4,2015
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),7561.6,2015
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),54.7,2015
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53.4,2015
+CUB,Cuba,150606,Employment in agriculture (% of total employment),18.3,2015
+CUB,Cuba,150706,Employment in services (% of total employment),64.9,2015
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),2.5,2015
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),19.28132064,2015
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.272727273,2015
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1,2015
+CUB,Cuba,170006,Concentration index (exports) (value),0.232172449,2015
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.25,2015
+CUB,Cuba,177106,Population using improved drinking-water sources (%),95.17550602,2015
+CUB,Cuba,177206,Population using improved sanitation facilities (%),90.81850737,2015
+CUB,Cuba,178306,Gross capital formation (% of GDP),9.372589886,2015
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2015
+CUB,Cuba,181706,Rural population with access to electricity (%),100,2015
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",7,2015
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),84.826,2014
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",83.90553207,2014
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",86.70678351,2014
+CUB,Cuba,24106,"Mean years of schooling, female (years)",11.5456,2014
+CUB,Cuba,24206,"Mean years of schooling, male (years)",11.7286,2014
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",3.045210624,2014
+CUB,Cuba,31706,Share of seats in parliament (% held by women),48.85620915,2014
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",47.488,2014
+CUB,Cuba,43006,Vulnerable employment (% of total employment),10.3,2014
+CUB,Cuba,43606,"Internet users, total (% of population)",29.07018437,2014
+CUB,Cuba,44206,Total population (millions),11.439767,2014
+CUB,Cuba,45106,Urban population (%),76.9,2014
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2014
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),22.1224,2014
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),5.37609,2014
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",9.06511,2014
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",42,2014
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",67.8,2014
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.41596,2014
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.3,2014
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",5.7,2014
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",71.75,2014
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",109.388,2014
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2014
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",5.2449,2014
+CUB,Cuba,63106,Population ages 15–64 (millions),8.00532,2014
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.61048,2014
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",98.99405,2014
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",40.541,2014
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2014
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2014
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),7.303849306,2014
+CUB,Cuba,68606,Gender Inequality Index (GII),0.309470543,2014
+CUB,Cuba,69206,Life expectancy at birth (years),79.415,2014
+CUB,Cuba,69706,Expected years of schooling (years),14.16012,2014
+CUB,Cuba,71406,Inequality-adjusted education index,0.680172888,2014
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.867459,2014
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",40,2014
+CUB,Cuba,100806,Forest area (% of total land area),30.24802923,2014
+CUB,Cuba,101606,Inequality in education (%),11.3,2014
+CUB,Cuba,101806,Inequality in life expectancy (%),5.1,2014
+CUB,Cuba,103006,Mean years of schooling (years),11.20462,2014
+CUB,Cuba,103206,Life expectancy index,0.914076923,2014
+CUB,Cuba,103606,Income index,0.647143619,2014
+CUB,Cuba,103706,Education index,0.766824,2014
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",5.7,2014
+CUB,Cuba,111106,International inbound tourists (thousands),2970,2014
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.502,2014
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.378,2014
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.525,2014
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),19.377,2014
+CUB,Cuba,123306,"Expected years of schooling, female (years)",14.367,2014
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.5403,2014
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",4841.956141,2014
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",9661.262788,2014
+CUB,Cuba,132706,Population ages 65 and older (millions),1.551157,2014
+CUB,Cuba,132806,Population under age 5 (millions),0.626352,2014
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",98.96807,2014
+CUB,Cuba,133206,Exports and imports (% of GDP),39.2742,2014
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.747132297,2014
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.787233876,2014
+CUB,Cuba,137506,Human Development Index (HDI),0.768351078,2014
+CUB,Cuba,137906,Gender Development Index (GDI),0.949060145,2014
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",2.7,2014
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),7254,2014
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),54.9,2014
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53.4,2014
+CUB,Cuba,150606,Employment in agriculture (% of total employment),18.9,2014
+CUB,Cuba,150706,Employment in services (% of total employment),64.2,2014
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),2.8,2014
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),18.79844289,2014
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.333333333,2014
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),0.982758621,2014
+CUB,Cuba,170006,Concentration index (exports) (value),0.214771099,2014
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),85.75886304,2014
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.35,2014
+CUB,Cuba,175206,"Antenatal care coverage, at least one visit (%)",98.5,2014
+CUB,Cuba,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",73.7,2014
+CUB,Cuba,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",8,2014
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),95.8929,2014
+CUB,Cuba,178306,Gross capital formation (% of GDP),7.6113276,2014
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.4,2014
+CUB,Cuba,181706,Rural population with access to electricity (%),100,2014
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",7.3,2014
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),82.98704,2013
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",81.52722104,2013
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",84.96204176,2013
+CUB,Cuba,24106,"Mean years of schooling, female (years)",11.3894,2013
+CUB,Cuba,24206,"Mean years of schooling, male (years)",11.4572,2013
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",3.049362141,2013
+CUB,Cuba,31706,Share of seats in parliament (% held by women),48.85620915,2013
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",47.877,2013
+CUB,Cuba,43006,Vulnerable employment (% of total employment),9.2,2013
+CUB,Cuba,43606,"Internet users, total (% of population)",27.93,2013
+CUB,Cuba,44206,Total population (millions),11.412167,2013
+CUB,Cuba,45106,Urban population (%),76.8,2013
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2013
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),17.4875,2013
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),3.54487,2013
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",9.06109,2013
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",42.2,2013
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",68,2013
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.47466,2013
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.4,2013
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",5.7,2013
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",72.579,2013
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",111.219,2013
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.3,2013
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",5.906,2013
+CUB,Cuba,63106,Population ages 15–64 (millions),7.99813,2013
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",100.73527,2013
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",92.28779,2013
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",48.80079,2013
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2013
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),8.243894851,2013
+CUB,Cuba,68606,Gender Inequality Index (GII),0.312107425,2013
+CUB,Cuba,69206,Life expectancy at birth (years),79.282,2013
+CUB,Cuba,69706,Expected years of schooling (years),14.12077,2013
+CUB,Cuba,71406,Inequality-adjusted education index,0.67609969,2013
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.8655172,2013
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",41,2013
+CUB,Cuba,97106,Fresh water withdrawals (% of total renewable water resources),18.26,2013
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.13048,2013
+CUB,Cuba,100806,Forest area (% of total land area),29.67568605,2013
+CUB,Cuba,101606,Inequality in education (%),11,2013
+CUB,Cuba,101806,Inequality in life expectancy (%),5.1,2013
+CUB,Cuba,103006,Mean years of schooling (years),11.02256886,2013
+CUB,Cuba,103206,Life expectancy index,0.912030769,2013
+CUB,Cuba,103606,Income index,0.645935184,2013
+CUB,Cuba,103706,Education index,0.759662573,2013
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",7,2013
+CUB,Cuba,111106,International inbound tourists (thousands),2829,2013
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.384,2013
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.23,2013
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.756,2013
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.929,2013
+CUB,Cuba,123306,"Expected years of schooling, female (years)",14.708,2013
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.2958,2013
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",4808.557831,2013
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",9577.996638,2013
+CUB,Cuba,132706,Population ages 65 and older (millions),1.513983,2013
+CUB,Cuba,132806,Population under age 5 (millions),0.619473,2013
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",92.80998,2013
+CUB,Cuba,133206,Exports and imports (% of GDP),44.3239,2013
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.747540582,2013
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.780639901,2013
+CUB,Cuba,137506,Human Development Index (HDI),0.76490304,2013
+CUB,Cuba,137906,Gender Development Index (GDI),0.957599761,2013
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",3.3,2013
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),7196.2,2013
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),55.1,2013
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53.3,2013
+CUB,Cuba,150606,Employment in agriculture (% of total employment),18.6,2013
+CUB,Cuba,150706,Employment in services (% of total employment),64.2,2013
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),2.8,2013
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),16.88796521,2013
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.344827586,2013
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1,2013
+CUB,Cuba,170006,Concentration index (exports) (value),0.208707576,2013
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),87.50883462,2013
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.36,2013
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),97.19832,2013
+CUB,Cuba,178306,Gross capital formation (% of GDP),9.393633017,2013
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2013
+CUB,Cuba,181706,Rural population with access to electricity (%),100,2013
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",7.6,2013
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),81.14808,2012
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",79.14891,2012
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",83.2173,2012
+CUB,Cuba,24106,"Mean years of schooling, female (years)",11.0915,2012
+CUB,Cuba,24206,"Mean years of schooling, male (years)",11.1858,2012
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",3.176608348,2012
+CUB,Cuba,31706,Share of seats in parliament (% held by women),45.221843,2012
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",48.266,2012
+CUB,Cuba,43006,Vulnerable employment (% of total employment),8.7,2012
+CUB,Cuba,43606,"Internet users, total (% of population)",21.2,2012
+CUB,Cuba,44206,Total population (millions),11.382146,2012
+CUB,Cuba,45106,Urban population (%),76.8,2012
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2012
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),14.7744,2012
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),4.20672,2012
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",9.05528,2012
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",42.3,2012
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",68.3,2012
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.40717,2012
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.4,2012
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",5.8,2012
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",73.408,2012
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",113.05,2012
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2012
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",5.4559,2012
+CUB,Cuba,63106,Population ages 15–64 (millions),7.98275,2012
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",102.47736,2012
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",90.82579,2012
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",63.48611,2012
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2012
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),7.761720512,2012
+CUB,Cuba,68606,Gender Inequality Index (GII),0.317579757,2012
+CUB,Cuba,69206,Life expectancy at birth (years),79.167,2012
+CUB,Cuba,69706,Expected years of schooling (years),14.82248,2012
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.861107415,2012
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",41,2012
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.11887,2012
+CUB,Cuba,100806,Forest area (% of total land area),28.5507614,2012
+CUB,Cuba,101406,"Literacy rate, adult (% ages 15 and older)",99.75253,2012
+CUB,Cuba,101806,Inequality in life expectancy (%),5.4,2012
+CUB,Cuba,103006,Mean years of schooling (years),10.84051588,2012
+CUB,Cuba,103206,Life expectancy index,0.910261538,2012
+CUB,Cuba,103606,Income index,0.64223786,2012
+CUB,Cuba,103706,Education index,0.773086085,2012
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",7.3,2012
+CUB,Cuba,111106,International inbound tourists (thousands),2815,2012
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.279,2012
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.107,2012
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.037,2012
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.548,2012
+CUB,Cuba,123306,"Expected years of schooling, female (years)",15.439,2012
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.9525,2012
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",4686.871262,2012
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",9350.636848,2012
+CUB,Cuba,132706,Population ages 65 and older (millions),1.480616,2012
+CUB,Cuba,132806,Population under age 5 (millions),0.611619,2012
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",107.36624,2012
+CUB,Cuba,133206,Exports and imports (% of GDP),45.8662,2012
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.748700863,2012
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.781896231,2012
+CUB,Cuba,137506,Human Development Index (HDI),0.767414471,2012
+CUB,Cuba,137906,Gender Development Index (GDI),0.957545046,2012
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",3.5,2012
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),7022.2,2012
+CUB,Cuba,147206,International student mobility (% of total tertiary enrolment),4.11521,2012
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),55.3,2012
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53.3,2012
+CUB,Cuba,150606,Employment in agriculture (% of total employment),19.3,2012
+CUB,Cuba,150706,Employment in services (% of total employment),61.6,2012
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),2.9,2012
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),17.10235036,2012
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.322580645,2012
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1,2012
+CUB,Cuba,170006,Concentration index (exports) (value),0.219278691,2012
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),87.46447104,2012
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.44,2012
+CUB,Cuba,175206,"Antenatal care coverage, at least one visit (%)",100,2012
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),98.50188,2012
+CUB,Cuba,178306,Gross capital formation (% of GDP),8.57521773,2012
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2012
+CUB,Cuba,181706,Rural population with access to electricity (%),100,2012
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",7.4,2012
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",77.817854,2011
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",82.074052,2011
+CUB,Cuba,24106,"Mean years of schooling, female (years)",10.9126,2011
+CUB,Cuba,24206,"Mean years of schooling, male (years)",11.0277,2011
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",3.169444662,2011
+CUB,Cuba,31706,Share of seats in parliament (% held by women),45.221843,2011
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",48.655,2011
+CUB,Cuba,43006,Vulnerable employment (% of total employment),8.3,2011
+CUB,Cuba,43606,"Internet users, total (% of population)",16.0172908,2011
+CUB,Cuba,44206,Total population (millions),11.354651,2011
+CUB,Cuba,45106,Urban population (%),76.7,2011
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2011
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),11.5824,2011
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),3.52287,2011
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",9.11033,2011
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",42.3,2011
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",68.6,2011
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.27192,2011
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.6,2011
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",6,2011
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",74.165,2011
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",113.95,2011
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2011
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",4.7029,2011
+CUB,Cuba,63106,Population ages 15–64 (millions),7.96481,2011
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.11707,2011
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",91.4655,2011
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",80.93687,2011
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2011
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),7.711262502,2011
+CUB,Cuba,68606,Gender Inequality Index (GII),0.322345639,2011
+CUB,Cuba,69206,Life expectancy at birth (years),79.064,2011
+CUB,Cuba,69706,Expected years of schooling (years),15.7353,2011
+CUB,Cuba,71506,Inequality-adjusted life expectancy index,0.859608369,2011
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",43,2011
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.128492,2011
+CUB,Cuba,100806,Forest area (% of total land area),27.93857556,2011
+CUB,Cuba,101806,Inequality in life expectancy (%),5.4,2011
+CUB,Cuba,103006,Mean years of schooling (years),11.28124571,2011
+CUB,Cuba,103206,Life expectancy index,0.908676923,2011
+CUB,Cuba,103606,Income index,0.637837741,2011
+CUB,Cuba,103706,Education index,0.81313319,2011
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",6.6,2011
+CUB,Cuba,111106,International inbound tourists (thousands),2688,2011
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.181,2011
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",77.002,2011
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.376,2011
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),18.184,2011
+CUB,Cuba,123306,"Expected years of schooling, female (years)",16.7566,2011
+CUB,Cuba,123406,"Expected years of schooling, male (years)",14.6877,2011
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",4540.705537,2011
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",9092.554238,2011
+CUB,Cuba,132706,Population ages 65 and older (millions),1.448337,2011
+CUB,Cuba,132806,Population under age 5 (millions),0.606615,2011
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",105.17293,2011
+CUB,Cuba,133206,Exports and imports (% of GDP),46.9604,2011
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.755648074,2011
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.784972565,2011
+CUB,Cuba,137506,Human Development Index (HDI),0.778204611,2011
+CUB,Cuba,137906,Gender Development Index (GDI),0.962642654,2011
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",3.2,2011
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),6820.6,2011
+CUB,Cuba,147206,International student mobility (% of total tertiary enrolment),3.77571,2011
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),55.4,2011
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),53.6,2011
+CUB,Cuba,150606,Employment in agriculture (% of total employment),19.7,2011
+CUB,Cuba,150706,Employment in services (% of total employment),63.2,2011
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),3.2,2011
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),16.68021184,2011
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.321428571,2011
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),0.985074627,2011
+CUB,Cuba,170006,Concentration index (exports) (value),0.221886621,2011
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),87.59646004,2011
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.3,2011
+CUB,Cuba,175206,"Antenatal care coverage, at least one visit (%)",100,2011
+CUB,Cuba,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",74.3,2011
+CUB,Cuba,175606,"Unmet need for family planning (% of married or in-union women of reproductive age, 15–49 years)",9.1,2011
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),97.08388,2011
+CUB,Cuba,178306,Gross capital formation (% of GDP),8.470792869,2011
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2011
+CUB,Cuba,181706,Rural population with access to electricity (%),99.98160646,2011
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",8.2,2011
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",76.486798,2010
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",80.930804,2010
+CUB,Cuba,24106,"Mean years of schooling, female (years)",10.7337,2010
+CUB,Cuba,24206,"Mean years of schooling, male (years)",10.8696,2010
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",3.386127443,2010
+CUB,Cuba,31706,Share of seats in parliament (% held by women),43.15960912,2010
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",49.044,2010
+CUB,Cuba,43006,Vulnerable employment (% of total employment),4.8,2010
+CUB,Cuba,43606,"Internet users, total (% of population)",15.9,2010
+CUB,Cuba,44206,Total population (millions),11.333051,2010
+CUB,Cuba,45106,Urban population (%),76.6,2010
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2010
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),8.85035,2010
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),4.95929,2010
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",9.12865,2010
+CUB,Cuba,47906,Median age (years),38.521,2010
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",42.3,2010
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",68.8,2010
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,2010
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.60767,2010
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",4.7,2010
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",6.1,2010
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",74.922,2010
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",114.85,2010
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.2,2010
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",4.456,2010
+CUB,Cuba,63106,Population ages 15–64 (millions),7.94826,2010
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.10496,2010
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",91.13425,2010
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",95.25448,2010
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2010
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",4,2010
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),8.646312648,2010
+CUB,Cuba,68606,Gender Inequality Index (GII),0.327780333,2010
+CUB,Cuba,69206,Life expectancy at birth (years),78.959,2010
+CUB,Cuba,69706,Expected years of schooling (years),16.397,2010
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",44,2010
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.210586,2010
+CUB,Cuba,100806,Forest area (% of total land area),27.54603533,2010
+CUB,Cuba,103006,Mean years of schooling (years),11.04887143,2010
+CUB,Cuba,103206,Life expectancy index,0.907061538,2010
+CUB,Cuba,103606,Income index,0.632898823,2010
+CUB,Cuba,103706,Education index,0.823767937,2010
+CUB,Cuba,110806,"Net migration rate (per 1,000 people)",-3.161,2010
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",6.1,2010
+CUB,Cuba,111106,International inbound tourists (thousands),2507,2010
+CUB,Cuba,112506,"Suicide rate, male (per 100,000 people)",18.5,2010
+CUB,Cuba,112606,"Suicide rate, female (per 100,000 people)",4.8,2010
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",81.072,2010
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",76.903,2010
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.78,2010
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),17.805,2010
+CUB,Cuba,123306,"Expected years of schooling, female (years)",17.6909,2010
+CUB,Cuba,123406,"Expected years of schooling, male (years)",15.3135,2010
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",4387.177181,2010
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",8806.287158,2010
+CUB,Cuba,132706,Population ages 65 and older (millions),1.41518,2010
+CUB,Cuba,132806,Population under age 5 (millions),0.607207,2010
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",102.64325,2010
+CUB,Cuba,133206,Exports and imports (% of GDP),40.2919,2010
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.758905846,2010
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.786731341,2010
+CUB,Cuba,137506,Human Development Index (HDI),0.779097794,2010
+CUB,Cuba,137906,Gender Development Index (GDI),0.964631516,2010
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",2.5,2010
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),6601.2,2010
+CUB,Cuba,147206,International student mobility (% of total tertiary enrolment),3.50418,2010
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),55.5,2010
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),54.1,2010
+CUB,Cuba,149206,Government expenditure on education (% of GDP),12.83730984,2010
+CUB,Cuba,150606,Employment in agriculture (% of total employment),18.6,2010
+CUB,Cuba,150706,Employment in services (% of total employment),64.3,2010
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),3.4,2010
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),13.15763195,2010
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.125,2010
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),0.953125,2010
+CUB,Cuba,170006,Concentration index (exports) (value),0.232358718,2010
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),89.88459214,2010
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.94,2010
+CUB,Cuba,175206,"Antenatal care coverage, at least one visit (%)",100,2010
+CUB,Cuba,177106,Population using improved drinking-water sources (%),94.50851235,2010
+CUB,Cuba,177206,Population using improved sanitation facilities (%),90.30950921,2010
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),97.26925,2010
+CUB,Cuba,178306,Gross capital formation (% of GDP),10.07337396,2010
+CUB,Cuba,179406,Skilled labour force (% of labour force),69.8,2010
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2010
+CUB,Cuba,181706,Rural population with access to electricity (%),99.84573647,2010
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",8.4,2010
+CUB,Cuba,69206,Life expectancy at birth (years),78.833,2009
+CUB,Cuba,69706,Expected years of schooling (years),17.31038,2009
+CUB,Cuba,103006,Mean years of schooling (years),10.81649714,2009
+CUB,Cuba,103206,Life expectancy index,0.905123077,2009
+CUB,Cuba,103606,Income index,0.628870803,2009
+CUB,Cuba,103706,Education index,0.841393794,2009
+CUB,Cuba,137506,Human Development Index (HDI),0.7823891,2009
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),6427.5,2009
+CUB,Cuba,69206,Life expectancy at birth (years),78.672,2008
+CUB,Cuba,69706,Expected years of schooling (years),17.45406,2008
+CUB,Cuba,103006,Mean years of schooling (years),10.58412286,2008
+CUB,Cuba,103206,Life expectancy index,0.902646154,2008
+CUB,Cuba,103606,Income index,0.62806728,2008
+CUB,Cuba,103706,Education index,0.837639095,2008
+CUB,Cuba,137506,Human Development Index (HDI),0.780177728,2008
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),6393.400461,2008
+CUB,Cuba,69206,Life expectancy at birth (years),78.469,2007
+CUB,Cuba,69706,Expected years of schooling (years),16.9152,2007
+CUB,Cuba,103006,Mean years of schooling (years),10.35174857,2007
+CUB,Cuba,103206,Life expectancy index,0.899523077,2007
+CUB,Cuba,103606,Income index,0.622204483,2007
+CUB,Cuba,103706,Education index,0.814924952,2007
+CUB,Cuba,137506,Human Development Index (HDI),0.769758253,2007
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),6150.012632,2007
+CUB,Cuba,69206,Life expectancy at birth (years),78.225,2006
+CUB,Cuba,69706,Expected years of schooling (years),15.92564,2006
+CUB,Cuba,103006,Mean years of schooling (years),10.11937429,2006
+CUB,Cuba,103206,Life expectancy index,0.895769231,2006
+CUB,Cuba,103606,Income index,0.612449252,2006
+CUB,Cuba,103706,Education index,0.779691365,2006
+CUB,Cuba,137506,Human Development Index (HDI),0.75346484,2006
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),5765.39569,2006
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),73.15,2005
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",69.831518,2005
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",75.214564,2005
+CUB,Cuba,24106,"Mean years of schooling, female (years)",9.8394,2005
+CUB,Cuba,24206,"Mean years of schooling, male (years)",10.079,2005
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",2.304659777,2005
+CUB,Cuba,31706,Share of seats in parliament (% held by women),35.96059113,2005
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",49.074,2005
+CUB,Cuba,43006,Vulnerable employment (% of total employment),12.6,2005
+CUB,Cuba,43606,"Internet users, total (% of population)",9.73806221,2005
+CUB,Cuba,44206,Total population (millions),11.284253,2005
+CUB,Cuba,45106,Urban population (%),76.1,2005
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2005
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),1.20109,2005
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),3.10997,2005
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",10.30837,2005
+CUB,Cuba,47906,Median age (years),35.619,2005
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",38.3,2005
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",67.4,2005
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,2005
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.5492,2005
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",5.3,2005
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",6.8,2005
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",80.607,2005
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",122.791,2005
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2005
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",6.0615,2005
+CUB,Cuba,63106,Population ages 15–64 (millions),7.85855,2005
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",98.2838,2005
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",92.29692,2005
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",62.47086,2005
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,2005
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2005
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),8.961435818,2005
+CUB,Cuba,68606,Gender Inequality Index (GII),0.340510618,2005
+CUB,Cuba,69206,Life expectancy at birth (years),77.95,2005
+CUB,Cuba,69706,Expected years of schooling (years),14.63916,2005
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",41,2005
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.214562,2005
+CUB,Cuba,100806,Forest area (% of total land area),25.33821871,2005
+CUB,Cuba,103006,Mean years of schooling (years),9.887,2005
+CUB,Cuba,103206,Life expectancy index,0.891538462,2005
+CUB,Cuba,103606,Income index,0.594951677,2005
+CUB,Cuba,103706,Education index,0.73621,2005
+CUB,Cuba,110806,"Net migration rate (per 1,000 people)",-2.596,2005
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",4.1,2005
+CUB,Cuba,111106,International inbound tourists (thousands),2261,2005
+CUB,Cuba,112506,"Suicide rate, male (per 100,000 people)",17,2005
+CUB,Cuba,112606,"Suicide rate, female (per 100,000 people)",5.6,2005
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",79.942,2005
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",76.018,2005
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),27.866,2005
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),15.726,2005
+CUB,Cuba,123306,"Expected years of schooling, female (years)",15.5671,2005
+CUB,Cuba,123406,"Expected years of schooling, male (years)",13.8937,2005
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",3090.726185,2005
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",7165.412785,2005
+CUB,Cuba,132706,Population ages 65 and older (millions),1.235808,2005
+CUB,Cuba,132806,Population under age 5 (millions),0.667847,2005
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",106.90941,2005
+CUB,Cuba,133206,Exports and imports (% of GDP),39.3621,2005
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.703566142,2005
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.748518785,2005
+CUB,Cuba,137506,Human Development Index (HDI),0.730927827,2005
+CUB,Cuba,137906,Gender Development Index (GDI),0.939944537,2005
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",1.9,2005
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),5134.788018,2005
+CUB,Cuba,147206,International student mobility (% of total tertiary enrolment),2.77181,2005
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),52.8,2005
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),51.8,2005
+CUB,Cuba,149206,Government expenditure on education (% of GDP),10.55778027,2005
+CUB,Cuba,150606,Employment in agriculture (% of total employment),20.3,2005
+CUB,Cuba,150706,Employment in services (% of total employment),60.6,2005
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),5.4,2005
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),26.31836392,2005
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.294117647,2005
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1,2005
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),81.0269063,2005
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",41.18,2005
+CUB,Cuba,175206,"Antenatal care coverage, at least one visit (%)",100,2005
+CUB,Cuba,177106,Population using improved drinking-water sources (%),93.81325566,2005
+CUB,Cuba,177206,Population using improved sanitation facilities (%),89.77357591,2005
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),97.70583,2005
+CUB,Cuba,178306,Gross capital formation (% of GDP),10.77459352,2005
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2005
+CUB,Cuba,181706,Rural population with access to electricity (%),94.25273202,2005
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",7.9,2005
+CUB,Cuba,69206,Life expectancy at birth (years),77.663,2004
+CUB,Cuba,69706,Expected years of schooling (years),14.16613,2004
+CUB,Cuba,103006,Mean years of schooling (years),9.8372,2004
+CUB,Cuba,103206,Life expectancy index,0.887123077,2004
+CUB,Cuba,103606,Income index,0.578856015,2004
+CUB,Cuba,103706,Education index,0.721410278,2004
+CUB,Cuba,137506,Human Development Index (HDI),0.718200303,2004
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4615.794935,2004
+CUB,Cuba,69206,Life expectancy at birth (years),77.381,2003
+CUB,Cuba,69706,Expected years of schooling (years),13.18779,2003
+CUB,Cuba,103006,Mean years of schooling (years),9.7874,2003
+CUB,Cuba,103206,Life expectancy index,0.882784615,2003
+CUB,Cuba,103606,Income index,0.570944682,2003
+CUB,Cuba,103706,Education index,0.692574167,2003
+CUB,Cuba,137506,Human Development Index (HDI),0.704106509,2003
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4380.270588,2003
+CUB,Cuba,69206,Life expectancy at birth (years),77.119,2002
+CUB,Cuba,69706,Expected years of schooling (years),12.80834,2002
+CUB,Cuba,103006,Mean years of schooling (years),9.451874733,2002
+CUB,Cuba,103206,Life expectancy index,0.878753846,2002
+CUB,Cuba,103606,Income index,0.565805535,2002
+CUB,Cuba,103706,Education index,0.670849713,2002
+CUB,Cuba,137506,Human Development Index (HDI),0.693510791,2002
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4233.75357,2002
+CUB,Cuba,69206,Life expectancy at birth (years),76.88,2001
+CUB,Cuba,69706,Expected years of schooling (years),12.50983,2001
+CUB,Cuba,103006,Mean years of schooling (years),9.6878,2001
+CUB,Cuba,103206,Life expectancy index,0.875076923,2001
+CUB,Cuba,103606,Income index,0.563998482,2001
+CUB,Cuba,103706,Education index,0.670421944,2001
+CUB,Cuba,137506,Human Development Index (HDI),0.691657031,2001
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4183.407668,2001
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),69.3,2000
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",65.83,2000
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",70.58915714,2000
+CUB,Cuba,24106,"Mean years of schooling, female (years)",9,2000
+CUB,Cuba,24206,"Mean years of schooling, male (years)",9.4,2000
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",2.339161379,2000
+CUB,Cuba,31706,Share of seats in parliament (% held by women),27.62063228,2000
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",69.394,2000
+CUB,Cuba,43006,Vulnerable employment (% of total employment),11.2,2000
+CUB,Cuba,43606,"Internet users, total (% of population)",0.54118255,2000
+CUB,Cuba,44206,Total population (millions),11.150736,2000
+CUB,Cuba,45106,Urban population (%),75.3,2000
+CUB,Cuba,45806,Primary school teachers trained to teach (%),100,2000
+CUB,Cuba,46006,Mobile phone subscriptions (per 100 people),0.058615,2000
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),3.98066,2000
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",11.49998,2000
+CUB,Cuba,47906,Median age (years),32.802,2000
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",35.5,2000
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",68.3,2000
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,2000
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.47865,2000
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",6.4,2000
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",8.3,2000
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",88.595,2000
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",134.05,2000
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.1,2000
+CUB,Cuba,61006,"Homicide rate (per 100,000 people)",5.2642,2000
+CUB,Cuba,63106,Population ages 15–64 (millions),7.62252,2000
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.1665,2000
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",83.12965,2000
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",22.22549,2000
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",6,2000
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,2000
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),11.87682805,2000
+CUB,Cuba,68606,Gender Inequality Index (GII),0.393804065,2000
+CUB,Cuba,69206,Life expectancy at birth (years),76.658,2000
+CUB,Cuba,69706,Expected years of schooling (years),12.3144,2000
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",43,2000
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.150518,2000
+CUB,Cuba,100806,Forest area (% of total land area),22.67225326,2000
+CUB,Cuba,103006,Mean years of schooling (years),9.638,2000
+CUB,Cuba,103206,Life expectancy index,0.871661538,2000
+CUB,Cuba,103606,Income index,0.55904027,2000
+CUB,Cuba,103706,Education index,0.663333333,2000
+CUB,Cuba,110806,"Net migration rate (per 1,000 people)",-2.409,2000
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",11.5,2000
+CUB,Cuba,111106,International inbound tourists (thousands),1741,2000
+CUB,Cuba,112506,"Suicide rate, male (per 100,000 people)",21.6,2000
+CUB,Cuba,112606,"Suicide rate, female (per 100,000 people)",8.6,2000
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",78.648,2000
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",74.737,2000
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),31.896,2000
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),14.39,2000
+CUB,Cuba,123306,"Expected years of schooling, female (years)",12.4,2000
+CUB,Cuba,123406,"Expected years of schooling, male (years)",12.2,2000
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",2288.175325,2000
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",5796.544331,2000
+CUB,Cuba,132706,Population ages 65 and older (millions),1.096909,2000
+CUB,Cuba,132806,Population under age 5 (millions),0.753523,2000
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",103.22864,2000
+CUB,Cuba,133206,Exports and imports (% of GDP),31.076,2000
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.640882436,2000
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.706212378,2000
+CUB,Cuba,137506,Human Development Index (HDI),0.686289887,2000
+CUB,Cuba,137906,Gender Development Index (GDI),0.907492499,2000
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",5.4,2000
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4048.321777,2000
+CUB,Cuba,147206,International student mobility (% of total tertiary enrolment),2.78874,2000
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),51.9,2000
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),49.1,2000
+CUB,Cuba,149206,Government expenditure on education (% of GDP),7.704810143,2000
+CUB,Cuba,150606,Employment in agriculture (% of total employment),27.1,2000
+CUB,Cuba,150706,Employment in services (% of total employment),53.8,2000
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),9.1,2000
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),34.43082042,2000
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.306122449,2000
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),0.99137931,2000
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),70.90016328,2000
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",40.11,2000
+CUB,Cuba,175206,"Antenatal care coverage, at least one visit (%)",100,2000
+CUB,Cuba,175506,"Contraceptive prevalence, any method (% of married or in-union women of reproductive age, 15–49 years)",73.3,2000
+CUB,Cuba,177106,Population using improved drinking-water sources (%),93.03019003,2000
+CUB,Cuba,177206,Population using improved sanitation facilities (%),89.16709388,2000
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),93.31753,2000
+CUB,Cuba,178306,Gross capital formation (% of GDP),12.5049893,2000
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.9,2000
+CUB,Cuba,181706,Rural population with access to electricity (%),87.9,2000
+CUB,Cuba,182206,"Tuberculosis incidence (per 100,000 people)",12,2000
+CUB,Cuba,69206,Life expectancy at birth (years),76.437,1999
+CUB,Cuba,69706,Expected years of schooling (years),12.11051,1999
+CUB,Cuba,103006,Mean years of schooling (years),9.55,1999
+CUB,Cuba,103206,Life expectancy index,0.868261538,1999
+CUB,Cuba,103606,Income index,0.551195733,1999
+CUB,Cuba,103706,Education index,0.654736389,1999
+CUB,Cuba,137506,Human Development Index (HDI),0.679215565,1999
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3843.452353,1999
+CUB,Cuba,69206,Life expectancy at birth (years),76.203,1998
+CUB,Cuba,69706,Expected years of schooling (years),11.94958,1998
+CUB,Cuba,103006,Mean years of schooling (years),9.462,1998
+CUB,Cuba,103206,Life expectancy index,0.864661538,1998
+CUB,Cuba,103606,Income index,0.542757885,1998
+CUB,Cuba,103706,Education index,0.647332778,1998
+CUB,Cuba,137506,Human Development Index (HDI),0.672243524,1998
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3634.646425,1998
+CUB,Cuba,31706,Share of seats in parliament (% held by women),22.75042445,1997
+CUB,Cuba,69206,Life expectancy at birth (years),75.95,1997
+CUB,Cuba,69706,Expected years of schooling (years),11.78864,1997
+CUB,Cuba,103006,Mean years of schooling (years),9.374,1997
+CUB,Cuba,103206,Life expectancy index,0.860769231,1997
+CUB,Cuba,103606,Income index,0.542842045,1997
+CUB,Cuba,103706,Education index,0.639928889,1997
+CUB,Cuba,137506,Human Development Index (HDI),0.668698953,1997
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3636.672035,1997
+CUB,Cuba,52306,Research and development expenditure (% of GDP),0.34736,1996
+CUB,Cuba,69206,Life expectancy at birth (years),75.683,1996
+CUB,Cuba,69706,Expected years of schooling (years),11.75631,1996
+CUB,Cuba,103006,Mean years of schooling (years),9.286,1996
+CUB,Cuba,103206,Life expectancy index,0.856661538,1996
+CUB,Cuba,103606,Income index,0.539220599,1996
+CUB,Cuba,103706,Education index,0.6360975,1996
+CUB,Cuba,137506,Human Development Index (HDI),0.664813471,1996
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3550.522388,1996
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),62.8,1995
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",60.81,1995
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",67.6,1995
+CUB,Cuba,24106,"Mean years of schooling, female (years)",8.1,1995
+CUB,Cuba,24206,"Mean years of schooling, male (years)",8.8,1995
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",2.357347848,1995
+CUB,Cuba,31706,Share of seats in parliament (% held by women),22.75042445,1995
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",69.204,1995
+CUB,Cuba,43006,Vulnerable employment (% of total employment),8.4,1995
+CUB,Cuba,44206,Total population (millions),10.906043,1995
+CUB,Cuba,45106,Urban population (%),74.3,1995
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",13.57722,1995
+CUB,Cuba,47906,Median age (years),30.174,1995
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",34.1,1995
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",68.4,1995
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,1995
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",8.4,1995
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",10.8,1995
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",98.182,1995
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",143.176,1995
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1995
+CUB,Cuba,63106,Population ages 15–64 (millions),7.4406,1995
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",101.2591,1995
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",76.13227,1995
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",13.75042,1995
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,1995
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,1995
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),7.754024419,1995
+CUB,Cuba,68606,Gender Inequality Index (GII),0.428355338,1995
+CUB,Cuba,69206,Life expectancy at birth (years),75.415,1995
+CUB,Cuba,69706,Expected years of schooling (years),11.33206,1995
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",55,1995
+CUB,Cuba,97106,Fresh water withdrawals (% of total renewable water resources),13.67,1995
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.213864,1995
+CUB,Cuba,100806,Forest area (% of total land area),20.91713222,1995
+CUB,Cuba,103006,Mean years of schooling (years),9.198,1995
+CUB,Cuba,103206,Life expectancy index,0.852538462,1995
+CUB,Cuba,103606,Income index,0.528108053,1995
+CUB,Cuba,103706,Education index,0.621379444,1995
+CUB,Cuba,110806,"Net migration rate (per 1,000 people)",-2.234,1995
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",16.5,1995
+CUB,Cuba,111106,International inbound tourists (thousands),742,1995
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",77.425,1995
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",73.489,1995
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),33.061,1995
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),13.514,1995
+CUB,Cuba,123306,"Expected years of schooling, female (years)",11.7,1995
+CUB,Cuba,123406,"Expected years of schooling, male (years)",11,1995
+CUB,Cuba,123506,"Estimated gross national income per capita, female (2011 PPP $)",1804.823775,1995
+CUB,Cuba,123606,"Estimated gross national income per capita, male (2011 PPP $)",4772.51224,1995
+CUB,Cuba,132706,Population ages 65 and older (millions),1.005506,1995
+CUB,Cuba,132806,Population under age 5 (millions),0.810493,1995
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",87.96946,1995
+CUB,Cuba,133206,Exports and imports (% of GDP),29.3084,1995
+CUB,Cuba,136906,"Human Development Index (HDI), female",0.60342344,1995
+CUB,Cuba,137006,"Human Development Index (HDI), male",0.670334013,1995
+CUB,Cuba,137506,Human Development Index (HDI),0.654030323,1995
+CUB,Cuba,137906,Gender Development Index (GDI),0.900183234,1995
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",8.3,1995
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3298.701399,1995
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),51.3,1995
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),47,1995
+CUB,Cuba,150606,Employment in agriculture (% of total employment),25.1,1995
+CUB,Cuba,150706,Employment in services (% of total employment),52,1995
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),11.2,1995
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),41.25462639,1995
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.289473684,1995
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),0.993975904,1995
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),68.85471624,1995
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",38.04,1995
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),85.06111,1995
+CUB,Cuba,178306,Gross capital formation (% of GDP),7.014274978,1995
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.8,1995
+CUB,Cuba,181706,Rural population with access to electricity (%),82.2372442,1995
+CUB,Cuba,69206,Life expectancy at birth (years),75.169,1994
+CUB,Cuba,69706,Expected years of schooling (years),11.4309,1994
+CUB,Cuba,103006,Mean years of schooling (years),9.0554,1994
+CUB,Cuba,103206,Life expectancy index,0.848753846,1994
+CUB,Cuba,103606,Income index,0.526161801,1994
+CUB,Cuba,103706,Education index,0.619371667,1994
+CUB,Cuba,137506,Human Development Index (HDI),0.65155458,1994
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3256.472482,1994
+CUB,Cuba,69206,Life expectancy at birth (years),74.963,1993
+CUB,Cuba,69706,Expected years of schooling (years),12.10776,1993
+CUB,Cuba,103006,Mean years of schooling (years),8.9128,1993
+CUB,Cuba,103206,Life expectancy index,0.845584615,1993
+CUB,Cuba,103606,Income index,0.525924127,1993
+CUB,Cuba,103706,Education index,0.63342,1993
+CUB,Cuba,137506,Human Development Index (HDI),0.655527094,1993
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3251.352712,1993
+CUB,Cuba,69206,Life expectancy at birth (years),74.807,1992
+CUB,Cuba,69706,Expected years of schooling (years),12.0595,1992
+CUB,Cuba,103006,Mean years of schooling (years),8.7702,1992
+CUB,Cuba,103206,Life expectancy index,0.843184615,1992
+CUB,Cuba,103606,Income index,0.551233384,1992
+CUB,Cuba,103706,Education index,0.627326111,1992
+CUB,Cuba,137506,Human Development Index (HDI),0.663107362,1992
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),3844.410442,1992
+CUB,Cuba,43006,Vulnerable employment (% of total employment),7.2,1991
+CUB,Cuba,69206,Life expectancy at birth (years),74.702,1991
+CUB,Cuba,69706,Expected years of schooling (years),12.18506,1991
+CUB,Cuba,103006,Mean years of schooling (years),8.6276,1991
+CUB,Cuba,103206,Life expectancy index,0.841569231,1991
+CUB,Cuba,103606,Income index,0.570222275,1991
+CUB,Cuba,103706,Education index,0.626060556,1991
+CUB,Cuba,110906,"Unemployment, youth (% ages 15–24)",18.5,1991
+CUB,Cuba,137506,Human Development Index (HDI),0.669756273,1991
+CUB,Cuba,140606,"Unemployment, total (% of labour force)",9.7,1991
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4359.372435,1991
+CUB,Cuba,148306,Employment to population ratio (% ages 15 and older),45.4,1991
+CUB,Cuba,150606,Employment in agriculture (% of total employment),22.3,1991
+CUB,Cuba,150706,Employment in services (% of total employment),57.5,1991
+CUB,Cuba,153706,Working poor at PPP$3.10 a day (% of total employment),7.3,1991
+CUB,Cuba,169706,Total unemployment rate (female to male ratio),1.333333333,1991
+CUB,Cuba,169806,Youth unemployment rate (female to male ratio),1.005434783,1991
+CUB,Cuba,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",39.16,1991
+CUB,Cuba,23806,Population with at least some secondary education (% ages 25 and older),53.9,1990
+CUB,Cuba,23906,"Population with at least some secondary education, female (% ages 25 and older)",51.88,1990
+CUB,Cuba,24006,"Population with at least some secondary education, male (% ages 25 and older)",59.82,1990
+CUB,Cuba,24106,"Mean years of schooling, female (years)",7.4,1990
+CUB,Cuba,24206,"Mean years of schooling, male (years)",8.2,1990
+CUB,Cuba,27706,"Carbon dioxide emissions, per capita (tonnes)",3.150989961,1990
+CUB,Cuba,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",85.699,1990
+CUB,Cuba,44206,Total population (millions),10.582081,1990
+CUB,Cuba,45106,Urban population (%),73.4,1990
+CUB,Cuba,46106,Primary school dropout rate (% of primary school cohort),11.05665,1990
+CUB,Cuba,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",12.319,1990
+CUB,Cuba,47906,Median age (years),27.68,1990
+CUB,Cuba,48706,"Labour force participation rate (% ages 15 and older), female",35.9,1990
+CUB,Cuba,48806,"Labour force participation rate (% ages 15 and older), male",64,1990
+CUB,Cuba,49006,Sex ratio at birth (male to female births),1.06,1990
+CUB,Cuba,57206,"Mortality rate, infant (per 1,000 live births)",10.6,1990
+CUB,Cuba,57506,"Mortality rate, under-five (per 1,000 live births)",13.3,1990
+CUB,Cuba,57806,"Mortality rate, female adult (per 1,000 people)",105.825,1990
+CUB,Cuba,57906,"Mortality rate, male adult (per 1,000 people)",148.625,1990
+CUB,Cuba,58006,"HIV prevalence, adult (% ages 15-49)",0.1,1990
+CUB,Cuba,63106,Population ages 15–64 (millions),7.19391,1990
+CUB,Cuba,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.70648,1990
+CUB,Cuba,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",89.10713,1990
+CUB,Cuba,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",21.12768,1990
+CUB,Cuba,64306,"Infants lacking immunization, measles (% of one-year-olds)",6,1990
+CUB,Cuba,64406,"Infants lacking immunization, DPT (% of one-year-olds)",3,1990
+CUB,Cuba,65606,Gross fixed capital formation (% of GDP),24.51590227,1990
+CUB,Cuba,69206,Life expectancy at birth (years),74.644,1990
+CUB,Cuba,69706,Expected years of schooling (years),12.29081,1990
+CUB,Cuba,89006,"Maternal mortality ratio (deaths per 100,000 live births)",58,1990
+CUB,Cuba,99106,Net official development assistance received (% of GNI),0.184805,1990
+CUB,Cuba,100806,Forest area (% of total land area),19.16201117,1990
+CUB,Cuba,103006,Mean years of schooling (years),8.485,1990
+CUB,Cuba,103206,Life expectancy index,0.840676923,1990
+CUB,Cuba,103606,Income index,0.588056031,1990
+CUB,Cuba,103706,Education index,0.624244722,1990
+CUB,Cuba,110806,"Net migration rate (per 1,000 people)",-1.355,1990
+CUB,Cuba,120606,"Life expectancy at birth, female (years)",76.584,1990
+CUB,Cuba,121106,"Life expectancy at birth, male (years)",72.796,1990
+CUB,Cuba,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),34.084,1990
+CUB,Cuba,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),13.014,1990
+CUB,Cuba,123306,"Expected years of schooling, female (years)",12.7,1990
+CUB,Cuba,123406,"Expected years of schooling, male (years)",11.9,1990
+CUB,Cuba,132706,Population ages 65 and older (millions),0.936224,1990
+CUB,Cuba,132806,Population under age 5 (millions),0.896079,1990
+CUB,Cuba,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",90.24071,1990
+CUB,Cuba,133206,Exports and imports (% of GDP),71.1145,1990
+CUB,Cuba,137506,Human Development Index (HDI),0.675773107,1990
+CUB,Cuba,141706,Gross national income (GNI) per capita (2011 PPP $),4905.656281,1990
+CUB,Cuba,148206,Labour force participation rate (% ages 15 and older),50,1990
+CUB,Cuba,163906,Renewable energy consumption (% of total final energy consumption),42.8902011,1990
+CUB,Cuba,174306,Fossil fuel energy consumption (% of total energy consumption),61.68943237,1990
+CUB,Cuba,177706,Survival rate to the last grade of lower secondary general education (%),85.56738,1990
+CUB,Cuba,178306,Gross capital formation (% of GDP),24.80249224,1990
+CUB,Cuba,181206,Proportion of births attended by skilled health personnel (%),99.8,1990
+CUB,Cuba,181706,Rural population with access to electricity (%),75.97107798,1990

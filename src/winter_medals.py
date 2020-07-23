@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from medals_plots import percent_plot, gender_counts_plot
+import medals_plots
 from hdi import CleanDataFrame
+import noc_codes 
 
 plt.style.use('tableau-colorblind10')
 
@@ -30,9 +31,10 @@ class GenderDataFrames(object):
             return df
         else:
             df = pd.read_csv(self.file)
-            df.drop(['Name', 'Age', 'Height', 'Weight', 'Team', 'Games', 'Season', 'City'], 
+            df = self.country_codes(df)
+            df.drop(['Name', 'Age', 'Height', 'Weight', 'Team', 'Games', 'Season', 'City', 'NOC'], 
                     axis=1, inplace=True)
-            df.rename(columns={'Sex': 'Gender', 'NOC': 'Country'}, inplace=True)
+            df.rename(columns={'Sex': 'Gender'}, inplace=True)
             self.athlete_df = df.copy()
             df.drop(['ID'], axis=1, inplace=True)
             df.dropna(subset=['Medal'], inplace=True)
@@ -91,66 +93,14 @@ class GenderDataFrames(object):
         medals_total_df.reset_index(inplace=True)
         return medals_total_df
 
-def plot_percent_year(df_obj, save_on=True):
-    year = df_obj.annual_medals_df.index
-    y = df_obj.annual_medals_df['%_womens_events']
-    ax = percent_plot(year, y, df_obj.season, color='tab:red', label='Excluding Mixed Events')
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/no-mix-year-plot.png')
-    y2 = df_obj.annual_medals_mixed_df['%_womens_events']
-    ax2 = percent_plot(year, y2, df_obj.season, color='tab:purple', label='Including Mixed Events')
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/mix-year-plot.png')
-
-def plot_bar_year(df_obj, save_on=True):
-    labels = [df_obj.season, 'Events', 'Year']
-    year = df_obj.annual_medals_df.index
-    y3_a = df_obj.annual_medals_df['mens_events'] 
-    y3_b = df_obj.annual_medals_df['womens_events']
-    ax3 = gender_counts_plot(year, y3_a, labels, color='tab:blue', label='Mens Events')
-    ax3 = gender_counts_plot(year+1, y3_b, labels, ax3, color='tab:red', label='Womens Events')
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/no-mix-count-year-plot.png')
-    y4_a = df_obj.annual_medals_mixed_df['mens_events'] 
-    y4_b = df_obj.annual_medals_mixed_df['womens_events']
-    y4_c = df_obj.annual_medals_mixed_df['mixed_events']
-    ax4 = gender_counts_plot(year-0.7, y4_a, labels, color='tab:blue', label='Mens Events', width=0.7)
-    ax4 = gender_counts_plot(year, y4_b, labels, ax4, color='tab:red', label='Womens Events', width=0.7)
-    ax4 = gender_counts_plot(year+0.7, y4_c, labels, ax4, color='tab:purple', label='Mixed Events', width=0.7)
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/mix-count-year-plot.png')
-
-def plot_bar_country(df_obj, save_on=True):
-    country = df_obj.country_medals_df.index
-    labels = [df_obj.season, 'Medals', 'Country']
-    x = np.arange(len(country))
-    y5_a = df_obj.country_medals_df['mens_medals']
-    y5_b = df_obj.country_medals_df['womens_medals']
-    ax5 = gender_counts_plot(x-0.15, y5_a, labels, color='tab:blue', label='Mens Medals', width=0.25)
-    ax5 = gender_counts_plot(x+0.15, y5_b, labels, ax5, color='tab:red', label='Womens Medals', width=0.25)
-    ax5.set_xticks(x)
-    ax5.set_xticklabels(country)
-    plt.xticks(rotation=25, ha='right')
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/no-mix-country-plot-1993.png')
-    country = df_obj.country_medals_mixed_df.index
-    x = np.arange(len(country))
-    y6_a = df_obj.country_medals_mixed_df['mens_medals']
-    y6_b = df_obj.country_medals_mixed_df['womens_medals']
-    y6_c = df_obj.country_medals_mixed_df['mixed_medals']
-    ax6 = gender_counts_plot(x-0.25, y6_a, labels,   color='tab:blue', label='Mens Medals', width=0.25)
-    ax6 = gender_counts_plot(x, y6_b, labels, ax6, color='tab:red', label='Womens Medals', width=0.25)
-    ax6 = gender_counts_plot(x+0.25, y6_c, labels, ax6, color='tab:purple', label='Mixed Medals', width=0.25)
-    ax6.set_xticks(x)
-    ax6.set_xticklabels(country)
-    plt.xticks(rotation=25, ha='right')
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/mix-country-plot.png')
+    def country_codes(self, df):
+        df['Country'] = df['NOC'].map(noc_codes.code_dict)
+        return df
 
 def do_all_plots(df_obj, save_on=False):
-    plot_percent_year(df_obj, save_on)
-    plot_bar_year(df_obj, save_on)
-    plot_bar_country(df_obj, save_on)
+    medals_plots.plot_percent_year(df_obj, save_on)
+    medals_plots.plot_bar_year(df_obj, save_on)
+    medals_plots.plot_bar_country(df_obj, save_on)
     if not save_on:
         plt.show()
 
@@ -158,8 +108,9 @@ if __name__ == '__main__':
     winter_dataframes = GenderDataFrames('../data/winter-olympic-medals.xlsx', 'winter')
     all_olympics_dataframes = GenderDataFrames('../data/summer_olympics/athlete_events.csv', 'all')
     
-    do_all_plots(winter_dataframes, True)
-    do_all_plots(all_olympics_dataframes, True)
+    # do_all_plots(winter_dataframes, False)
+    do_all_plots(all_olympics_dataframes, False)
+
 
     '''
     #Combine data frames from hdi with winter olympic medals (1994 on)

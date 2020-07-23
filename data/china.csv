@@ -1,0 +1,1209 @@
+#country+code,#country+name,#indicator+code,#indicator+name,#indicator+value+num,#date+year
+CHN,China,21806,Refugees by country of origin (thousands),207.722,2017
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),77.4,2017
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",74.02,2017
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",82,2017
+CHN,China,24106,"Mean years of schooling, female (years)",7.5952,2017
+CHN,China,24206,"Mean years of schooling, male (years)",8.3035,2017
+CHN,China,31706,Share of seats in parliament (% held by women),24.24760602,2017
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.408,2017
+CHN,China,43006,Vulnerable employment (% of total employment),33,2017
+CHN,China,44206,Total population (millions),1409.517397,2017
+CHN,China,45106,Urban population (%),58,2017
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",61.5,2017
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",76.1,2017
+CHN,China,49006,Sex ratio at birth (male to female births),1.15,2017
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.234244,2017
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",1.37463,2017
+CHN,China,63106,Population ages 15–64 (millions),1010.367,2017
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2017
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2017
+CHN,China,65606,Gross fixed capital formation (% of GDP),41.88511169,2017
+CHN,China,68606,Gender Inequality Index (GII),0.152358266,2017
+CHN,China,69206,Life expectancy at birth (years),76.41,2017
+CHN,China,69706,Expected years of schooling (years),13.7792,2017
+CHN,China,71406,Inequality-adjusted education index,0.570561268,2017
+CHN,China,71506,Inequality-adjusted life expectancy index,0.799286308,2017
+CHN,China,71606,Inequality-adjusted income index,0.582448163,2017
+CHN,China,73506,Overall loss in HDI due to inequality (%),14.48535783,2017
+CHN,China,101606,Inequality in education (%),11.45241736,2017
+CHN,China,101706,Inequality in income (%),23.31946951,2017
+CHN,China,101806,Inequality in life expectancy (%),7.9,2017
+CHN,China,103006,Mean years of schooling (years),7.848,2017
+CHN,China,103206,Life expectancy index,0.867846154,2017
+CHN,China,103606,Income index,0.759577639,2017
+CHN,China,103706,Education index,0.644355556,2017
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.8,2017
+CHN,China,111306,Private capital flows (% of GDP),-0.6025707,2017
+CHN,China,120606,"Life expectancy at birth, female (years)",77.999,2017
+CHN,China,121106,"Life expectancy at birth, male (years)",74.946,2017
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.66,2017
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),14.845,2017
+CHN,China,123306,"Expected years of schooling, female (years)",13.981,2017
+CHN,China,123406,"Expected years of schooling, male (years)",13.5988,2017
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",12053.21213,2017
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",18295.33769,2017
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),215.2377438,2017
+CHN,China,132706,Population ages 65 and older (millions),149.992731,2017
+CHN,China,132806,Population under age 5 (millions),85.131175,2017
+CHN,China,133206,Exports and imports (% of GDP),37.8034,2017
+CHN,China,135006,Coefficient of human inequality,14.22396229,2017
+CHN,China,136706,GDP per capita (2011 PPP $),15308.71212,2017
+CHN,China,136906,"Human Development Index (HDI), female",0.734648174,2017
+CHN,China,137006,"Human Development Index (HDI), male",0.769239879,2017
+CHN,China,137506,Human Development Index (HDI),0.751703947,2017
+CHN,China,137906,Gender Development Index (GDI),0.955031316,2017
+CHN,China,138806,Inequality-adjusted HDI (IHDI),0.64281694,2017
+CHN,China,140606,"Unemployment, total (% of labour force)",4.7,2017
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),15269.76124,2017
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",21223.92194,2017
+CHN,China,146206,HDI rank,86,2017
+CHN,China,148206,Labour force participation rate (% ages 15 and older),68.9,2017
+CHN,China,148306,Employment to population ratio (% ages 15 and older),65.7,2017
+CHN,China,150606,Employment in agriculture (% of total employment),17.5,2017
+CHN,China,150706,Employment in services (% of total employment),55.9,2017
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),9.7,2017
+CHN,China,169706,Total unemployment rate (female to male ratio),0.84,2017
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.915254237,2017
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.27,2017
+CHN,China,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),76.36473083,2017
+CHN,China,178306,Gross capital formation (% of GDP),43.60021441,2017
+CHN,China,181606,Red List Index (value),0.74642,2017
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),77.4,2016
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",72.6,2016
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",80.094,2016
+CHN,China,24106,"Mean years of schooling, female (years)",7.5952,2016
+CHN,China,24206,"Mean years of schooling, male (years)",8.3035,2016
+CHN,China,31706,Share of seats in parliament (% held by women),23.62284556,2016
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.408,2016
+CHN,China,43006,Vulnerable employment (% of total employment),33,2016
+CHN,China,43606,"Internet users, total (% of population)",53.2,2016
+CHN,China,44206,Total population (millions),1403.500365,2016
+CHN,China,45106,Urban population (%),56.7,2016
+CHN,China,46006,Mobile phone subscriptions (per 100 people),97.2521,2016
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.54936,2016
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",62,2016
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",76.4,2016
+CHN,China,49006,Sex ratio at birth (male to female births),1.15,2016
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.314767,2016
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",1.56152,2016
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",8.5,2016
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",9.9,2016
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",67.085,2016
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",92.112,2016
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.6156,2016
+CHN,China,63106,Population ages 15–64 (millions),1013,2016
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",100.85381,2016
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",48.44105,2016
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2016
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2016
+CHN,China,65606,Gross fixed capital formation (% of GDP),42.77700617,2016
+CHN,China,68606,Gender Inequality Index (GII),0.153500209,2016
+CHN,China,69206,Life expectancy at birth (years),76.252,2016
+CHN,China,69706,Expected years of schooling (years),13.7792,2016
+CHN,China,71506,Inequality-adjusted life expectancy index,0.796658132,2016
+CHN,China,71606,Inequality-adjusted income index,0.52866676,2016
+CHN,China,99106,Net official development assistance received (% of GNI),-0.007092,2016
+CHN,China,101706,Inequality in income (%),29.5332,2016
+CHN,China,101806,Inequality in life expectancy (%),7.945,2016
+CHN,China,103006,Mean years of schooling (years),7.848,2016
+CHN,China,103206,Life expectancy index,0.865415385,2016
+CHN,China,103606,Income index,0.750235231,2016
+CHN,China,103706,Education index,0.644355556,2016
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.9,2016
+CHN,China,111106,International inbound tourists (thousands),59270,2016
+CHN,China,111306,Private capital flows (% of GDP),0.8394742,2016
+CHN,China,120606,"Life expectancy at birth, female (years)",77.833,2016
+CHN,China,121106,"Life expectancy at birth, male (years)",74.795,2016
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.524,2016
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),14.025,2016
+CHN,China,123306,"Expected years of schooling, female (years)",14.2835,2016
+CHN,China,123406,"Expected years of schooling, male (years)",13.7624,2016
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",11363.64643,2016
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",17167.16361,2016
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),215.1826806,2016
+CHN,China,132706,Population ages 65 and older (millions),142.075,2016
+CHN,China,132806,Population under age 5 (millions),85.8664,2016
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",83.6953,2016
+CHN,China,133206,Exports and imports (% of GDP),37.0338,2016
+CHN,China,136706,GDP per capita (2011 PPP $),14400.88506,2016
+CHN,China,136906,"Human Development Index (HDI), female",0.734072233,2016
+CHN,China,137006,"Human Development Index (HDI), male",0.767189657,2016
+CHN,China,137506,Human Development Index (HDI),0.747909784,2016
+CHN,China,137906,Gender Development Index (GDI),0.956832807,2016
+CHN,China,140606,"Unemployment, total (% of labour force)",4.7,2016
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),14353.97719,2016
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",19853.99621,2016
+CHN,China,146206,HDI rank,86,2016
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.61673,2016
+CHN,China,148206,Labour force participation rate (% ages 15 and older),69.4,2016
+CHN,China,148306,Employment to population ratio (% ages 15 and older),66.1,2016
+CHN,China,150606,Employment in agriculture (% of total employment),18.4,2016
+CHN,China,150706,Employment in services (% of total employment),54.9,2016
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),10.1,2016
+CHN,China,164406,Adjusted net savings (% of GNI),22.4451855,2016
+CHN,China,169706,Total unemployment rate (female to male ratio),0.803921569,2016
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.915966387,2016
+CHN,China,170006,Concentration index (exports) (value),0.105132979,2016
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",5.254825117,2016
+CHN,China,174506,"Mortality rate attributed to household and ambient air pollution (per 100,000 population)",112.7,2016
+CHN,China,174606,"Mortality rate attributed to unsafe water, sanitation and hygiene services (per 100,000 population)",0.6,2016
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.34,2016
+CHN,China,178306,Gross capital formation (% of GDP),44.26358088,2016
+CHN,China,181706,Rural population with access to electricity (%),100,2016
+CHN,China,182106,"Malaria incidence (per 1,000 people at risk)",0,2016
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",64,2016
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),74.986,2015
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",69.81,2015
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",79.418832,2015
+CHN,China,24106,"Mean years of schooling, female (years)",7.471,2015
+CHN,China,24206,"Mean years of schooling, male (years)",8.2057,2015
+CHN,China,31706,Share of seats in parliament (% held by women),23.62284556,2015
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.644,2015
+CHN,China,43006,Vulnerable employment (% of total employment),33.4,2015
+CHN,China,43606,"Internet users, total (% of population)",50.3,2015
+CHN,China,44206,Total population (millions),1397.028553,2015
+CHN,China,45106,Urban population (%),55.5,2015
+CHN,China,46006,Mobile phone subscriptions (per 100 people),92.4809,2015
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.29441,2015
+CHN,China,47906,Median age (years),36.951,2015
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",62.4,2015
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",76.7,2015
+CHN,China,49006,Sex ratio at birth (male to female births),1.16,2015
+CHN,China,52306,Research and development expenditure (% of GDP),2.06558,2015
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.401687,2015
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",2.19156,2015
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",9.2,2015
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",10.7,2015
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",68.052,2015
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",93.429,2015
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.6585,2015
+CHN,China,63106,Population ages 15–64 (millions),1014.78,2015
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.33323,2015
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",45.35072,2015
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2015
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2015
+CHN,China,65606,Gross fixed capital formation (% of GDP),43.75619852,2015
+CHN,China,68606,Gender Inequality Index (GII),0.157285191,2015
+CHN,China,69206,Life expectancy at birth (years),76.092,2015
+CHN,China,69706,Expected years of schooling (years),13.7792,2015
+CHN,China,71506,Inequality-adjusted life expectancy index,0.786028414,2015
+CHN,China,71606,Inequality-adjusted income index,0.522290295,2015
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",27,2015
+CHN,China,97106,Fresh water withdrawals (% of total renewable water resources),20.92,2015
+CHN,China,99106,Net official development assistance received (% of GNI),-0.003014,2015
+CHN,China,100806,Forest area (% of total land area),22.18966958,2015
+CHN,China,101706,Inequality in income (%),29.5332,2015
+CHN,China,101806,Inequality in life expectancy (%),8.9142,2015
+CHN,China,103006,Mean years of schooling (years),7.742,2015
+CHN,China,103206,Life expectancy index,0.862953846,2015
+CHN,China,103606,Income index,0.741186339,2015
+CHN,China,103706,Education index,0.640822222,2015
+CHN,China,110806,"Net migration rate (per 1,000 people)",-0.246,2015
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.8,2015
+CHN,China,111106,International inbound tourists (thousands),56886,2015
+CHN,China,111306,Private capital flows (% of GDP),-0.0147188,2015
+CHN,China,112506,"Suicide rate, male (per 100,000 people)",7.7,2015
+CHN,China,112606,"Suicide rate, female (per 100,000 people)",9.5,2015
+CHN,China,120606,"Life expectancy at birth, female (years)",77.667,2015
+CHN,China,121106,"Life expectancy at birth, male (years)",74.641,2015
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.347,2015
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),13.321,2015
+CHN,China,123306,"Expected years of schooling, female (years)",14.2835,2015
+CHN,China,123406,"Expected years of schooling, male (years)",13.7624,2015
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",10717.78941,2015
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",16155.53851,2015
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),193.4095802,2015
+CHN,China,132706,Population ages 65 and older (millions),135.1785,2015
+CHN,China,132806,Population under age 5 (millions),85.8847,2015
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",80.15394,2015
+CHN,China,133206,Exports and imports (% of GDP),39.4531,2015
+CHN,China,136706,GDP per capita (2011 PPP $),13569.89153,2015
+CHN,China,136906,"Human Development Index (HDI), female",0.728748839,2015
+CHN,China,137006,"Human Development Index (HDI), male",0.762213068,2015
+CHN,China,137506,Human Development Index (HDI),0.742821011,2015
+CHN,China,137906,Gender Development Index (GDI),0.956095965,2015
+CHN,China,140606,"Unemployment, total (% of labour force)",4.6,2015
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),13519.35998,2015
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",18607.30666,2015
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.60415,2015
+CHN,China,148206,Labour force participation rate (% ages 15 and older),69.7,2015
+CHN,China,148306,Employment to population ratio (% ages 15 and older),66.5,2015
+CHN,China,150606,Employment in agriculture (% of total employment),19.6,2015
+CHN,China,150706,Employment in services (% of total employment),53.4,2015
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),11.6,2015
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),12.41335257,2015
+CHN,China,164406,Adjusted net savings (% of GNI),26.02345586,2015
+CHN,China,169706,Total unemployment rate (female to male ratio),0.784313725,2015
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.907563025,2015
+CHN,China,170006,Concentration index (exports) (value),0.104070612,2015
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",4.89356732,2015
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.33,2015
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",96.5,2015
+CHN,China,176806,Programme for International Student Assessment (PISA) score in science,518,2015
+CHN,China,176906,Programme for International Student Assessment (PISA) score in reading,494,2015
+CHN,China,177006,Programme for International Student Assessment (PISA) score in mathematics,531,2015
+CHN,China,177106,Population using improved drinking-water sources (%),95.81802862,2015
+CHN,China,177206,Population using improved sanitation facilities (%),75.03727856,2015
+CHN,China,178306,Gross capital formation (% of GDP),45.40088041,2015
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),99.9,2015
+CHN,China,181706,Rural population with access to electricity (%),100,2015
+CHN,China,181806,Current health expenditure (% of GDP),5.31587,2015
+CHN,China,182106,"Malaria incidence (per 1,000 people at risk)",0,2015
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",66,2015
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),74.986,2014
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",69.81,2014
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",79.418832,2014
+CHN,China,24106,"Mean years of schooling, female (years)",7.3332,2014
+CHN,China,24206,"Mean years of schooling, male (years)",8.1392,2014
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",7.543907641,2014
+CHN,China,31706,Share of seats in parliament (% held by women),23.40140609,2014
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.7142,2014
+CHN,China,38406,Multidimensional poverty index (MPI),0.01699,2014
+CHN,China,38506,"Population in multidimensional poverty, intensity of deprivation (%)",41.378,2014
+CHN,China,38606,"Population in multidimensional poverty, headcount (%)",4.10611,2014
+CHN,China,43006,Vulnerable employment (% of total employment),33.5,2014
+CHN,China,43606,"Internet users, total (% of population)",47.9,2014
+CHN,China,44206,Total population (millions),1390.110388,2014
+CHN,China,45106,Urban population (%),54.3,2014
+CHN,China,46006,Mobile phone subscriptions (per 100 people),92.5173,2014
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.23079,2014
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",62.8,2014
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",77,2014
+CHN,China,52306,Research and development expenditure (% of GDP),2.02106,2014
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.285341,2014
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",2.5576,2014
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",9.9,2014
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",11.5,2014
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",69.019,2014
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",94.746,2014
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.7253,2014
+CHN,China,63106,Population ages 15–64 (millions),1014.91,2014
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",99.20279,2014
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",41.27773,2014
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2014
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2014
+CHN,China,65606,Gross fixed capital formation (% of GDP),45.04111334,2014
+CHN,China,68606,Gender Inequality Index (GII),0.160961073,2014
+CHN,China,69206,Life expectancy at birth (years),75.932,2014
+CHN,China,69706,Expected years of schooling (years),13.7792,2014
+CHN,China,71506,Inequality-adjusted life expectancy index,0.776164062,2014
+CHN,China,71606,Inequality-adjusted income index,0.516509289,2014
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",28,2014
+CHN,China,99106,Net official development assistance received (% of GNI),-0.009023,2014
+CHN,China,100806,Forest area (% of total land area),22.02539973,2014
+CHN,China,101006,Population in severe multidimensional poverty (%),0.346809,2014
+CHN,China,101706,Inequality in income (%),29.5,2014
+CHN,China,101806,Inequality in life expectancy (%),9.8,2014
+CHN,China,102006,"Population in multidimensional poverty, headcount (thousands) (for the year of the survey)",57079.5,2014
+CHN,China,103006,Mean years of schooling (years),7.636,2014
+CHN,China,103206,Life expectancy index,0.860492308,2014
+CHN,China,103606,Income index,0.732637289,2014
+CHN,China,103706,Education index,0.637288889,2014
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.7,2014
+CHN,China,111106,International inbound tourists (thousands),55622,2014
+CHN,China,111306,Private capital flows (% of GDP),-2.169328,2014
+CHN,China,117806,MPI 2018: Contribution of Education,38.0322,2014
+CHN,China,117906,MPI 2018: Contribution of Health,36.3445,2014
+CHN,China,118006,MPI 2018: Contribution of standard of living,25.6232,2014
+CHN,China,120606,"Life expectancy at birth, female (years)",77.503,2014
+CHN,China,121106,"Life expectancy at birth, male (years)",74.485,2014
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.218,2014
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),12.751,2014
+CHN,China,123306,"Expected years of schooling, female (years)",13.981,2014
+CHN,China,123406,"Expected years of schooling, male (years)",13.5988,2014
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",10139.16792,2014
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",15256.88703,2014
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),167.2368911,2014
+CHN,China,132706,Population ages 65 and older (millions),129.4094,2014
+CHN,China,132806,Population under age 5 (millions),85.7107,2014
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",77.96086,2014
+CHN,China,133206,Exports and imports (% of GDP),44.8766,2014
+CHN,China,136706,GDP per capita (2011 PPP $),12758.64779,2014
+CHN,China,136906,"Human Development Index (HDI), female",0.720236058,2014
+CHN,China,137006,"Human Development Index (HDI), male",0.75603483,2014
+CHN,China,137506,Human Development Index (HDI),0.737888575,2014
+CHN,China,137906,Gender Development Index (GDI),0.952649309,2014
+CHN,China,140606,"Unemployment, total (% of labour force)",4.6,2014
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),12775.47597,2014
+CHN,China,142506,Population vulnerable to multidimensional poverty (%),17.9403,2014
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",17406.24042,2014
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.57442,2014
+CHN,China,148206,Labour force participation rate (% ages 15 and older),70,2014
+CHN,China,148306,Employment to population ratio (% ages 15 and older),66.8,2014
+CHN,China,150606,Employment in agriculture (% of total employment),20.7,2014
+CHN,China,150706,Employment in services (% of total employment),51.2,2014
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),13.2,2014
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),12.22382301,2014
+CHN,China,164406,Adjusted net savings (% of GNI),26.92234166,2014
+CHN,China,169706,Total unemployment rate (female to male ratio),0.784313725,2014
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.914529915,2014
+CHN,China,170006,Concentration index (exports) (value),0.100596187,2014
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",3.004768515,2014
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),87.48076266,2014
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.591277992,2014
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.27,2014
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",96.2,2014
+CHN,China,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),76.24973297,2014
+CHN,China,178306,Gross capital formation (% of GDP),47.00771662,2014
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),99.9,2014
+CHN,China,181706,Rural population with access to electricity (%),99.99668651,2014
+CHN,China,181806,Current health expenditure (% of GDP),4.96416,2014
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",68,2014
+CHN,China,183406,"Population in multidimensional poverty, headcount (thousands) (projection for 2016)",57629.3,2014
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),72.572,2013
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",67.02,2013
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",77.528899,2013
+CHN,China,24106,"Mean years of schooling, female (years)",7.1954,2013
+CHN,China,24206,"Mean years of schooling, male (years)",8.0726,2013
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",7.557211045,2013
+CHN,China,31706,Share of seats in parliament (% held by women),23.40140609,2013
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.7844,2013
+CHN,China,43006,Vulnerable employment (% of total employment),34,2013
+CHN,China,43606,"Internet users, total (% of population)",45.8,2013
+CHN,China,44206,Total population (millions),1382.793212,2013
+CHN,China,45106,Urban population (%),53,2013
+CHN,China,46006,Mobile phone subscriptions (per 100 people),88.8862,2013
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.85343,2013
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",63.1,2013
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",77.3,2013
+CHN,China,52306,Research and development expenditure (% of GDP),1.99102,2013
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.185174,2013
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",3.02823,2013
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",10.7,2013
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",12.5,2013
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",69.986,2013
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",96.063,2013
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.7695,2013
+CHN,China,63106,Population ages 15–64 (millions),1013.89,2013
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",103.87623,2013
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",95.02995,2013
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",31.45986,2013
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2013
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2013
+CHN,China,65606,Gross fixed capital formation (% of GDP),45.51477372,2013
+CHN,China,68606,Gender Inequality Index (GII),0.164883078,2013
+CHN,China,69206,Life expectancy at birth (years),75.769,2013
+CHN,China,69706,Expected years of schooling (years),13.53805,2013
+CHN,China,71506,Inequality-adjusted life expectancy index,0.773902123,2013
+CHN,China,71606,Inequality-adjusted income index,0.508546009,2013
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",29,2013
+CHN,China,99106,Net official development assistance received (% of GNI),-0.00689,2013
+CHN,China,100806,Forest area (% of total land area),21.86112988,2013
+CHN,China,101706,Inequality in income (%),29.5,2013
+CHN,China,101806,Inequality in life expectancy (%),9.8,2013
+CHN,China,103006,Mean years of schooling (years),7.53,2013
+CHN,China,103206,Life expectancy index,0.857984615,2013
+CHN,China,103606,Income index,0.721341857,2013
+CHN,China,103706,Education index,0.627056944,2013
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.5,2013
+CHN,China,111106,International inbound tourists (thousands),55686,2013
+CHN,China,111306,Private capital flows (% of GDP),-2.819219,2013
+CHN,China,120606,"Life expectancy at birth, female (years)",77.342,2013
+CHN,China,121106,"Life expectancy at birth, male (years)",74.322,2013
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.083,2013
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),12.302,2013
+CHN,China,123306,"Expected years of schooling, female (years)",13.7735,2013
+CHN,China,123406,"Expected years of schooling, male (years)",13.5241,2013
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",9416.245481,2013
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",14151.34469,2013
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),155.7355255,2013
+CHN,China,132706,Population ages 65 and older (millions),124.728,2013
+CHN,China,132806,Population under age 5 (millions),84.9816,2013
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",74.31372,2013
+CHN,China,133206,Exports and imports (% of GDP),46.5652,2013
+CHN,China,136706,GDP per capita (2011 PPP $),11951.24796,2013
+CHN,China,136906,"Human Development Index (HDI), female",0.711745007,2013
+CHN,China,137006,"Human Development Index (HDI), male",0.749866058,2013
+CHN,China,137506,Human Development Index (HDI),0.729416985,2013
+CHN,China,137906,Gender Development Index (GDI),0.949162854,2013
+CHN,China,140606,"Unemployment, total (% of labour force)",4.5,2013
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),11855.01291,2013
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",16222.38495,2013
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.82684,2013
+CHN,China,148206,Labour force participation rate (% ages 15 and older),70.3,2013
+CHN,China,148306,Employment to population ratio (% ages 15 and older),67.1,2013
+CHN,China,150606,Employment in agriculture (% of total employment),21.9,2013
+CHN,China,150706,Employment in services (% of total employment),49.2,2013
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),15.3,2013
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),11.8381669,2013
+CHN,China,164406,Adjusted net savings (% of GNI),26.32374694,2013
+CHN,China,169706,Total unemployment rate (female to male ratio),0.8,2013
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.913043478,2013
+CHN,China,170006,Concentration index (exports) (value),0.103052511,2013
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",3.030351151,2013
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),88.0558601,2013
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.632336562,2013
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.24,2013
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",95.6,2013
+CHN,China,178306,Gross capital formation (% of GDP),47.38775199,2013
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),99.9,2013
+CHN,China,181706,Rural population with access to electricity (%),99.96394805,2013
+CHN,China,181806,Current health expenditure (% of GDP),4.86611,2013
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",70,2013
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),70.158,2012
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",64.23,2012
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",75.638966,2012
+CHN,China,24106,"Mean years of schooling, female (years)",7.0577,2012
+CHN,China,24206,"Mean years of schooling, male (years)",8.0061,2012
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",7.424750916,2012
+CHN,China,31706,Share of seats in parliament (% held by women),21.32303559,2012
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.8546,2012
+CHN,China,43006,Vulnerable employment (% of total employment),34.6,2012
+CHN,China,43606,"Internet users, total (% of population)",42.30011749,2012
+CHN,China,44206,Total population (millions),1375.198619,2012
+CHN,China,45106,Urban population (%),51.8,2012
+CHN,China,46006,Mobile phone subscriptions (per 100 people),80.8723,2012
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.84872,2012
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",63.3,2012
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",77.5,2012
+CHN,China,52306,Research and development expenditure (% of GDP),1.90711,2012
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.199352,2012
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",2.81774,2012
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",11.6,2012
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",13.5,2012
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",70.953,2012
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",97.379,2012
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.8207,2012
+CHN,China,63106,Population ages 15–64 (millions),1011.59,2012
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.23371,2012
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",92.56813,2012
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",28.03519,2012
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2012
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2012
+CHN,China,65606,Gross fixed capital formation (% of GDP),45.26563202,2012
+CHN,China,68606,Gender Inequality Index (GII),0.177092313,2012
+CHN,China,69206,Life expectancy at birth (years),75.602,2012
+CHN,China,69706,Expected years of schooling (years),13.27021,2012
+CHN,China,71406,Inequality-adjusted education index,0.474186539,2012
+CHN,China,71506,Inequality-adjusted life expectancy index,0.739934308,2012
+CHN,China,71606,Inequality-adjusted income index,0.501734603,2012
+CHN,China,73506,Overall loss in HDI due to inequality (%),22.34153271,2012
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",31,2012
+CHN,China,97106,Fresh water withdrawals (% of total renewable water resources),21.12,2012
+CHN,China,99106,Net official development assistance received (% of GNI),-0.002114,2012
+CHN,China,100806,Forest area (% of total land area),21.69686003,2012
+CHN,China,101606,Inequality in education (%),23.2,2012
+CHN,China,101706,Inequality in income (%),29.5,2012
+CHN,China,101806,Inequality in life expectancy (%),13.5,2012
+CHN,China,103006,Mean years of schooling (years),7.464403345,2012
+CHN,China,103206,Life expectancy index,0.855415385,2012
+CHN,China,103606,Income index,0.711680288,2012
+CHN,China,103706,Education index,0.617430389,2012
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.4,2012
+CHN,China,111106,International inbound tourists (thousands),57725,2012
+CHN,China,111306,Private capital flows (% of GDP),-2.617003,2012
+CHN,China,120606,"Life expectancy at birth, female (years)",77.18,2012
+CHN,China,121106,"Life expectancy at birth, male (years)",74.15,2012
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),23.993,2012
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),11.951,2012
+CHN,China,123306,"Expected years of schooling, female (years)",13.3217,2012
+CHN,China,123406,"Expected years of schooling, male (years)",13.2338,2012
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",8837.517,2012
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",13271.06501,2012
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),149.082586,2012
+CHN,China,132706,Population ages 65 and older (millions),120.8993,2012
+CHN,China,132806,Population under age 5 (millions),83.9874,2012
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",69.57079,2012
+CHN,China,133206,Exports and imports (% of GDP),48.1079,2012
+CHN,China,135006,Coefficient of human inequality,22.06666667,2012
+CHN,China,136706,GDP per capita (2011 PPP $),11145.75158,2012
+CHN,China,136906,"Human Development Index (HDI), female",0.701163578,2012
+CHN,China,137006,"Human Development Index (HDI), male",0.741870934,2012
+CHN,China,137506,Human Development Index (HDI),0.721688855,2012
+CHN,China,137906,Gender Development Index (GDI),0.94512879,2012
+CHN,China,138806,Inequality-adjusted HDI (IHDI),0.560452503,2012
+CHN,China,140606,"Unemployment, total (% of labour force)",4.5,2012
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),11120.50289,2012
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",15054.51092,2012
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.87938,2012
+CHN,China,148206,Labour force participation rate (% ages 15 and older),70.5,2012
+CHN,China,148306,Employment to population ratio (% ages 15 and older),67.4,2012
+CHN,China,150606,Employment in agriculture (% of total employment),23.2,2012
+CHN,China,150706,Employment in services (% of total employment),47.4,2012
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),17.6,2012
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),11.96856703,2012
+CHN,China,164406,Adjusted net savings (% of GNI),27.29295583,2012
+CHN,China,169706,Total unemployment rate (female to male ratio),0.795918367,2012
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.920353982,2012
+CHN,China,170006,Concentration index (exports) (value),0.101495071,2012
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",3.077165873,2012
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),88.36090926,2012
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.666150763,2012
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.19,2012
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",95,2012
+CHN,China,177706,Survival rate to the last grade of lower secondary general education (%),92.03595,2012
+CHN,China,178306,Gross capital formation (% of GDP),47.23453111,2012
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),99.8,2012
+CHN,China,181706,Rural population with access to electricity (%),99.82619741,2012
+CHN,China,181806,Current health expenditure (% of GDP),4.79309,2012
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",74,2012
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),67.744,2011
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",61.44,2011
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",73.749033,2011
+CHN,China,24106,"Mean years of schooling, female (years)",6.9199,2011
+CHN,China,24206,"Mean years of schooling, male (years)",7.9396,2011
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",7.241515419,2011
+CHN,China,31706,Share of seats in parliament (% held by women),21.32303559,2011
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.9248,2011
+CHN,China,43006,Vulnerable employment (% of total employment),35.4,2011
+CHN,China,43606,"Internet users, total (% of population)",38.3,2011
+CHN,China,44206,Total population (millions),1367.480264,2011
+CHN,China,45106,Urban population (%),50.5,2011
+CHN,China,46006,Mobile phone subscriptions (per 100 people),72.1219,2011
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.78841,2011
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",63.5,2011
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",77.7,2011
+CHN,China,52306,Research and development expenditure (% of GDP),1.77648,2011
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.218795,2011
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",3.69852,2011
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",12.5,2011
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",14.6,2011
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",72.29,2011
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",98.924,2011
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.8786,2011
+CHN,China,63106,Population ages 15–64 (millions),1007.91,2011
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",105.9067,2011
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",91.08334,2011
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",25.2921,2011
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2011
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2011
+CHN,China,65606,Gross fixed capital formation (% of GDP),44.8948892,2011
+CHN,China,68606,Gender Inequality Index (GII),0.183199278,2011
+CHN,China,69206,Life expectancy at birth (years),75.425,2011
+CHN,China,69706,Expected years of schooling (years),13.06854,2011
+CHN,China,71406,Inequality-adjusted education index,0.468204971,2011
+CHN,China,71506,Inequality-adjusted life expectancy index,0.737578846,2011
+CHN,China,71606,Inequality-adjusted income index,0.493446562,2011
+CHN,China,73506,Overall loss in HDI due to inequality (%),22.34153271,2011
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",33,2011
+CHN,China,99106,Net official development assistance received (% of GNI),-0.008037,2011
+CHN,China,100806,Forest area (% of total land area),21.53259018,2011
+CHN,China,101606,Inequality in education (%),23.2,2011
+CHN,China,101706,Inequality in income (%),29.5,2011
+CHN,China,101806,Inequality in life expectancy (%),13.5,2011
+CHN,China,103006,Mean years of schooling (years),7.39880669,2011
+CHN,China,103206,Life expectancy index,0.852692308,2011
+CHN,China,103606,Income index,0.699924202,2011
+CHN,China,103706,Education index,0.60964189,2011
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10,2011
+CHN,China,111106,International inbound tourists (thousands),57581,2011
+CHN,China,111306,Private capital flows (% of GDP),-3.318441,2011
+CHN,China,120606,"Life expectancy at birth, female (years)",77.015,2011
+CHN,China,121106,"Life expectancy at birth, male (years)",73.967,2011
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.017,2011
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),11.657,2011
+CHN,China,123306,"Expected years of schooling, female (years)",13,2011
+CHN,China,123406,"Expected years of schooling, male (years)",12.9961,2011
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",8180.04955,2011
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",12274.28991,2011
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),140.6030514,2011
+CHN,China,132706,Population ages 65 and older (millions),117.4948,2011
+CHN,China,132806,Population under age 5 (millions),83.1285,2011
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",61.00894,2011
+CHN,China,133206,Exports and imports (% of GDP),50.5998,2011
+CHN,China,135006,Coefficient of human inequality,22.06666667,2011
+CHN,China,136706,GDP per capita (2011 PPP $),10384.3666,2011
+CHN,China,136906,"Human Development Index (HDI), female",0.69117885,2011
+CHN,China,137006,"Human Development Index (HDI), male",0.733673012,2011
+CHN,China,137506,Human Development Index (HDI),0.713903293,2011
+CHN,China,137906,Gender Development Index (GDI),0.942080243,2011
+CHN,China,138806,Inequality-adjusted HDI (IHDI),0.554406356,2011
+CHN,China,140606,"Unemployment, total (% of labour force)",4.3,2011
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),10287.85798,2011
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",13957.93868,2011
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.84157,2011
+CHN,China,148206,Labour force participation rate (% ages 15 and older),70.7,2011
+CHN,China,148306,Employment to population ratio (% ages 15 and older),67.7,2011
+CHN,China,150606,Employment in agriculture (% of total employment),24.5,2011
+CHN,China,150706,Employment in services (% of total employment),45.5,2011
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),20.6,2011
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),11.69579699,2011
+CHN,China,164406,Adjusted net savings (% of GNI),26.51493624,2011
+CHN,China,169706,Total unemployment rate (female to male ratio),0.791666667,2011
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.909090909,2011
+CHN,China,170006,Concentration index (exports) (value),0.098828241,2011
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",2.909858156,2011
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),88.73217809,2011
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.697347821,2011
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.13,2011
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",93.7,2011
+CHN,China,175706,Women with account at financial institution or with mobile money-service provider (% of female population ages 15 and older),60.00867462,2011
+CHN,China,178306,Gross capital formation (% of GDP),47.68586754,2011
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),99.7,2011
+CHN,China,181706,Rural population with access to electricity (%),99.49162581,2011
+CHN,China,181806,Current health expenditure (% of GDP),4.61926,2011
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",76,2011
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),65.32292,2010
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",58.65146,2010
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",71.8591,2010
+CHN,China,24106,"Mean years of schooling, female (years)",6.7821,2010
+CHN,China,24206,"Mean years of schooling, male (years)",7.8731,2010
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",6.560520007,2010
+CHN,China,31706,Share of seats in parliament (% held by women),21.32574489,2010
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",6.995,2010
+CHN,China,43006,Vulnerable employment (% of total employment),36.9,2010
+CHN,China,43606,"Internet users, total (% of population)",34.3,2010
+CHN,China,44206,Total population (millions),1359.755102,2010
+CHN,China,45106,Urban population (%),49.2,2010
+CHN,China,46006,Mobile phone subscriptions (per 100 people),63.1734,2010
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",16.84376,2010
+CHN,China,47906,Median age (years),35.227,2010
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",63.8,2010
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",77.9,2010
+CHN,China,49006,Sex ratio at birth (male to female births),1.17,2010
+CHN,China,52306,Research and development expenditure (% of GDP),1.71007,2010
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.223519,2010
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",3.99473,2010
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",13.5,2010
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",15.7,2010
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",73.627,2010
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",100.468,2010
+CHN,China,61006,"Homicide rate (per 100,000 people)",0.9862,2010
+CHN,China,63106,Population ages 15–64 (millions),1002.84,2010
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",107.45686,2010
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",88.03044,2010
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",24.05031,2010
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",1,2010
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",1,2010
+CHN,China,65606,Gross fixed capital formation (% of GDP),44.99120454,2010
+CHN,China,68606,Gender Inequality Index (GII),0.189040809,2010
+CHN,China,69206,Life expectancy at birth (years),75.236,2010
+CHN,China,69706,Expected years of schooling (years),12.88835,2010
+CHN,China,71406,Inequality-adjusted education index,0.462681644,2010
+CHN,China,71506,Inequality-adjusted life expectancy index,0.717218215,2010
+CHN,China,71606,Inequality-adjusted income index,0.484797202,2010
+CHN,China,73506,Overall loss in HDI due to inequality (%),22.97513818,2010
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",35,2010
+CHN,China,99106,Net official development assistance received (% of GNI),0.011061,2010
+CHN,China,100806,Forest area (% of total land area),21.36832033,2010
+CHN,China,101406,"Literacy rate, adult (% ages 15 and older)",95.12448,2010
+CHN,China,101606,Inequality in education (%),23.2,2010
+CHN,China,101706,Inequality in income (%),29.5,2010
+CHN,China,101806,Inequality in life expectancy (%),15.6,2010
+CHN,China,103006,Mean years of schooling (years),7.333210035,2010
+CHN,China,103206,Life expectancy index,0.849784615,2010
+CHN,China,103606,Income index,0.687655605,2010
+CHN,China,103706,Education index,0.602450057,2010
+CHN,China,110806,"Net migration rate (per 1,000 people)",-0.357,2010
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",9.6,2010
+CHN,China,111106,International inbound tourists (thousands),55664,2010
+CHN,China,111306,Private capital flows (% of GDP),-3.438802,2010
+CHN,China,112506,"Suicide rate, male (per 100,000 people)",8.2,2010
+CHN,China,112606,"Suicide rate, female (per 100,000 people)",10,2010
+CHN,China,120606,"Life expectancy at birth, female (years)",76.837,2010
+CHN,China,121106,"Life expectancy at birth, male (years)",73.77,2010
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),24.2,2010
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),11.39,2010
+CHN,China,123306,"Expected years of schooling, female (years)",12.7379,2010
+CHN,China,123406,"Expected years of schooling, male (years)",12.7929,2010
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",7545.855088,2010
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",11313.91397,2010
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),142.1987711,2010
+CHN,China,132706,Population ages 65 and older (millions),114.2229,2010
+CHN,China,132806,Population under age 5 (millions),82.5814,2010
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",54.87755,2010
+CHN,China,133206,Exports and imports (% of GDP),48.8893,2010
+CHN,China,135006,Coefficient of human inequality,22.76666667,2010
+CHN,China,136706,GDP per capita (2011 PPP $),9525.818483,2010
+CHN,China,136906,"Human Development Index (HDI), female",0.681562407,2010
+CHN,China,137006,"Human Development Index (HDI), male",0.725593094,2010
+CHN,China,137506,Human Development Index (HDI),0.706101228,2010
+CHN,China,137906,Gender Development Index (GDI),0.93931766,2010
+CHN,China,138806,Inequality-adjusted HDI (IHDI),0.543873496,2010
+CHN,China,140606,"Unemployment, total (% of labour force)",4.2,2010
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),9485.320122,2010
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",12742.73501,2010
+CHN,China,147206,International student mobility (% of total tertiary enrolment),-1.60653,2010
+CHN,China,148206,Labour force participation rate (% ages 15 and older),71,2010
+CHN,China,148306,Employment to population ratio (% ages 15 and older),68,2010
+CHN,China,150606,Employment in agriculture (% of total employment),26.2,2010
+CHN,China,150706,Employment in services (% of total employment),43.6,2010
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),25.4,2010
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),12.88431031,2010
+CHN,China,164406,Adjusted net savings (% of GNI),30.41120764,2010
+CHN,China,169706,Total unemployment rate (female to male ratio),0.804347826,2010
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.905660377,2010
+CHN,China,170006,Concentration index (exports) (value),0.10653271,2010
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",2.977162188,2010
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),88.19872414,2010
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.688709324,2010
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.05,2010
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",94.1,2010
+CHN,China,177106,Population using improved drinking-water sources (%),90.84965463,2010
+CHN,China,177206,Population using improved sanitation facilities (%),70.14449178,2010
+CHN,China,177706,Survival rate to the last grade of lower secondary general education (%),96.87054,2010
+CHN,China,178306,Gross capital formation (% of GDP),47.61226023,2010
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),99.6,2010
+CHN,China,181706,Rural population with access to electricity (%),98,2010
+CHN,China,181806,Current health expenditure (% of GDP),4.45772,2010
+CHN,China,182106,"Malaria incidence (per 1,000 people at risk)",0.017,2010
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",77,2010
+CHN,China,69206,Life expectancy at birth (years),75.032,2009
+CHN,China,69706,Expected years of schooling (years),12.63756,2009
+CHN,China,103006,Mean years of schooling (years),7.062592,2009
+CHN,China,103206,Life expectancy index,0.846646154,2009
+CHN,China,103606,Income index,0.673518778,2009
+CHN,China,103706,Education index,0.586463067,2009
+CHN,China,137506,Human Development Index (HDI),0.694113949,2009
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),8637.891602,2009
+CHN,China,69206,Life expectancy at birth (years),74.808,2008
+CHN,China,69706,Expected years of schooling (years),12.34584,2008
+CHN,China,103006,Mean years of schooling (years),7.011944,2008
+CHN,China,103206,Life expectancy index,0.8432,2008
+CHN,China,103606,Income index,0.661863395,2008
+CHN,China,103706,Education index,0.576671467,2008
+CHN,China,137506,Human Development Index (HDI),0.68529223,2008
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),7996.460718,2008
+CHN,China,69206,Life expectancy at birth (years),74.562,2007
+CHN,China,69706,Expected years of schooling (years),11.9766,2007
+CHN,China,103006,Mean years of schooling (years),6.961296,2007
+CHN,China,103206,Life expectancy index,0.839415385,2007
+CHN,China,103606,Income index,0.648135224,2007
+CHN,China,103706,Education index,0.564726533,2007
+CHN,China,137506,Human Development Index (HDI),0.674776963,2007
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),7301.775492,2007
+CHN,China,69206,Life expectancy at birth (years),74.291,2006
+CHN,China,69706,Expected years of schooling (years),11.54203,2006
+CHN,China,103006,Mean years of schooling (years),6.910648,2006
+CHN,China,103206,Life expectancy index,0.835246154,2006
+CHN,China,103606,Income index,0.628219385,2006
+CHN,China,103706,Education index,0.550966878,2006
+CHN,China,137506,Human Development Index (HDI),0.661226783,2006
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),6399.841505,2006
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),58.72,2005
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",51.014475,2005
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",66.319845,2005
+CHN,China,24106,"Mean years of schooling, female (years)",6.3471,2005
+CHN,China,24206,"Mean years of schooling, male (years)",7.5088,2005
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",4.523178064,2005
+CHN,China,31706,Share of seats in parliament (% held by women),20.26845638,2005
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",8.42,2005
+CHN,China,43006,Vulnerable employment (% of total employment),45.3,2005
+CHN,China,43606,"Internet users, total (% of population)",8.523257,2005
+CHN,China,44206,Total population (millions),1321.62349,2005
+CHN,China,45106,Urban population (%),42.5,2005
+CHN,China,46006,Mobile phone subscriptions (per 100 people),29.7669,2005
+CHN,China,47906,Median age (years),32.723,2005
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",66.8,2005
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",79.7,2005
+CHN,China,49006,Sex ratio at birth (male to female births),1.16,2005
+CHN,China,52306,Research and development expenditure (% of GDP),1.31015,2005
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.14598,2005
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",4.55425,2005
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",20.3,2005
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",24,2005
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",81.267,2005
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",108.432,2005
+CHN,China,61006,"Homicide rate (per 100,000 people)",1.5716,2005
+CHN,China,63106,Population ages 15–64 (millions),957.033,2005
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",18.84937,2005
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",14,2005
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",5,2005
+CHN,China,65606,Gross fixed capital formation (% of GDP),40.47087742,2005
+CHN,China,68606,Gender Inequality Index (GII),0.230836657,2005
+CHN,China,69206,Life expectancy at birth (years),73.987,2005
+CHN,China,69706,Expected years of schooling (years),11.04519,2005
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",48,2005
+CHN,China,99106,Net official development assistance received (% of GNI),0.079269,2005
+CHN,China,100806,Forest area (% of total land area),20.56237163,2005
+CHN,China,103006,Mean years of schooling (years),6.86,2005
+CHN,China,103206,Life expectancy index,0.830569231,2005
+CHN,China,103606,Income index,0.610237895,2005
+CHN,China,103706,Education index,0.5354775,2005
+CHN,China,110806,"Net migration rate (per 1,000 people)",-0.312,2005
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",9,2005
+CHN,China,111106,International inbound tourists (thousands),46809,2005
+CHN,China,111306,Private capital flows (% of GDP),-3.747619,2005
+CHN,China,112506,"Suicide rate, male (per 100,000 people)",9.1,2005
+CHN,China,112606,"Suicide rate, female (per 100,000 people)",10.9,2005
+CHN,China,120606,"Life expectancy at birth, female (years)",75.569,2005
+CHN,China,121106,"Life expectancy at birth, male (years)",72.54,2005
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),27.47,2005
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),10.626,2005
+CHN,China,123306,"Expected years of schooling, female (years)",10.9255,2005
+CHN,China,123406,"Expected years of schooling, male (years)",11.1578,2005
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",4401.690941,2005
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",6890.961584,2005
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),132.5905159,2005
+CHN,China,132706,Population ages 65 and older (millions),101.696,2005
+CHN,China,132806,Population under age 5 (millions),79.2693,2005
+CHN,China,133206,Exports and imports (% of GDP),62.2079,2005
+CHN,China,136706,GDP per capita (2011 PPP $),5719.455366,2005
+CHN,China,136906,"Human Development Index (HDI), female",0.621792427,2005
+CHN,China,137006,"Human Development Index (HDI), male",0.671891619,2005
+CHN,China,137506,Human Development Index (HDI),0.647448774,2005
+CHN,China,137906,Gender Development Index (GDI),0.925435606,2005
+CHN,China,140606,"Unemployment, total (% of labour force)",4.1,2005
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),5681.608859,2005
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",7456.56835,2005
+CHN,China,148206,Labour force participation rate (% ages 15 and older),73.4,2005
+CHN,China,148306,Employment to population ratio (% ages 15 and older),70.3,2005
+CHN,China,150606,Employment in agriculture (% of total employment),35.8,2005
+CHN,China,150706,Employment in services (% of total employment),34.6,2005
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),40.6,2005
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),18.20381865,2005
+CHN,China,164406,Adjusted net savings (% of GNI),29.99631517,2005
+CHN,China,169706,Total unemployment rate (female to male ratio),0.822222222,2005
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.918367347,2005
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",3.380321906,2005
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),85.872736,2005
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.790840696,2005
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.22,2005
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",89.8,2005
+CHN,China,177106,Population using improved drinking-water sources (%),84.29854342,2005
+CHN,China,177206,Population using improved sanitation facilities (%),65.14943047,2005
+CHN,China,178306,Gross capital formation (% of GDP),41.3912114,2005
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),97.5,2005
+CHN,China,181706,Rural population with access to electricity (%),96.16436411,2005
+CHN,China,181806,Current health expenditure (% of GDP),4.29369,2005
+CHN,China,182106,"Malaria incidence (per 1,000 people at risk)",0.079,2005
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",92,2005
+CHN,China,69206,Life expectancy at birth (years),73.642,2004
+CHN,China,69706,Expected years of schooling (years),10.64222,2004
+CHN,China,103006,Mean years of schooling (years),6.782,2004
+CHN,China,103206,Life expectancy index,0.825261538,2004
+CHN,China,103606,Income index,0.595467522,2004
+CHN,China,103706,Education index,0.521683889,2004
+CHN,China,137506,Human Development Index (HDI),0.635261257,2004
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),5152.352968,2004
+CHN,China,69206,Life expectancy at birth (years),73.257,2003
+CHN,China,69706,Expected years of schooling (years),10.23926,2003
+CHN,China,103006,Mean years of schooling (years),6.704,2003
+CHN,China,103206,Life expectancy index,0.819338462,2003
+CHN,China,103606,Income index,0.581336344,2003
+CHN,China,103706,Education index,0.507890556,2003
+CHN,China,137506,Human Development Index (HDI),0.623094118,2003
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),4692.211774,2003
+CHN,China,69206,Life expectancy at birth (years),72.84,2002
+CHN,China,69706,Expected years of schooling (years),9.8949,2002
+CHN,China,103006,Mean years of schooling (years),6.626,2002
+CHN,China,103206,Life expectancy index,0.812923077,2002
+CHN,China,103606,Income index,0.567294673,2002
+CHN,China,103706,Education index,0.495725,2002
+CHN,China,137506,Human Development Index (HDI),0.611457571,2002
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),4275.697181,2002
+CHN,China,69206,Life expectancy at birth (years),72.401,2001
+CHN,China,69706,Expected years of schooling (years),9.66959,2001
+CHN,China,103006,Mean years of schooling (years),6.548,2001
+CHN,China,103206,Life expectancy index,0.806169231,2001
+CHN,China,103606,Income index,0.554561434,2001
+CHN,China,103706,Education index,0.486866389,2001
+CHN,China,137506,Human Development Index (HDI),0.601536372,2001
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),3930.050191,2001
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),52.3,2000
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",43.37749,2000
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",60.78059,2000
+CHN,China,24106,"Mean years of schooling, female (years)",6.1,2000
+CHN,China,24206,"Mean years of schooling, male (years)",7.4,2000
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",2.696862433,2000
+CHN,China,31706,Share of seats in parliament (% held by women),21.78284182,2000
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",9.906,2000
+CHN,China,43006,Vulnerable employment (% of total employment),53.3,2000
+CHN,China,43606,"Internet users, total (% of population)",1.77591321,2000
+CHN,China,44206,Total population (millions),1283.19897,2000
+CHN,China,45106,Urban population (%),35.9,2000
+CHN,China,46006,Mobile phone subscriptions (per 100 people),6.64433,2000
+CHN,China,47906,Median age (years),30.067,2000
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",71,2000
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",83.2,2000
+CHN,China,49006,Sex ratio at birth (male to female births),1.14,2000
+CHN,China,52306,Research and development expenditure (% of GDP),0.89566,2000
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.062582,2000
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",3.47508,2000
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",30.1,2000
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",36.9,2000
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",91.798,2000
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",123.629,2000
+CHN,China,61006,"Homicide rate (per 100,000 people)",2.093,2000
+CHN,China,63106,Population ages 15–64 (millions),878.511,2000
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",59.65488,2000
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",7.62093,2000
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",16,2000
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",6,2000
+CHN,China,65606,Gross fixed capital formation (% of GDP),33.43404164,2000
+CHN,China,68606,Gender Inequality Index (GII),0.2553674,2000
+CHN,China,69206,Life expectancy at birth (years),71.955,2000
+CHN,China,69706,Expected years of schooling (years),9.56008,2000
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",58,2000
+CHN,China,97106,Fresh water withdrawals (% of total renewable water resources),19.36,2000
+CHN,China,99106,Net official development assistance received (% of GNI),0.146156,2000
+CHN,China,100806,Forest area (% of total land area),18.85346743,2000
+CHN,China,101406,"Literacy rate, adult (% ages 15 and older)",90.92021,2000
+CHN,China,103006,Mean years of schooling (years),6.47,2000
+CHN,China,103206,Life expectancy index,0.799307692,2000
+CHN,China,103606,Income index,0.543893003,2000
+CHN,China,103706,Education index,0.481224444,2000
+CHN,China,110806,"Net migration rate (per 1,000 people)",-0.061,2000
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10,2000
+CHN,China,111106,International inbound tourists (thousands),31229,2000
+CHN,China,111306,Private capital flows (% of GDP),-2.764903,2000
+CHN,China,112506,"Suicide rate, male (per 100,000 people)",10.9,2000
+CHN,China,112606,"Suicide rate, female (per 100,000 people)",12.7,2000
+CHN,China,120606,"Life expectancy at birth, female (years)",73.693,2000
+CHN,China,121106,"Life expectancy at birth, male (years)",70.379,2000
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),35.974,2000
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),10.091,2000
+CHN,China,123306,"Expected years of schooling, female (years)",9.5,2000
+CHN,China,123406,"Expected years of schooling, male (years)",10.1,2000
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",2866.462237,2000
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",4415.644903,2000
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),118.4004339,2000
+CHN,China,132706,Population ages 65 and older (millions),88.64835,2000
+CHN,China,132806,Population under age 5 (millions),81.7575,2000
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",44.0709,2000
+CHN,China,133206,Exports and imports (% of GDP),39.4105,2000
+CHN,China,136706,GDP per capita (2011 PPP $),3700.743648,2000
+CHN,China,136906,"Human Development Index (HDI), female",0.571363005,2000
+CHN,China,137006,"Human Development Index (HDI), male",0.626075841,2000
+CHN,China,137506,Human Development Index (HDI),0.593642586,2000
+CHN,China,137906,Gender Development Index (GDI),0.912609892,2000
+CHN,China,140606,"Unemployment, total (% of labour force)",4.5,2000
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),3662.062101,2000
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",4672.725463,2000
+CHN,China,148206,Labour force participation rate (% ages 15 and older),77.2,2000
+CHN,China,148306,Employment to population ratio (% ages 15 and older),73.7,2000
+CHN,China,150606,Employment in agriculture (% of total employment),43.8,2000
+CHN,China,150706,Employment in services (% of total employment),28.1,2000
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),65.6,2000
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),29.73071484,2000
+CHN,China,164406,Adjusted net savings (% of GNI),22.07274113,2000
+CHN,China,169706,Total unemployment rate (female to male ratio),0.816326531,2000
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.917431193,2000
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",13.13491183,2000
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),79.84135584,2000
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),0.728735273,2000
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",42.63,2000
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",89.4,2000
+CHN,China,177106,Population using improved drinking-water sources (%),77.50070014,2000
+CHN,China,177206,Population using improved sanitation facilities (%),60.57847386,2000
+CHN,China,178306,Gross capital formation (% of GDP),34.42965254,2000
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),96.6,2000
+CHN,China,181706,Rural population with access to electricity (%),94.14239353,2000
+CHN,China,181806,Current health expenditure (% of GDP),4.48987,2000
+CHN,China,182106,"Malaria incidence (per 1,000 people at risk)",0.03,2000
+CHN,China,182206,"Tuberculosis incidence (per 100,000 people)",109,2000
+CHN,China,69206,Life expectancy at birth (years),71.521,1999
+CHN,China,69706,Expected years of schooling (years),9.45057,1999
+CHN,China,103006,Mean years of schooling (years),6.314,1999
+CHN,China,103206,Life expectancy index,0.792630769,1999
+CHN,China,103606,Income index,0.532643044,1999
+CHN,China,103706,Education index,0.4729825,1999
+CHN,China,137506,Human Development Index (HDI),0.584499423,1999
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),3399.236519,1999
+CHN,China,69206,Life expectancy at birth (years),71.115,1998
+CHN,China,69706,Expected years of schooling (years),9.34105,1998
+CHN,China,103006,Mean years of schooling (years),6.158,1998
+CHN,China,103206,Life expectancy index,0.786384615,1998
+CHN,China,103606,Income index,0.522425147,1998
+CHN,China,103706,Education index,0.464740278,1998
+CHN,China,137506,Human Development Index (HDI),0.575824048,1998
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),3176.905557,1998
+CHN,China,69206,Life expectancy at birth (years),70.747,1997
+CHN,China,69706,Expected years of schooling (years),9.23154,1997
+CHN,China,103006,Mean years of schooling (years),6.002,1997
+CHN,China,103206,Life expectancy index,0.780723077,1997
+CHN,China,103606,Income index,0.513105436,1997
+CHN,China,103706,Education index,0.456498333,1997
+CHN,China,137506,Human Development Index (HDI),0.567606826,1997
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),2986.823524,1997
+CHN,China,52306,Research and development expenditure (% of GDP),0.56334,1996
+CHN,China,69206,Life expectancy at birth (years),70.427,1996
+CHN,China,69706,Expected years of schooling (years),9.19197,1996
+CHN,China,103006,Mean years of schooling (years),5.846,1996
+CHN,China,103206,Life expectancy index,0.7758,1996
+CHN,China,103606,Income index,0.500932184,1996
+CHN,China,103706,Education index,0.450199167,1996
+CHN,China,137506,Human Development Index (HDI),0.559299545,1996
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),2755.56536,1996
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),44.1,1995
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",35.54,1995
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",52.26,1995
+CHN,China,24106,"Mean years of schooling, female (years)",5.5,1995
+CHN,China,24206,"Mean years of schooling, male (years)",6.3,1995
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",2.755754966,1995
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",16.308,1995
+CHN,China,43006,Vulnerable employment (% of total employment),58,1995
+CHN,China,44206,Total population (millions),1239.940004,1995
+CHN,China,45106,Urban population (%),31,1995
+CHN,China,46106,Primary school dropout rate (% of primary school cohort),7.84991,1995
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",22.85133,1995
+CHN,China,47906,Median age (years),27.308,1995
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",72.5,1995
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",84.6,1995
+CHN,China,49006,Sex ratio at birth (male to female births),1.12,1995
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.047648,1995
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",4.88044,1995
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",37.7,1995
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",47.5,1995
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",102.958,1995
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",141.788,1995
+CHN,China,63106,Population ages 15–64 (millions),823.612,1995
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",110.55306,1995
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",50.40738,1995
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",4.47949,1995
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",20,1995
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",7,1995
+CHN,China,65606,Gross fixed capital formation (% of GDP),33.18788767,1995
+CHN,China,69206,Life expectancy at birth (years),70.156,1995
+CHN,China,69706,Expected years of schooling (years),9.06733,1995
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",72,1995
+CHN,China,99106,Net official development assistance received (% of GNI),0.481627,1995
+CHN,China,100806,Forest area (% of total land area),17.79572636,1995
+CHN,China,103006,Mean years of schooling (years),5.69,1995
+CHN,China,103206,Life expectancy index,0.771630769,1995
+CHN,China,103606,Income index,0.488046251,1995
+CHN,China,103706,Education index,0.441536944,1995
+CHN,China,110806,"Net migration rate (per 1,000 people)",-0.127,1995
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10,1995
+CHN,China,111106,International inbound tourists (thousands),20034,1995
+CHN,China,111306,Private capital flows (% of GDP),-4.715635,1995
+CHN,China,120606,"Life expectancy at birth, female (years)",72.06,1995
+CHN,China,121106,"Life expectancy at birth, male (years)",68.449,1995
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),41.274,1995
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),9.275,1995
+CHN,China,123306,"Expected years of schooling, female (years)",8.6,1995
+CHN,China,123406,"Expected years of schooling, male (years)",9.5,1995
+CHN,China,123506,"Estimated gross national income per capita, female (2011 PPP $)",1980.424294,1995
+CHN,China,123606,"Estimated gross national income per capita, male (2011 PPP $)",3051.344538,1995
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),86.92320583,1995
+CHN,China,132706,Population ages 65 and older (millions),76.39387,1995
+CHN,China,132806,Population under age 5 (millions),103.278,1995
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",24.52021,1995
+CHN,China,133206,Exports and imports (% of GDP),34.2741,1995
+CHN,China,136706,GDP per capita (2011 PPP $),2564.071317,1995
+CHN,China,136906,"Human Development Index (HDI), female",0.525601966,1995
+CHN,China,137006,"Human Development Index (HDI), male",0.576690934,1995
+CHN,China,137506,Human Development Index (HDI),0.549894263,1995
+CHN,China,137906,Gender Development Index (GDI),0.911410142,1995
+CHN,China,140606,"Unemployment, total (% of labour force)",4.6,1995
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),2530.246724,1995
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",3089.334146,1995
+CHN,China,148206,Labour force participation rate (% ages 15 and older),78.7,1995
+CHN,China,148306,Employment to population ratio (% ages 15 and older),75.1,1995
+CHN,China,149206,Government expenditure on education (% of GDP),1.841920018,1995
+CHN,China,150606,Employment in agriculture (% of total employment),49.5,1995
+CHN,China,150706,Employment in services (% of total employment),21.6,1995
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),69.3,1995
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),29.47211139,1995
+CHN,China,164406,Adjusted net savings (% of GNI),28.00028439,1995
+CHN,China,169706,Total unemployment rate (female to male ratio),0.836734694,1995
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.917431193,1995
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",9.883620977,1995
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),78.42785838,1995
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),1.074757534,1995
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",43.25,1995
+CHN,China,175206,"Antenatal care coverage, at least one visit (%)",78.7,1995
+CHN,China,177706,Survival rate to the last grade of lower secondary general education (%),89.25622,1995
+CHN,China,178306,Gross capital formation (% of GDP),39.68463866,1995
+CHN,China,179706,Ratio of education and health expenditure to military expenditure,2.111183694,1995
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),89.3,1995
+CHN,China,181706,Rural population with access to electricity (%),92.06063838,1995
+CHN,China,69206,Life expectancy at birth (years),69.935,1994
+CHN,China,69706,Expected years of schooling (years),8.93017,1994
+CHN,China,103006,Mean years of schooling (years),5.518,1994
+CHN,China,103206,Life expectancy index,0.768230769,1994
+CHN,China,103606,Income index,0.475785241,1994
+CHN,China,103706,Education index,0.431993611,1994
+CHN,China,137506,Human Development Index (HDI),0.540497052,1994
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),2332.98377,1994
+CHN,China,69206,Life expectancy at birth (years),69.75,1993
+CHN,China,69706,Expected years of schooling (years),8.9396,1993
+CHN,China,103006,Mean years of schooling (years),5.346,1993
+CHN,China,103206,Life expectancy index,0.765384615,1993
+CHN,China,103606,Income index,0.458752635,1993
+CHN,China,103706,Education index,0.426522222,1993
+CHN,China,137506,Human Development Index (HDI),0.531047442,1993
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),2084.212179,1993
+CHN,China,69206,Life expectancy at birth (years),69.587,1992
+CHN,China,69706,Expected years of schooling (years),8.90347,1992
+CHN,China,103006,Mean years of schooling (years),5.174,1992
+CHN,China,103206,Life expectancy index,0.762876923,1992
+CHN,China,103606,Income index,0.441120177,1992
+CHN,China,103706,Education index,0.419785278,1992
+CHN,China,137506,Human Development Index (HDI),0.520810264,1992
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),1854.588371,1992
+CHN,China,43006,Vulnerable employment (% of total employment),67.2,1991
+CHN,China,69206,Life expectancy at birth (years),69.437,1991
+CHN,China,69706,Expected years of schooling (years),8.81094,1991
+CHN,China,103006,Mean years of schooling (years),5.002,1991
+CHN,China,103206,Life expectancy index,0.760569231,1991
+CHN,China,103606,Income index,0.423164198,1991
+CHN,China,103706,Education index,0.411481667,1991
+CHN,China,110906,"Unemployment, youth (% ages 15–24)",10.9,1991
+CHN,China,137506,Human Development Index (HDI),0.509721227,1991
+CHN,China,140606,"Unemployment, total (% of labour force)",4.9,1991
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),1646.732264,1991
+CHN,China,148306,Employment to population ratio (% ages 15 and older),75.2,1991
+CHN,China,150606,Employment in agriculture (% of total employment),55.3,1991
+CHN,China,150706,Employment in services (% of total employment),17.4,1991
+CHN,China,153706,Working poor at PPP$3.10 a day (% of total employment),93.1,1991
+CHN,China,169706,Total unemployment rate (female to male ratio),0.865384615,1991
+CHN,China,169806,Youth unemployment rate (female to male ratio),0.923728814,1991
+CHN,China,175106,"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",44.29,1991
+CHN,China,23806,Population with at least some secondary education (% ages 25 and older),36.4,1990
+CHN,China,23906,"Population with at least some secondary education, female (% ages 25 and older)",28.51,1990
+CHN,China,24006,"Population with at least some secondary education, male (% ages 25 and older)",43.89,1990
+CHN,China,24106,"Mean years of schooling, female (years)",4.8,1990
+CHN,China,24206,"Mean years of schooling, male (years)",5.2,1990
+CHN,China,27706,"Carbon dioxide emissions, per capita (tonnes)",2.151570906,1990
+CHN,China,36806,"Adolescent birth rate (births per 1,000 women ages 15-19)",23.5,1990
+CHN,China,44206,Total population (millions),1172.4452,1990
+CHN,China,45106,Urban population (%),26.4,1990
+CHN,China,46106,Primary school dropout rate (% of primary school cohort),14.93546,1990
+CHN,China,46206,"Pupil-teacher ratio, primary school (pupils per teacher)",22.31881,1990
+CHN,China,47906,Median age (years),24.885,1990
+CHN,China,48706,"Labour force participation rate (% ages 15 and older), female",73.2,1990
+CHN,China,48806,"Labour force participation rate (% ages 15 and older), male",84.8,1990
+CHN,China,49006,Sex ratio at birth (male to female births),1.08,1990
+CHN,China,52606,"Remittances, inflows (% of GDP)",0.054298,1990
+CHN,China,53506,"Foreign direct investment, net inflows (% of GDP)",0.966308,1990
+CHN,China,57206,"Mortality rate, infant (per 1,000 live births)",42.2,1990
+CHN,China,57506,"Mortality rate, under-five (per 1,000 live births)",53.9,1990
+CHN,China,57806,"Mortality rate, female adult (per 1,000 people)",110.583,1990
+CHN,China,57906,"Mortality rate, male adult (per 1,000 people)",147.228,1990
+CHN,China,63106,Population ages 15–64 (millions),768.97,1990
+CHN,China,63206,"Gross enrolment ratio, primary (% of primary school-age population)",127.42803,1990
+CHN,China,63306,"Gross enrolment ratio, secondary (% of secondary school-age population)",37.43521,1990
+CHN,China,63406,"Gross enrolment ratio, tertiary (% of tertiary school-age population)",3.00736,1990
+CHN,China,64306,"Infants lacking immunization, measles (% of one-year-olds)",2,1990
+CHN,China,64406,"Infants lacking immunization, DPT (% of one-year-olds)",2,1990
+CHN,China,65606,Gross fixed capital formation (% of GDP),24.56466908,1990
+CHN,China,69206,Life expectancy at birth (years),69.293,1990
+CHN,China,69706,Expected years of schooling (years),8.77394,1990
+CHN,China,89006,"Maternal mortality ratio (deaths per 100,000 live births)",97,1990
+CHN,China,97106,Fresh water withdrawals (% of total renewable water resources),17.61,1990
+CHN,China,99106,Net official development assistance received (% of GNI),0.561703,1990
+CHN,China,100806,Forest area (% of total land area),16.73800762,1990
+CHN,China,101406,"Literacy rate, adult (% ages 15 and older)",77.78506,1990
+CHN,China,103006,Mean years of schooling (years),4.83,1990
+CHN,China,103206,Life expectancy index,0.758353846,1990
+CHN,China,103606,Income index,0.411968999,1990
+CHN,China,103706,Education index,0.404720556,1990
+CHN,China,110806,"Net migration rate (per 1,000 people)",-0.075,1990
+CHN,China,111306,Private capital flows (% of GDP),-0.6695156,1990
+CHN,China,120606,"Life expectancy at birth, female (years)",71.002,1990
+CHN,China,121106,"Life expectancy at birth, male (years)",67.721,1990
+CHN,China,121206,Young age (0-14) dependency ratio (per 100 people ages 15-64),43.852,1990
+CHN,China,122006,Old-age (65 and older) dependency ratio (per 100 people ages 15-64),8.618,1990
+CHN,China,123306,"Expected years of schooling, female (years)",8.2,1990
+CHN,China,123406,"Expected years of schooling, male (years)",9.3,1990
+CHN,China,127606,Domestic credit provided by financial sector (% of GDP),88.42958722,1990
+CHN,China,132706,Population ages 65 and older (millions),66.26718,1990
+CHN,China,132806,Population under age 5 (millions),133.23,1990
+CHN,China,133006,"Gross enrolment ratio, pre-primary (% of preschool-age children)",20.60803,1990
+CHN,China,133206,Exports and imports (% of GDP),24.2731,1990
+CHN,China,136706,GDP per capita (2011 PPP $),1526.408699,1990
+CHN,China,137506,Human Development Index (HDI),0.50191545,1990
+CHN,China,141706,Gross national income (GNI) per capita (2011 PPP $),1529.100781,1990
+CHN,China,143306,"Gross domestic product (GDP), total (2011 PPP $ billions)",1732.756259,1990
+CHN,China,148206,Labour force participation rate (% ages 15 and older),79.1,1990
+CHN,China,163906,Renewable energy consumption (% of total final energy consumption),34.08361405,1990
+CHN,China,164406,Adjusted net savings (% of GNI),17.99705066,1990
+CHN,China,174206,"Total debt service (% of exports of goods, services and primary income)",11.68547631,1990
+CHN,China,174306,Fossil fuel energy consumption (% of total energy consumption),75.70916065,1990
+CHN,China,174406,Carbon dioxide emissions (kg per 2011 PPP $ of GDP),1.409564101,1990
+CHN,China,177706,Survival rate to the last grade of lower secondary general education (%),87.85973,1990
+CHN,China,178306,Gross capital formation (% of GDP),34.73376429,1990
+CHN,China,181206,Proportion of births attended by skilled health personnel (%),94,1990
+CHN,China,181706,Rural population with access to electricity (%),89.68407845,1990
