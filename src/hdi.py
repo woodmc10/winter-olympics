@@ -89,6 +89,6 @@ if __name__ == '__main__':
     files = ['usa', 'germany', 'canada', 'austria', 'norway', 'russia',
              'netherlands', 'switzerland', 'italy', 'france', 'sweden']
     years = [2014, 2016]
-    multi_country_hdi_df = CleanDataFrameHDI(files,
-                                             female_indicator_codes, years).df
+    multi_country_hdi_df = PipelineHDI(files,
+                                       female_indicator_codes, years).df
     print(multi_country_hdi_df.info())
