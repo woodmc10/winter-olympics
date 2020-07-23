@@ -56,7 +56,7 @@ CRC	 Costa Rica	COS (1964)	[47]
 CRO	 Croatia		[48]
 CUB	 Cuba		[49]
 CYP	 Cyprus		[50]
-CZE	 Czech Republic		[51]
+CZE	 Czechia		[51]
 DEN	 Denmark	
 DAN (1960 S1968 W)DIN (1968 S)
 previous codes taken from Italian Danimarca, French Danemark and Spanish Dinamarca	[52]
@@ -81,7 +81,7 @@ FRA	 France		[65]
 FSM	 Federated States of Micronesia		[66]
 GAB	 Gabon		[67]
 GAM	 The Gambia		[68]
-GBR	 Great Britain	
+GBR	 United Kingdom	
 GRB (1956 W–1960)GBI (1964) [69]
 GBS	 Guinea-Bissau		[70]
 GEO	 Georgia		[71]
@@ -124,7 +124,7 @@ KAZ	 Kazakhstan		[98]
 KEN	 Kenya		[99]
 KGZ	 Kyrgyzstan		[100]
 KIR	 Kiribati		[101]
-KOR	 South Korea	
+KOR	 Korea (Republic of)	
 COR (1956 W1960 S1968 S1972 S)
 previous code taken from Italian Corea, French Corée and Spanish Corea	[102]
 KOS	 Kosovo		[103]
@@ -202,7 +202,7 @@ ROM (1956–19601972–2006)RUM (1964–1968) from Spanish Rumania
 current code from French Roumanie	[157]
 RSA	 South Africa	SAF (1960–1972)
 current code from Republic of South Africa	[158]
-RUS	 Russia		[159]
+RUS	 Russian Federation		[159]
 RWA	 Rwanda		[160]
 SAM	 Samoa		[161]
 SEN	 Senegal	SGL (1964)	[162]
@@ -259,19 +259,3 @@ YEM	 Yemen		[204]
 ZAM	 Zambia	NRH (1964) as Northern Rhodesia	[205]
 ZIM	 Zimbabwe	
 '''
-num = 0
-tab_split = codes.split('\t')
-code_dict = dict()
-for i, elem in enumerate(tab_split):
-    # breakpoint()
-    if '\n' in elem and str(num) in elem:
-        code = elem[-3:]
-        country = tab_split[i + 1]
-        num += 1
-        if code not in code_dict:
-            code_dict[code] = country
-    
-
-if __name__ == '__main__':
-    print(tab_split)
-    print(code_dict)
