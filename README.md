@@ -1,6 +1,6 @@
 # Women in the Winter Olympics
 ## History
-When the olympic games were originally founded in ancient greece there were no female participants. The first modern olympic games, held in 1896, were also exclusively for men. However, the very next olympics included women's events in both tennis and golf. 
+When the olympic games were originally founded in ancient Greece there were no female participants. The first modern olympic games, held in 1896, were also exclusively for men. However, the very next olympics included women's events in both tennis and golf. 
 
 In 1924 the International Olympic Committee added a winter sports week to the olympic competition and this event became the first Winter Olympic Games. Women's events were included in the Winter Games from the beginning, with figure skating including both a women's and a pair skate. Women's participation continued to grow until in 2010 there were only three countries that had never sent a female athlete to the games and in the 2012 London Games every country competing included at least one female athlete.
 
@@ -21,24 +21,26 @@ A table containing all the medals awarded at the Winter Olympics, and including 
 
 The gender column was one hot encoded and two dataframes were created for evaluation. One dataframe was grouped by year, sport, and event and the medals were removed so that the number of events could be directly compared between men and women. The number of events in each year were totaled and used to calculate the percent of events for women.
 
-|   Year |   male_events |   female_events |   total_events |   %_female_events |
+|   Year |   Mens Events |   Womens Events |   Total Events |   % Female Events |
 |-------:|--------------:|----------------:|---------------:|------------------:|
 |   1924 |            14 |               1 |             15 |           6.66667 |
 |   1928 |            11 |               1 |             12 |           8.33333 |
 |   1932 |            12 |               1 |             13 |           7.69231 |
 |   1936 |            14 |               2 |             16 |          12.5     |
 |   1948 |            17 |               4 |             21 |          19.0476  |
+
 _showing first five rows_
 
-Another dataframe was grouped by country to obtain the sum of medals in men's and women's events for the history of the Winter Olympics. 
+Another dataframe was grouped by country to obtain the total medals won by each country in men's and women's events for the history of the Winter Olympics. 
 
-| Country   |   male_medals |   female_medals |   mixed_medals |   total_medals |
+| Country   |   Mens Medals |   Womens Medals |   Mixed Medals |   Total Medals |
 |:----------|--------------:|----------------:|---------------:|---------------:|
 | Australia |             5 |               7 |              0 |             34 |
 | Austria   |           143 |              70 |              5 |            722 |
 | Belarus   |             8 |               7 |              0 |             46 |
 | Belgium   |             4 |               0 |              1 |             18 |
 | Britain   |            13 |              11 |              2 |             78 |
+
 _showing first five rows_
 
 These dataframes were used to create the following plots, which show the increase in the percent of events for women over time, the comparison of men's and women's events over time and the medals for men's and women's events for the countries with at least 50 medals.
@@ -46,7 +48,7 @@ These dataframes were used to create the following plots, which show the increas
 ## Winter Olympics Gender Equality Plots
 ![img](images/no-mix-year-plot.png)
 
-The largest spike in the percent of events including women occurred in 1960 with a 12% increase. The 1960 Winter Olympics were held in Squaw Valley, CA and the 1960s were the peak of the feminism movement in the United States. Unfortunately, it is likely that this correlation is just coincidental. The 1960 olympics added biathlon to the men's events and four distances of speed skating to the women's events. In order to save money the Olympic Committee decided not to build a bobsled run, causing the men to loose three medal events. This reduction in the men's events, along with the addition of the women's events, is what caused the large spike. 
+The largest spike in the percent of events including women occurred in 1960 with a 12% increase. The 1960 Winter Olympics were held in Squaw Valley, CA and the 1960s were the peak of the feminism movement in the United States. Unfortunately, it is likely that this is just coincidental. The 1960 olympics added biathlon to the men's events and four distances of speed skating to the women's events. In order to save money the Olympic Committee decided not to build a bobsled run, causing the men to loose three medal events. This reduction in the men's events, along with the addition of the women's events, is what caused the large spike. 
 
 ![img](images/no-mix-count-year-plot.png)
 
@@ -60,12 +62,12 @@ This plot was abbreviated to only include countries with at least 50 medals sinc
 
 "The Human Development Index (HDI) was created to emphasize that expanding human choices should be the ultimate criteria for assessing development results. Economic growth is a means to that process but is not an end in itself." - hdr.undp.org
 
-HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected and reduced to only include the indices with the words 'female' or 'woman' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 18 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. 
+HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected and reduced to only include the indices with the words 'female' or 'women' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 18 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. 
 
 
 ![img](images/HDI_correlations.png)
 
-Most of the HDI indices showed little to no correlation with percent of winter olympic medals won by females. The HDI with the highest correlation was the Estimated Gross National Income per capita, female and this was, surprisingly, a negative correlation. The GNI and percent women's medals can be seen in the plot below. 
+Since most of the HDI indices showed little to no correlation with percent of winter olympic medals won by females, a small number were selected for plotting. The HDI with the highest correlation was the Estimated Gross National Income per capita, female and this was, surprisingly, a negative correlation. The GNI and percent women's medals can be seen in the plot below. 
 
 ![img](images/GNI_scatter.png)
 
