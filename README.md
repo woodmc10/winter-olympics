@@ -7,7 +7,7 @@
 2. [Data](#data)
 3. [Winter Olympics Gender Equlaity](#winter-olympics-gender-equality)
 4. [Human Development Index Correlation](#human-development-index-correleation)
-5. [Further Analysis](#further-analysis:-correlations-to-all-olympic-games)
+5. [Further Analysis](#further-analysis)
 6. [Future Work](#future-work)
 
 ## History
@@ -65,7 +65,7 @@ The largest spike in the percent of events including women occurred in 1960 with
 
 ![img](images/winter/no-mix-country-plot-1993.png)
 
-This plot was abbreviated to only include countries with at least 50 medals since 1994. The dominace of Norway in men's events is clearly evident. It is also interesting to note Germany has the most medals in women's events, even though this count does not include medals awarded to East Germany or West Germany during the cold war. 
+This plot was abbreviated to only include countries with at least 50 medals. The dominace of Norway in men's events is clearly evident. It is also interesting to note Germany has the most medals in women's events, even though this count does not include medals awarded to East Germany or West Germany during the time of the Cold War. 
 
 ## Human Development Index Correlation
 
@@ -80,8 +80,9 @@ Since most of the HDI indices showed little to no correlation with percent of wi
 
 ![img](images/winter/GNI-scatter.png)
 
-## Further Analysis: Correlations to all Olympic Games
-The resluts of the correlations with HDI indices was surprising. I was able to find a dataset on [kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) that included all athletes sent to the games up to the 2016 Games in Rio. I used this dataset to repeat my analysis of countries gender performance in the games. The Summer Olympics has more events than the Winter Olympics as can be seen in the plot below. The summer events dwarfs the winter events.
+## Further Analysis
+**Correlations to all Olympic Games**
+The resluts of the correlations with HDI indices was surprising. I was able to find a dataset on [kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results) that included all athletes sent to the games up to the 2016 Games in Rio. I used this dataset to repeat my analysis of countries' gender performance in the games. The Summer Olympics has over three times as many events than the Winter Olympics as can be seen in the plot below. The summer events are stacked on top of the winter events for the years before the Olympic games switched to alternating 4-year cycles.
 
 ![img](images/all/summer-and-winter-events-overlay.png)
 
@@ -89,9 +90,9 @@ This increase in the number of events increased the number of countries with rel
 
 ![img](images/all/HDI_correlations.png)
 
-The p-values of the correlation of  with all olympic medals were statistically significant, while the correlations determined with only the winter medals were not. 
+The p-values of the correlation of  with all olympic medals were statistically significant, while the correlations determined with only the winter medals were not. Its clear that the increase in countries for the comparison strengthed the results. The following scatter plot shows the negative correlation more clearly than the previous plot.
 
 ![img](images/all/Unemp-scatter.png)
 
 ## Future Work
-After seeing the impact that adding the summer olympic medals had on the correlations and the p-values, I would like to continue investigating these trends by using athlete data instead of only event medals data. Since only a fraction of the athletes that attend the games wind up winning medals, the increase in data points could strengthen the correlations and would provide more confidence in the validity of the calculated correlations. I would also like to evaluate all of the HDI indices to see if any other indices showed more correlation with the womens medals than the gender specific medals. 
+After seeing the impact that adding the summer olympic medals had on the correlations and the p-values, I would like to continue investigating these trends by using athlete data instead of only event medals data. Since only a fraction of the athletes that attend the games wind up winning medals, the increase in data points could strengthen the correlations and would provide more confidence in the validity of the calculated correlations. I would also like to evaluate all of the HDI indices to see if any other indices showed more correlation with the women's medals than the gender specific indices. 
