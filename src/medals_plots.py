@@ -65,7 +65,7 @@ def gender_counts_plot(x, y, labels, ax=None, **plt_kwargs):
         fig, ax = plt.subplots(1, figsize=(12, 7))
     ax.bar(x, y, **plt_kwargs)
     ax.set_title(f'Mens and Womens {labels[1]}\n in' +
-                 f' the {labels[0].capitalize()} Olympics', fontsize=20)
+                 f' the Olympics', fontsize=20)
     ax.set_xlabel(labels[2], fontsize=18)
     ax.set_ylabel(f'Number of {labels[1]}', fontsize=18)
     ax.legend()
@@ -104,14 +104,16 @@ def plot_percent_year(df_obj, save_on=True):
         plt.savefig(f'../images/{df_obj.season}/mix-year-plot.png')
 
 
-def plot_bar_year(df_obj, save_on=True):
+def plot_bar_year_overlay(df_obj, df_obj2, save_on=True):
     '''Create bar plots of mens/womens and mens/womens/mixed events by
     year for the dataframe object
 
     Parameters
     ----------
     df_obj: GenderDataFrames object
-        contains DataFrames to plot
+        contains DataFrames of all olympics data
+    df_obj2: GenderDataFrames object
+        contains DataFrames of winter olympics datato plot overlayed
     save_on: bool, optional
         if true the plots will be saved, if false the plots will show
         on the screen (default is True)
@@ -120,34 +122,32 @@ def plot_bar_year(df_obj, save_on=True):
     -------
     None
     '''
+    summer_df = df_obj.annual_medals_df[df_obj.annual_medals_df.index
+                                        % 4 == 0]
+    year = summer_df.index
     labels = [df_obj.season, 'Events', 'Year']
-    year = df_obj.annual_medals_df.index
-    y3_a = df_obj.annual_medals_df['mens_events']
-    y3_b = df_obj.annual_medals_df['womens_events']
-    ax3 = gender_counts_plot(year, y3_a, labels, color='tab:cyan',
-                             label='Mens Events')
-    ax3 = gender_counts_plot(year+1, y3_b, labels, ax3, color='tab:pink',
-                             label='Womens Events')
+    y3_a = summer_df['mens_events']
+    y3_b = summer_df['womens_events']
+    ax3 = gender_counts_plot(year, y3_a, labels, color='tab:blue',
+                             label='Summer Mens Events')
+    ax3 = gender_counts_plot(year+1, y3_b, labels, ax3, color='tab:red',
+                               label='Summer Womens Events')
+    y3_c = df_obj2.annual_medals_df['mens_events']
+    y3_d = df_obj2.annual_medals_df['womens_events']
+    year2 = df_obj2.annual_medals_df.index
+    y2 = df_obj2.annual_medals_df['%_womens_events']
+    ax3 = gender_counts_plot(year2, y3_c, labels, ax3, color='tab:cyan',
+                             label='Winter Mens Events')
+    ax3 = gender_counts_plot(year2+1, y3_d, labels, ax3, color='tab:pink',
+                               label='Winter Womens Events')
     if save_on:
-        plt.savefig(f'../images/{df_obj.season}/no-mix-count-year-plot.png')
-    y4_a = df_obj.annual_medals_mixed_df['mens_events']
-    y4_b = df_obj.annual_medals_mixed_df['womens_events']
-    y4_c = df_obj.annual_medals_mixed_df['mixed_events']
-    ax4 = gender_counts_plot(year-0.7, y4_a, labels, color='tab:cyan',
-                             label='Mens Events', width=0.7)
-    ax4 = gender_counts_plot(year, y4_b, labels, ax4, color='tab:pink',
-                             label='Womens Events', width=0.7)
-    ax4 = gender_counts_plot(year+0.7, y4_c, labels, ax4, color='tab:purple',
-                             label='Mixed Events', width=0.7)
-    if save_on:
-        plt.savefig(f'../images/{df_obj.season}/mix-count-year-plot.png')
+        plt.savefig('../images/all/summer-and-winter-events-overlay.png')
 
 
-def plot_bar_year_overlay(df_obj, save_on=True):
+def plot_bar_year_dual(df_obj, save_on=True):
     '''Create bar plots of mens/womens and mens/womens/mixed events by
     year for the dataframe object with an overlay of the percent womens
     events
-
     Parameters
     ----------
     df_obj: GenderDataFrames object
@@ -155,7 +155,6 @@ def plot_bar_year_overlay(df_obj, save_on=True):
     save_on: bool, optional
         if true the plots will be saved, if false the plots will show
         on the screen (default is True)
-
     Returns
     -------
     None
@@ -174,9 +173,6 @@ def plot_bar_year_overlay(df_obj, save_on=True):
                          label='Percent Womens Events')
     ax3_b.annotate('Olympics\ncanceled\ndurring\nWWII', (1938, 6),
                    multialignment='center', fontsize=14)
-    # ax3_b.annotate('Olympic\nGames on\ndifferent\n4-year\ncylces', (1986.5, 6),
-    #                multialignment='center', fontsize=14, 
-    #                bbox=dict(facecolor='white', edgecolor='black'))
     if save_on:
         plt.savefig(f'../images/{df_obj.season}/no-mix-count-year-plot.png')
     y = df_obj.annual_medals_mixed_df['%_womens_events']
@@ -193,6 +189,7 @@ def plot_bar_year_overlay(df_obj, save_on=True):
                        label='Percent Womens Events')
     if save_on:
         plt.savefig(f'../images/{df_obj.season}/mix-count-year-plot.png')
+
 
 
 def plot_bar_country(df_obj, save_on=True):

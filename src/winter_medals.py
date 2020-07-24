@@ -188,7 +188,7 @@ def make_all_plots(df_obj, save_on=False):
     '''
 
     medals_plots.plot_percent_year(df_obj, save_on)
-    medals_plots.plot_bar_year_overlay(df_obj, save_on)
+    medals_plots.plot_bar_year_dual(df_obj, save_on)
     medals_plots.plot_bar_country(df_obj, save_on)
     if not save_on:
         plt.show()
@@ -273,7 +273,8 @@ if __name__ == '__main__':
 
     # make_all_plots(winter_dataframes, False)
     # make_all_plots(all_olympics_dataframes, False)
-    medals_plots.plot_bar_year_overlay(winter_dataframes, True)
+    medals_plots.plot_bar_year_overlay(all_olympics_dataframes,
+                                       winter_dataframes, True)
 
     female_indicator_codes = [23906, 24106, 48706, 120606,
                               123306, 123506, 136906, 169706, 169806,
