@@ -271,8 +271,9 @@ if __name__ == '__main__':
         '../data/summer_olympics/athlete_events.csv', 'all', code_dict
         )
 
-    make_all_plots(winter_dataframes, False)
-    make_all_plots(all_olympics_dataframes, False)
+    # make_all_plots(winter_dataframes, False)
+    # make_all_plots(all_olympics_dataframes, False)
+    medals_plots.plot_bar_year_overlay(winter_dataframes, True)
 
     female_indicator_codes = [23906, 24106, 48706, 120606,
                               123306, 123506, 136906, 169706, 169806,
@@ -288,17 +289,17 @@ if __name__ == '__main__':
                    'Female Gross\nNational Income', 136906: 'Female HDI',
                    24106: 'Mean Female\nSchooling', 169706:
                    'Unemployment\nFemale:Male'}
-    corr_ax = medals_plots.plot_hdi_corrs(hdi_list, winter_corr,
-                                          labels_dict, 'winter',
-                                          save_on=False)
-    medals_plots.plot_hdi_corrs(hdi_list, all_olympics_corr, labels_dict,
-                                'all', corr_ax, save_on=False)
+    # corr_ax = medals_plots.plot_hdi_corrs(hdi_list, winter_corr,
+    #                                       labels_dict, 'winter',
+    #                                       save_on=False)
+    # medals_plots.plot_hdi_corrs(hdi_list, all_olympics_corr, labels_dict,
+                                # 'all', corr_ax, save_on=True)
 
     x = all_olympics_hdi['all_medals_%_women']
     y = all_olympics_hdi[169706]
     label_list = ['Female GNI', '% Winter Olympic Medals']
-    medals_plots.scatter_corr(x, y, label_list,
-                              save_as='../images/winter/GNI-scatter.png',
-                              save_on=False)
+    # medals_plots.scatter_corr(x, y, label_list,
+                            #   save_as='../images/winter/GNI-scatter.png',
+                            #   save_on=False)
 
     plt.show()

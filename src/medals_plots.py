@@ -172,9 +172,11 @@ def plot_bar_year_overlay(df_obj, save_on=True):
     ax3_b = ax3_a.twinx()
     ax3_b = percent_plot(year, y, df_obj.season, ax3_b, color='tab:pink',
                          label='Percent Womens Events')
-    ax3_b.annotate('No Olympics\ndue to WWII', (1938, 8))
-    ax3_b.annotate('Olympic Games\non different\ncylces', (1988, 33),
-                   multialignment='center')
+    ax3_b.annotate('Olympics\ncanceled\ndurring\nWWII', (1938, 6),
+                   multialignment='center', fontsize=14)
+    # ax3_b.annotate('Olympic\nGames on\ndifferent\n4-year\ncylces', (1986.5, 6),
+    #                multialignment='center', fontsize=14, 
+    #                bbox=dict(facecolor='white', edgecolor='black'))
     if save_on:
         plt.savefig(f'../images/{df_obj.season}/no-mix-count-year-plot.png')
     y = df_obj.annual_medals_mixed_df['%_womens_events']
@@ -278,7 +280,7 @@ def plot_hdi_corrs(hdi_list, corr_df, labels_dict, season, ax=None,
     labels_txt = [labels_dict[elem] for elem in labels_num]
     if ax is None:
         fig, ax = plt.subplots(1, figsize=(12, 6))
-        width = 0.75
+        width = -0.4
     else:
         width = 0.4
     if season == 'winter':
@@ -286,9 +288,9 @@ def plot_hdi_corrs(hdi_list, corr_df, labels_dict, season, ax=None,
         label = 'Winter Olympics'
     else:
         c = 'tab:red'
-        label = 'all Olympics'
-    ax.bar(x, y, width=width, align='center', color=c, label=label)
-    ax.set_xticklabels(labels_txt, fontsize=16)
+        label = 'All Olympics'
+    ax.bar(x, y, width=width, align='edge', color=c, label=label)
+    ax.set_xticklabels(labels_txt, fontsize=14)
     ax.set_xticks(x)
     ax.axhline(y=0)
     ax.set_xlabel('Human Development Indices', fontsize=18)
@@ -296,12 +298,12 @@ def plot_hdi_corrs(hdi_list, corr_df, labels_dict, season, ax=None,
     ax.set_title('Correlation between Womens Olympic Medals\nand' +
                  ' Human Development Index', fontsize=20)
     ax.legend()
-    ax.annotate('p-value\n0.20', (-0.32, -0.42),
-                multialignment='center')
-    ax.annotate('p-value\n0.49', (0.69, -0.23),
-                multialignment='center')
-    ax.annotate('p-value\n0.02', (1.09, -0.4),
-                multialignment='center')
+    ax.annotate('p-value\n0.20', (-0.38, -0.42),
+                multialignment='center', fontsize=14)
+    ax.annotate('p-value\n0.49', (0.62, -0.23),
+                multialignment='center', fontsize=14)
+    ax.annotate('p-value\n0.02', (1.02, -0.4),
+                multialignment='center', fontsize=14)
     plt.tight_layout()
     if save_on:
         plt.savefig(f'../images/{season}/HDI_correlations.png')
