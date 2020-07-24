@@ -7,6 +7,7 @@ import medals_plots
 from hdi import PipelineHDI
 
 plt.style.use('tableau-colorblind10')
+plt.rc('font', size=12)
 
 
 class GenderDataFrames(object):
@@ -56,7 +57,7 @@ class GenderDataFrames(object):
         after and excluding countries with less than 50 medals
     '''
 
-    def __init__(self, file, season, noc_code_dict):
+    def __init__(self, file, season, code_dict):
         self.file = file
         self.noc_code_dict = code_dict
         self.season = season
@@ -79,10 +80,11 @@ class GenderDataFrames(object):
             df = pd.read_excel(self.file)
             df.drop(['Medal Rank', 'Age of Athlete'], axis=1, inplace=True)
             df = pd.get_dummies(df, columns=['Gender'])
-            return df
         else:
+            # Additional cleaning required because all olympics csv includes
+            # athlete information
             df = pd.read_csv(self.file)
-            df = self.country_codes(df)
+            df = self.add_country_column(df)
             df.drop(['Name', 'Age', 'Height', 'Weight', 'Team', 'Games',
                      'Season', 'City', 'NOC'], axis=1, inplace=True)
             df.rename(columns={'Sex': 'Gender'}, inplace=True)
@@ -92,7 +94,7 @@ class GenderDataFrames(object):
             df = pd.get_dummies(df, columns=['Gender'])
             df.rename(columns={'Gender_M': 'Gender_Men',
                                'Gender_F': 'Gender_Women'}, inplace=True)
-            return df
+        return df
 
     def create_year_df(self, ignore_mixed=True):
         '''Create a DataFrame grouped by Year'''
@@ -105,11 +107,19 @@ class GenderDataFrames(object):
             year_df['mixed_events'] = np.where(year_df['Gender_Mixed'] > 0,
                                                1, 0)
         else:
+            # all olympics csv has medals listed by athlete, events
+            # with both male and female medalists counted as mixed
             year_df['mixed_events'] = np.where(year_df['Gender_Women'] > 0,
                                                np.where(year_df['Gender_Men']
                                                         > 0, 1, 0), 0)
-        year_df['mens_events'] = np.where(year_df['Gender_Men'] > 0, 1, 0)
-        year_df['womens_events'] = np.where(year_df['Gender_Women'] > 0, 1, 0)
+        # only count events for men or women if no medals are listed
+        # under the opposite gender
+        year_df['mens_events'] = np.where(year_df['Gender_Men'] > 0,
+                                          np.where(year_df['Gender_Women']
+                                                   == 0, 1, 0), 0)
+        year_df['womens_events'] = np.where(year_df['Gender_Women'] > 0,
+                                            np.where(year_df['Gender_Men']
+                                                     == 0, 1, 0), 0)
         year_df = year_df[cols_list]
         year_df.reset_index(inplace=True)
         year_events_df = year_df.groupby('Year').sum()
@@ -140,12 +150,12 @@ class GenderDataFrames(object):
         country_df['%_womens_medals'] = (country_df[cols_list].sum(axis=1) /
                                          country_df['total_medals']) * 100
         over_df = country_df[country_df['total_medals'] >= min_medals]
-        sorted_df = over_df.sort_values(by='womens_medals', ascending=False)\
-            .copy()
+        sorted_df = over_df.sort_values(by='womens_medals',
+                                        ascending=False).copy()
         return sorted_df
 
     def reduce_medal_count(self, df):
-        '''Normalize the medal count in data other that contains a list
+        '''Normalize the medal count in data that contains a list
         of medals by athlete instead of event. Reduce the medal count
         to one medal per country per event to avoid biasing results to
         team events
@@ -156,13 +166,17 @@ class GenderDataFrames(object):
             = np.where(medals_total_df['Gender_Men'] > 0,
                        np.where(medals_total_df['Gender_Women'] > 0, 1, 0), 0)
         medals_total_df['Gender_Men']\
-            = np.where(medals_total_df['Gender_Men'] > 0, 1, 0)
+            = np.where(medals_total_df['Gender_Men'] > 0,
+                       np.where(medals_total_df['Gender_Women'] == 0, 1, 0),
+                       0)
         medals_total_df['Gender_Women']\
-            = np.where(medals_total_df['Gender_Women'] > 0, 1, 0)
+            = np.where(medals_total_df['Gender_Women'] > 0,
+                       np.where(medals_total_df['Gender_Men'] == 0, 1, 0),
+                       0)
         medals_total_df.reset_index(inplace=True)
         return medals_total_df
 
-    def country_codes(self, df):
+    def add_country_column(self, df):
         '''Create a 'Country' column by comparing 'NOC' column with
         noc_code_dict
         '''
@@ -223,13 +237,13 @@ def correlation(codes, year, df_obj):
             files.append(filename)
     years = [2014, 2016]
     multi_country_hdi = PipelineHDI(files, codes, years)
-    multi_2014_hdi_df = multi_country_hdi.df[multi_country_hdi.df
+    multi_year_hdi_df = multi_country_hdi.df[multi_country_hdi.df
                                              ['#date+year'] == year]
     df_temp = df_obj.country_medals_df.copy()
     df_temp.reset_index(inplace=True)
     country_medals_dict = df_temp.set_index('Country')\
         .to_dict()['%_womens_medals']
-    merge_dict_df = multi_2014_hdi_df.copy()
+    merge_dict_df = multi_year_hdi_df.copy()
     merge_dict_df[f'{df_obj.season}_medals_%_women'] =\
         merge_dict_df['#country+name'].map(country_medals_dict)
     corr_df = merge_dict_df.corr()[f'{df_obj.season}_medals_%_women']
@@ -271,10 +285,11 @@ if __name__ == '__main__':
         '../data/summer_olympics/athlete_events.csv', 'all', code_dict
         )
 
-    # make_all_plots(winter_dataframes, False)
-    # make_all_plots(all_olympics_dataframes, False)
+    make_all_plots(winter_dataframes, False)
+    make_all_plots(all_olympics_dataframes, False)
     medals_plots.plot_bar_year_overlay(all_olympics_dataframes,
-                                       winter_dataframes, True)
+                                       winter_dataframes, False)
+    medals_plots.plot_bar_country(winter_dataframes, False)
 
     female_indicator_codes = [23906, 24106, 48706, 120606,
                               123306, 123506, 136906, 169706, 169806,
@@ -290,17 +305,17 @@ if __name__ == '__main__':
                    'Female Gross\nNational Income', 136906: 'Female HDI',
                    24106: 'Mean Female\nSchooling', 169706:
                    'Unemployment\nFemale:Male'}
-    # corr_ax = medals_plots.plot_hdi_corrs(hdi_list, winter_corr,
-    #                                       labels_dict, 'winter',
-    #                                       save_on=False)
-    # medals_plots.plot_hdi_corrs(hdi_list, all_olympics_corr, labels_dict,
-                                # 'all', corr_ax, save_on=True)
+    corr_ax = medals_plots.plot_hdi_corrs(hdi_list, winter_corr,
+                                          labels_dict, 'winter',
+                                          save_on=False)
+    medals_plots.plot_hdi_corrs(hdi_list, all_olympics_corr, labels_dict,
+                                'all', corr_ax, save_on=False)
 
     x = all_olympics_hdi['all_medals_%_women']
     y = all_olympics_hdi[169706]
-    label_list = ['Female GNI', '% Winter Olympic Medals']
-    # medals_plots.scatter_corr(x, y, label_list,
-                            #   save_as='../images/winter/GNI-scatter.png',
-                            #   save_on=False)
-
+    label_list = ['Unemployment F:M', '% Womens Olympic Medals']
+    medals_plots.scatter_corr(x, y, label_list,
+                              save_as='../images/all/Unemp-scatter.png',
+                              save_on=True)
     plt.show()
+    print(stats.pearsonr(x, y))

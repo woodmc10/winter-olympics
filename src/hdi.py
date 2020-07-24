@@ -49,13 +49,13 @@ class PipelineHDI(object):
         '''
         df = pd.read_csv('../data/' + file)
         country = df.loc[0, '#country+name']
-        table = pd.pivot_table(df, values='#indicator+value+num',
-                               index=['#country+name', '#date+year'],
-                               columns='#indicator+code',
-                               aggfunc=np.sum)
+        table_df = pd.pivot_table(df, values='#indicator+value+num',
+                                  index=['#country+name', '#date+year'],
+                                  columns='#indicator+code',
+                                  aggfunc=np.sum)
         if self.indicator_dict is None:
             self.create_dict(df)
-        women_df = table[self.codes]
+        women_df = table_df[self.codes]
         women_years_df = women_df.loc[(country, self.years), ]
         women_years_df.reset_index(inplace=True)
         return women_years_df
@@ -70,7 +70,7 @@ class PipelineHDI(object):
                 self.df = self.create_country_df(elem).copy()
             else:
                 multi_df = self.df
-                new_df = self.create_country_df(elem)
+                new_df = self.create_country_df(elem).copy()
                 self.df = multi_df.append(new_df, ignore_index=True)
         return self.df
 

@@ -4,6 +4,7 @@ import matplotlib.lines as mlines
 import numpy as np
 
 plt.style.use('tableau-colorblind10')
+plt.rc('font', size=12)
 
 
 def percent_plot(x, y, season, ax=None, **plt_kwargs):
@@ -64,8 +65,8 @@ def gender_counts_plot(x, y, labels, ax=None, **plt_kwargs):
     if ax is None:
         fig, ax = plt.subplots(1, figsize=(12, 7))
     ax.bar(x, y, **plt_kwargs)
-    ax.set_title(f'Mens and Womens {labels[1]}\n in' +
-                 f' the Olympics', fontsize=20)
+    ax.set_title(f'Mens and Womens {labels[1]} in' +
+                 f' the\nWinter Olympics since 1994', fontsize=20)
     ax.set_xlabel(labels[2], fontsize=18)
     ax.set_ylabel(f'Number of {labels[1]}', fontsize=18)
     ax.legend()
@@ -105,8 +106,9 @@ def plot_percent_year(df_obj, save_on=True):
 
 
 def plot_bar_year_overlay(df_obj, df_obj2, save_on=True):
-    '''Create bar plots of mens/womens and mens/womens/mixed events by
-    year for the dataframe object
+    '''Create bar plots of mens/womens events by year for the dataframe
+    objects, all olympics should be first and winter should be second
+    for the desired overlay
 
     Parameters
     ----------
@@ -131,7 +133,7 @@ def plot_bar_year_overlay(df_obj, df_obj2, save_on=True):
     ax3 = gender_counts_plot(year, y3_a, labels, color='tab:blue',
                              label='Summer Mens Events')
     ax3 = gender_counts_plot(year+1, y3_b, labels, ax3, color='tab:red',
-                               label='Summer Womens Events')
+                             label='Summer Womens Events')
     y3_c = df_obj2.annual_medals_df['mens_events']
     y3_d = df_obj2.annual_medals_df['womens_events']
     year2 = df_obj2.annual_medals_df.index
@@ -139,7 +141,7 @@ def plot_bar_year_overlay(df_obj, df_obj2, save_on=True):
     ax3 = gender_counts_plot(year2, y3_c, labels, ax3, color='tab:cyan',
                              label='Winter Mens Events')
     ax3 = gender_counts_plot(year2+1, y3_d, labels, ax3, color='tab:pink',
-                               label='Winter Womens Events')
+                             label='Winter Womens Events')
     if save_on:
         plt.savefig('../images/all/summer-and-winter-events-overlay.png')
 
@@ -148,6 +150,7 @@ def plot_bar_year_dual(df_obj, save_on=True):
     '''Create bar plots of mens/womens and mens/womens/mixed events by
     year for the dataframe object with an overlay of the percent womens
     events
+
     Parameters
     ----------
     df_obj: GenderDataFrames object
@@ -189,7 +192,6 @@ def plot_bar_year_dual(df_obj, save_on=True):
                        label='Percent Womens Events')
     if save_on:
         plt.savefig(f'../images/{df_obj.season}/mix-count-year-plot.png')
-
 
 
 def plot_bar_country(df_obj, save_on=True):
@@ -299,7 +301,7 @@ def plot_hdi_corrs(hdi_list, corr_df, labels_dict, season, ax=None,
                 multialignment='center', fontsize=14)
     ax.annotate('p-value\n0.49', (0.62, -0.23),
                 multialignment='center', fontsize=14)
-    ax.annotate('p-value\n0.02', (1.02, -0.4),
+    ax.annotate('p-value\n0.03', (1.02, -0.38),
                 multialignment='center', fontsize=14)
     plt.tight_layout()
     if save_on:
@@ -331,7 +333,7 @@ def scatter_corr(x, y, labels_list, save_as=None, save_on=False):
     None
     '''
     fig, ax = plt.subplots(1)
-    ax.scatter(x, y, color='tab:pink')
+    ax.scatter(x, y, color='tab:red')
     trendline = np.polyfit(x, y, 1)
     trendline_formula = np.poly1d(trendline)
     ax.set_ylabel(labels_list[0], fontsize=18)

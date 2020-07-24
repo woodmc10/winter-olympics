@@ -47,7 +47,7 @@ _showing first five rows_
 
 These dataframes were used to create the following plots, which show the increase in the percent of events for women over time, the comparison of men's and women's events over time and the medals for men's and women's events for the countries with at least 50 medals.
 
-## Winter Olympics Gender Equality Plots
+## Winter Olympics Gender Equality
 ![img](images/winter/no-mix-count-year-plot.png)
 
 The largest spike in the percent of events including women occurred in 1960 with a 12% increase. The 1960 Winter Olympics were held in Squaw Valley, CA and the 1960s were the peak of the feminism movement in the United States. Unfortunately, it is likely that the timing of this spike is just coincidental. The 1960 olympics added biathlon to the men's events and four distances of speed skating to the women's events. In order to save money the Olympic Committee decided not to build a bobsled run, causing the men to lose three medal events. This reduction in the men's events, along with the addition of the women's events, is what caused the large spike. 
