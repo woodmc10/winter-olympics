@@ -1,10 +1,21 @@
 # Women in the Winter Olympics
+
+![img](images/title.jpg)
+
+## Table of Contents
+1. [History](#history)
+2. [Data](#data)
+3. [Winter Olympics Gender Equlaity](#winter-olympics-gender-equality)
+4. [Human Development Index Correlation](#human-development-index-correleation)
+5. [Further Analysis](#further-analysis:-correlations-to-all-olympic-games)
+6. [Future Work](#future-work)
+
 ## History
 When the olympic games were originally founded in ancient Greece there were no female participants. The first modern olympic games, held in 1896, were also exclusively for men. However, the very next olympics included women's events in both tennis and golf. 
 
 In 1924 the International Olympic Committee added a winter sports week to the olympic competition and this event became the first Winter Olympic Games. Women's events were included in the Winter Games from the beginning, with figure skating including both a women's and a pair skate. Women's participation continued to grow until in 2010 there were only three countries that had never sent a female athlete to the games and in the 2012 London Games every competing country sent at least one female athlete.
 
-By evaluating women's events in the olympics over time I hope to discern if any major historical moments correspond to increases in women's events. I also hope to discover a correlation between a country's human development index gender specific indicators and that country's women's event medals.
+By evaluating women's events in the olympics over time I hope to discern if any major historical moments coincide with increases in women's events. I also hope to discover a correlation between a country's human development index gender specific indicators and that country's women's event medals.
 
 ## Data
 **Winter Olympic Medals**
@@ -54,13 +65,13 @@ The largest spike in the percent of events including women occurred in 1960 with
 
 ![img](images/winter/no-mix-country-plot-1993.png)
 
-This plot was abbreviated to only include countries with at least 50 medals since 1924. The dominace of Norway in men's events is clearly evident. It is also interesting to note the Germans are the only competitors to produce more women's event medals than men's events and that Germany has the most medals in women's events, even though this count does not include medals awarded to East Germany or West Germany during the cold war. 
+This plot was abbreviated to only include countries with at least 50 medals since 1994. The dominace of Norway in men's events is clearly evident. It is also interesting to note Germany has the most medals in women's events, even though this count does not include medals awarded to East Germany or West Germany during the cold war. 
 
 ## Human Development Index Correlation
 
 "The Human Development Index (HDI) was created to emphasize that expanding human choices should be the ultimate criteria for assessing development results. Economic growth is a means to that process but is not an end in itself." - [hdr.undp.org](http://hdr.undp.org/en/content/human-development-index-hdi)
 
-HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected from UDNP's Human Development Reports Office profile on [data.world](https://data.world/hdro). Each table was cleaned using a pandas PivotTable. The resulting DataFrame was reduced to only include the indices with the words 'female' or 'women' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 17 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. 
+HDIs are released by the United Nations Development Programme on a nearly annual basis and include information on a multitude of different human factors. The HDI for the 11 countries with at least 50 medals in the Winter Olympics from 1994 to 2014 were collected from UNDP's Human Development Reports Office profile on [data.world](https://data.world/hdro). Each table was cleaned using a pandas PivotTable. The resulting DataFrame was reduced to only include the indices with the words 'female' or 'women' in the name. A few of these indices were dropped because they did not include data for many of the countries, which left 17 HDI indices. Each of these indices were compared to the percent of medal's won by women in the 11 countries to determine correlations. 
 
 
 ![img](images/winter/HDI_correlations.png)

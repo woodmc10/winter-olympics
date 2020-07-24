@@ -66,7 +66,7 @@ def gender_counts_plot(x, y, labels, ax=None, **plt_kwargs):
         fig, ax = plt.subplots(1, figsize=(12, 7))
     ax.bar(x, y, **plt_kwargs)
     ax.set_title(f'Mens and Womens {labels[1]} in' +
-                 f' the\nWinter Olympics since 1994', fontsize=20)
+                 f' the\nWinter Olympics', fontsize=20)
     ax.set_xlabel(labels[2], fontsize=18)
     ax.set_ylabel(f'Number of {labels[1]}', fontsize=18)
     ax.legend()

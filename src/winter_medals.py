@@ -65,11 +65,11 @@ class GenderDataFrames(object):
         self.athlete_df = None
         self.annual_medals_df = self.create_year_df(ignore_mixed=True)
         self.annual_medals_mixed_df = self.create_year_df(ignore_mixed=False)
-        self.country_medals_df = self.create_country_df(min_year=1994,
+        self.country_medals_df = self.create_country_df(min_year=0,
                                                         min_medals=50,
                                                         ignore_mixed=True)
         self.country_medals_mixed_df =\
-            self.create_country_df(min_year=1994, min_medals=50,
+            self.create_country_df(min_year=0, min_medals=50,
                                    ignore_mixed=False)
 
     def create_df(self):
@@ -289,7 +289,8 @@ if __name__ == '__main__':
     make_all_plots(all_olympics_dataframes, False)
     medals_plots.plot_bar_year_overlay(all_olympics_dataframes,
                                        winter_dataframes, False)
-    medals_plots.plot_bar_country(winter_dataframes, False)
+    medals_plots.plot_bar_country(winter_dataframes, True)
+    medals_plots.plot_bar_year_dual(winter_dataframes, save_on=False)
 
     female_indicator_codes = [23906, 24106, 48706, 120606,
                               123306, 123506, 136906, 169706, 169806,
@@ -311,11 +312,13 @@ if __name__ == '__main__':
     medals_plots.plot_hdi_corrs(hdi_list, all_olympics_corr, labels_dict,
                                 'all', corr_ax, save_on=False)
 
+    print(winter_olympics_hdi[[169706, 'winter_medals_%_women']])
+
     x = all_olympics_hdi['all_medals_%_women']
     y = all_olympics_hdi[169706]
     label_list = ['Unemployment F:M', '% Womens Olympic Medals']
     medals_plots.scatter_corr(x, y, label_list,
                               save_as='../images/all/Unemp-scatter.png',
-                              save_on=True)
+                              save_on=False)
     plt.show()
     print(stats.pearsonr(x, y))
