@@ -315,10 +315,10 @@ if __name__ == '__main__':
     print(winter_olympics_hdi[[169706, 'winter_medals_%_women']])
 
     x = all_olympics_hdi['all_medals_%_women']
-    y = all_olympics_hdi[169706]
-    label_list = ['Unemployment F:M', '% Womens Olympic Medals']
+    y = all_olympics_hdi[136906]
+    label_list = ['Female HDI', '% Womens Olympic Medals']
     medals_plots.scatter_corr(x, y, label_list,
-                              save_as='../images/all/Unemp-scatter.png',
+                              save_as='../images/all/Female-HDI-scatter.png',
                               save_on=False)
     plt.show()
     print(stats.pearsonr(x, y))
