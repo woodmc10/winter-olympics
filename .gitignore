@@ -1,2 +1,5 @@
 *.zip
 summer_olympics
+__pycache__
+*.ipynb
+.gitignore
